@@ -10,21 +10,34 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!-- fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Eagle+Lake|Petit+Formal+Script|Rock+Salt&display=swap" rel="stylesheet">
+    <!--font-family: 'Eagle Lake', cursive;-->
+    <!--font-family: 'Rock Salt', cursive;-->
+    <!--font-family: 'Petit Formal Script', cursive;-->
 </head>
-<body th:style="'background-image:url(' + @{../static/img/background.jpg} + ');'" >
+<body style="background-image:url('../static/img/background.jpg');" th:style="'background-image:url(' + ${'img/background.jpg'} + ');'" >
 
 
-<main role="main" class="container">
-    <div class="mx-auto w-75 p-5">
-        <h1 class="text-center text-primary" style='font-size:50px; font-family: "Sedgwick Ave Display", cursive;'>Search with Lucene</h1>
+<main role="main" class="container" >
+    <div class="mx-auto col-md-10 col-12 mt-5 mb-5 p-0">
+        <div class="row ms-auto text-center">
+            <h1 class="text-center ml-5" style="font-size:50px; color: #ee7723; font-family: 'Rock Salt', cursive;">Buscar</h1>
+            <img src="../static/img/logo.png" th:src="@{img/logo.png}" height="70px" width="70px" alt="..."/>
+        </div>
+
+        <form action="results" method="post">
+            <input type="text" name="query" class="form-control form-control-lg"/>
+            <button type="submit" class="btn btn-primary btn-lg btn-block mt-2" style="background-color: #0ea9b0;">Szukaj</button>
+        </form>
     </div>
 
     <table class="table">
         <tbody>
         <tr th:each="doc : ${myResult.getAllPages()}">
             <td>
-                <a th:href='${doc.get("url")}'><h5 th:text='${doc.get("url")}' > Title </h5></a>
+                <a th:href='${doc.get("url")}' class="">
+                    <h5 th:text='${doc.get("url")}' class="text-muted"> Title </h5>
+                </a>
             </td>
         </tr>
         </tbody>

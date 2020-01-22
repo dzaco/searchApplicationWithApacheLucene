@@ -26,7 +26,7 @@
         </div>
 
         <form action="results" method="post">
-            <input type="text" name="query" class="form-control form-control-lg"/>
+            <input type="text" name="query" class="form-control form-control-lg" th:value="${myResult.getQuery()}"/>
             <button type="submit" class="btn btn-primary btn-lg btn-block mt-2" style="background-color: #0ea9b0;">Szukaj</button>
         </form>
     </div>

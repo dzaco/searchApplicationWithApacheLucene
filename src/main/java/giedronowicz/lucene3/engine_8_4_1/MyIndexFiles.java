@@ -1,10 +1,6 @@
 package giedronowicz.lucene3.engine_8_4_1;
 
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.FileVisitResult;
 import java.nio.file.Files;
@@ -33,8 +29,7 @@ public class MyIndexFiles {
     public MyIndexFiles() {
     }
 
-    public static void main(String[] args) {
-        System.out.println("im in main");
+    public void main(String[] args) {
         String usage = "java org.apache.lucene.demo.IndexFiles [-index INDEX_PATH] [-docs DOCS_PATH] [-update]\n\nThis indexes the documents in DOCS_PATH, creating a Lucene indexin INDEX_PATH that can be searched with SearchFiles";
         String indexPath = "index";
         String docsPath = null;
@@ -77,7 +72,8 @@ public class MyIndexFiles {
             }
 
             IndexWriter writer = new IndexWriter(dir, iwc);
-            indexDocs(writer, docDir);
+            //indexDocs(writer, docDir);
+            indexDocs(writer, new File(docsPath) );
             writer.close();
             Date end = new Date();
             System.out.println(end.getTime() - start.getTime() + " total milliseconds");
@@ -86,6 +82,73 @@ public class MyIndexFiles {
         }
 
     }
+
+    void indexDocs(IndexWriter writer, File dir) throws IOException {
+        // do not try to index files that cannot be read
+        if (dir.canRead()) {
+
+            FileInputStream fis = new FileInputStream(new File(dir, "doc.index"));
+            BufferedReader reader = new BufferedReader(new InputStreamReader(fis, "UTF-8"));
+
+            String line = null;
+            try {
+                while ((line = reader.readLine()) != null) {
+
+                    String[] docInfo = line.split("\\|");
+                    int docId = Integer.parseInt(docInfo[0]);
+                    String url = docInfo[1];
+                    String contentType = docInfo[2];
+
+                    File file = new File(dir, "doc." + docId);
+
+                    appendDoc(docId, url, contentType, file, writer);
+                }
+            } finally {
+                fis.close();
+            }
+        }
+    }
+
+    public void appendDoc(int docId, String url, String contentType, File file, IndexWriter writer) throws IOException {
+        FileInputStream docFis = new FileInputStream(file);
+
+        try {
+
+            // make a new, empty document
+            Document doc = new Document();
+
+            // Add the path of the file as a field named "path".  Use a
+            // field that is indexed (i.e. searchable), but don't tokenize
+            // the field into separate words and don't index term frequency
+            // or positional information:
+            Field urlField = new StringField("url", url, Field.Store.YES);
+            doc.add(urlField);
+            Field pathField = new StringField("path", file.getAbsolutePath(), Field.Store.YES);
+            doc.add(pathField);
+
+            // Add the contents of the file to a field named "contents".  Specify a Reader,
+            // so that the text of the file is tokenized and indexed, but not stored.
+            // Note that FileReader expects the file to be in UTF-8 encoding.
+            // If that's not the case searching for special characters will fail.
+            doc.add(new TextField("contents", new BufferedReader(new InputStreamReader(docFis, "UTF-8"))));
+
+            if (writer.getConfig().getOpenMode() == OpenMode.CREATE) {
+                // New index, so we just add the document (no old document can be there):
+                System.out.println("adding " + file+", url "+url);
+                writer.addDocument(doc);
+            } else {
+                // Existing index (an old copy of this document may have been indexed) so
+                // we use updateDocument instead to replace the old one matching the exact
+                // path, if present:
+                System.out.println("updating " + file);
+                writer.updateDocument(new Term("path", file.getPath()), doc);
+            }
+
+        } finally {
+            docFis.close();
+        }
+    }
+
 
     static void indexDocs(final IndexWriter writer, Path path) throws IOException {
         if (Files.isDirectory(path, new LinkOption[0])) {

@@ -24,7 +24,7 @@
         <tbody>
         <tr th:each="doc : ${myResult.getAllPages()}">
             <td>
-                <h4 th:text='${doc.get("path")}' > Title </h4>
+                <a th:href='${doc.get("url")}'><h5 th:text='${doc.get("url")}' > Title </h5></a>
             </td>
         </tr>
         </tbody>

@@ -1,5 +1,6 @@
 package giedronowicz.lucene3.controller;
 
+import giedronowicz.lucene3.engine_8_4_1.MyIndexFiles;
 import giedronowicz.lucene3.engine_8_4_1.MyResult;
 import giedronowicz.lucene3.engine_8_4_1.MySearchFiles;
 import giedronowicz.lucene3.model.FormQuery;
@@ -15,7 +16,7 @@ import java.util.List;
 @Controller
 public class MainController {
 
-    @PostMapping("/sending")
+    @PostMapping("/results")
     public String getQuery(@RequestParam String query, Model model) {
         model.addAttribute("query", query);
         return showAll( query, model);
@@ -32,6 +33,10 @@ public class MainController {
                         "-query", query
                 };
 
+
+//        MyIndexFiles indexFiles = new MyIndexFiles();
+//        indexFiles.main(params);
+
         MySearchFiles searchFiles = new MySearchFiles();
         MyResult myResult = null;
         try {
@@ -41,14 +46,20 @@ public class MainController {
             e.printStackTrace();
         }
 
+//        System.out.println("myRes for Query: " + myResult.getQuery() );
+//        for( Document doc : myResult.getAllPages() )
+//        {
+//            System.out.println( doc.get("url") );
+//        }
+
         model.addAttribute("myResult", myResult );
         return "results";
     }
 
-    @PostMapping("/results")
-    public String results(@ModelAttribute FormQuery query )
-    {
-        System.out.println(query);
-        return "results";
-    }
+//    @PostMapping("/results")
+//    public String results(@ModelAttribute FormQuery query )
+//    {
+//        System.out.println(query);
+//        return "results";
+//    }
 }

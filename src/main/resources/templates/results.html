@@ -1,0 +1,35 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org" lang="pl">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Jacek Giedronowicz">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title>Search with LUCENE</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display&display=swap" rel="stylesheet">
+</head>
+<body th:style="'background-image:url(' + @{../static/img/background.jpg} + ');'" >
+
+
+<main role="main" class="container">
+    <div class="mx-auto w-75 p-5">
+        <h1 class="text-center text-primary" style='font-size:50px; font-family: "Sedgwick Ave Display", cursive;'>Search with Lucene</h1>
+    </div>
+
+    <table class="table">
+        <tbody>
+        <tr th:each="doc : ${myResult.getAllPages()}">
+            <td>
+                <h4 th:text='${doc.get("path")}' > Title </h4>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</main>
+
+</body>
+</html>

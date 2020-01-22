@@ -1,0 +1,441 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Getting Things Done, czyli sztuka bezstresowej efektywności / David Allen / Kompetencje osobiste
+</title>
+	<meta name="description" content="
+Getting Things Done, czyli sztuka bezstresowej efektywności
+|
+Getting Things Done: The Art of Stress-Free Productivity 
+
+[Kompetencje osobiste] 
+
+DARMOWA WYSYŁKA
+"/>
+	<link rel="shortcut icon" href="http://www.bankier.pl/favicon.ico" type="image/x-icon"/>
+	<link href="/s/style.css?v=7" rel="stylesheet" type="text/css" media="screen"/>
+    <script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+    <noscript>
+        <div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+            text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+            text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+            <div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+                Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+                z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+                Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+            </div>
+        </div>
+    </noscript>
+
+
+
+	
+	
+	<!-- (C)2000-2009 Gemius SA - gemiusTraffic / ver 11.1 / ksiegarnia_pozostale --> 
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var gemius_identifier = new String('AkTrsutX7HoCGwslBuULPsRpLVVKKmbNbDo489YWyfv.k7');
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://www.bankier.pl/inc/js/gemius.js"></script>
+	
+	
+	
+	<!-- (C) 2000-2009 Gemius SA - gemiusAudience / ver 11.1 / adnet.bankier / Ksiegarnia-->
+	<script type="text/javascript">
+	 <!--//--><![CDATA[//><!--
+	var pp_gemius_identifier ='za01ZONWwSNq9wS8lPPx4reOLd_kNOcSlGWIIc19ul7.F7';
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://arbo.hit.gemius.pl/xgemius.js"></script>
+
+
+</head>
+<body id="bn_lifestyle">
+
+<link href="http://s01.bankier.pl/s/ksiegarnia.css" rel="stylesheet" type="text/css" />
+
+<div id="bn_header" style="position: relative; z-index: 100; height:120px;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Fcontent%2Fksiegarnia%2Fheader_new.html" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/bankiertv-index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li class="selected"><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+
+
+
+<div id="ksiegarnia">
+	<div id="content">
+		<div id="search">
+			<div class="top"></div>
+			<form action="/szukaj/">
+				<div>
+					Szukaj:
+					<input name="q" size="30"/>
+					<input type="submit" value="szukaj" />
+				</div>
+			</form>
+			<div class="bottom"></div>
+		</div>
+		
+<script type="text/javascript" src="/s/ksiegarnia.js"></script>
+<div id="description">
+	<h1>Getting Things Done, czyli sztuka bezstresowej efektywności</h1>
+	<div class="info">
+		<img class="cover" src="/s/cover/big/762.jpg" alt=""/>
+		<table>
+			
+			
+			<tr>
+				<th>tytuł polski:</th>
+				<td>Getting Things Done, czyli sztuka bezstresowej efektywności</td>
+			</tr>
+			
+			
+			
+			<tr>
+				<th>tytuł oryginalny:</th>
+				<td>Getting Things Done: The Art of Stress-Free Productivity </td>
+			</tr>
+			
+			
+			
+			<tr>
+				<th>autor:</th>
+				<td>David Allen</td>
+			</tr>
+			
+			
+			
+			<tr>
+				<th>tłumaczenie:</th>
+				<td>Marcin Kapela</td>
+			</tr>
+			
+			
+			
+			<tr>
+				<th>data publikacji:</th>
+				<td>11.12.2008</td>
+			</tr>
+			
+			
+			
+			<tr>
+				<th>ISBN:</th>
+				<td>978-83-246-1999-3</td>
+			</tr>
+			
+			
+			
+			<tr>
+				<th>EAN:</th>
+				<td>9788324619993</td>
+			</tr>
+			
+			
+			
+			<tr>
+				<th>format:</th>
+				<td>A5</td>
+			</tr>
+			
+			
+			
+			<tr>
+				<th>ilość stron:</th>
+				<td>336</td>
+			</tr>
+			
+			
+			
+			<tr>
+				<th>okładka:</th>
+				<td>miękka</td>
+			</tr>
+			
+			
+			
+			
+		</table>
+	</div>
+	<h2>Getting Things Done: The Art of Stress-Free Productivity </h2>
+	<h3>
+		
+			
+				<a class="author" href="/osoba115/david-allen.html">David Allen</a>
+			
+			
+		
+	</h3>
+	
+	<a class="buy" href="/kupuje762/getting-things-done-czyli-sztuka-bezstresowej-efektywnosci.html">
+		<span class="cart"></span>
+		
+		
+		<div id="yousave">
+			Oszczędzasz:
+			<b>7,40&nbsp;zł</b>
+		</div>
+		
+		Cena: 29,60&nbsp;zł
+		
+		<div id="status">produkt dostępny</div>
+	</a>
+	
+	
+	<h4>
+		<span>Tłumaczenie:</span>
+		
+			
+				<a class="translator" href="/osoba29/marcin-kapela.html">Marcin Kapela</a>
+			
+			
+		
+	</h4>
+	
+	
+	<h5>
+		
+		<a href="/temat8/kompetencje-osobiste.html">Kompetencje osobiste</a>
+		
+		
+	</h5>
+	
+	<div class="pdf">
+		
+		
+		
+		<a href="http://pdf.helion.pl/gettin/gettin-1.pdf">czytaj fragment</a> |
+		<a href="javascript:toc('GETTIN')">spis treści</a>
+	</div>
+	<div id="review">
+		
+	<p><b><center>Weź udział w szkoleniu GTD!</center></b></p>
+
+<blockquote><i>Ta książka to "samouczek biznesowy" dziesięciolecia! 
+<br><div align="left">"Time Magazine"</div></i>
+</blockquote>
+
+<blockquote><i>
+Metoda GTD to nowy kult ery informacji. 
+<br><div align="left">"Wired"</div></i>
+</blockquote>
+
+<blockquote><i>
+David Allen to prawdziwy guru osobistej produktywności. (...) Jest bez wątpienia jednym z najbardziej wpływowych myślicieli na świecie w obszarze zarządzania czasem.
+<br><div align="left">"Fast Company"</div></i>
+</blockquote>
+
+
+<blockquote><i>
+Ta książka to lekarstwo na codzienne pożary w pracy. Z niej dowiesz się, jak przezwyciężać uczucie niepokoju i przytłoczenia, gdy wszystko idzie nie tak, jak skończyć z nawykiem odkładania spraw na później oraz jak osiągnąć stan ciągłej gotowości do walki.
+<br /><div align="left">"Network Magazine"</div></i>
+</blockquote>
+
+<br /><div align="center"><img src="/img/rozne/allen.jpg" border=0 /></div>
+<br />
+<div align="center"><h4><b>Czas prawdziwie elastyczny</b></h4></div> 
+
+<p>Zawrotna szybkość, z jaką pędzi świat nowego milenium, niejednego z nas przyprawia o ból głowy. A gdyby tak powiedzieć STOP temu szaleństwu? Spojrzeć z boku na swoje obowiązki, piętrzące się na biurku dokumenty i skrzynkę odbiorczą, zalaną mailami? Zmniejszyć prędkość na bieżni, po której gonisz swój cel? Czy wiesz, że wystarczy zastosować spójny system zarządzania zawodowym chaosem i wirem życia prywatnego, by odzyskać spokój umysłu, a w dodatku poprawić kreatywność i efektywność?</p>
+
+<p>Program Getting Things Done (GTD) powstał właśnie po to, byś mógł wreszcie zwolnić tempo, zrezygnować z przytłaczających obowiązków i uwolnić się od wiecznej presji zegarka. Jest to najbardziej spójny, intuicyjny i wydajny system racjonalizacji zadań, jak istnieje w chwili obecnej na rynku. Wyobraź sobie, że w kilka tygodni osiągasz wewnętrzną równowagę, harmonię, a co za tym idzie, lepsze wyniki. Skoro udało się to milionom wyznawców techniki GTD na całym świecie, z dużym prawdopodobieństwem możesz założyć, że uda się i Tobie! Czy nie szkoda Ci czasu, by ciągle cierpieć na jego brak?</p>
+
+Koniec z pogonią za uciekającymi terminami!
+<ul>
+<li>Działaj zgodnie z pięcioma składowymi programu GTD (kolekcjonowanie, analizowanie, porządkowanie, przeglądanie i realizacja).</li>
+<li>Regularnie czyść umysł i wyrzucaj z głowy śmieci.</li>
+<li>Podejmuj szybkie i skuteczne decyzje.</li>
+<li>Skończ z nawykiem odkładania spraw na później.</li>
+<li>Przygotuj funkcjonalne miejsce pracy, które pomaga, a nie przeszkadza w wypełnianiu obowiązków.</li>
+<li>Nie daj się ogłupić wielozadaniowemu życiu!</li>
+</ul>
+	
+	
+	</div>
+</div>
+
+
+	</div>
+	<div id="menu">
+		<div class="top"></div>
+			
+			
+			<a href="/promocje/">Promocje</a>
+			
+			<a href="/nowosci/">Nowości</a>
+			
+			<a href="/bestsellery/">Bestsellery</a>
+			
+			<a href="/przedsprzedaz/">Przedsprzedaż</a>
+		
+			
+			<a href="/temat12/bizneswoman.html">Bizneswoman</a>
+		
+			
+			<a href="/temat18/controlling.html">Controlling</a>
+		
+			
+			<a href="/temat15/e-biznes.html">E-biznes</a>
+		
+			
+			<a href="/temat22/ebooki.html">eBooki</a>
+		
+			
+			<a href="/temat17/ekonomia.html">Ekonomia</a>
+		
+			
+			<a href="/temat13/finanse.html">Finanse</a>
+		
+			
+			<a href="/temat16/gielda-i-inwestycje.html">Giełda i inwestycje</a>
+		
+			
+			<a href="/temat8/kompetencje-osobiste.html">Kompetencje osobiste</a>
+		
+			
+			<a href="/temat4/komputer-w-biurze.html">Komputer w biurze</a>
+		
+			
+			<a href="/temat2/komunikacja-i-negocjacje.html">Komunikacja i negocjacje</a>
+		
+			
+			<a href="/temat7/mala-firma.html">Mała firma</a>
+		
+			
+			<a href="/temat6/marketing.html">Marketing</a>
+		
+			
+			<a href="/temat19/multimedialne-szkolenia.html">Multimedialne szkolenia</a>
+		
+			
+			<a href="/temat11/obsluga-klienta.html">Obsługa klienta</a>
+		
+			
+			<a href="/temat20/perswazja-i-nlp.html">Perswazja i NLP</a>
+		
+			
+			<a href="/temat10/przywodztwo.html">Przywództwo</a>
+		
+			
+			<a href="/temat21/public-relations.html">Public Relations</a>
+		
+			
+			<a href="/temat24/sekret.html">Sekret</a>
+		
+			
+			<a href="/temat28/social-media.html">Social Media</a>
+		
+			
+			<a href="/temat1/sprzedaz.html">Sprzedaż</a>
+		
+			
+			<a href="/temat9/twoja-kariera.html">Twoja kariera</a>
+		
+			
+			<a href="/temat5/zarzadzanie.html">Zarządzanie</a>
+		
+			
+			<a href="/temat14/zarzadzanie-projektami.html">Zarządzanie projektami</a>
+		
+			
+			<a href="/temat3/zasoby-ludzkie-hr.html">Zasoby ludzkie (HR)</a>
+		
+		<div class="bottom"></div>
+	</div>
+</div>
+
+
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-325086-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+

@@ -1,0 +1,1061 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>kurs dolara, euro, franka, waluty online, kursy NBP</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = ['waluty'];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class="selected"><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox">
+<div><div id="ado-GuLs4fSkLXpzpElAa6yBN3SIQT_Cu4dHyXHXUrDCPi..V7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.widebox  waluty */
+ado.placement({id: 'ado-GuLs4fSkLXpzpElAa6yBN3SIQT_Cu4dHyXHXUrDCPi..V7', server: 'myao.adocean.pl' });
+</script></div>
+</div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+
+<div id="bigbox">
+<div class="left">
+<ul>
+
+
+
+
+
+<li id="_bigbox_PBWALEUR" class="down c">
+<a href="/instrument/PBWALEUR/euro" class="down" onmouseover="bfl('PBWALEUR', '/chart_hourly/MediumChart/PBWALEUR/270/200', 'bigbox');" id="bigbox_PBWALEUR">
+			<span class="c1"><b>EUR </b></span>	
+	
+			<span class="number c2">4.1704</span>
+	
+			<span class="number c3">-0.03%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALUSD" class="down c">
+<a href="/instrument/PBWALUSD/dolar" class="down" onmouseover="bfl('PBWALUSD', '/chart_hourly/MediumChart/PBWALUSD/270/200', 'bigbox');" id="bigbox_PBWALUSD">
+			<span class="c1"><b>USD </b></span>	
+	
+			<span class="number c2">3.2081</span>
+	
+			<span class="number c3">-0.09%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALCHF" class="down c">
+<a href="/instrument/PBWALCHF/frank" class="down" onmouseover="bfl('PBWALCHF', '/chart_hourly/MediumChart/PBWALCHF/270/200', 'bigbox');" id="bigbox_PBWALCHF">
+			<span class="c1"><b>CHF </b></span>	
+	
+			<span class="number c2">3.4117</span>
+	
+			<span class="number c3">-0.05%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALGBP" class="down c">
+<a href="/instrument/PBWALGBP/funt" class="down" onmouseover="bfl('PBWALGBP', '/chart_hourly/MediumChart/PBWALGBP/270/200', 'bigbox');" id="bigbox_PBWALGBP">
+			<span class="c1"><b>GBP </b></span>	
+	
+			<span class="number c2">4.8891</span>
+	
+			<span class="number c3">-0.05%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALJPY" class="down c">
+<a href="/instrument/PBWALJPY/jen" class="down" onmouseover="bfl('PBWALJPY', '/chart_hourly/MediumChart/PBWALJPY/270/200', 'bigbox');" id="bigbox_PBWALJPY">
+			<span class="c1"><b>JPY </b></span>	
+	
+			<span class="number c2">3.3866</span>
+	
+			<span class="number c3">-0.51%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALEURUSD" class="up c">
+<a href="/instrument/PBWALEURUSD/eurusd" class="up" onmouseover="bfl('PBWALEURUSD', '/chart_hourly/MediumChart/PBWALEURUSD/270/200', 'bigbox');" id="bigbox_PBWALEURUSD">
+			<span class="c1"><b>EURUSD </b></span>	
+	
+			<span class="number c2">1.2997</span>
+	
+			<span class="number c3">+0.07%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALEURCHF" class="up c">
+<a href="/instrument/PBWALEURCHF/eurchf" class="up" onmouseover="bfl('PBWALEURCHF', '/chart_hourly/MediumChart/PBWALEURCHF/270/200', 'bigbox');" id="bigbox_PBWALEURCHF">
+			<span class="c1"><b>EURCHF </b></span>	
+	
+			<span class="number c2">1.2222</span>
+	
+			<span class="number c3">+0.04%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALEURJPY" class="up c">
+<a href="/instrument/PBWALEURJPY/eurjpy" class="up" onmouseover="bfl('PBWALEURJPY', '/chart_hourly/MediumChart/PBWALEURJPY/270/200', 'bigbox');" id="bigbox_PBWALEURJPY">
+			<span class="c1"><b>EURJPY </b></span>	
+	
+			<span class="number c2">123.0500</span>
+	
+			<span class="number c3">+0.30%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALUSDCHF" class="down c">
+<a href="/instrument/PBWALUSDCHF/usdchf" class="down" onmouseover="bfl('PBWALUSDCHF', '/chart_hourly/MediumChart/PBWALUSDCHF/270/200', 'bigbox');" id="bigbox_PBWALUSDCHF">
+			<span class="c1"><b>USDCHF </b></span>	
+	
+			<span class="number c2">0.9403</span>
+	
+			<span class="number c3">-0.02%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALUSDJPY" class="up c">
+<a href="/instrument/PBWALUSDJPY/usdjpy" class="up" onmouseover="bfl('PBWALUSDJPY', '/chart_hourly/MediumChart/PBWALUSDJPY/270/200', 'bigbox');" id="bigbox_PBWALUSDJPY">
+			<span class="c1"><b>USDJPY </b></span>	
+	
+			<span class="number c2">94.6800</span>
+	
+			<span class="number c3">+0.24%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBWALGBPUSD" class="up c">
+<a href="/instrument/PBWALGBPUSD/gbpusd" class="up" onmouseover="bfl('PBWALGBPUSD', '/chart_hourly/MediumChart/PBWALGBPUSD/270/200', 'bigbox');" id="bigbox_PBWALGBPUSD">
+			<span class="c1"><b>GBPUSD </b></span>	
+	
+			<span class="number c2">1.5235</span>
+	
+			<span class="number c3">+0.03%</span>
+	
+</a></li>
+
+</ul>
+<br />
+<p class="bigbox_description">Notowania online. Kursy podane w złotych.<br />Kurs jena (JPY) podawany dla 100 jednostek.</p>
+</div>
+
+<div class="right">
+<a id="bigbox_chart_link" href="/instrument/PBWALEUR/euro"><img src="/chart_hourly/MediumChart/PBWALEUR/270/200" id="bigbox_chart" alt="wykres" /></a>
+</div>
+</div><!-- / #bigbox -->
+<script type="text/javascript">
+pbtools.apreload("/chart_hourly/MediumChart/PBWALEUR/270/200,/chart_hourly/MediumChart/PBWALUSD/270/200,/chart_hourly/MediumChart/PBWALCHF/270/200,/chart_hourly/MediumChart/PBWALGBP/270/200,/chart_hourly/MediumChart/PBWALJPY/270/200,/chart_hourly/MediumChart/PBWALEURUSD/270/200,/chart_hourly/MediumChart/PBWALEURCHF/270/200,/chart_hourly/MediumChart/PBWALEURJPY/270/200,/chart_hourly/MediumChart/PBWALUSDCHF/270/200,/chart_hourly/MediumChart/PBWALUSDJPY/270/200,/chart_hourly/MediumChart/PBWALGBPUSD/270/200".split(','));
+</script>
+
+<div class="spacer">&nbsp;</div>
+
+<div>
+<div id="ado-zBtWsX.BQi6q45ul2W1cvUvKcsfeNH6PzrcgM0Tuxnj.97"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.Pod boksem waluty */
+ado.placement({id: 'ado-zBtWsX.BQi6q45ul2W1cvUvKcsfeNH6PzrcgM0Tuxnj.97', server: 'myao.adocean.pl' });
+</script>
+</div>
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+
+<!-- news1 -->
+<div id="news1">
+<div class="content">
+<h2>Wiadomości</h2>
+
+
+<div id="ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.1 kolumna news GPW */
+ado.placement({id: 'ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7', server: 'myao.adocean.pl' });
+</script>
+    <p class="first"><a href="http://www.pb.pl/3054355,14068" target="_blank"><span class="dt">08:06</span> Opolskie: Urząd pracy przeszkoli opiekunki dzieci i zapewni im pensje</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054353,34818" target="_blank"><span class="dt">08:06</span> Bail-out dla Cypru wsparciem dla walut CEE</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054330,43425" target="_blank"><span class="dt">07:27</span> Rozbito grupę, która wyłudziła 50 mln zł VAT</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054319,19945" target="_blank"><span class="dt">07:21</span> PO-PIS konstytucyjny?</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054321,92261" target="_blank"><span class="dt">07:05</span> Cypr: data ponownego otwarcia banków na razie nieznana</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054320,52125" target="_blank"><span class="dt">07:04</span> Nieprzeciętne Mazowsze</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054313,65230" target="_blank"><span class="dt">06:51</span> Salomonowe rozwiązanie Piechocińskiego</a></p>
+    
+</div><!--  /.content -->
+<div id="ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.1 kolumna news przeglad dol */
+ado.placement({id: 'ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7', server: 'myao.adocean.pl' });
+</script>
+<a href="http://www.pb.pl/" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie wiadomości</a>
+
+</div><!-- /news1 -->
+
+
+<!--  news2 -->
+<div id="news2">
+<div class="content">
+<h2>Puls Biznesu</h2>
+<div id="ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.2 kolumna news */
+ado.placement({id: 'ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67', server: 'myao.adocean.pl' });
+</script>
+	
+	    <div class="box">
+	    	<h3><a href="http://www.pb.pl/3050336,28478" target="_blank">Gazela Biznesu nie trafi za kratki</a></h3>
+	    	<p><a href="http://www.pb.pl/3050336,28478" target="_blank">Przedsiębiorca, któremu prokuratura zarzuca wyłudzenie 11 mln zł VAT, zostanie na wolności. Na jego aresztowanie nie zgodził się już drugi...&nbsp;<img src="/style/pointer_red.gif" alt="..." /></a></p>
+	    </div>
+	    <div class="box">
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049885," target="_blank">W sprawie JTT każdy sąd wie swoje</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049881," target="_blank">BGK – ostatni bastion kominiarzy</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049878," target="_blank">Roman Karkosik chwyta za kielnię</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3047733," target="_blank">Neverending story w Straży Granicznej</a></p>
+	
+	</div>
+</div><!-- /.content -->
+<a href="http://prenumerata.pb.pl/Today" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />czytaj e-wydanie</a>
+</div><!-- /news2 -->
+
+
+<!--  news3 -->
+<div id="news3">
+<div class="content">
+<h2>Forum</h2>
+<h3><a href="http://www.pb.pl/3054179," >Cypr obudził wirtualny pieniądz </a></h3>
+<p style="font-weight: bold; color: #816F43; margin: 6px 0 6px 5px;">komentarze:</p> 
+<div class="box">
+<p class="comment pointer">Wygląda na to, że z dobrobytu ludzie zatracili instynkt samozachowaczy. </p>
+<p class="author">Tommmy Walker</p>
+</div>
+</div><!--  /.content -->
+<a href="http://www.pb.pl/3054179,&amp;readcomment=1#comment" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news3 -->
+
+
+<!--  news4 -->
+<div id="news4">
+<div class="content">
+<h2>Komentarze</h2>
+
+    <div class="box">
+		<p class="head"><a href="http://www.pb.pl/3054353," target="_blank">Początek nowego tygodnia na rynku złotego przynosi lekkie umocnienie polskiej waluty za sprawą...</a></p>
+    </div>
+    <div class="box">
+
+    <p class="pointer"><a href="http://www.pb.pl/3054228," target="_blank">Holendrzy nie chcą Cypru w Eurolandzie</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3054179," target="_blank">Cypr obudził wirtualny pieniądz </a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3053927," target="_blank">Bliski koniec cypryjskiego rozdziału?</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3052897," target="_blank">Rozwiązanie dla Cypru bliżej, niż dalej?</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3052878," target="_blank">Cypr wciąż straszy rynki</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3052535," target="_blank">Złoty słaby względem dolara i euro</a></p>
+
+</div>
+</div><!-- /.content -->
+<a href="http://www.pb.pl/forum" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news4 -->
+
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+
+
+
+<h1 class="first">Kursy walut NBP (fixing)</h1>
+<form action="" method="get" class="datepicker_form" style="width: 200px; ">
+z dnia: <input name="session_date" value="2013-03-25" class="datepicker" style="width: 80px; height: 13px; " />
+<button type="submit">zmień</button>
+</form>
+
+<select id="currencies_selector" onchange="$('.nbp').hide(); $(this.value).show(); ">
+<option value="#nbp_short">skrót</option>
+<option value="#nbp_full">wszystkie</option>
+</select>
+
+<div class="nbp" id="nbp_short">
+<table class="sortable" style="clear: both; ">
+
+<thead>
+	<tr>
+		<td colspan="2">waluta</td>
+		<td colspan="5">zmiana</td>
+	</tr>
+	<tr>
+		<th>nazwa</th>
+		<th>kurs w zł.</th>
+		<th>zmiana</th>
+		<th>tydzień</th>
+		<th>1&nbsp;mies.</th>
+		<th>3&nbsp;mies.</th>
+		<th>rok</th>
+		
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td title="frank" class="bold"><a href="/instrument/PBWALCHF/frank">CHF</a></td>
+		<td class="number">-</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.14%</td>
+		<td class="number up">+0.87%</td>
+		<td class="number up">+1.78%</td>
+		<td class="number down">-0.96%</td>
+	</tr>
+	<tr>
+		<td title="euro" class="bold"><a href="/instrument/PBWALEUR/euro">EUR</a></td>
+		<td class="number">-</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.99%</td>
+		<td class="number up">+0.24%</td>
+		<td class="number up">+2.99%</td>
+		<td class="number up">+0.40%</td>
+	</tr>
+	<tr>
+		<td title="jen" class="bold"><a href="/instrument/PBWALJPY/jen">JPY</a></td>
+		<td class="number">-</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+3.23%</td>
+		<td class="number up">+1.15%</td>
+		<td class="number down">-6.41%</td>
+		<td class="number down">-10.43%</td>
+	</tr>
+	<tr>
+		<td title="dolar" class="bold"><a href="/instrument/PBWALUSD/dolar">USD</a></td>
+		<td class="number">-</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.13%</td>
+		<td class="number up">+2.30%</td>
+		<td class="number up">+5.10%</td>
+		<td class="number up">+2.15%</td>
+	</tr>
+
+</tbody>
+</table>
+<p class="sitelink"><a href="#" onclick="var sss = document.getElementById('currencies_selector'); sss.selectedIndex = 1; sss.onchange(); ">Pokaż więcej walut...</a></p>
+</div><!-- /#nbp_short -->
+
+<div class="nbp" id="nbp_full" style="display: none; ">
+<table class="sortable" style="clear: both; ">
+<thead>
+	<tr>
+		<td></td>
+		<td colspan="6">zmiana</td>
+	</tr>
+	<tr>
+		<th>nazwa</th>
+		<th>kurs w zł.</th>
+		<th>dzień</th>
+		<th>tydzień</th>
+		<th>1 mies.</th>
+		<th>3 mies.</th>
+		<th>rok</th>
+		
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td title="frank" class="bold"><a href="/instrument/PBWALCHF/frank">CHF</a></td>
+		<td class="number">-</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.14%</td>
+		<td class="number up">+0.87%</td>
+		<td class="number up">+1.78%</td>
+		<td class="number down">-0.96%</td>
+	</tr>
+	<tr>
+		<td title="euro" class="bold"><a href="/instrument/PBWALEUR/euro">EUR</a></td>
+		<td class="number">-</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.99%</td>
+		<td class="number up">+0.24%</td>
+		<td class="number up">+2.99%</td>
+		<td class="number up">+0.40%</td>
+	</tr>
+	<tr>
+		<td title="funt" class="bold"><a href="/instrument/PBWALGBP/funt">GBP</a></td>
+		<td class="number">-</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.99%</td>
+		<td class="number up">+2.20%</td>
+		<td class="number down">-1.58%</td>
+		<td class="number down">-1.68%</td>
+	</tr>
+	<tr>
+		<td title="jen" class="bold"><a href="/instrument/PBWALJPY/jen">JPY</a></td>
+		<td class="number">-</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+3.23%</td>
+		<td class="number up">+1.15%</td>
+		<td class="number down">-6.41%</td>
+		<td class="number down">-10.43%</td>
+	</tr>
+	<tr>
+		<td title="dolar" class="bold"><a href="/instrument/PBWALUSD/dolar">USD</a></td>
+		<td class="number">-</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.13%</td>
+		<td class="number up">+2.30%</td>
+		<td class="number up">+5.10%</td>
+		<td class="number up">+2.15%</td>
+	</tr>
+
+</tbody>
+</table>
+</div><!-- /#nbp_full -->
+
+<div id="rectangle" style="clear: both; /* width: 300px; height: 250px; border: 1px solid #aaa; */ margin: 10px 0; ">
+</div>
+
+<h1>Międzybankowe stopy procentowe</h1>
+
+<table id="wibory">
+<tr><th>w proc.</th>
+<th>ON</th>
+<th>SW</th>
+<th>2W</th>
+<th>1M</th>
+<th>2M</th>
+<th>3M</th>
+<th>6M</th>
+<th>9M</th>
+<th>1Y</th>
+</tr>
+
+<tr>
+<th>WIBID</th>
+	
+		
+		<td><a href="/instrument/WIBID_ON">4.21</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_SW">3.15</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_2W">4.41</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_1M">4.51</a></td>	
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/WIBID_3M">4.74</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_6M">4.76</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_9M">4.76</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_1Y">4.76</a></td>	
+</tr>
+<tr>
+<th>WIBOR</th>
+	
+		
+		<td><a href="/instrument/WIBOR_ON">4.51</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_SW">3.34</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_2W">4.61</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_1M">4.71</a></td>	
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/WIBOR_3M">4.94</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_6M">4.96</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_9M">4.96</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_1Y">4.96</a></td>	
+</tr>
+<tr>
+<th>LIBOR USD</th>
+	
+		
+		<td><a href="/instrument/LIBOR_USD_ON">0.15</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_SW">0.26</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_2W">0.21</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_1M">0.24</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_2M">0.35</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_3M">0.47</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_6M">0.73</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_9M">0.72</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_1Y">1.05</a></td>	
+</tr>
+<tr>
+<th>LIBOR EUR</th>
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_ON">0.26</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_SW">0.31</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_2W">0.29</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_1M">0.36</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_2M">0.48</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_3M">0.67</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_6M">1.01</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_9M">1.07</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_1Y">1.37</a></td>	
+</tr>
+<tr>
+<th>LIBOR CHF</th>
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_SW">0.06</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_2W">0.06</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_1M">0.08</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_2M">0.10</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_3M">0.11</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_6M">0.18</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_9M">0.49</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_1Y">0.39</a></td>	
+</tr>
+<tr>
+<th>EURIBOR360</th>
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/EURIBOR360_SW">0.35</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_2W">0.36</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_1M">0.40</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_2M">0.50</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_3M">0.64</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_6M">0.95</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_9M">1.09</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_1Y">1.22</a></td>	
+</tr>
+<tr>
+<th>EURIBOR365</th>
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/EURIBOR365_SW">0.35</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_2W">0.36</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_1M">0.41</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_2M">0.51</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_3M">0.65</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_6M">0.97</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_9M">1.11</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_1Y">1.24</a></td>	
+</tr>
+</table>
+
+<h1>Tabela krzyżowa</h1>
+<table id="crosstable">
+
+	
+	
+	<tr>
+	<th></th>
+	
+		
+		<th>/CHF</th>
+		
+		<th>/EUR</th>
+		
+		<th>/GBP</th>
+		
+		<th>/PLN</th>
+		
+		<th>/SEK</th>
+		
+		<th>/USD</th>
+			</tr>
+	
+	
+				
+		</tr>
+		<tr>					
+			<th>CHF/</th>
+			
+		
+		
+			<td class="number">&ndash;</td>
+	
+				
+			<td class="number">0.82            </td>
+	
+				
+			<td class="number">0.70            </td>
+	
+				
+			<td class="number">3.43            </td>
+	
+				
+			<td class="number">6.88            </td>
+	
+				
+			<td class="number">1.06            </td>
+	
+				
+		</tr>
+		<tr>					
+			<th>EUR/</th>
+			
+		
+		
+			<td class="number">1.22            </td>
+	
+				
+			<td class="number">&ndash;</td>
+	
+				
+			<td class="number">0.85            </td>
+	
+				
+			<td class="number">4.19            </td>
+	
+				
+			<td class="number">8.41            </td>
+	
+				
+			<td class="number">1.29            </td>
+	
+				
+		</tr>
+		<tr>					
+			<th>GBP/</th>
+			
+		
+		
+			<td class="number">1.44            </td>
+	
+				
+			<td class="number">1.18            </td>
+	
+				
+			<td class="number">&ndash;</td>
+	
+				
+			<td class="number">4.92            </td>
+	
+				
+			<td class="number">9.89            </td>
+	
+				
+			<td class="number">1.52            </td>
+	
+				
+		</tr>
+		<tr>					
+			<th>PLN/</th>
+			
+		
+		
+			<td class="number">0.29            </td>
+	
+				
+			<td class="number">0.24            </td>
+	
+				
+			<td class="number">0.20            </td>
+	
+				
+			<td class="number">&ndash;</td>
+	
+				
+			<td class="number">2.01            </td>
+	
+				
+			<td class="number">0.31            </td>
+	
+				
+		</tr>
+		<tr>					
+			<th>SEK/</th>
+			
+		
+		
+			<td class="number">0.15            </td>
+	
+				
+			<td class="number">0.12            </td>
+	
+				
+			<td class="number">0.10            </td>
+	
+				
+			<td class="number">0.50            </td>
+	
+				
+			<td class="number">&ndash;</td>
+	
+				
+			<td class="number">0.15            </td>
+	
+				
+		</tr>
+		<tr>					
+			<th>USD/</th>
+			
+		
+		
+			<td class="number">0.94            </td>
+	
+				
+			<td class="number">0.77            </td>
+	
+				
+			<td class="number">0.66            </td>
+	
+				
+			<td class="number">3.24            </td>
+	
+				
+			<td class="number">6.50            </td>
+	
+				
+			<td class="number">&ndash;</td>
+	
+</table>
+ 
+<div style="padding-top:10px;float:left">Notowania on-line walut dostarcza&nbsp;</div>
+<div><a  target="_blank" href="http://www.tms.pl"><img src="/img/tmslogox30.png" alt="TMS Brokers" /></a></div>
+
+
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

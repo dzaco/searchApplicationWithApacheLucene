@@ -1,0 +1,914 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl">
+<head>
+
+
+
+
+<meta name="verify-v1" content="OrDJPq1dWJbe16OQwnFDoCdDBSNTizftc7Hna6FU4OY=" />
+
+<!-- :) -->
+
+
+
+<title>
+Profil - Puls Biznesu
+</title>
+
+<meta http-equiv="refresh" content="600" />
+
+<meta name="robots" content="index,follow" />
+<meta name="description" content="
+Profil.pb.pl
+ // 
+
+" />
+<meta name="keywords" content="
+
+" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/style/pb/thematic.css" />
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/style/pb/style.css" />
+<link rel="stylesheet" type="text/css" href="/style/pb/profil.css" />
+<link rel="stylesheet" type="text/css" href="/style/datepicker.css" />
+<link rel="stylesheet" type="text/css" href="/style/chat.css" />
+
+
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" media="print" href="/style/print.css" />
+<script type="text/javascript" src="/js/jquery-1.7.2.all.js"></script>
+<script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.all.js"></script>
+<script type="text/javascript" src="/js/ui/ui.datepicker-pl.js"></script>
+<script type="text/javascript" src="/js/all.js"></script>
+<script type="text/javascript" src="/js/linker_companies.js"></script>
+<script type="text/javascript" src="/js/linker.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011 */
+if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+ado.config({mode: "old", xml: false, characterEncoding: true});
+ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>
+
+<!-- G: apache1 2013-03-24T00:58:14.921584 -->
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+    <div id="banner" class="not4bbtext"><div style="margin: 0 auto; text-align: center;">
+</div></div><!--/#banner -->
+	<div id="site" class="not4bbtext">
+		<a href="#" class="path"><img src="/style/pb/pbpl.gif" alt="pb.pl"/> </a>
+		<div id="menu">
+			<ul>
+			    <li><a href="http://cynk.pb.pl/" title="Daj cynk">Daj cynk</a></li>
+			    <li><a href="http://tablet.pb.pl/" title="Wersja na tablet">Wersja na tablet</a></li>
+				<li><a href="http://newsletter.pb.pl" title="Newsletter PB.pl">Newsletter</a></li>
+				<li><a href="http://sklep.pb.pl/bygroup/eprenumerator" title="Prenumerata Pulsu Biznesu">Prenumerata</a></li>
+				<li><a href="http://sklep.pb.pl" title="Sklep Pulsu Biznesu">Sklep</a></li>
+				<li><a href="http://archiwum.pb.pl" title="Sklep Pulsu Biznesu">Archiwum</a></li>
+				<li><a href="http://profil.pb.pl/"><span id="profile_text">Mój profil</span><span id="username"></span></a></li>
+			</ul>
+		</div><!--/#menu -->
+<script type="text/javascript">
+(function()
+{
+    var pbname = $.cookie('pbname');
+    if( pbname )
+    {
+        var name = '';
+        if( pbname.search(/^[-0-9]+$/)>=0 )
+        {
+            var aname = pbname.split("-");
+            for(var i in aname)
+                name += String.fromCharCode(aname[i]);
+        }
+        else
+            name = pbname.replace(/\"/g,'');
+        if( name )
+        {
+            $('#profile_text').hide();
+            $('#username').html(name);
+        }
+    }
+})();
+</script>
+
+<div id="header" class="header_thematic">
+<a href="http://www.pb.pl/"><img src="/img/pb1.png" alt="pb.pl" /></a> 
+	
+<p class="header_text">Profil.pb.pl</p>
+	
+<div id="search">
+<form action="/s">
+<input name="q" type="text" class="search" />
+</form>
+</div>
+	
+</div><!--/#header -->
+
+
+
+
+	
+<div id="menu1">
+<ul>
+<li><a href="http://www.pb.pl" title="pb.pl" >pb.pl</a></li>
+<li><a href="http://pulsinwestora.pb.pl/" title="Puls Inwestora" >Puls Inwestora</a></li>
+<li><a href="http://notowania.pb.pl/" title="Notowania" >Notowania</a></li>
+<li><a href="http://firma.pb.pl/" title="Firma" >Firma</a></li>
+<li><a href="http://ludzie.pb.pl/" title="Ludzie biznesu" >Ludzie biznesu</a></li>
+<li><a href="http://weekend.pb.pl/" title="Weekend" >Weekend</a></li>
+<li><a href="http://gazele.pl/" title="Gazele" >Gazele</a></li>
+<li><a href="http://konferencje.pb.pl" title="Konferencje" >Konferencje</a></li>
+<li><a href="http://www.pb.pl/b/blog" title="Blogi" >Blogi</a></li>
+<li><a href="http://wideo.pb.pl" title="Wideo" >Wideo</a></li>
+</ul>
+</div><!--/#menu1 -->
+		
+<div id="menu2">
+
+<ul>
+
+ <li class="menu_first"><a href="/" title="Moje konto">Moje konto</a></li>	
+
+ <li ><a href="http://sklep.pb.pl" title="sklep">sklep</a></li>	
+
+ <li ><a href="/logout" title="wyloguj się">wyloguj się</a></li>	
+</ul>
+</div><!--/#menu2 -->
+
+
+<div id="content">
+<div id="superwidecol">
+
+<div class="profile" style="background-color: #fff;">
+
+
+<div class="full-salmon">
+<h1>Zarejestruj się</h1>
+<p style="padding-top: 12px;">
+Prosimy o wypełnienie poniższych pól. Dzięki temu będziesz miał nielimitowany dostęp do wszystkich bezpłatnych treści w serwisie pb.pl, dostęp do porannego newslettera pb.pl i forum pb.pl. Możesz także dokonywać zakupów w sklepie internetowym <a href="http://sklep.pb.pl/">sklep.pb.pl</a>.</p>
+<p style="font-weight: bold;">Zarejestrowani prenumeratorzy "Pulsu Biznesu" mogą używać maila i hasła, by bezpłatnie korzystać z dostępu do treści aplikacji tabletowej Puls Biznesu+, <a href="http://archiwum.pb.pl/">archiwum.pb.pl</a>, <a href="http://pulsinwestora.pb.pl">pulsuinwestora.pl</a> i strefy premium pb.pl.</p>
+<br />
+<div id="user_data">
+
+
+<form id="user_profile" action="" method="POST"><table>
+<table cellspacing="0">
+<tr>
+
+    <td>Imię*:</td>
+    <td><input id="firstname" name="firstname" value="" class="required"></input>
+</td>
+</tr>
+<tr>
+
+    <td>Nazwisko*:</td>
+    <td><input id="lastname" name="lastname" class="required" value=""></input>
+</td>
+</tr>
+<tr>
+
+
+    <td>Email*:</td>
+    <td><input id="email" name="email" class="required email" value=""></input>
+</td>
+</tr>
+<tr>
+
+    <td>Telefon:</td>
+    <td><input id="phone" name="phone" class="phone" value=""></input>
+</td>
+</tr>
+<tr>
+
+    <td>Hasło (min. 5 znaków)*:</td>
+    <td><input type="password" id="password" name="password" value="" class="required password"></input>
+</td>
+</tr>
+<tr>
+
+    <td>Powtórz hasło*:</td>
+    <td><input type="password" id="password2" name="password2" value="" class="required password"></input>
+</td>
+</tr>
+<tr>
+
+ <td>Branża*:</td>
+ <td><select class="inputs required" size="1" value="" name="business" id="business">
+<option value="" selected="selected"> - wybierz z listy - </option>
+<option value="Zarządzanie/Consulting">Zarządzanie/Consulting</option>
+<option value="Finanse/Księgowość/Bankowość">Finanse/Księgowość/Bankowość</option>
+<option value="Administracja">Administracja</option>
+<option value="Internet/Informatyka">Internet/Informatyka</option>
+<option value="Telekomunikacja">Telekomunikacja</option>
+<option value="Komputery/Elektronika">Komputery/Elektronika</option>
+<option value="Marketing/Reklama">Marketing/Reklama</option>
+<option value="Media/Rozrywka/Kultura">Media/Rozrywka/Kultura</option>
+<option value="Prawo">Prawo</option>
+<option value="Nieruchomości/Budownictwo">Nieruchomości/Budownictwo</option>
+<option value="Przemysł">Przemysł</option>
+<option value="Logistyka/Transport">Logistyka/Transport</option>
+<option value="Edukacja">Edukacja</option>
+<option value="Handel">Handel</option>
+<option value="Medycyna">Medycyna</option>
+<option value="Turystyka">Turystyka</option>
+</select>
+</td>
+</tr>
+<tr>
+
+ <td>Dział*:</td>
+ <td><select class="inputs required" size="1" value="" name="department" id="department">
+<option value=""> - wybierz z listy - </option>
+<option value="Zarząd">Zarząd</option>
+<option value="Księgowość">Księgowość</option>
+<option value="Administracja">Administracja</option>
+<option value="Marketing/Reklama/PR">Marketing/Reklama/PR</option>
+<option value="Audyt">Audyt</option>
+<option value="Controling">Controling</option>
+<option value="Finansowy/Księgowość">Finansowy/Księgowość</option>
+<option value="Human Resources">Human Resources</option>
+<option value="Prawny">Prawny</option>
+<option value="Logistyczny">Logistyczny</option>
+<option value="Zakupy">Zakupy</option>
+<option value="Jakości">Jakości</option>
+<option value="Handlowy/Sprzedaży">Handlowy/Sprzedaży</option>
+<option value="IT">IT</option>
+<option value="Techniczny">Techniczny</option>
+<option value="inny">inny</option>
+</select>
+</td>
+</tr>
+<tr>
+
+ <td>Stanowisko*:</td>
+ <td><select class="inputs required" size="1" value="" name="position" id="position">
+<option value=""> - wybierz z listy - </option>
+<option value="Prezes">Prezes</option>
+<option value="Właściciel">Właściciel</option>
+<option value="Dyrektor">Dyrektor</option>
+<option value="Manager">Manager</option>
+<option value="Kierownik">Kierownik</option>
+<option value="Specjalista">Specjalista</option>
+<option value="Makler">Makler</option>
+<option value="Analityk">Analityk</option>
+<option value="Wolny zawód">Wolny zawód</option>
+<option value="Handlowiec">Handlowiec</option>
+<option value="Pracownik biurowy">Pracownik biurowy</option>
+<option value="Urzędnik">Urzędnik</option>
+<option value="Pracownik naukowy/Nauczyciel">Pracownik naukowy/Nauczyciel</option>
+<option value="Pracownik fizyczny">Pracownik fizyczny</option>
+<option value="Student/Uczeń">Student/Uczeń</option>
+<option value="Emeryt/Rencista">Emeryt/Rencista</option>
+<option value="Niepracujący/Poszukujący pracy">Niepracujący/Poszukujący pracy</option>
+</select>
+</td>
+</tr>
+<tr>
+
+ <td>Województwo*:</td>
+ <td><select name="voivodship_id" class="inputs required" id="voivodship_id">
+<option value=""> - wybierz z listy - </option>
+<option value="-1">(brak)</option>
+<option value="1">dolnośląskie</option>
+<option value="2">kujawsko-pomorskie</option>
+<option value="3">lubelskie</option>
+<option value="4">lubuskie</option>
+<option value="5">łódzkie</option>
+<option value="6">małopolskie</option>
+<option value="16">mazowieckie</option>
+<option value="7">opolskie</option>
+<option value="8">podkarpackie</option>
+<option value="9">podlaskie</option>
+<option value="10">pomorskie</option>
+<option value="11">śląskie</option>
+<option value="12">świętokrzyskie</option>
+<option value="13">warmińsko-mazurskie</option>
+<option value="14">wielkopolskie</option>
+<option value="15">zachodniopomorskie</option>
+</select>
+</td>
+</tr>
+<tr>
+
+ <td>Akceptuję regulamin*</td>
+ <td><input type="checkbox" name="accept" id="id_accept" value="1" checked="checked" class="" /> <a href="http://www.pb.pl/img/regulamin.pdf">Akceptuję zasady korzystania z serwisu<br />internetowego prowadzonego w domenie pb.pl</a>
+</td>
+</tr>
+<tr>
+ <td>Newsletter</td>
+ <td><input type="checkbox" name="newsletter" id="id_newsletter" value="1" checked="checked" />
+Chcę otrzymywać bezpłatny newsletter pb.pl.</td>
+</tr>
+<tr>
+ <td colspan="2" class="c"><input type="submit" value="Zapisz" /><br />
+* pola obowiązkowe</td>
+</tr>
+</table></form>
+</div>
+<script type="text/javascript">
+$( function()
+{
+    $("#user_data input.required, #user_data select.required").blur( function()
+    {
+        if( !$(this).val() )
+            $(this).addClass( "invalid" )
+        else
+            $(this).removeClass( "invalid" )
+    } )
+} )
+</script>
+<div style="clear: both; padding-top: 20px;">
+<p>Masz problem?</p>
+<ol>
+ <li style="list-style-type: decimal;"><a href="/passwordreminder">Zarejestrowałem/am się, ale zapomniałem hasła &raquo;</a></li>
+ <li style="list-style-type: decimal;">Jestem prenumeratorem, ale nie mam hasła:
+ <ul>
+  <li style="list-style-type: disc;">Prześlij nam kopię faktury</li>
+  lub
+  <li style="list-style-type: disc;">Poproś kolportera o przesłanie nam potwierdzenia prenumeraty</li>
+ </ul></li>
+ <li style="list-style-type: decimal;">Kontakt: <a href="mailto:archiwum@pb.pl">archiwum@pb.pl</a>, tel. (022) 333 98 66</li>
+</ol>
+</div></div>
+
+
+</div>
+
+</div><!-- /#superwidecol -->
+<div id="maincol">
+
+</div><!-- /#maincol -->
+<div id="col3">
+
+<!-- # -->
+<!-- 0.000 . -->
+
+</div><!--/#col3 -->
+</div><!--/#content -->
+
+
+<div style="clear: both;"></div>
+
+<div id="recommended">
+<h2>Polecamy</h2>
+
+
+<div class="box">
+<h6><a href="http://weekend.pb.pl">Weekend</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://weekend.pb.pl/3049798,72291,najbogatsi-wagarowicze-swiata"><img src="http://static.pb.pl/picture/65505,14141/190x120" alt="" /></a>
+<h5><a href="http://weekend.pb.pl/3049798,72291,najbogatsi-wagarowicze-swiata">Najbogatsi wagarowicze świata</a></h5>
+</div>
+
+
+<div class="box">
+<h6><a href="http://moto.pb.pl">Moto</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://moto.pb.pl/3052116,3950,auto-do-floty-kosztowne-pomysly"><img src="http://static.pb.pl/picture/65599,70378/190x120" alt="" /></a>
+<h5><a href="http://moto.pb.pl/3052116,3950,auto-do-floty-kosztowne-pomysly">Auto do floty: kosztowne pomysły</a></h5>
+</div>
+
+
+<div class="box">
+<h6><a href="http://kariera.pb.pl">Kariera</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://kariera.pb.pl/3052121,59963,mba-coraz-bardziej-na-miekko"><img src="http://static.pb.pl/picture/65602,71915/190x120" alt="" /></a>
+<h5><a href="http://kariera.pb.pl/3052121,59963,mba-coraz-bardziej-na-miekko">MBA coraz bardziej na „miękko”</a></h5>
+</div>
+
+
+<div class="box">
+<h6><a href="http://nieruchomosci.pb.pl">Nieruchomości</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://nieruchomosci.pb.pl/3046286,14365,warszawa-spadla-w-rankingu"><img src="http://static.pb.pl/picture/65340,85175/190x120" alt="" /></a>
+<h5><a href="http://nieruchomosci.pb.pl/3046286,14365,warszawa-spadla-w-rankingu">Warszawa spadła w rankingu</a></h5>
+</div>
+
+
+<div class="box">
+<h6><a href="http://tech.pb.pl">Tech</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://tech.pb.pl/3052127,94937,wirtualne-sie-oplaca"><img src="http://static.pb.pl/picture/65607,6318/190x120" alt="" /></a>
+<h5><a href="http://tech.pb.pl/3052127,94937,wirtualne-sie-oplaca">Wirtualne się opłaca</a></h5>
+</div>
+
+
+<div class="box">
+<h6><a href="http://logistyka.pb.pl">Logistyka</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://logistyka.pb.pl/3052117,7400,logistycy-licza-na-dreamlinera"><img src="http://static.pb.pl/picture/65600,36716/190x120" alt="" /></a>
+<h5><a href="http://logistyka.pb.pl/3052117,7400,logistycy-licza-na-dreamlinera">Logistycy liczą na Dreamlinera</a></h5>
+</div>
+
+
+<div class="box">
+<h6><a href="http://makro.pb.pl">Makro</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://www.pb.pl/3049881,42775,bgk-ostatni-bastion-kominiarzy"><img src="http://static.pb.pl/picture/65509,27943/190x120" alt="" /></a>
+<h5><a href="http://www.pb.pl/3049881,42775,bgk-ostatni-bastion-kominiarzy">BGK – ostatni bastion kominiarzy</a></h5>
+</div>
+
+
+<div class="box">
+<h6><a href="http://newconnect.pb.pl">New Connect</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://newconnect.pb.pl/3038569,63481,historyczny-dolek-na-malej-gieldzie"><img src="http://static.pb.pl/picture/64879,25838/190x120" alt="" /></a>
+<h5><a href="http://newconnect.pb.pl/3038569,63481,historyczny-dolek-na-malej-gieldzie">Historyczny dołek na „małej giełdzie”</a></h5>
+</div>
+
+
+<div class="box">
+<h6><a href="http://mojaemerytura.pb.pl">Emerytura</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://mojaemerytura.pb.pl/3018470,2741,zloty-interes-na-emerytach"><img src="http://static.pb.pl/picture/63322,64386/190x120" alt="" /></a>
+<h5><a href="http://mojaemerytura.pb.pl/3018470,2741,zloty-interes-na-emerytach">Złoty interes na emerytach</a></h5>
+</div>
+
+</div><!--/#recommended -->
+<script type="text/javascript">
+$(window).load( function()
+{
+    setInterval( function(){makeCarousel( $("#recommended")[0] );}, 1000);
+} )
+</script>
+ <!-- 0.000 . -->
+
+<div class="sections" id="id_sections">
+<h2>Sekcje</h2>
+
+<div class="box">
+<h6><a href="http://pulsinwestora.pl">Puls Inwestora</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://pulsinwestora.pb.pl/3052707,84210,kto-zdazy-z-utp"><strong>Kto zdąży z UTP? </strong></a></p>
+
+<p><a href="http://archiwum.pb.pl/3049740,84863,rodzynek-wsrod-deweloperow">Rodzynek wśród deweloperów</a></p>
+
+<p><a href="http://pulsinwestora.pb.pl/3049801,34813,zwolnij-swojego-zarzadzajacego">Zwolnij swojego zarządzającego</a></p>
+
+<p><a href="http://pulsinwestora.pb.pl/3047799,27066,osemka-z-mwig40-godna-polecenia">Ósemka z mWIG40 godna polecenia</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://firma.pb.pl">Firma</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://Firma.pb.pl/3053222,36744,oszczednosci-stale-pod-reka"><strong>Oszczędności stale pod ręką</strong></a></p>
+
+<p><a href="http://Firma.pb.pl/3053290,6945,mole-ksiazkowe-szukaja-promocji">Mole książkowe szukają promocji</a></p>
+
+<p><a href="http://Firma.pb.pl/3053286,45971,pracodawcy-umowy-o-prace-zniszcza-rynek">Pracodawcy: umowy o pracę zniszczą rynek</a></p>
+
+<p><a href="http://Firma.pb.pl/3050710,60689,lepsze-nastroje-kobiet-biznesu">Lepsze nastroje Kobiet Biznesu</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://kariera.pb.pl">Kariera</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://kariera.pb.pl/3052121,59963,mba-coraz-bardziej-na-miekko"><strong>MBA coraz bardziej na „miękko”</strong></a></p>
+
+<p><a href="http://kariera.pb.pl/3052125,6231,krezusi-branzy-bankowej">Krezusi branży bankowej</a></p>
+
+<p><a href="http://kariera.pb.pl/3052123,31887,na-co-hr-bedzie-stawial-w-tym-roku">Na co HR będzie stawiał w tym roku</a></p>
+
+<p><a href="http://kariera.pb.pl/3052120,66641,fakty-i-mity-o-opiece-medycznej">Fakty i mity o opiece medycznej</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://forex.pb.pl">Forex</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://forex.pb.pl/3047752,66583,juan-najdrozszy-od-1993-r"><strong>Juan najdroższy od 1993 r.</strong></a></p>
+
+<p><a href="http://forex.pb.pl/3037361,15717,bill-gross-to-wspaniala-waluta">Bill Gross: „to wspaniała waluta”</a></p>
+
+<p><a href="http://forex.pb.pl/3044032,87217,strategia-tms-niespodzianki-sprzyjaja-dolarowi">Strategia TMS: Niespodzianki sprzyjają dolarowi</a></p>
+
+<p><a href="http://forex.pb.pl/3033645,43566,rostowski-euro-korzystne-dla-polski">Rostowski: euro korzystne dla Polski</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://samorzady.pb.pl">Samorządy</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://samorzady.pb.pl/3053965,36901,trylogia-dla-mielnika-br-a-topor-dla-wojta"><strong>Trylogia dla Mielnika, <br>a topór dla wójta</strong></a></p>
+
+<p><a href="http://samorzady.pb.pl/3052700,61018,lomza-przyciagnela-inwestorow">Łomża przyciągnęła inwestorów</a></p>
+
+<p><a href="http://samorzady.pb.pl/3050658,87583,austriacko-francuski-br-pojedynek-w-lancucie">Austriacko-francuski <br>pojedynek w Łańcucie</a></p>
+
+<p><a href="http://www.pb.pl/3050579,96653,ams-stroer-wygrywa-w-sadzie-warszawskie-wiaty">AMS/Stroer wygrywa w sądzie warszawskie wiaty</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://eurokasa.pb.pl">Eurokasa</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://eurokasa.pb.pl/3040442,59541,obierz-kurs-na-szkolenie"><strong>Obierz kurs na szkolenie</strong></a></p>
+
+<p><a href="http://Firma.pb.pl/3019777,73591,ostatnie-dotacje-na-mazowszu">Ostatnie dotacje na Mazowszu</a></p>
+
+<p><a href="http://eurokasa.pb.pl/3010128,58790,msp-mniej-sklonne-do-ryzyka">MSP mniej skłonne do ryzyka</a></p>
+
+<p><a href="http://Firma.pb.pl/2998067,69274,w-unijnej-kasie-widac-dno">W unijnej kasie widać dno</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://kontrakty.pb.pl">Kontrakty</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://kontrakty.pb.pl/2951736,39753,zaprojektuj-i-wybuduj-wieze"><strong>Zaprojektuj i wybuduj wieżę</strong></a></p>
+
+<p><a href="http://kontrakty.pb.pl/2941482,30754,wyjedz-i-promuj-sie-za-darmo-w-moskwie">Wyjedź i promuj się za darmo w Moskwie</a></p>
+
+<p><a href="http://kontrakty.pb.pl/2934268,20036,olsztyn-znow-zaprasza-do-budowy-sortowni">Olsztyn znów zaprasza do budowy sortowni</a></p>
+
+<p><a href="http://kontrakty.pb.pl/2915863,5809,ekologiczni-konsultanci-poszukiwani">Ekologiczni konsultanci poszukiwani</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://energetyka.pb.pl">Energetyka</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://Energetyka.pb.pl/2849780,92801,talisman-szykuje-odwrot-znad-wisly"><strong>Talisman szykuje odwrót znad Wisły</strong></a></p>
+
+<p><a href="http://pulsinwestora.pb.pl/2849869,43631,tauron-wyda-4-mld-zl">Tauron wyda 4 mld zł</a></p>
+
+<p><a href="http://Energetyka.pb.pl/2848940,54088,zobacz-energetyke-przyszlosci-br">Zobacz energetykę przyszłości<br></a></p>
+
+<p><a href="http://pulsinwestora.pb.pl/2848694,76420,spolki-energetyczne-stracily-urok">Spółki energetyczne straciły urok</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://newconnect.pb.pl">New Connect</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://newconnect.pb.pl/3038569,63481,historyczny-dolek-na-malej-gieldzie"><strong>Historyczny dołek na „małej giełdzie”</strong></a></p>
+
+<p><a href="http://newconnect.pb.pl/3001703,82091,porzadkow-ciag-dalszy">Porządków ciąg dalszy</a></p>
+
+<p><a href="http://newconnect.pb.pl/3030070,61855,zwg-testuje-mlyn">ZWG testuje młyn</a></p>
+
+<p><a href="http://newconnect.pb.pl/3028737,22272,zmiana-warty-w-digital-avenue">Zmiana warty w Digital Avenue</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://logistyka.pb.pl">Logistyka</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://logistyka.pb.pl/3052117,7400,logistycy-licza-na-dreamlinera"><strong>Logistycy liczą na Dreamlinera</strong></a></p>
+
+<p><a href="http://www.pb.pl/3052113,8182,vat-podpala-paliwa">VAT podpala paliwa</a></p>
+
+<p><a href="http://logistyka.pb.pl/3050694,42676,krol-wikingow-powieksza-flote">"Król Wikingów" powiększa flotę </a></p>
+
+<p><a href="http://logistyka.pb.pl/3050021,33460,lot-chce-zrezygnowac-z-29-embraerow">LOT chce zrezygnować z 29 embraerów</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://makro.pb.pl">Makro</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://www.pb.pl/3049881,42775,bgk-ostatni-bastion-kominiarzy"><strong>BGK – ostatni bastion kominiarzy</strong></a></p>
+
+<p><a href="http://makro.pb.pl/3025267,55070,slabosc-rynku-pracy-cementuje-sie-na-lata">Słabość rynku pracy cementuje się na lata</a></p>
+
+<p><a href="http://makro.pb.pl/3025265,65879,polska-drugi-raz-uniknela-recesji">Polska drugi raz uniknęła recesji</a></p>
+
+<p><a href="http://www.pb.pl/3006271,84077,generalny-remont-urzedow-pracy">Generalny remont urzędów pracy</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://mojaemerytura.pb.pl">Emerytura</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://mojaemerytura.pb.pl/3018470,2741,zloty-interes-na-emerytach"><strong>Złoty interes na emerytach</strong></a></p>
+
+<p><a href="http://www.pb.pl/3010529,50243,10-kar-na-36-mln-zl-dla-prowadzacych-ike">10 kar na 36 mln zł dla prowadzących IKE </a></p>
+
+<p><a href="http://mojaemerytura.pb.pl/2938464,56958,emerytury-jak-w-starej-ue-za-59-lat">Emerytury jak w starej UE? - za 59 lat</a></p>
+
+<p><a href="http://mojaemerytura.pb.pl/2667672,58565,knf-chce-eko">KNF chce EKO</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://nieruchomosci.pb.pl">Nieruchomości</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://nieruchomosci.pb.pl/3046286,14365,warszawa-spadla-w-rankingu"><strong>Warszawa spadła w rankingu</strong></a></p>
+
+<p><a href="http://nieruchomosci.pb.pl/3050861,76282,roman-karkosik-chwyta-za-kielnie">Roman Karkosik chwyta za kielnię</a></p>
+
+<p><a href="http://nieruchomosci.pb.pl/3050866,49899,oferta-condohoteli-staje-sie-coraz-bogatsza">Oferta condohoteli staje się coraz bogatsza</a></p>
+
+<p><a href="http://nieruchomosci.pb.pl/3048288,17143,na-promocje-trzeba-uwazac">Na promocje trzeba uważać</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://moto.pb.pl">Moto</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://moto.pb.pl/3052116,3950,auto-do-floty-kosztowne-pomysly"><strong>Auto do floty: kosztowne pomysły</strong></a></p>
+
+<p><a href="http://moto.pb.pl/3052129,51909,e-policjant-wystawi-ci-mandat">E-policjant wystawi ci mandat</a></p>
+
+<p><a href="http://www.pb.pl/3052113,8182,vat-podpala-paliwa">VAT podpala paliwa</a></p>
+
+<p><a href="http://moto.pb.pl/3047289,28511,bentley-moze-byc-z-bratyslawy">Bentley może być z Bratysławy</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://tech.pb.pl">Tech</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://tech.pb.pl/3052127,94937,wirtualne-sie-oplaca"><strong>Wirtualne się opłaca</strong></a></p>
+
+<p><a href="http://tech.pb.pl/3052128,69897,nowy-oddzial-i-duza-rekrutacja">Nowy oddział i duża rekrutacja</a></p>
+
+<p><a href="http://tech.pb.pl/3050380,75171,google-keep-najnowsza-aplikacja">Google Keep najnowszą aplikacją</a></p>
+
+<p><a href="http://tech.pb.pl/3050090,42704,youtube-ma-juz-miliard-uzytkownikow">YouTube ma już miliard użytkowników</a></p>
+
+</div>
+
+<div class="box">
+<h6><a href="http://forex.pb.pl">Retailing</a> <span class="arrow">&raquo;</span></h6>
+
+<p><a href="http://retailing.pb.pl/2478423,48185,tesco-konczy-z-lepsza-marka"><strong>Tesco kończy z lepszą marką</strong></a></p>
+
+<p><a href="http://retailing.pb.pl/2456155,52983,auchan-wskoczyl-do-sieci">Auchan wskoczył do sieci</a></p>
+
+<p><a href="http://retailing.pb.pl/2454752,27591,handel-dusi-sie-pod-kartami">Handel dusi się pod kartami</a></p>
+
+<p><a href="http://retailing.pb.pl/2453571,11976,jasniejsza-przyszlosc-ciemnego-piwa">Jaśniejsza przyszłość ciemnego piwa</a></p>
+
+</div>
+
+</div>
+<script type="text/javascript">
+$(window).load( function()
+{
+    makeCarousel( $("#id_sections")[0] )
+} )
+</script>
+ <!-- 0.000 . -->
+
+
+
+<div id="events" class="box">
+<h6><a href="http://konferencje.pb.pl" title="konferencje.pb.pl">None</a> <span class="arrow">&raquo;</span></h6>
+<p><a href="http://konferencje.pb.pl/konferencja/654,prawo-wlasnosci-intelektualnej-a-zamowienia-publiczne-w-farmacji"><span class="date">10.04</span>Prawo własności intelektualnej    a zamówienia publiczne w farmacji</a></p>
+<p><a href="http://konferencje.pb.pl/konferencja/655,zabezpieczanie-ryzyka-rynkowego-jako-element-zarzadzania-finansami-firmy-z-uwzglednieniem-konsekwencji-podatkowych"><span class="date">11.04</span>Zabezpieczanie ryzyka rynkowego jako element zarządzania finansami firmy z uwzględnieniem konsekwencji podatkowych.</a></p>
+<p><a href="http://konferencje.pb.pl/konferencja/657,jak-dobrze-zarzadzac-soba-i-firma-w-trudnych-czasach"><span class="date">11.04</span>Jak dobrze zarządzać sobą i firmą w trudnych czasach</a></p>
+<div class="more"><a href="http://konferencje.pb.pl">więcej</a></div>
+</div>
+ <!-- 0.007 % -->
+<div id="people" class="box">
+<h6><a href="http://ludzie.pb.pl/">Who is who</a> <span class="arrow">&raquo;</span></h6>
+<a href="http://ludzie.pb.pl/"><img src="/img/ludzie.jpg" alt="" /></a>
+<div class="more"><a href="http://ludzie.pb.pl/">więcej</a></div>
+</div> <!-- 0.000 % -->
+
+
+
+<div class="sections offers" id="id_pboffers">
+<h2>Oferty Pulsu Biznesu</h2>
+
+<div class="box">
+<div style="text-align: center;"><a href="http://sklep.pb.pl/offer/tablet-pb-03m"><img src="http://static.pb.pl/picture/46480,16160/f190x230" alt="" /></a></div>
+<p class="title">Tablet</p>
+<h3><a href="http://sklep.pb.pl/offer/tablet-pb-03m">PB+ 3 miesiące</a></h3>
+</div>
+
+<div class="box">
+<div style="text-align: center;"><a href="http://sklep.pb.pl/offer/eprenumerator-06m+tab"><img src="http://static.pb.pl/picture/54619,43030/f190x230" alt="" /></a></div>
+<p class="title">Prenumerata</p>
+<h3><a href="http://sklep.pb.pl/offer/eprenumerator-06m+tab">E-prenumerata „Pulsu Biznesu” 6 miesiące + Tablet</a></h3>
+</div>
+
+
+
+<div class="box">
+<div style="text-align: center;"><a href="http://sklep.pb.pl/bytype/dzis-w-pb"><img src="http://produkty.pb.pl/pulsbiznesu/174" alt="" /></a></div>
+<p class="title">Prenumerata</p>
+<h3><a href="http://sklep.pb.pl/bytype/dzis-w-pb">Kup bieżące e-wydanie Pulsu Biznesu</a></h3>
+</div>
+			
+</div>
+<script type="text/javascript">
+$(window).load( function()
+{
+    makeCarousel( $("#id_pboffers")[0] )
+} )
+</script>
+
+
+<script type="text/javascript">
+linker.go();
+</script>
+
+		
+		<div id="newspapers">
+			<div id="cover">
+			<a href="http://weekend.pb.pl/"><img src="/img/weekend.jpg" alt="" /></a>
+			<p><a href="http://weekend.pb.pl/">Zobacz o czym piszemy</a></p>
+			</div>
+		
+		<div class="services">
+			<h2>Serwisy</h2>
+			<ul>
+				<li><a href="http://pulsinwestora.pb.pl/" title="Puls Inwestora" target="_blank">Puls Inwestora</a> <span class="arrow">&raquo;</span></li>
+				<li><a href="http://notowania.pb.pl/" title="Notowania" target="_blank">Notowania</a> <span class="arrow">&raquo;</span></li>
+				<li><a href="http://tablet.pb.pl/" target="_blank">Wersja na tablet</a> <span class="arrow">&raquo;</span></li>
+				<li><a href="http://konferencje.pb.pl/" target="_blank">Konferencje</a> <span class="arrow">&raquo;</span></li>
+				<li><a href="http://e.pb.pl/" target="_blank">E-wydanie</a> <span class="arrow">&raquo;</span></li>
+				<li><a href="http://m.pb.pl/" target="_blank">Wersja mobilna</a> <span class="arrow">&raquo;</span></li>
+
+			</ul>
+			
+			<div class="follow">
+				<p><strong>DODAJ NAS</strong></p>
+				<a href="http://pl-pl.facebook.com/NaszPulsBiznesu" title="Facebook"><img src="/img/fb.gif" alt="facebook" /></a>
+				<a href="https://twitter.com/#!/puls_biznesu" title="Twitter"><img src="/img/twitter.gif" alt="twitter" /></a>
+				<a href="http://www.pb.pl/2491897,83409,pobierz-aplikacje-pb-pl" title="Aplikacje pb.pl"><img src="/img/ewydanie.png" alt="Aplikacje pb.pl" /></a>
+				<a href="http://www.pb.pl/2547823,52578,pobierz-aplikacje-e-pulsu-biznesu-na-iphone-ipad" title="Aplikacje pb.pl"><img src="/img/epb.png" alt="Aplikacje pb.pl na iPhone i iPad" /></a>
+				<a href="/rss" title="RSS"><img src="/img/rss.gif" alt="rss" /></a>
+				<a href="https://plus.google.com/u/0/b/113661476705400120646/113661476705400120646/posts" title="Google Plus"><img src="/img/google.png" alt="Google Plus" /></a>
+				<a href="http://tablet.pb.pl" title="Wersja na tablety"><img src="/img/pbplus.png" alt="PB+" /></a>
+				<a href="http://pinterest.com/pulsbiznesu/" title="Pinterest"><img src="/img/pinterest.jpg" alt="Pinterest" /></a>
+			</div>
+		</div>
+		
+		</div>
+		
+
+<div style="clear: both;"></div>
+
+		
+	</div><!--/#site -->
+	
+	<div id="footer">
+<div id="footer-inner">
+		<div class="overview">
+			<img src="/img/bonnier.png" alt="Bonnier" />
+		</div>
+		<div class="overview">
+		<h4>BBP</h4>
+		<ul>
+			<li><a href="http://bonnier.pl/2465958,45854,kim-jestesmy" title="O nas" target="_blank">O nas</a></li>
+			<li><a href="http://bonnier.pl/praca" title="Pracuj u nas" target="_blank">Pracuj u nas</a></li>
+			<li><a href="http://bonnier.pl/2473420,36950,spoleczna-odpowiedzialnosc-biznesu" title="CSR" target="_blank">CSR</a></li>
+			<li><a href="http://bonnier.pl/kontakt" title="Kontakt" target="_blank">Kontakt</a></li>
+		</ul>
+		</div>
+		
+		<div class="overview">
+		<h4>Sklep</h4>
+		<ul>
+			<li><a href="http://sklep.pb.pl/bygroup/eprenumerator" title="Prenumerata" target="_blank">Prenumerata</a></li>
+			<li><a href="http://sklep.pb.pl/bytype/ksiazki" title="Publikacje" target="_blank">Publikacje</a></li>
+			<li><a href="http://sklep.pb.pl/bygroup/pakiet-inwestor" title="Pakiety specjalne" target="_blank">Pakiety specjalne</a></li>
+			<li><a href="http://sklep.pb.pl/bytype/raporty" title="Raporty" target="_blank">Raporty</a></li>
+			<li><a href="http://konferencje.pb.pl" title="Konferencje" target="_blank">Konferencje</a></li>
+		</ul>
+		</div>
+		
+		<div class="overview">
+		<h4>Puls Biznesu</h4>
+		<ul>
+			<li><a href="http://archiwum.pb.pl" title="Archiwum" target="_blank">Archiwum</a></li>
+			<li><a href="http://e.pb.pl" title="E-wydanie" target="_blank">E-wydanie</a></li>
+			<li><a href="http://bonnier.pl/reklama" title="Reklama" target="_blank">Reklama</a></li>
+		</ul>
+		</div>
+		
+		<div class="overview">
+		<h4>Pb.pl</h4>
+		<ul>
+			<li><a href="http://www.pb.pl/img/regulamin.pdf" title="Regulamin" target="_blank">Regulamin</a></li>
+			<li><a href="http://newsletter.pb.pl" title="Newsletter" target="_blank">Newsletter</a></li>
+			<li><a href="http://widgety.pb.pl" title="Widgety" target="_blank">Widgety</a></li>
+			<li><a href="http://bonnier.pl/reklama" title="Reklama" target="_blank">Reklama</a></li>
+		</ul>
+		</div>
+		
+		</div><!--/#footer-inner -->
+	</div><!--/#footer -->
+
+
+<!-- (C)2000-2011 Gemius SA - gemiusTraffic / ver 11.1 / profil.pb.pl --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('coVKscL3B9JFo7BsLM.4QZciLd_Ip9uqCuYOuS84.FX.B7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1121769-53']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- HowTo: All the ad codes must be above this code! -->
+<!-- BBelements one2many code -->
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<script type='text/javascript' charset='iso-8859-2' src='http://go.arbopl.bbelements.com/bb/bb_one2n.js?1249975097'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+bmone2n.addPosition('2610.1.2.30','');
+bmone2n.getAd('go.arbopl.bbelements.com','',''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'iso-8859-2');
+/* ]]> */</script>
+<div id='bmone2t-2610.1.2.30' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2610.1.2.30'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */
+bm12n_orig_onload = (window.onload) ? window.onload : null;
+function bm12n_onLoad() { bmone2n.moveAd();  if (bm12n_orig_onload) {bm12n_orig_onload();} }
+window.onload = bm12n_onLoad;
+/* ]]> */</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+{document.write('<script type="text/javascript" id="cafenews.pl#7648bfca304b70cf5006abd38e8fc43f"></'+'script><div id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"></div>');setTimeout(function(){var d=new Date();document.getElementById("cafenews.pl#7648bfca304b70cf5006abd38e8fc43f").src='http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d='+d.getFullYear()+d.getMonth()+d.getDate();},250);}
+/* ]]> */</script>
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
+<script type="text/javascript">
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+
+
+
+
+</body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

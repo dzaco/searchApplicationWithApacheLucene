@@ -1,0 +1,1889 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Perswazja i NLP: Księgarnia Bankier.pl</title>
+	<meta name="description" content="Księgarnia bankier.pl - książki dla biznesu i nie tylko."/>
+	<link rel="shortcut icon" href="http://www.bankier.pl/favicon.ico" type="image/x-icon"/>
+	<link href="/s/style.css?v=7" rel="stylesheet" type="text/css" media="screen"/>
+    <script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+    <noscript>
+        <div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+            text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+            text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+            <div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+                Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+                z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+                Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+            </div>
+        </div>
+    </noscript>
+
+
+
+	
+	
+	<!-- (C)2000-2009 Gemius SA - gemiusTraffic / ver 11.1 / ksiegarnia_pozostale --> 
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var gemius_identifier = new String('AkTrsutX7HoCGwslBuULPsRpLVVKKmbNbDo489YWyfv.k7');
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://www.bankier.pl/inc/js/gemius.js"></script>
+	
+	
+	
+	<!-- (C) 2000-2009 Gemius SA - gemiusAudience / ver 11.1 / adnet.bankier / Ksiegarnia-->
+	<script type="text/javascript">
+	 <!--//--><![CDATA[//><!--
+	var pp_gemius_identifier ='za01ZONWwSNq9wS8lPPx4reOLd_kNOcSlGWIIc19ul7.F7';
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://arbo.hit.gemius.pl/xgemius.js"></script>
+
+
+</head>
+<body id="bn_lifestyle">
+
+<link href="http://s01.bankier.pl/s/ksiegarnia.css" rel="stylesheet" type="text/css" />
+
+<div id="bn_header" style="position: relative; z-index: 100; height:120px;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Fcontent%2Fksiegarnia%2Fheader_new.html" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/bankiertv-index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li class="selected"><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+
+
+
+<div id="ksiegarnia">
+	<div id="content">
+		<div id="search">
+			<div class="top"></div>
+			<form action="/szukaj/">
+				<div>
+					Szukaj:
+					<input name="q" size="30"/>
+					<input type="submit" value="szukaj" />
+				</div>
+			</form>
+			<div class="bottom"></div>
+		</div>
+		
+
+
+
+
+
+
+<p class="lead">Wiosenne porządki na Onepress.pl [20% rabatu na całą ofertę]</p>
+
+
+
+
+<div class="box">
+	<div class="pre-title"></div><div class="box-title">Perswazja i NLP</div><div class="post-title"></div>
+	<div class="content">
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1366/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<img class="cover" src="/s/cover/small/1366.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego"/>
+		</a>
+		<a class="boo " href="/ksiazka1366/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka897/sekret-nlp-czyli-poznaj-siebie-uporaj-sie-ze-zlymi-nawykami-i-zacznij-prawdziwie-zyc.html">
+			<img class="cover" src="/s/cover/small/897.jpg" alt="Sekret NLP, czyli poznaj siebie, uporaj się ze złymi nawykami i zacznij prawdziwie żyć"/>
+		</a>
+		<a class="boo " href="/ksiazka897/sekret-nlp-czyli-poznaj-siebie-uporaj-sie-ze-zlymi-nawykami-i-zacznij-prawdziwie-zyc.html">
+			<span class="title">Sekret NLP, czyli poznaj siebie, uporaj się ze złymi nawykami i zacznij prawdziwie żyć</span>
+		</a>
+			<span class="author">Richard Bandler</span>
+			
+			<span class="price">
+				Cena:
+				
+					34,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka946/magiczna-moc-umyslu-jak-zaprogramowac-swoj-mozg-na-szczescie.html">
+			<img class="cover" src="/s/cover/small/946.jpg" alt="Magiczna moc umysłu. Jak zaprogramować swój mózg na szczęście"/>
+		</a>
+		<a class="boo " href="/ksiazka946/magiczna-moc-umyslu-jak-zaprogramowac-swoj-mozg-na-szczescie.html">
+			<span class="title">Magiczna moc umysłu. Jak zaprogramować swój mózg na szczęście</span>
+		</a>
+			<span class="author">Marta Hiatt</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka783/hiperswazja-czyli-jak-pisac-zabojczo-skuteczne-teksty-reklamowe.html">
+			<img class="cover" src="/s/cover/small/783.jpg" alt="HIPERswazja, czyli jak pisać zabójczo skuteczne teksty reklamowe"/>
+		</a>
+		<a class="boo " href="/ksiazka783/hiperswazja-czyli-jak-pisac-zabojczo-skuteczne-teksty-reklamowe.html">
+			<span class="title">HIPERswazja, czyli jak pisać zabójczo skuteczne teksty reklamowe</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka738/ukryta-perswazja-psychologiczne-taktyki-wywierania-wplywu-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/738.jpg" alt="Ukryta perswazja. Psychologiczne taktyki wywierania wpływu. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka738/ukryta-perswazja-psychologiczne-taktyki-wywierania-wplywu-wydanie-ii.html">
+			<span class="title">Ukryta perswazja. Psychologiczne taktyki wywierania wpływu. Wydanie II</span>
+		</a>
+			<span class="author">James Speakman, Kevin Hogan</span>
+			
+			<span class="price">
+				Cena:
+				
+					29,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka914/inteligencja-perswazyjna-pq-poznaj-10-umiejetnosci-wywierania-wplywu.html">
+			<img class="cover" src="/s/cover/small/914.jpg" alt="Inteligencja perswazyjna (PQ). Poznaj 10 *** umiejętności wywierania wpływu"/>
+		</a>
+		<a class="boo " href="/ksiazka914/inteligencja-perswazyjna-pq-poznaj-10-umiejetnosci-wywierania-wplywu.html">
+			<span class="title">Inteligencja perswazyjna (PQ). Poznaj 10 *** umiejętności wywierania wpływu</span>
+		</a>
+			<span class="author">Kurt Mortensen</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka817/tymysl-inaczej-zrobia-to-za-ciebie-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/817.jpg" alt="TyMyśl. Inaczej zrobią to za Ciebie... Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka817/tymysl-inaczej-zrobia-to-za-ciebie-wydanie-ii.html">
+			<span class="title">TyMyśl. Inaczej zrobią to za Ciebie... Wydanie II</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					27&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka578/zrecznosc-ust-hipnotyczna-sprzedaz-i-negocjacje.html">
+			<img class="cover" src="/s/cover/small/578.jpg" alt="Zręczność ust. Hipnotyczna sprzedaż i negocjacje"/>
+		</a>
+		<a class="boo " href="/ksiazka578/zrecznosc-ust-hipnotyczna-sprzedaz-i-negocjacje.html">
+			<span class="title">Zręczność ust. Hipnotyczna sprzedaż i negocjacje</span>
+		</a>
+			<span class="author">Adam Eason</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka575/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-w-praktyce-ebook.html">
+			<img class="cover" src="/s/cover/small/575.jpg" alt="SZTUKA PERSWAZJI, czyli język wpływu i manipulacji w praktyce. eBook"/>
+		</a>
+		<a class="boo " href="/ksiazka575/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-w-praktyce-ebook.html">
+			<span class="title">SZTUKA PERSWAZJI, czyli język wpływu i manipulacji w praktyce. eBook</span>
+		</a>
+			<span class="author">Andrzej Batko</span>
+			
+			<span class="price">
+				Cena:
+				
+					24,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka947/nlp-dla-poczatkujacych-podstawowe-pytania-i-odpowiedzi.html">
+			<img class="cover" src="/s/cover/small/947.jpg" alt="NLP dla początkujących. Podstawowe pytania i odpowiedzi"/>
+		</a>
+		<a class="boo " href="/ksiazka947/nlp-dla-poczatkujacych-podstawowe-pytania-i-odpowiedzi.html">
+			<span class="title">NLP dla początkujących. Podstawowe pytania i odpowiedzi</span>
+		</a>
+			<span class="author">Shlomo Vaknin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1426/haker-umyslow-wydanie-kieszonkowe.html">
+			<img class="cover" src="/s/cover/small/1426.jpg" alt="Haker umysłów. Wydanie kieszonkowe"/>
+		</a>
+		<a class="boo " href="/ksiazka1426/haker-umyslow-wydanie-kieszonkowe.html">
+			<span class="title">Haker umysłów. Wydanie kieszonkowe</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka971/komplement-sztuka-uwodzenia-slowem.html">
+			<img class="cover" src="/s/cover/small/971.jpg" alt="Komplement. Sztuka uwodzenia słowem"/>
+		</a>
+		<a class="boo " href="/ksiazka971/komplement-sztuka-uwodzenia-slowem.html">
+			<span class="title">Komplement. Sztuka uwodzenia słowem</span>
+		</a>
+			<span class="author">Gloria Beck</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka983/haker-umyslow.html">
+			<img class="cover" src="/s/cover/small/983.jpg" alt="Haker umysłów"/>
+		</a>
+		<a class="boo " href="/ksiazka983/haker-umyslow.html">
+			<span class="title">Haker umysłów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka174/perswazja-i-nlp-wideowarsztaty.html">
+			<img class="cover" src="/s/cover/small/174.jpg" alt="Perswazja i NLP. Wideowarsztaty"/>
+		</a>
+		<a class="boo " href="/ksiazka174/perswazja-i-nlp-wideowarsztaty.html">
+			<span class="title">Perswazja i NLP. Wideowarsztaty</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">226,98&nbsp;zł</span>
+					<span class="promo">181,58&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka781/mowca-doskonaly-wystapienia-publiczne-w-praktyce.html">
+			<img class="cover" src="/s/cover/small/781.jpg" alt="Mówca doskonały. Wystąpienia publiczne w praktyce"/>
+		</a>
+		<a class="boo " href="/ksiazka781/mowca-doskonaly-wystapienia-publiczne-w-praktyce.html">
+			<span class="title">Mówca doskonały. Wystąpienia publiczne w praktyce</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka606/reklama-podprogowa-jak-niepostrzezenie-wniknac-w-umysl-odbiorcy.html">
+			<img class="cover" src="/s/cover/small/606.jpg" alt="Reklama podprogowa. Jak niepostrzeżenie wniknąć w umysł odbiorcy"/>
+		</a>
+		<a class="boo " href="/ksiazka606/reklama-podprogowa-jak-niepostrzezenie-wniknac-w-umysl-odbiorcy.html">
+			<span class="title">Reklama podprogowa. Jak niepostrzeżenie wniknąć w umysł odbiorcy</span>
+		</a>
+			<span class="author">August Bullock</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">67&nbsp;zł</span>
+					<span class="promo">53,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1364/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-wideowyklad.html">
+			<img class="cover" src="/s/cover/small/1364.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Wideowykład"/>
+		</a>
+		<a class="boo " href="/ksiazka1364/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-wideowyklad.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Wideowykład</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka582/etyczna-manipulacja-czyli-jak-sprawic-zeby-ludzie-naprawde-cie-lubili.html">
+			<img class="cover" src="/s/cover/small/582.jpg" alt="Etyczna manipulacja, czyli jak sprawić, żeby ludzie naprawdę Cię lubili"/>
+		</a>
+		<a class="boo " href="/ksiazka582/etyczna-manipulacja-czyli-jak-sprawic-zeby-ludzie-naprawde-cie-lubili.html">
+			<span class="title">Etyczna manipulacja, czyli jak sprawić, żeby ludzie naprawdę Cię lubili</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">18,99&nbsp;zł</span>
+					<span class="promo">15,19&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka874/wyzsza-szkola-skutecznej-retoryki.html">
+			<img class="cover" src="/s/cover/small/874.jpg" alt="Wyższa szkoła skutecznej retoryki"/>
+		</a>
+		<a class="boo " href="/ksiazka874/wyzsza-szkola-skutecznej-retoryki.html">
+			<span class="title">Wyższa szkoła skutecznej retoryki</span>
+		</a>
+			<span class="author">Gloria Beck</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1338/hipnotyczna-prezentacja-w-sprzedazy-bezposredniej.html">
+			<img class="cover" src="/s/cover/small/1338.jpg" alt="Hipnotyczna prezentacja w sprzedaży bezpośredniej"/>
+		</a>
+		<a class="boo " href="/ksiazka1338/hipnotyczna-prezentacja-w-sprzedazy-bezposredniej.html">
+			<span class="title">Hipnotyczna prezentacja w sprzedaży bezpośredniej</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka524/trening-egoizmu-twoje-decyzje-na-przekor-manipulacji.html">
+			<img class="cover" src="/s/cover/small/524.jpg" alt="Trening egoizmu. Twoje decyzje na przekór manipulacji"/>
+		</a>
+		<a class="boo " href="/ksiazka524/trening-egoizmu-twoje-decyzje-na-przekor-manipulacji.html">
+			<span class="title">Trening egoizmu. Twoje decyzje na przekór manipulacji</span>
+		</a>
+			<span class="author">Josef Kirschner</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24&nbsp;zł</span>
+					<span class="promo">19,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka604/a-moze-zmienisz-zdanie-sekrety-perswazyjnego-pisania.html">
+			<img class="cover" src="/s/cover/small/604.jpg" alt="A może zmienisz zdanie? Sekrety perswazyjnego pisania"/>
+		</a>
+		<a class="boo " href="/ksiazka604/a-moze-zmienisz-zdanie-sekrety-perswazyjnego-pisania.html">
+			<span class="title">A może zmienisz zdanie? Sekrety perswazyjnego pisania</span>
+		</a>
+			<span class="author">Lindsay Camp</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka733/submodalnosci-niezwykla-droga-do-twojego-umyslu.html">
+			<img class="cover" src="/s/cover/small/733.jpg" alt="Submodalności. Niezwykła droga do Twojego umysłu"/>
+		</a>
+		<a class="boo " href="/ksiazka733/submodalnosci-niezwykla-droga-do-twojego-umyslu.html">
+			<span class="title">Submodalności. Niezwykła droga do Twojego umysłu</span>
+		</a>
+			<span class="author">Connirae Andreas, Steve Andrea</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1096/czarna-ksiega-perswazji-uzywaj-nlp-by-zdobyc-wszystko-czego-pragniesz.html">
+			<img class="cover" src="/s/cover/small/1096.jpg" alt="Czarna księga perswazji. Używaj NLP, by zdobyć wszystko, czego pragniesz"/>
+		</a>
+		<a class="boo " href="/ksiazka1096/czarna-ksiega-perswazji-uzywaj-nlp-by-zdobyc-wszystko-czego-pragniesz.html">
+			<span class="title">Czarna księga perswazji. Używaj NLP, by zdobyć wszystko, czego pragniesz</span>
+		</a>
+			<span class="author">Rintu Basu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1643/nlp-dla-poczatkujacych-podstawowe-pytania-i-odpowiedzi.html">
+			<img class="cover" src="/s/cover/small/1643.jpg" alt="NLP dla początkujących. Podstawowe pytania i odpowiedzi"/>
+		</a>
+		<a class="boo " href="/ksiazka1643/nlp-dla-poczatkujacych-podstawowe-pytania-i-odpowiedzi.html">
+			<span class="title">NLP dla początkujących. Podstawowe pytania i odpowiedzi</span>
+		</a>
+			<span class="author">Shlomo Vaknin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1890/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<img class="cover" src="/s/cover/small/1890.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego"/>
+		</a>
+		<a class="boo " href="/ksiazka1890/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka714/subtelna-perswazja-pelne-porozumienie-w-pracy-i-w-domu.html">
+			<img class="cover" src="/s/cover/small/714.jpg" alt="Subtelna perswazja. Pełne porozumienie w pracy i w domu"/>
+		</a>
+		<a class="boo " href="/ksiazka714/subtelna-perswazja-pelne-porozumienie-w-pracy-i-w-domu.html">
+			<span class="title">Subtelna perswazja. Pełne porozumienie w pracy i w domu</span>
+		</a>
+			<span class="author">Patrick Forsyth</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1648/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1648.jpg" alt="SZTUKA PERSWAZJI, czyli język wpływu i manipulacji. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1648/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-wydanie-ii-rozszerzone.html">
+			<span class="title">SZTUKA PERSWAZJI, czyli język wpływu i manipulacji. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1537/psychologia-tlumu-studium-powszechnego-umyslu.html">
+			<img class="cover" src="/s/cover/small/1537.jpg" alt="Psychologia tłumu. Studium powszechnego umysłu"/>
+		</a>
+		<a class="boo " href="/ksiazka1537/psychologia-tlumu-studium-powszechnego-umyslu.html">
+			<span class="title">Psychologia tłumu. Studium powszechnego umysłu</span>
+		</a>
+			<span class="author">Gustave Le Bon</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka969/kodeks-wladzy-reguly-manipulacji.html">
+			<img class="cover" src="/s/cover/small/969.jpg" alt="Kodeks władzy. Reguły manipulacji"/>
+		</a>
+		<a class="boo " href="/ksiazka969/kodeks-wladzy-reguly-manipulacji.html">
+			<span class="title">Kodeks władzy. Reguły manipulacji</span>
+		</a>
+			<span class="author">Alexander Ross, Reiner Neumann</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1088/zakazana-retoryka-podrecznik-manipulacji.html">
+			<img class="cover" src="/s/cover/small/1088.jpg" alt="Zakazana retoryka. Podręcznik manipulacji"/>
+		</a>
+		<a class="boo " href="/ksiazka1088/zakazana-retoryka-podrecznik-manipulacji.html">
+			<span class="title">Zakazana retoryka. Podręcznik manipulacji</span>
+		</a>
+			<span class="author">Gloria Beck</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka533/8-dogmatow-wywierania-wplywu.html">
+			<img class="cover" src="/s/cover/small/533.jpg" alt="8 dogmatów wywierania wpływu"/>
+		</a>
+		<a class="boo " href="/ksiazka533/8-dogmatow-wywierania-wplywu.html">
+			<span class="title">8 dogmatów wywierania wpływu</span>
+		</a>
+			<span class="author">Josef Kirschner</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24&nbsp;zł</span>
+					<span class="promo">19,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1339/rozgromic-konkurencje-sprawdzone-w-boju-strategie-dowodzenia-motywowania-i-zwyciezania.html">
+			<img class="cover" src="/s/cover/small/1339.jpg" alt="RozGROMić konkurencję. Sprawdzone w boju strategie dowodzenia, motywowania i zwyciężania"/>
+		</a>
+		<a class="boo " href="/ksiazka1339/rozgromic-konkurencje-sprawdzone-w-boju-strategie-dowodzenia-motywowania-i-zwyciezania.html">
+			<span class="title">RozGROMić konkurencję. Sprawdzone w boju strategie dowodzenia, motywowania i zwyciężania</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1758/alchemia-manipulacji-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1758.jpg" alt="Alchemia manipulacji. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1758/alchemia-manipulacji-wydanie-ii.html">
+			<span class="title">Alchemia manipulacji. Wydanie II</span>
+		</a>
+			<span class="author">John La Valle, Richard Bandler</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka652/potega-perswazji-jak-sie-nas-kupuje-i-sprzedaje.html">
+			<img class="cover" src="/s/cover/small/652.jpg" alt="Potęga perswazji. Jak się nas kupuje i sprzedaje"/>
+		</a>
+		<a class="boo " href="/ksiazka652/potega-perswazji-jak-sie-nas-kupuje-i-sprzedaje.html">
+			<span class="title">Potęga perswazji. Jak się nas kupuje i sprzedaje</span>
+		</a>
+			<span class="author">Robert V. Levine</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka767/sympatyczna-perswazja.html">
+			<img class="cover" src="/s/cover/small/767.jpg" alt="Sympatyczna perswazja"/>
+		</a>
+		<a class="boo " href="/ksiazka767/sympatyczna-perswazja.html">
+			<span class="title">Sympatyczna perswazja</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					29&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka921/magia-wystapien-publicznych-techniki-narzedzia-i-sztuczki-nlp.html">
+			<img class="cover" src="/s/cover/small/921.jpg" alt="Magia wystąpień publicznych. Techniki, narzędzia i sztuczki NLP "/>
+		</a>
+		<a class="boo " href="/ksiazka921/magia-wystapien-publicznych-techniki-narzedzia-i-sztuczki-nlp.html">
+			<span class="title">Magia wystąpień publicznych. Techniki, narzędzia i sztuczki NLP </span>
+		</a>
+			<span class="author">David Shephard, Tad James</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1035/alphahuman.html">
+			<img class="cover" src="/s/cover/small/1035.jpg" alt="AlphaHuman"/>
+		</a>
+		<a class="boo " href="/ksiazka1035/alphahuman.html">
+			<span class="title">AlphaHuman</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1098/sekret-nlp-czyli-poznaj-siebie-uporaj-sie-ze-zlymi-nawykami-i-zacznij-prawdziwie-zyc.html">
+			<img class="cover" src="/s/cover/small/1098.jpg" alt="Sekret NLP, czyli poznaj siebie, uporaj się ze złymi nawykami i zacznij prawdziwie żyć"/>
+		</a>
+		<a class="boo " href="/ksiazka1098/sekret-nlp-czyli-poznaj-siebie-uporaj-sie-ze-zlymi-nawykami-i-zacznij-prawdziwie-zyc.html">
+			<span class="title">Sekret NLP, czyli poznaj siebie, uporaj się ze złymi nawykami i zacznij prawdziwie żyć</span>
+		</a>
+			<span class="author">Richard Bandler</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka826/nlp-w-negocjacjach-handlowych.html">
+			<img class="cover" src="/s/cover/small/826.jpg" alt="NLP w negocjacjach handlowych"/>
+		</a>
+		<a class="boo " href="/ksiazka826/nlp-w-negocjacjach-handlowych.html">
+			<span class="title">NLP w negocjacjach handlowych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka934/zabawa-tkwi-w-nlp-powazna-wiedza-na-wesolo.html">
+			<img class="cover" src="/s/cover/small/934.jpg" alt="Zabawa tkwi w NLP. Poważna wiedza  na wesoło"/>
+		</a>
+		<a class="boo " href="/ksiazka934/zabawa-tkwi-w-nlp-powazna-wiedza-na-wesolo.html">
+			<span class="title">Zabawa tkwi w NLP. Poważna wiedza  na wesoło</span>
+		</a>
+			<span class="author">Philip Miller</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka513/wystapienia-publiczne-w-biznesie-warsztaty.html">
+			<img class="cover" src="/s/cover/small/513.jpg" alt="Wystąpienia publiczne w biznesie. Warsztaty"/>
+		</a>
+		<a class="boo " href="/ksiazka513/wystapienia-publiczne-w-biznesie-warsztaty.html">
+			<span class="title">Wystąpienia publiczne w biznesie. Warsztaty</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">197&nbsp;zł</span>
+					<span class="promo">157,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka667/zrozumiec-nlp-reguly-i-praktyka-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/667.jpg" alt="Zrozumieć NLP. Reguły i praktyka. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka667/zrozumiec-nlp-reguly-i-praktyka-wydanie-ii.html">
+			<span class="title">Zrozumieć NLP. Reguły i praktyka. Wydanie II</span>
+		</a>
+			<span class="author">Peter Young</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1033/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1033.jpg" alt="SZTUKA PERSWAZJI, czyli język wpływu i manipulacji. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1033/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-wydanie-ii-rozszerzone.html">
+			<span class="title">SZTUKA PERSWAZJI, czyli język wpływu i manipulacji. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka879/nlp-dla-nauczycieli-szkola-efektywnego-nauczania.html">
+			<img class="cover" src="/s/cover/small/879.jpg" alt="NLP dla nauczycieli. Szkoła efektywnego nauczania"/>
+		</a>
+		<a class="boo " href="/ksiazka879/nlp-dla-nauczycieli-szkola-efektywnego-nauczania.html">
+			<span class="title">NLP dla nauczycieli. Szkoła efektywnego nauczania</span>
+		</a>
+			<span class="author">Richard Churches, Roger Terry</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1704/hipnotyczna-prezentacja-w-sprzedazy-bezposredniej.html">
+			<img class="cover" src="/s/cover/small/1704.jpg" alt="Hipnotyczna prezentacja w sprzedaży bezpośredniej"/>
+		</a>
+		<a class="boo " href="/ksiazka1704/hipnotyczna-prezentacja-w-sprzedazy-bezposredniej.html">
+			<span class="title">Hipnotyczna prezentacja w sprzedaży bezpośredniej</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1717/praktyka-przekonywania-czyli-jak-pozyskiwac-zwolennikow-dla-swoich-racji-i-propozycji.html">
+			<img class="cover" src="/s/cover/small/1717.jpg" alt="Praktyka przekonywania, czyli jak pozyskiwać zwolenników dla swoich racji i propozycji"/>
+		</a>
+		<a class="boo " href="/ksiazka1717/praktyka-przekonywania-czyli-jak-pozyskiwac-zwolennikow-dla-swoich-racji-i-propozycji.html">
+			<span class="title">Praktyka przekonywania, czyli jak pozyskiwać zwolenników dla swoich racji i propozycji</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">21,99&nbsp;zł</span>
+					<span class="promo">17,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka870/ukryta-przewaga-sprzedawaj-z-nlp.html">
+			<img class="cover" src="/s/cover/small/870.jpg" alt="Ukryta przewaga. Sprzedawaj z NLP!"/>
+		</a>
+		<a class="boo " href="/ksiazka870/ukryta-przewaga-sprzedawaj-z-nlp.html">
+			<span class="title">Ukryta przewaga. Sprzedawaj z NLP!</span>
+		</a>
+			<span class="author">Duane Lakin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka892/perswazja-osobisty-mentor.html">
+			<img class="cover" src="/s/cover/small/892.jpg" alt="Perswazja. Osobisty mentor"/>
+		</a>
+		<a class="boo " href="/ksiazka892/perswazja-osobisty-mentor.html">
+			<span class="title">Perswazja. Osobisty mentor</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1644/nlp-w-negocjacjach-handlowych.html">
+			<img class="cover" src="/s/cover/small/1644.jpg" alt="NLP w negocjacjach handlowych"/>
+		</a>
+		<a class="boo " href="/ksiazka1644/nlp-w-negocjacjach-handlowych.html">
+			<span class="title">NLP w negocjacjach handlowych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka464/ukryta-perswazja-psychologiczne-taktyki-wywierania-wplywu.html">
+			<img class="cover" src="/s/cover/small/464.jpg" alt="Ukryta perswazja. Psychologiczne taktyki wywierania wpływu"/>
+		</a>
+		<a class="boo " href="/ksiazka464/ukryta-perswazja-psychologiczne-taktyki-wywierania-wplywu.html">
+			<span class="title">Ukryta perswazja. Psychologiczne taktyki wywierania wpływu</span>
+		</a>
+			<span class="author">James Speakman, Kevin Hogan</span>
+			
+			<span class="price">
+				Cena:
+				
+					29&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1887/ukryta-perswazja-psychologiczne-taktyki-wywierania-wplywu-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1887.jpg" alt="Ukryta perswazja. Psychologiczne taktyki wywierania wpływu. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1887/ukryta-perswazja-psychologiczne-taktyki-wywierania-wplywu-wydanie-ii.html">
+			<span class="title">Ukryta perswazja. Psychologiczne taktyki wywierania wpływu. Wydanie II</span>
+		</a>
+			<span class="author">James Speakman, Kevin Hogan</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1784/strategie-geniuszy-mysl-jak-albert-einstein.html">
+			<img class="cover" src="/s/cover/small/1784.jpg" alt="Strategie geniuszy. Myśl jak Albert Einstein"/>
+		</a>
+		<a class="boo " href="/ksiazka1784/strategie-geniuszy-mysl-jak-albert-einstein.html">
+			<span class="title">Strategie geniuszy. Myśl jak Albert Einstein</span>
+		</a>
+			<span class="author">Robert B. Dilts</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2185/sympatyczna-perswazja.html">
+			<img class="cover" src="/s/cover/small/2185.jpg" alt="Sympatyczna perswazja"/>
+		</a>
+		<a class="boo " href="/ksiazka2185/sympatyczna-perswazja.html">
+			<span class="title">Sympatyczna perswazja</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1036/wilk-w-owczej-skorze-jak-zdemaskowac-przeciwnika-i-skutecznie-bronic-sie-przed-manipulacja.html">
+			<img class="cover" src="/s/cover/small/1036.jpg" alt="Wilk w owczej skórze. Jak zdemaskować przeciwnika i skutecznie bronić się przed manipulacją"/>
+		</a>
+		<a class="boo " href="/ksiazka1036/wilk-w-owczej-skorze-jak-zdemaskowac-przeciwnika-i-skutecznie-bronic-sie-przed-manipulacja.html">
+			<span class="title">Wilk w owczej skórze. Jak zdemaskować przeciwnika i skutecznie bronić się przed manipulacją</span>
+		</a>
+			<span class="author">George K. Simon Jr.</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2189/tymysl-inaczej-zrobia-to-za-ciebie-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/2189.jpg" alt="TyMyśl. Inaczej zrobią to za Ciebie... Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka2189/tymysl-inaczej-zrobia-to-za-ciebie-wydanie-ii.html">
+			<span class="title">TyMyśl. Inaczej zrobią to za Ciebie... Wydanie II</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1603/legalny-doping-emocjonalny.html">
+			<img class="cover" src="/s/cover/small/1603.jpg" alt="Legalny doping emocjonalny"/>
+		</a>
+		<a class="boo " href="/ksiazka1603/legalny-doping-emocjonalny.html">
+			<span class="title">Legalny doping emocjonalny</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1037/perswazja-nie-do-odrzucenia-sekretny-sposob-na-to-by-za-kazdym-razem-slyszec-tak.html">
+			<img class="cover" src="/s/cover/small/1037.jpg" alt="Perswazja nie do odrzucenia. Sekretny sposób na to, by za każdym razem słyszeć TAK"/>
+		</a>
+		<a class="boo " href="/ksiazka1037/perswazja-nie-do-odrzucenia-sekretny-sposob-na-to-by-za-kazdym-razem-slyszec-tak.html">
+			<span class="title">Perswazja nie do odrzucenia. Sekretny sposób na to, by za każdym razem słyszeć TAK</span>
+		</a>
+			<span class="author">Geoff Burch</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka702/perswazja-droga-do-osiagania-celow.html">
+			<img class="cover" src="/s/cover/small/702.jpg" alt="Perswazja. Droga do osiągania celów"/>
+		</a>
+		<a class="boo " href="/ksiazka702/perswazja-droga-do-osiagania-celow.html">
+			<span class="title">Perswazja. Droga do osiągania celów</span>
+		</a>
+			<span class="author">Tom Gorman</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka788/praktyka-przekonywania-czyli-jak-pozyskiwac-zwolennikow-dla-swoich-racji-i-propozycji.html">
+			<img class="cover" src="/s/cover/small/788.jpg" alt="Praktyka przekonywania, czyli jak pozyskiwać zwolenników dla swoich racji i propozycji"/>
+		</a>
+		<a class="boo " href="/ksiazka788/praktyka-przekonywania-czyli-jak-pozyskiwac-zwolennikow-dla-swoich-racji-i-propozycji.html">
+			<span class="title">Praktyka przekonywania, czyli jak pozyskiwać zwolenników dla swoich racji i propozycji</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2227/alphahuman.html">
+			<img class="cover" src="/s/cover/small/2227.jpg" alt="AlphaHuman"/>
+		</a>
+		<a class="boo " href="/ksiazka2227/alphahuman.html">
+			<span class="title">AlphaHuman</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1024/tajniki-magii-nlp-zbior-77-kluczowych-wzorcow.html">
+			<img class="cover" src="/s/cover/small/1024.jpg" alt="Tajniki magii NLP. Zbiór 77 kluczowych wzorców"/>
+		</a>
+		<a class="boo " href="/ksiazka1024/tajniki-magii-nlp-zbior-77-kluczowych-wzorcow.html">
+			<span class="title">Tajniki magii NLP. Zbiór 77 kluczowych wzorców</span>
+		</a>
+			<span class="author">L. Michael Hall</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1334/skuteczne-techniki-nlp.html">
+			<img class="cover" src="/s/cover/small/1334.jpg" alt="Skuteczne techniki NLP"/>
+		</a>
+		<a class="boo " href="/ksiazka1334/skuteczne-techniki-nlp.html">
+			<span class="title">Skuteczne techniki NLP</span>
+		</a>
+			<span class="author">Olaf Sawajner</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1365/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-audiotrening.html">
+			<img class="cover" src="/s/cover/small/1365.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Audiotrening"/>
+		</a>
+		<a class="boo " href="/ksiazka1365/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-audiotrening.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Audiotrening</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					21,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1809/strategie-geniuszy-mysl-jak-arystoteles-mozart-disney-i-sherlock-holmes.html">
+			<img class="cover" src="/s/cover/small/1809.jpg" alt="Strategie geniuszy. Myśl jak Arystoteles, Mozart, Disney i Sherlock Holmes"/>
+		</a>
+		<a class="boo " href="/ksiazka1809/strategie-geniuszy-mysl-jak-arystoteles-mozart-disney-i-sherlock-holmes.html">
+			<span class="title">Strategie geniuszy. Myśl jak Arystoteles, Mozart, Disney i Sherlock Holmes</span>
+		</a>
+			<span class="author">Robert B. Dilts</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1905/strategie-geniuszy-mysl-jak-albert-einstein.html">
+			<img class="cover" src="/s/cover/small/1905.jpg" alt="Strategie geniuszy. Myśl jak Albert Einstein"/>
+		</a>
+		<a class="boo " href="/ksiazka1905/strategie-geniuszy-mysl-jak-albert-einstein.html">
+			<span class="title">Strategie geniuszy. Myśl jak Albert Einstein</span>
+		</a>
+			<span class="author">Robert B. Dilts</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1879/inteligencja-perswazyjna-pq-poznaj-10-umiejetnosci-wywierania-wplywu.html">
+			<img class="cover" src="/s/cover/small/1879.jpg" alt="Inteligencja perswazyjna (PQ). Poznaj 10 *** umiejętności wywierania wpływu"/>
+		</a>
+		<a class="boo " href="/ksiazka1879/inteligencja-perswazyjna-pq-poznaj-10-umiejetnosci-wywierania-wplywu.html">
+			<span class="title">Inteligencja perswazyjna (PQ). Poznaj 10 *** umiejętności wywierania wpływu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					42,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1883/nlp-nowa-technika-osiagania-sukcesow-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1883.jpg" alt="NLP. Nowa technika osiągania sukcesów. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1883/nlp-nowa-technika-osiagania-sukcesow-wydanie-ii.html">
+			<span class="title">NLP. Nowa technika osiągania sukcesów. Wydanie II</span>
+		</a>
+			<span class="author">edited by Steve Andreas and Charles Faulkner, The NLP Comprehensive Training Team</span>
+			
+			<span class="price">
+				Cena:
+				
+					49&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1885/perswazja-podprogowa-zakazane-techniki-wplywania-na-ludzi.html">
+			<img class="cover" src="/s/cover/small/1885.jpg" alt="Perswazja podprogowa. Zakazane techniki wpływania na ludzi"/>
+		</a>
+		<a class="boo " href="/ksiazka1885/perswazja-podprogowa-zakazane-techniki-wplywania-na-ludzi.html">
+			<span class="title">Perswazja podprogowa. Zakazane techniki wpływania na ludzi</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					39&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1714/hiperswazja-czyli-jak-pisac-zabojczo-skuteczne-teksty-reklamowe.html">
+			<img class="cover" src="/s/cover/small/1714.jpg" alt="HIPERswazja, czyli jak pisać zabójczo skuteczne teksty reklamowe"/>
+		</a>
+		<a class="boo " href="/ksiazka1714/hiperswazja-czyli-jak-pisac-zabojczo-skuteczne-teksty-reklamowe.html">
+			<span class="title">HIPERswazja, czyli jak pisać zabójczo skuteczne teksty reklamowe</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1894/hipnotyzm-slowa-jak-podbijac-umysly-twoich-klientow-za-pomoca-perswazyjnych-tekstow.html">
+			<img class="cover" src="/s/cover/small/1894.jpg" alt="Hipnotyzm słowa. Jak podbijać umysły Twoich klientów za pomocą perswazyjnych tekstów"/>
+		</a>
+		<a class="boo " href="/ksiazka1894/hipnotyzm-slowa-jak-podbijac-umysly-twoich-klientow-za-pomoca-perswazyjnych-tekstow.html">
+			<span class="title">Hipnotyzm słowa. Jak podbijać umysły Twoich klientów za pomocą perswazyjnych tekstów</span>
+		</a>
+			<span class="author">Joe Vitale</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka792/nlp-ewolucja-przejdz-kolejny-etap-rozwoju-od-czlowieka-myslacego-do-czlowieka-szczesliwego.html">
+			<img class="cover" src="/s/cover/small/792.jpg" alt="NLP - EWOLUCJA. Przejdź kolejny etap rozwoju - od człowieka myślącego do człowieka szczęśliwego "/>
+		</a>
+		<a class="boo " href="/ksiazka792/nlp-ewolucja-przejdz-kolejny-etap-rozwoju-od-czlowieka-myslacego-do-czlowieka-szczesliwego.html">
+			<span class="title">NLP - EWOLUCJA. Przejdź kolejny etap rozwoju - od człowieka myślącego do człowieka szczęśliwego </span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka580/orez-perswazji-gesty-i-slowa-ktore-maja-moc.html">
+			<img class="cover" src="/s/cover/small/580.jpg" alt="Oręż perswazji. Gesty i słowa, które mają moc "/>
+		</a>
+		<a class="boo " href="/ksiazka580/orez-perswazji-gesty-i-slowa-ktore-maja-moc.html">
+			<span class="title">Oręż perswazji. Gesty i słowa, które mają moc </span>
+		</a>
+			<span class="author">Joseph Messinger</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1348/nlp-w-szkole-skrzynka-narzedziowa-dla-nauczyciela.html">
+			<img class="cover" src="/s/cover/small/1348.jpg" alt="NLP w szkole. Skrzynka narzędziowa dla nauczyciela"/>
+		</a>
+		<a class="boo " href="/ksiazka1348/nlp-w-szkole-skrzynka-narzedziowa-dla-nauczyciela.html">
+			<span class="title">NLP w szkole. Skrzynka narzędziowa dla nauczyciela</span>
+		</a>
+			<span class="author">Richard Churches, Roger Terry</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1087/zafascynuj-ich-7-metod-na-skuteczna-perswazje-i-wzbudzanie-zachwytu.html">
+			<img class="cover" src="/s/cover/small/1087.jpg" alt="Zafascynuj ich! 7 metod na skuteczną perswazję i wzbudzanie zachwytu"/>
+		</a>
+		<a class="boo " href="/ksiazka1087/zafascynuj-ich-7-metod-na-skuteczna-perswazje-i-wzbudzanie-zachwytu.html">
+			<span class="title">Zafascynuj ich! 7 metod na skuteczną perswazję i wzbudzanie zachwytu</span>
+		</a>
+			<span class="author">Sally Hogshead</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1616/haker-umyslow.html">
+			<img class="cover" src="/s/cover/small/1616.jpg" alt="Haker umysłów"/>
+		</a>
+		<a class="boo " href="/ksiazka1616/haker-umyslow.html">
+			<span class="title">Haker umysłów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1726/rozgromic-konkurencje-sprawdzone-w-boju-strategie-dowodzenia-motywowania-i-zwyciezania.html">
+			<img class="cover" src="/s/cover/small/1726.jpg" alt="RozGROMić konkurencję. Sprawdzone w boju strategie dowodzenia, motywowania i zwyciężania"/>
+		</a>
+		<a class="boo " href="/ksiazka1726/rozgromic-konkurencje-sprawdzone-w-boju-strategie-dowodzenia-motywowania-i-zwyciezania.html">
+			<span class="title">RozGROMić konkurencję. Sprawdzone w boju strategie dowodzenia, motywowania i zwyciężania</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2030/haker-umyslow.html">
+			<img class="cover" src="/s/cover/small/2030.jpg" alt="Haker umysłów"/>
+		</a>
+		<a class="boo " href="/ksiazka2030/haker-umyslow.html">
+			<span class="title">Haker umysłów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1619/klucz-do-pozytywnego-myslenia-wedlug-napoleona-hilla.html">
+			<img class="cover" src="/s/cover/small/1619.jpg" alt="Klucz do pozytywnego myślenia według Napoleona Hilla"/>
+		</a>
+		<a class="boo " href="/ksiazka1619/klucz-do-pozytywnego-myslenia-wedlug-napoleona-hilla.html">
+			<span class="title">Klucz do pozytywnego myślenia według Napoleona Hilla</span>
+		</a>
+			<span class="author">Michael J. Ritt, Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">21,99&nbsp;zł</span>
+					<span class="promo">17,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1624/kiedy-kropla-drazy-skale-czyli-droga-do-mistrzostwa-w-komunikacji-perswazyjnej.html">
+			<img class="cover" src="/s/cover/small/1624.jpg" alt="Kiedy kropla drąży skałę, czyli droga do mistrzostwa w komunikacji perswazyjnej"/>
+		</a>
+		<a class="boo " href="/ksiazka1624/kiedy-kropla-drazy-skale-czyli-droga-do-mistrzostwa-w-komunikacji-perswazyjnej.html">
+			<span class="title">Kiedy kropla drąży skałę, czyli droga do mistrzostwa w komunikacji perswazyjnej</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1715/kompendium-technik-perswazyjnych.html">
+			<img class="cover" src="/s/cover/small/1715.jpg" alt="Kompendium technik perswazyjnych"/>
+		</a>
+		<a class="boo " href="/ksiazka1715/kompendium-technik-perswazyjnych.html">
+			<span class="title">Kompendium technik perswazyjnych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1702/czarna-ksiega-perswazji-uzywaj-nlp-by-zdobyc-wszystko-czego-pragniesz.html">
+			<img class="cover" src="/s/cover/small/1702.jpg" alt="Czarna księga perswazji. Używaj NLP, by zdobyć wszystko, czego pragniesz"/>
+		</a>
+		<a class="boo " href="/ksiazka1702/czarna-ksiega-perswazji-uzywaj-nlp-by-zdobyc-wszystko-czego-pragniesz.html">
+			<span class="title">Czarna księga perswazji. Używaj NLP, by zdobyć wszystko, czego pragniesz</span>
+		</a>
+			<span class="author">Rintu Basu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2040/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji.html">
+			<img class="cover" src="/s/cover/small/2040.jpg" alt="SZTUKA PERSWAZJI, czyli język wpływu i manipulacji"/>
+		</a>
+		<a class="boo " href="/ksiazka2040/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji.html">
+			<span class="title">SZTUKA PERSWAZJI, czyli język wpływu i manipulacji</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1654/potega-perswazyjnej-komunikacji-jak-wplywac-na-ludzi-aby-zawsze-slyszec-quottakquot.html">
+			<img class="cover" src="/s/cover/small/1654.jpg" alt="Potęga perswazyjnej komunikacji. Jak wpływać na ludzi, aby zawsze słyszeć &quot;TAK!&quot;"/>
+		</a>
+		<a class="boo " href="/ksiazka1654/potega-perswazyjnej-komunikacji-jak-wplywac-na-ludzi-aby-zawsze-slyszec-quottakquot.html">
+			<span class="title">Potęga perswazyjnej komunikacji. Jak wpływać na ludzi, aby zawsze słyszeć &quot;TAK!&quot;</span>
+		</a>
+			<span class="author">Tonya Reiman</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka2065/haker-umyslow.html">
+			<img class="cover" src="/s/cover/small/2065.jpg" alt="Haker umysłów"/>
+		</a>
+		<a class="boo last" href="/ksiazka2065/haker-umyslow.html">
+			<span class="title">Haker umysłów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka2069/biblia-nlp-wydanie-rozszerzone-ponad-350-wzorcow-metod-i-strategii-programowania-neurolingwistycznego.html">
+			<img class="cover" src="/s/cover/small/2069.jpg" alt="Biblia NLP. Wydanie rozszerzone, ponad 350 wzorców, metod i strategii programowania neurolingwistycznego"/>
+		</a>
+		<a class="boo last" href="/ksiazka2069/biblia-nlp-wydanie-rozszerzone-ponad-350-wzorcow-metod-i-strategii-programowania-neurolingwistycznego.html">
+			<span class="title">Biblia NLP. Wydanie rozszerzone, ponad 350 wzorców, metod i strategii programowania neurolingwistycznego</span>
+		</a>
+			<span class="author">Shlomo Vaknin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">99&nbsp;zł</span>
+					<span class="promo">79,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+	</div>
+</div>
+
+
+	</div>
+	<div id="menu">
+		<div class="top"></div>
+			
+			
+			<a href="/promocje/">Promocje</a>
+			
+			<a href="/nowosci/">Nowości</a>
+			
+			<a href="/bestsellery/">Bestsellery</a>
+			
+			<a href="/przedsprzedaz/">Przedsprzedaż</a>
+		
+			
+			<a href="/temat12/bizneswoman.html">Bizneswoman</a>
+		
+			
+			<a href="/temat18/controlling.html">Controlling</a>
+		
+			
+			<a href="/temat15/e-biznes.html">E-biznes</a>
+		
+			
+			<a href="/temat22/ebooki.html">eBooki</a>
+		
+			
+			<a href="/temat17/ekonomia.html">Ekonomia</a>
+		
+			
+			<a href="/temat13/finanse.html">Finanse</a>
+		
+			
+			<a href="/temat16/gielda-i-inwestycje.html">Giełda i inwestycje</a>
+		
+			
+			<a href="/temat8/kompetencje-osobiste.html">Kompetencje osobiste</a>
+		
+			
+			<a href="/temat4/komputer-w-biurze.html">Komputer w biurze</a>
+		
+			
+			<a href="/temat2/komunikacja-i-negocjacje.html">Komunikacja i negocjacje</a>
+		
+			
+			<a href="/temat7/mala-firma.html">Mała firma</a>
+		
+			
+			<a href="/temat6/marketing.html">Marketing</a>
+		
+			
+			<a href="/temat19/multimedialne-szkolenia.html">Multimedialne szkolenia</a>
+		
+			
+			<a href="/temat11/obsluga-klienta.html">Obsługa klienta</a>
+		
+			
+			<a href="/temat20/perswazja-i-nlp.html" class="active">Perswazja i NLP</a>
+		
+			
+			<a href="/temat10/przywodztwo.html">Przywództwo</a>
+		
+			
+			<a href="/temat21/public-relations.html">Public Relations</a>
+		
+			
+			<a href="/temat24/sekret.html">Sekret</a>
+		
+			
+			<a href="/temat28/social-media.html">Social Media</a>
+		
+			
+			<a href="/temat1/sprzedaz.html">Sprzedaż</a>
+		
+			
+			<a href="/temat9/twoja-kariera.html">Twoja kariera</a>
+		
+			
+			<a href="/temat5/zarzadzanie.html">Zarządzanie</a>
+		
+			
+			<a href="/temat14/zarzadzanie-projektami.html">Zarządzanie projektami</a>
+		
+			
+			<a href="/temat3/zasoby-ludzkie-hr.html">Zasoby ludzkie (HR)</a>
+		
+		<div class="bottom"></div>
+	</div>
+</div>
+
+
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-325086-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+

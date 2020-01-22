@@ -1,0 +1,2615 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Komunikacja i negocjacje: Księgarnia Bankier.pl</title>
+	<meta name="description" content="Księgarnia bankier.pl - książki dla biznesu i nie tylko."/>
+	<link rel="shortcut icon" href="http://www.bankier.pl/favicon.ico" type="image/x-icon"/>
+	<link href="/s/style.css?v=7" rel="stylesheet" type="text/css" media="screen"/>
+    <script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+    <noscript>
+        <div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+            text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+            text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+            <div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+                Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+                z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+                Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+            </div>
+        </div>
+    </noscript>
+
+
+
+	
+	
+	<!-- (C)2000-2009 Gemius SA - gemiusTraffic / ver 11.1 / ksiegarnia_pozostale --> 
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var gemius_identifier = new String('AkTrsutX7HoCGwslBuULPsRpLVVKKmbNbDo489YWyfv.k7');
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://www.bankier.pl/inc/js/gemius.js"></script>
+	
+	
+	
+	<!-- (C) 2000-2009 Gemius SA - gemiusAudience / ver 11.1 / adnet.bankier / Ksiegarnia-->
+	<script type="text/javascript">
+	 <!--//--><![CDATA[//><!--
+	var pp_gemius_identifier ='za01ZONWwSNq9wS8lPPx4reOLd_kNOcSlGWIIc19ul7.F7';
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://arbo.hit.gemius.pl/xgemius.js"></script>
+
+
+</head>
+<body id="bn_lifestyle">
+
+<link href="http://s01.bankier.pl/s/ksiegarnia.css" rel="stylesheet" type="text/css" />
+
+<div id="bn_header" style="position: relative; z-index: 100; height:120px;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Fcontent%2Fksiegarnia%2Fheader_new.html" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/bankiertv-index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li class="selected"><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+
+
+
+<div id="ksiegarnia">
+	<div id="content">
+		<div id="search">
+			<div class="top"></div>
+			<form action="/szukaj/">
+				<div>
+					Szukaj:
+					<input name="q" size="30"/>
+					<input type="submit" value="szukaj" />
+				</div>
+			</form>
+			<div class="bottom"></div>
+		</div>
+		
+
+
+
+
+
+
+<p class="lead">Wiosenne porządki na Onepress.pl [20% rabatu na całą ofertę]</p>
+
+
+
+
+<div class="box">
+	<div class="pre-title"></div><div class="box-title">Komunikacja i negocjacje</div><div class="post-title"></div>
+	<div class="content">
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1366/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<img class="cover" src="/s/cover/small/1366.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego"/>
+		</a>
+		<a class="boo " href="/ksiazka1366/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka836/etykieta-w-biznesie.html">
+			<img class="cover" src="/s/cover/small/836.jpg" alt="Etykieta w biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka836/etykieta-w-biznesie.html">
+			<span class="title">Etykieta w biznesie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka979/mistrzowskie-prezentacje-slajdowy-poradnik-mowcy-doskonalego.html">
+			<img class="cover" src="/s/cover/small/979.jpg" alt="Mistrzowskie prezentacje slajdowy poradnik mówcy doskonałego"/>
+		</a>
+		<a class="boo " href="/ksiazka979/mistrzowskie-prezentacje-slajdowy-poradnik-mowcy-doskonalego.html">
+			<span class="title">Mistrzowskie prezentacje slajdowy poradnik mówcy doskonałego</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka579/wystapienia-publiczne-osobisty-mentor-harvard-business-school-press.html">
+			<img class="cover" src="/s/cover/small/579.jpg" alt="Wystąpienia publiczne. Osobisty mentor -- Harvard Business School Press"/>
+		</a>
+		<a class="boo " href="/ksiazka579/wystapienia-publiczne-osobisty-mentor-harvard-business-school-press.html">
+			<span class="title">Wystąpienia publiczne. Osobisty mentor -- Harvard Business School Press</span>
+		</a>
+			<span class="author">Harvard Business, Nick Morgan</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka828/psychologia-zmiany-rzecz-dla-wscieknietych-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/828.jpg" alt="Psychologia zmiany. Rzecz dla wściekniętych. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka828/psychologia-zmiany-rzecz-dla-wscieknietych-wydanie-ii-rozszerzone.html">
+			<span class="title">Psychologia zmiany. Rzecz dla wściekniętych. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					29&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1072/sztuka-wojny-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1072.jpg" alt="Sztuka Wojny. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1072/sztuka-wojny-wydanie-ii.html">
+			<span class="title">Sztuka Wojny. Wydanie II</span>
+		</a>
+			<span class="author">Sun Pin, Sun Tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka392/33-techniki-negocjowania-i-argumentacji.html">
+			<img class="cover" src="/s/cover/small/392.jpg" alt="33 techniki negocjowania i argumentacji"/>
+		</a>
+		<a class="boo " href="/ksiazka392/33-techniki-negocjowania-i-argumentacji.html">
+			<span class="title">33 techniki negocjowania i argumentacji</span>
+		</a>
+			<span class="author">Vĕra Bĕlohlávková</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">14,90&nbsp;zł</span>
+					<span class="promo">11,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka914/inteligencja-perswazyjna-pq-poznaj-10-umiejetnosci-wywierania-wplywu.html">
+			<img class="cover" src="/s/cover/small/914.jpg" alt="Inteligencja perswazyjna (PQ). Poznaj 10 *** umiejętności wywierania wpływu"/>
+		</a>
+		<a class="boo " href="/ksiazka914/inteligencja-perswazyjna-pq-poznaj-10-umiejetnosci-wywierania-wplywu.html">
+			<span class="title">Inteligencja perswazyjna (PQ). Poznaj 10 *** umiejętności wywierania wpływu</span>
+		</a>
+			<span class="author">Kurt Mortensen</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka817/tymysl-inaczej-zrobia-to-za-ciebie-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/817.jpg" alt="TyMyśl. Inaczej zrobią to za Ciebie... Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka817/tymysl-inaczej-zrobia-to-za-ciebie-wydanie-ii.html">
+			<span class="title">TyMyśl. Inaczej zrobią to za Ciebie... Wydanie II</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					27&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka578/zrecznosc-ust-hipnotyczna-sprzedaz-i-negocjacje.html">
+			<img class="cover" src="/s/cover/small/578.jpg" alt="Zręczność ust. Hipnotyczna sprzedaż i negocjacje"/>
+		</a>
+		<a class="boo " href="/ksiazka578/zrecznosc-ust-hipnotyczna-sprzedaz-i-negocjacje.html">
+			<span class="title">Zręczność ust. Hipnotyczna sprzedaż i negocjacje</span>
+		</a>
+			<span class="author">Adam Eason</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1402/socjotechnika-sztuka-zdobywania-wladzy-nad-umyslami.html">
+			<img class="cover" src="/s/cover/small/1402.jpg" alt="Socjotechnika. Sztuka zdobywania władzy nad umysłami"/>
+		</a>
+		<a class="boo " href="/ksiazka1402/socjotechnika-sztuka-zdobywania-wladzy-nad-umyslami.html">
+			<span class="title">Socjotechnika. Sztuka zdobywania władzy nad umysłami</span>
+		</a>
+			<span class="author">Christopher Hadnagy</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka732/sto-niekonwencjonalnych-strategii-zasady-sztuki-wojennej.html">
+			<img class="cover" src="/s/cover/small/732.jpg" alt="Sto niekonwencjonalnych strategii. Zasady sztuki wojennej"/>
+		</a>
+		<a class="boo " href="/ksiazka732/sto-niekonwencjonalnych-strategii-zasady-sztuki-wojennej.html">
+			<span class="title">Sto niekonwencjonalnych strategii. Zasady sztuki wojennej</span>
+		</a>
+			<span class="author">Chi Liu, Ralph D. Sawyer</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka529/wstretni-szefowie-jak-nie-pozwolic-im-sie-dluzej-ranic-bez-znizania-sie-do-ich-poziomu.html">
+			<img class="cover" src="/s/cover/small/529.jpg" alt="Wstrętni szefowie. Jak nie pozwolić im się dłużej ranić bez zniżania się do ich poziomu"/>
+		</a>
+		<a class="boo " href="/ksiazka529/wstretni-szefowie-jak-nie-pozwolic-im-sie-dluzej-ranic-bez-znizania-sie-do-ich-poziomu.html">
+			<span class="title">Wstrętni szefowie. Jak nie pozwolić im się dłużej ranić bez zniżania się do ich poziomu</span>
+		</a>
+			<span class="author">Jay Carter</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24&nbsp;zł</span>
+					<span class="promo">19,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka575/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-w-praktyce-ebook.html">
+			<img class="cover" src="/s/cover/small/575.jpg" alt="SZTUKA PERSWAZJI, czyli język wpływu i manipulacji w praktyce. eBook"/>
+		</a>
+		<a class="boo " href="/ksiazka575/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-w-praktyce-ebook.html">
+			<span class="title">SZTUKA PERSWAZJI, czyli język wpływu i manipulacji w praktyce. eBook</span>
+		</a>
+			<span class="author">Andrzej Batko</span>
+			
+			<span class="price">
+				Cena:
+				
+					24,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka266/sztuka-wojny-wydanie-ekskluzywne.html">
+			<img class="cover" src="/s/cover/small/266.jpg" alt="Sztuka wojny (wydanie ekskluzywne)"/>
+		</a>
+		<a class="boo " href="/ksiazka266/sztuka-wojny-wydanie-ekskluzywne.html">
+			<span class="title">Sztuka wojny (wydanie ekskluzywne)</span>
+		</a>
+			<span class="author">Sun Pin, Sun Tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">79&nbsp;zł</span>
+					<span class="promo">63,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka976/wyznania-mowcy-spraw-by-ludzie-cie-sluchali.html">
+			<img class="cover" src="/s/cover/small/976.jpg" alt="Wyznania mówcy. Spraw, by ludzie Cię słuchali"/>
+		</a>
+		<a class="boo " href="/ksiazka976/wyznania-mowcy-spraw-by-ludzie-cie-sluchali.html">
+			<span class="title">Wyznania mówcy. Spraw, by ludzie Cię słuchali</span>
+		</a>
+			<span class="author">Scott Berkun</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka248/poradnik-korporacyjnego-szczura.html">
+			<img class="cover" src="/s/cover/small/248.jpg" alt="Poradnik korporacyjnego szczura"/>
+		</a>
+		<a class="boo " href="/ksiazka248/poradnik-korporacyjnego-szczura.html">
+			<span class="title">Poradnik korporacyjnego szczura</span>
+		</a>
+			<span class="author">Joep P. M. Schrijvers</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1382/tajniki-wystapien-publicznych-101-porad-dla-prezenterow.html">
+			<img class="cover" src="/s/cover/small/1382.jpg" alt="Tajniki wystąpień publicznych. 101 porad dla prezenterów"/>
+		</a>
+		<a class="boo " href="/ksiazka1382/tajniki-wystapien-publicznych-101-porad-dla-prezenterow.html">
+			<span class="title">Tajniki wystąpień publicznych. 101 porad dla prezenterów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka980/musimy-pogadac-trudne-rozmowy-z-szefem.html">
+			<img class="cover" src="/s/cover/small/980.jpg" alt="Musimy pogadać. Trudne rozmowy z szefem"/>
+		</a>
+		<a class="boo " href="/ksiazka980/musimy-pogadac-trudne-rozmowy-z-szefem.html">
+			<span class="title">Musimy pogadać. Trudne rozmowy z szefem</span>
+		</a>
+			<span class="author">Lynne Eisaguirre</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka147/w-zasiegu-jednego-telefonu-tajemnice-mistrza-kontaktow.html">
+			<img class="cover" src="/s/cover/small/147.jpg" alt="W zasięgu jednego telefonu. Tajemnice mistrza kontaktów"/>
+		</a>
+		<a class="boo " href="/ksiazka147/w-zasiegu-jednego-telefonu-tajemnice-mistrza-kontaktow.html">
+			<span class="title">W zasięgu jednego telefonu. Tajemnice mistrza kontaktów</span>
+		</a>
+			<span class="author">Douglas Garr, Jeffrey W. Meshel</span>
+			
+			<span class="price">
+				Cena:
+				
+					33&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka653/wychodzac-od-nie-negocjacje-dla-twardzieli-takich-jak-ty.html">
+			<img class="cover" src="/s/cover/small/653.jpg" alt="Wychodząc od NIE. Negocjacje dla twardzieli takich jak Ty"/>
+		</a>
+		<a class="boo " href="/ksiazka653/wychodzac-od-nie-negocjacje-dla-twardzieli-takich-jak-ty.html">
+			<span class="title">Wychodząc od NIE. Negocjacje dla twardzieli takich jak Ty</span>
+		</a>
+			<span class="author">Jim Camp</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka546/zwycieskie-negocjacje-osobisty-mentor-harvard-business-school-press.html">
+			<img class="cover" src="/s/cover/small/546.jpg" alt="Zwycięskie negocjacje. Osobisty mentor -- Harvard Business School Press"/>
+		</a>
+		<a class="boo " href="/ksiazka546/zwycieskie-negocjacje-osobisty-mentor-harvard-business-school-press.html">
+			<span class="title">Zwycięskie negocjacje. Osobisty mentor -- Harvard Business School Press</span>
+		</a>
+			<span class="author">Harvard Business, Marjorie Corman Aaron</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1969/sztuka-wojny-wydanie-iii.html">
+			<img class="cover" src="/s/cover/small/1969.jpg" alt="Sztuka wojny. Wydanie III"/>
+		</a>
+		<a class="boo " href="/ksiazka1969/sztuka-wojny-wydanie-iii.html">
+			<span class="title">Sztuka wojny. Wydanie III</span>
+		</a>
+			<span class="author">Sun-tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka623/sekrety-retoryki-reguly-skutecznej-komunikacji.html">
+			<img class="cover" src="/s/cover/small/623.jpg" alt="Sekrety retoryki. Reguły skutecznej komunikacji"/>
+		</a>
+		<a class="boo " href="/ksiazka623/sekrety-retoryki-reguly-skutecznej-komunikacji.html">
+			<span class="title">Sekrety retoryki. Reguły skutecznej komunikacji</span>
+		</a>
+			<span class="author">Karsten Bredemeier</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka781/mowca-doskonaly-wystapienia-publiczne-w-praktyce.html">
+			<img class="cover" src="/s/cover/small/781.jpg" alt="Mówca doskonały. Wystąpienia publiczne w praktyce"/>
+		</a>
+		<a class="boo " href="/ksiazka781/mowca-doskonaly-wystapienia-publiczne-w-praktyce.html">
+			<span class="title">Mówca doskonały. Wystąpienia publiczne w praktyce</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1606/erystyka-sztuka-prowadzenia-sporow.html">
+			<img class="cover" src="/s/cover/small/1606.jpg" alt="Erystyka. Sztuka prowadzenia sporów"/>
+		</a>
+		<a class="boo " href="/ksiazka1606/erystyka-sztuka-prowadzenia-sporow.html">
+			<span class="title">Erystyka. Sztuka prowadzenia sporów</span>
+		</a>
+			<span class="author">Arthur Schopenhauer</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">7,90&nbsp;zł</span>
+					<span class="promo">6,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka875/syndrom-milego-czlowieka-jak-osiagnac-sukces-pozostajac-soba.html">
+			<img class="cover" src="/s/cover/small/875.jpg" alt="Syndrom miłego człowieka. Jak osiągnąć sukces pozostając sobą"/>
+		</a>
+		<a class="boo " href="/ksiazka875/syndrom-milego-czlowieka-jak-osiagnac-sukces-pozostajac-soba.html">
+			<span class="title">Syndrom miłego człowieka. Jak osiągnąć sukces pozostając sobą</span>
+		</a>
+			<span class="author">Charles C. Manz, Russ C. Edelman, Timothy R. Hiltabiddle</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka755/sekretny-jezyk-biznesu-rozszyfruj-kazdego-w-3-sekundy.html">
+			<img class="cover" src="/s/cover/small/755.jpg" alt="Sekretny język biznesu. Rozszyfruj każdego w 3 sekundy"/>
+		</a>
+		<a class="boo " href="/ksiazka755/sekretny-jezyk-biznesu-rozszyfruj-kazdego-w-3-sekundy.html">
+			<span class="title">Sekretny język biznesu. Rozszyfruj każdego w 3 sekundy</span>
+		</a>
+			<span class="author">Kevin Hogan</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka524/trening-egoizmu-twoje-decyzje-na-przekor-manipulacji.html">
+			<img class="cover" src="/s/cover/small/524.jpg" alt="Trening egoizmu. Twoje decyzje na przekór manipulacji"/>
+		</a>
+		<a class="boo " href="/ksiazka524/trening-egoizmu-twoje-decyzje-na-przekor-manipulacji.html">
+			<span class="title">Trening egoizmu. Twoje decyzje na przekór manipulacji</span>
+		</a>
+			<span class="author">Josef Kirschner</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24&nbsp;zł</span>
+					<span class="promo">19,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1364/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-wideowyklad.html">
+			<img class="cover" src="/s/cover/small/1364.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Wideowykład"/>
+		</a>
+		<a class="boo " href="/ksiazka1364/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-wideowyklad.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Wideowykład</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka874/wyzsza-szkola-skutecznej-retoryki.html">
+			<img class="cover" src="/s/cover/small/874.jpg" alt="Wyższa szkoła skutecznej retoryki"/>
+		</a>
+		<a class="boo " href="/ksiazka874/wyzsza-szkola-skutecznej-retoryki.html">
+			<span class="title">Wyższa szkoła skutecznej retoryki</span>
+		</a>
+			<span class="author">Gloria Beck</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1962/sztuka-wojny-wydanie-iii-twarda-oprawa.html">
+			<img class="cover" src="/s/cover/small/1962.jpg" alt="Sztuka wojny. Wydanie III (twarda oprawa)"/>
+		</a>
+		<a class="boo " href="/ksiazka1962/sztuka-wojny-wydanie-iii-twarda-oprawa.html">
+			<span class="title">Sztuka wojny. Wydanie III (twarda oprawa)</span>
+		</a>
+			<span class="author">Sun-tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1075/zen-prezentacji-pomysly-i-projekty-jasne-zasady-i-techniki-tworzenia-doskonalych-prezentacji.html">
+			<img class="cover" src="/s/cover/small/1075.jpg" alt="Zen prezentacji - pomysły i projekty. Jasne zasady i techniki tworzenia doskonałych prezentacji"/>
+		</a>
+		<a class="boo " href="/ksiazka1075/zen-prezentacji-pomysly-i-projekty-jasne-zasady-i-techniki-tworzenia-doskonalych-prezentacji.html">
+			<span class="title">Zen prezentacji - pomysły i projekty. Jasne zasady i techniki tworzenia doskonałych prezentacji</span>
+		</a>
+			<span class="author">Garr Reynolds</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka107/badz-asertywny-jak-dojsc-do-glosu-i-zaznaczyc-swoja-obecnosc.html">
+			<img class="cover" src="/s/cover/small/107.jpg" alt="Bądź asertywny. Jak dojść do głosu i zaznaczyć swoją obecność"/>
+		</a>
+		<a class="boo " href="/ksiazka107/badz-asertywny-jak-dojsc-do-glosu-i-zaznaczyc-swoja-obecnosc.html">
+			<span class="title">Bądź asertywny. Jak dojść do głosu i zaznaczyć swoją obecność</span>
+		</a>
+			<span class="author">Kathy Rooney</span>
+			
+			<span class="price">
+				Cena:
+				
+					19,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka605/zaslona-dymna-jak-naginac-fakty-i-liczby-dla-swoich-potrzeb.html">
+			<img class="cover" src="/s/cover/small/605.jpg" alt="Zasłona dymna. Jak naginać fakty i liczby dla swoich potrzeb"/>
+		</a>
+		<a class="boo " href="/ksiazka605/zaslona-dymna-jak-naginac-fakty-i-liczby-dla-swoich-potrzeb.html">
+			<span class="title">Zasłona dymna. Jak naginać fakty i liczby dla swoich potrzeb</span>
+		</a>
+			<span class="author">Nicholas Strange</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka940/chron-swoje-nerwy-rzecz-o-tym-jak-wspolpracowac-z-palantami-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/940.jpg" alt="Chroń swoje nerwy. Rzecz o tym, jak współpracować z palantami. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka940/chron-swoje-nerwy-rzecz-o-tym-jak-wspolpracowac-z-palantami-wydanie-ii.html">
+			<span class="title">Chroń swoje nerwy. Rzecz o tym, jak współpracować z palantami. Wydanie II</span>
+		</a>
+			<span class="author">Ken Lloyd</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka368/werbalna-prowokacja-posluguj-sie-retoryka-ostra-jak-brzytwa.html">
+			<img class="cover" src="/s/cover/small/368.jpg" alt="Werbalna prowokacja. Posługuj się retoryką ostrą jak brzytwa"/>
+		</a>
+		<a class="boo " href="/ksiazka368/werbalna-prowokacja-posluguj-sie-retoryka-ostra-jak-brzytwa.html">
+			<span class="title">Werbalna prowokacja. Posługuj się retoryką ostrą jak brzytwa</span>
+		</a>
+			<span class="author">Karsten Bredemeier</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka515/mistrz-cietej-riposty.html">
+			<img class="cover" src="/s/cover/small/515.jpg" alt="Mistrz ciętej riposty"/>
+		</a>
+		<a class="boo " href="/ksiazka515/mistrz-cietej-riposty.html">
+			<span class="title">Mistrz ciętej riposty</span>
+		</a>
+			<span class="author">Lisa Frankfort, Patrick Fanning</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">18,99&nbsp;zł</span>
+					<span class="promo">15,19&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka774/nietoksyczne-negocjacje.html">
+			<img class="cover" src="/s/cover/small/774.jpg" alt="NIEtoksyczne negocjacje"/>
+		</a>
+		<a class="boo " href="/ksiazka774/nietoksyczne-negocjacje.html">
+			<span class="title">NIEtoksyczne negocjacje</span>
+		</a>
+			<span class="author">Roger Fisher, Scott Brown</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka506/sila-argumentow-sztuka-konwersacji-i-potyczki-jezykowe.html">
+			<img class="cover" src="/s/cover/small/506.jpg" alt="Siła argumentów. Sztuka konwersacji i potyczki językowe"/>
+		</a>
+		<a class="boo " href="/ksiazka506/sila-argumentow-sztuka-konwersacji-i-potyczki-jezykowe.html">
+			<span class="title">Siła argumentów. Sztuka konwersacji i potyczki językowe</span>
+		</a>
+			<span class="author">Angela Watrous, Carole Honeychurch</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24&nbsp;zł</span>
+					<span class="promo">19,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1091/naucz-ich-jak-maja-cie-traktowac-praktyczny-podrecznik-asertywnosci.html">
+			<img class="cover" src="/s/cover/small/1091.jpg" alt="Naucz ich, jak mają Cię traktować! Praktyczny podręcznik asertywności"/>
+		</a>
+		<a class="boo " href="/ksiazka1091/naucz-ich-jak-maja-cie-traktowac-praktyczny-podrecznik-asertywnosci.html">
+			<span class="title">Naucz ich, jak mają Cię traktować! Praktyczny podręcznik asertywności</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1107/jednominutowy-negocjator-proste-sposoby-na-korzystniejsze-kontrakty.html">
+			<img class="cover" src="/s/cover/small/1107.jpg" alt="Jednominutowy Negocjator. Proste sposoby na korzystniejsze kontrakty"/>
+		</a>
+		<a class="boo " href="/ksiazka1107/jednominutowy-negocjator-proste-sposoby-na-korzystniejsze-kontrakty.html">
+			<span class="title">Jednominutowy Negocjator. Proste sposoby na korzystniejsze kontrakty</span>
+		</a>
+			<span class="author">Don Hutson, George Lucas</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1890/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<img class="cover" src="/s/cover/small/1890.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego"/>
+		</a>
+		<a class="boo " href="/ksiazka1890/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1537/psychologia-tlumu-studium-powszechnego-umyslu.html">
+			<img class="cover" src="/s/cover/small/1537.jpg" alt="Psychologia tłumu. Studium powszechnego umysłu"/>
+		</a>
+		<a class="boo " href="/ksiazka1537/psychologia-tlumu-studium-powszechnego-umyslu.html">
+			<span class="title">Psychologia tłumu. Studium powszechnego umysłu</span>
+		</a>
+			<span class="author">Gustave Le Bon</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1360/prezenter-bez-tajemnic-naga-prawda-o-sile-slowa-i-mocy-slajdow.html">
+			<img class="cover" src="/s/cover/small/1360.jpg" alt="PreZENter bez tajemnic. Naga prawda o sile słowa  i mocy slajdów"/>
+		</a>
+		<a class="boo " href="/ksiazka1360/prezenter-bez-tajemnic-naga-prawda-o-sile-slowa-i-mocy-slajdow.html">
+			<span class="title">PreZENter bez tajemnic. Naga prawda o sile słowa  i mocy slajdów</span>
+		</a>
+			<span class="author">Garr Reynolds</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1607/etykieta-w-biznesie.html">
+			<img class="cover" src="/s/cover/small/1607.jpg" alt="Etykieta w biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka1607/etykieta-w-biznesie.html">
+			<span class="title">Etykieta w biznesie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka533/8-dogmatow-wywierania-wplywu.html">
+			<img class="cover" src="/s/cover/small/533.jpg" alt="8 dogmatów wywierania wpływu"/>
+		</a>
+		<a class="boo " href="/ksiazka533/8-dogmatow-wywierania-wplywu.html">
+			<span class="title">8 dogmatów wywierania wpływu</span>
+		</a>
+			<span class="author">Josef Kirschner</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24&nbsp;zł</span>
+					<span class="promo">19,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1758/alchemia-manipulacji-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1758.jpg" alt="Alchemia manipulacji. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1758/alchemia-manipulacji-wydanie-ii.html">
+			<span class="title">Alchemia manipulacji. Wydanie II</span>
+		</a>
+			<span class="author">John La Valle, Richard Bandler</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka502/prezentacje-jak-wywolac-najlepsze-wrazenie.html">
+			<img class="cover" src="/s/cover/small/502.jpg" alt="Prezentacje. Jak wywołać najlepsze wrażenie"/>
+		</a>
+		<a class="boo " href="/ksiazka502/prezentacje-jak-wywolac-najlepsze-wrazenie.html">
+			<span class="title">Prezentacje. Jak wywołać najlepsze wrażenie</span>
+		</a>
+			<span class="author">Thomas Wieke</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka583/wiadro-pelne-galaretki-odkryj-sekrety-doskonalej-komunikacji-w-biznesie.html">
+			<img class="cover" src="/s/cover/small/583.jpg" alt="Wiadro pełne galaretki. Odkryj sekrety doskonałej komunikacji w biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka583/wiadro-pelne-galaretki-odkryj-sekrety-doskonalej-komunikacji-w-biznesie.html">
+			<span class="title">Wiadro pełne galaretki. Odkryj sekrety doskonałej komunikacji w biznesie</span>
+		</a>
+			<span class="author">Andy Bounds</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka414/w-krzyzowym-ogniu-pytan-sztuka-odpowiedzi-na-trudne-pytania.html">
+			<img class="cover" src="/s/cover/small/414.jpg" alt="W krzyżowym ogniu pytań. Sztuka odpowiedzi na trudne pytania"/>
+		</a>
+		<a class="boo " href="/ksiazka414/w-krzyzowym-ogniu-pytan-sztuka-odpowiedzi-na-trudne-pytania.html">
+			<span class="title">W krzyżowym ogniu pytań. Sztuka odpowiedzi na trudne pytania</span>
+		</a>
+			<span class="author">Jerry Weissman</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka142/pokonywanie-przeszkod-przypowiesc-o-tym-jak-poskromic-smoka-konfliktu.html">
+			<img class="cover" src="/s/cover/small/142.jpg" alt="Pokonywanie przeszkód. Przypowieść o tym, jak poskromić smoka konfliktu"/>
+		</a>
+		<a class="boo " href="/ksiazka142/pokonywanie-przeszkod-przypowiesc-o-tym-jak-poskromic-smoka-konfliktu.html">
+			<span class="title">Pokonywanie przeszkód. Przypowieść o tym, jak poskromić smoka konfliktu</span>
+		</a>
+			<span class="author">Alexander Hiam</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka513/wystapienia-publiczne-w-biznesie-warsztaty.html">
+			<img class="cover" src="/s/cover/small/513.jpg" alt="Wystąpienia publiczne w biznesie. Warsztaty"/>
+		</a>
+		<a class="boo " href="/ksiazka513/wystapienia-publiczne-w-biznesie-warsztaty.html">
+			<span class="title">Wystąpienia publiczne w biznesie. Warsztaty</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">197&nbsp;zł</span>
+					<span class="promo">157,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka536/psychologia-zmiany-rzecz-dla-wscieknietych.html">
+			<img class="cover" src="/s/cover/small/536.jpg" alt="Psychologia zmiany. Rzecz dla wściekniętych"/>
+		</a>
+		<a class="boo " href="/ksiazka536/psychologia-zmiany-rzecz-dla-wscieknietych.html">
+			<span class="title">Psychologia zmiany. Rzecz dla wściekniętych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					29&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1073/potega-kontaktu-wzrokowego-jak-osiagnac-sukces-w-biznesie-milosci-i-zyciu-towarzyskim.html">
+			<img class="cover" src="/s/cover/small/1073.jpg" alt="Potęga kontaktu wzrokowego. Jak osiągnąć sukces w biznesie, miłości i życiu towarzyskim"/>
+		</a>
+		<a class="boo " href="/ksiazka1073/potega-kontaktu-wzrokowego-jak-osiagnac-sukces-w-biznesie-milosci-i-zyciu-towarzyskim.html">
+			<span class="title">Potęga kontaktu wzrokowego. Jak osiągnąć sukces w biznesie, miłości i życiu towarzyskim</span>
+		</a>
+			<span class="author">Michael Ellsberg</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">42,90&nbsp;zł</span>
+					<span class="promo">34,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka751/mowa-slowa-sztuka-przekonywania-przez-telefon.html">
+			<img class="cover" src="/s/cover/small/751.jpg" alt="Mowa słowa. Sztuka przekonywania przez telefon"/>
+		</a>
+		<a class="boo " href="/ksiazka751/mowa-slowa-sztuka-przekonywania-przez-telefon.html">
+			<span class="title">Mowa słowa. Sztuka przekonywania przez telefon</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24&nbsp;zł</span>
+					<span class="promo">19,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka790/narysuj-swoje-mysli-jak-skutecznie-prezentowac-i-sprzedawac-pomysly-na-kartce-papieru.html">
+			<img class="cover" src="/s/cover/small/790.jpg" alt="Narysuj swoje myśli. Jak skutecznie prezentować i sprzedawać pomysły na kartce papieru"/>
+		</a>
+		<a class="boo " href="/ksiazka790/narysuj-swoje-mysli-jak-skutecznie-prezentowac-i-sprzedawac-pomysly-na-kartce-papieru.html">
+			<span class="title">Narysuj swoje myśli. Jak skutecznie prezentować i sprzedawać pomysły na kartce papieru</span>
+		</a>
+			<span class="author">Dan Roam</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka952/zen-prezentacji-pomysly-i-projekty-jasne-zasady-i-techniki-tworzenia-doskonalych-prezentacji.html">
+			<img class="cover" src="/s/cover/small/952.jpg" alt="Zen prezentacji - pomysły i projekty. Jasne zasady i techniki tworzenia doskonałych prezentacji"/>
+		</a>
+		<a class="boo " href="/ksiazka952/zen-prezentacji-pomysly-i-projekty-jasne-zasady-i-techniki-tworzenia-doskonalych-prezentacji.html">
+			<span class="title">Zen prezentacji - pomysły i projekty. Jasne zasady i techniki tworzenia doskonałych prezentacji</span>
+		</a>
+			<span class="author">Garr Reynolds</span>
+			
+			<span class="price">
+				Cena:
+				
+					49,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka613/biznesowy-savoir-vivre-wszystko-co-szanujacy-sie-biznesmen-o-etykiecie-wiedziec-powinien.html">
+			<img class="cover" src="/s/cover/small/613.jpg" alt="Biznesowy savoir - vivre. Wszystko, co szanujący się biznesmen o etykiecie wiedzieć powinien "/>
+		</a>
+		<a class="boo " href="/ksiazka613/biznesowy-savoir-vivre-wszystko-co-szanujacy-sie-biznesmen-o-etykiecie-wiedziec-powinien.html">
+			<span class="title">Biznesowy savoir - vivre. Wszystko, co szanujący się biznesmen o etykiecie wiedzieć powinien </span>
+		</a>
+			<span class="author">Barbara Pachter</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34&nbsp;zł</span>
+					<span class="promo">27,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1089/potega-mowy-ciala-jak-odniesc-zawodowy-i-towarzyski-sukces.html">
+			<img class="cover" src="/s/cover/small/1089.jpg" alt="Potęga mowy ciała. Jak odnieść zawodowy i towarzyski sukces "/>
+		</a>
+		<a class="boo " href="/ksiazka1089/potega-mowy-ciala-jak-odniesc-zawodowy-i-towarzyski-sukces.html">
+			<span class="title">Potęga mowy ciała. Jak odnieść zawodowy i towarzyski sukces </span>
+		</a>
+			<span class="author">Tonya Reiman</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">42,90&nbsp;zł</span>
+					<span class="promo">34,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1636/mowa-slowa-sztuka-przekonywania-przez-telefon.html">
+			<img class="cover" src="/s/cover/small/1636.jpg" alt="Mowa słowa. Sztuka przekonywania przez telefon"/>
+		</a>
+		<a class="boo " href="/ksiazka1636/mowa-slowa-sztuka-przekonywania-przez-telefon.html">
+			<span class="title">Mowa słowa. Sztuka przekonywania przez telefon</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1739/erystyka-sztuka-prowadzenia-sporow.html">
+			<img class="cover" src="/s/cover/small/1739.jpg" alt="Erystyka. Sztuka prowadzenia sporów"/>
+		</a>
+		<a class="boo " href="/ksiazka1739/erystyka-sztuka-prowadzenia-sporow.html">
+			<span class="title">Erystyka. Sztuka prowadzenia sporów</span>
+		</a>
+			<span class="author">Arthur Schopenhauer</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">12,90&nbsp;zł</span>
+					<span class="promo">10,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1103/komunikacja-naprawde-skuteczna-niezawodny-sposob-dotarcia-do-klientow-pracownikow-i-znajomych.html">
+			<img class="cover" src="/s/cover/small/1103.jpg" alt="Komunikacja naprawdę skuteczna. Niezawodny sposób dotarcia do klientów, pracowników i znajomych"/>
+		</a>
+		<a class="boo " href="/ksiazka1103/komunikacja-naprawde-skuteczna-niezawodny-sposob-dotarcia-do-klientow-pracownikow-i-znajomych.html">
+			<span class="title">Komunikacja naprawdę skuteczna. Niezawodny sposób dotarcia do klientów, pracowników i znajomych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka731/tao-wojny.html">
+			<img class="cover" src="/s/cover/small/731.jpg" alt="Tao wojny"/>
+		</a>
+		<a class="boo " href="/ksiazka731/tao-wojny.html">
+			<span class="title">Tao wojny</span>
+		</a>
+			<span class="author">Ralph D. Sawyer, Wang Chen</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1033/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1033.jpg" alt="SZTUKA PERSWAZJI, czyli język wpływu i manipulacji. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1033/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-wydanie-ii-rozszerzone.html">
+			<span class="title">SZTUKA PERSWAZJI, czyli język wpływu i manipulacji. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka620/docenic-konflikt-od-walki-i-manipulacji-do-wspolpracy.html">
+			<img class="cover" src="/s/cover/small/620.jpg" alt="Docenić konflikt. Od walki i manipulacji do współpracy"/>
+		</a>
+		<a class="boo " href="/ksiazka620/docenic-konflikt-od-walki-i-manipulacji-do-wspolpracy.html">
+			<span class="title">Docenić konflikt. Od walki i manipulacji do współpracy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka610/6-nawykow-wydajnego-zespolu.html">
+			<img class="cover" src="/s/cover/small/610.jpg" alt="6 nawyków wydajnego zespołu"/>
+		</a>
+		<a class="boo " href="/ksiazka610/6-nawykow-wydajnego-zespolu.html">
+			<span class="title">6 nawyków wydajnego zespołu</span>
+		</a>
+			<span class="author">Stephen E. Kohn, Vincent D. OConnell</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1640/naucz-ich-jak-maja-cie-traktowac-praktyczny-podrecznik-asertywnosci.html">
+			<img class="cover" src="/s/cover/small/1640.jpg" alt="Naucz ich, jak mają Cię traktować! Praktyczny podręcznik asertywności"/>
+		</a>
+		<a class="boo " href="/ksiazka1640/naucz-ich-jak-maja-cie-traktowac-praktyczny-podrecznik-asertywnosci.html">
+			<span class="title">Naucz ich, jak mają Cię traktować! Praktyczny podręcznik asertywności</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka292/trudni-ludzie-przetrwanie-i-rozwoj-bez-zamordowania-wlasnego-szefa.html">
+			<img class="cover" src="/s/cover/small/292.jpg" alt="Trudni ludzie. Przetrwanie i rozwój bez zamordowania własnego szefa"/>
+		</a>
+		<a class="boo " href="/ksiazka292/trudni-ludzie-przetrwanie-i-rozwoj-bez-zamordowania-wlasnego-szefa.html">
+			<span class="title">Trudni ludzie. Przetrwanie i rozwój bez zamordowania własnego szefa</span>
+		</a>
+			<span class="author">John Hoover</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1109/dlaczego-mnie-nie-rozumiecie-poznaj-osiem-barier-w-komunikacji-i-pokonaj-je.html">
+			<img class="cover" src="/s/cover/small/1109.jpg" alt="Dlaczego mnie nie rozumiecie? Poznaj osiem barier w komunikacji i pokonaj je"/>
+		</a>
+		<a class="boo " href="/ksiazka1109/dlaczego-mnie-nie-rozumiecie-poznaj-osiem-barier-w-komunikacji-i-pokonaj-je.html">
+			<span class="title">Dlaczego mnie nie rozumiecie? Poznaj osiem barier w komunikacji i pokonaj je</span>
+		</a>
+			<span class="author">Kevin Hogan, Ron Stubbs</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2017/kiedy-kropla-drazy-skale-czyli-droga-do-mistrzostwa-w-komunikacji-perswazyjnej-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/2017.jpg" alt="Kiedy kropla drąży skałę, czyli droga do mistrzostwa w komunikacji perswazyjnej. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka2017/kiedy-kropla-drazy-skale-czyli-droga-do-mistrzostwa-w-komunikacji-perswazyjnej-wydanie-ii-rozszerzone.html">
+			<span class="title">Kiedy kropla drąży skałę, czyli droga do mistrzostwa w komunikacji perswazyjnej. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka826/nlp-w-negocjacjach-handlowych.html">
+			<img class="cover" src="/s/cover/small/826.jpg" alt="NLP w negocjacjach handlowych"/>
+		</a>
+		<a class="boo " href="/ksiazka826/nlp-w-negocjacjach-handlowych.html">
+			<span class="title">NLP w negocjacjach handlowych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka409/psychologia-szefa-zestaw-multimedialny.html">
+			<img class="cover" src="/s/cover/small/409.jpg" alt="Psychologia szefa. Zestaw multimedialny"/>
+		</a>
+		<a class="boo " href="/ksiazka409/psychologia-szefa-zestaw-multimedialny.html">
+			<span class="title">Psychologia szefa. Zestaw multimedialny</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">199&nbsp;zł</span>
+					<span class="promo">159,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka501/relacje-w-pracy-zawodowo-zgrany-zespol.html">
+			<img class="cover" src="/s/cover/small/501.jpg" alt="Relacje w pracy. Zawodowo zgrany zespół"/>
+		</a>
+		<a class="boo " href="/ksiazka501/relacje-w-pracy-zawodowo-zgrany-zespol.html">
+			<span class="title">Relacje w pracy. Zawodowo zgrany zespół</span>
+		</a>
+			<span class="author">Thomas Wieke</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1618/jednominutowy-negocjator-proste-sposoby-na-korzystniejsze-kontrakty.html">
+			<img class="cover" src="/s/cover/small/1618.jpg" alt="Jednominutowy Negocjator. Proste sposoby na korzystniejsze kontrakty"/>
+		</a>
+		<a class="boo " href="/ksiazka1618/jednominutowy-negocjator-proste-sposoby-na-korzystniejsze-kontrakty.html">
+			<span class="title">Jednominutowy Negocjator. Proste sposoby na korzystniejsze kontrakty</span>
+		</a>
+			<span class="author">Don Hutson, George Lucas</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">22,90&nbsp;zł</span>
+					<span class="promo">18,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1648/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1648.jpg" alt="SZTUKA PERSWAZJI, czyli język wpływu i manipulacji. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1648/sztuka-perswazji-czyli-jezyk-wplywu-i-manipulacji-wydanie-ii-rozszerzone.html">
+			<span class="title">SZTUKA PERSWAZJI, czyli język wpływu i manipulacji. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1952/tajniki-wystapien-publicznych-101-porad-dla-prezenterow.html">
+			<img class="cover" src="/s/cover/small/1952.jpg" alt="Tajniki wystąpień publicznych. 101 porad dla prezenterów"/>
+		</a>
+		<a class="boo " href="/ksiazka1952/tajniki-wystapien-publicznych-101-porad-dla-prezenterow.html">
+			<span class="title">Tajniki wystąpień publicznych. 101 porad dla prezenterów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1925/slajdologia-nauka-i-sztuka-tworzenia-genialnych-prezentacji.html">
+			<img class="cover" src="/s/cover/small/1925.jpg" alt="Slajd:ologia. Nauka i sztuka tworzenia genialnych prezentacji"/>
+		</a>
+		<a class="boo " href="/ksiazka1925/slajdologia-nauka-i-sztuka-tworzenia-genialnych-prezentacji.html">
+			<span class="title">Slajd:ologia. Nauka i sztuka tworzenia genialnych prezentacji</span>
+		</a>
+			<span class="author">Nancy Duarte</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">54,99&nbsp;zł</span>
+					<span class="promo">43,99&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1802/psychologia-zmiany-rzecz-dla-wscieknietych-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1802.jpg" alt="Psychologia zmiany. Rzecz dla wściekniętych. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1802/psychologia-zmiany-rzecz-dla-wscieknietych-wydanie-ii-rozszerzone.html">
+			<span class="title">Psychologia zmiany. Rzecz dla wściekniętych. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka905/facebook-daj-sie-poznac.html">
+			<img class="cover" src="/s/cover/small/905.jpg" alt="Facebook. Daj się poznać"/>
+		</a>
+		<a class="boo " href="/ksiazka905/facebook-daj-sie-poznac.html">
+			<span class="title">Facebook. Daj się poznać</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					24,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1937/naucz-ich-jak-maja-cie-traktowac-praktyczny-podrecznik-asertywnosci.html">
+			<img class="cover" src="/s/cover/small/1937.jpg" alt="Naucz ich, jak mają Cię traktować! Praktyczny podręcznik asertywności "/>
+		</a>
+		<a class="boo " href="/ksiazka1937/naucz-ich-jak-maja-cie-traktowac-praktyczny-podrecznik-asertywnosci.html">
+			<span class="title">Naucz ich, jak mają Cię traktować! Praktyczny podręcznik asertywności </span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					27&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka464/ukryta-perswazja-psychologiczne-taktyki-wywierania-wplywu.html">
+			<img class="cover" src="/s/cover/small/464.jpg" alt="Ukryta perswazja. Psychologiczne taktyki wywierania wpływu"/>
+		</a>
+		<a class="boo " href="/ksiazka464/ukryta-perswazja-psychologiczne-taktyki-wywierania-wplywu.html">
+			<span class="title">Ukryta perswazja. Psychologiczne taktyki wywierania wpływu</span>
+		</a>
+			<span class="author">James Speakman, Kevin Hogan</span>
+			
+			<span class="price">
+				Cena:
+				
+					29&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1823/antymobbing-walcz-o-swoje-prawa-w-miejscu-pracy.html">
+			<img class="cover" src="/s/cover/small/1823.jpg" alt="AntyMOBBING. Walcz o swoje prawa w miejscu pracy"/>
+		</a>
+		<a class="boo " href="/ksiazka1823/antymobbing-walcz-o-swoje-prawa-w-miejscu-pracy.html">
+			<span class="title">AntyMOBBING. Walcz o swoje prawa w miejscu pracy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka227/jak-pisac-dobre-e-maile.html">
+			<img class="cover" src="/s/cover/small/227.jpg" alt="Jak pisać dobre e-maile"/>
+		</a>
+		<a class="boo " href="/ksiazka227/jak-pisac-dobre-e-maile.html">
+			<span class="title">Jak pisać dobre e-maile</span>
+		</a>
+			<span class="author">Nancy Flynn, Tom Flynn</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka643/skuteczny-networking.html">
+			<img class="cover" src="/s/cover/small/643.jpg" alt="Skuteczny networking"/>
+		</a>
+		<a class="boo " href="/ksiazka643/skuteczny-networking.html">
+			<span class="title">Skuteczny networking</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka609/erystyka-sztuka-prowadzenia-sporow-ebook.html">
+			<img class="cover" src="/s/cover/small/609.jpg" alt="Erystyka. Sztuka prowadzenia sporów. eBook"/>
+		</a>
+		<a class="boo " href="/ksiazka609/erystyka-sztuka-prowadzenia-sporow-ebook.html">
+			<span class="title">Erystyka. Sztuka prowadzenia sporów. eBook</span>
+		</a>
+			<span class="author">Arthur Schopenhauer</span>
+			
+			<span class="price">
+				Cena:
+				
+					12,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1715/kompendium-technik-perswazyjnych.html">
+			<img class="cover" src="/s/cover/small/1715.jpg" alt="Kompendium technik perswazyjnych"/>
+		</a>
+		<a class="boo " href="/ksiazka1715/kompendium-technik-perswazyjnych.html">
+			<span class="title">Kompendium technik perswazyjnych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2172/do-kina-na-lody-do-lozka-przewodnik-dla-niezaleznych-kobiet.html">
+			<img class="cover" src="/s/cover/small/2172.jpg" alt="Do kina, na lody, do łóżka. Przewodnik dla niezależnych kobiet"/>
+		</a>
+		<a class="boo " href="/ksiazka2172/do-kina-na-lody-do-lozka-przewodnik-dla-niezaleznych-kobiet.html">
+			<span class="title">Do kina, na lody, do łóżka. Przewodnik dla niezależnych kobiet</span>
+		</a>
+			<span class="author">Andrea Lavinthal, Jessica Rozler</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka709/zatracona-sztuka-sluchania.html">
+			<img class="cover" src="/s/cover/small/709.jpg" alt="Zatracona sztuka słuchania"/>
+		</a>
+		<a class="boo " href="/ksiazka709/zatracona-sztuka-sluchania.html">
+			<span class="title">Zatracona sztuka słuchania</span>
+		</a>
+			<span class="author">Michael P. Nichols</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1789/oprogramowanie-szyte-na-miare-jak-rozmawiac-z-klientem-ktory-nie-wie-czego-chce.html">
+			<img class="cover" src="/s/cover/small/1789.jpg" alt="Oprogramowanie szyte na miarę. Jak rozmawiać z klientem, który nie wie, czego chce"/>
+		</a>
+		<a class="boo " href="/ksiazka1789/oprogramowanie-szyte-na-miare-jak-rozmawiac-z-klientem-ktory-nie-wie-czego-chce.html">
+			<span class="title">Oprogramowanie szyte na miarę. Jak rozmawiać z klientem, który nie wie, czego chce</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka640/zarzadzanie-szefem.html">
+			<img class="cover" src="/s/cover/small/640.jpg" alt="Zarządzanie szefem"/>
+		</a>
+		<a class="boo " href="/ksiazka640/zarzadzanie-szefem.html">
+			<span class="title">Zarządzanie szefem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka956/myslenie-przeciw-konfliktom-tworcze-metody-rozwiazywania-sporow.html">
+			<img class="cover" src="/s/cover/small/956.jpg" alt="Myślenie przeciw konfliktom. Twórcze metody rozwiązywania sporów "/>
+		</a>
+		<a class="boo " href="/ksiazka956/myslenie-przeciw-konfliktom-tworcze-metody-rozwiazywania-sporow.html">
+			<span class="title">Myślenie przeciw konfliktom. Twórcze metody rozwiązywania sporów </span>
+		</a>
+			<span class="author">Edward de Bono</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2189/tymysl-inaczej-zrobia-to-za-ciebie-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/2189.jpg" alt="TyMyśl. Inaczej zrobią to za Ciebie... Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka2189/tymysl-inaczej-zrobia-to-za-ciebie-wydanie-ii.html">
+			<span class="title">TyMyśl. Inaczej zrobią to za Ciebie... Wydanie II</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2247/garnitur-kontra-garsonka-czyli-jak-zbudowac-dobre-relacje-w-pracy.html">
+			<img class="cover" src="/s/cover/small/2247.jpg" alt="Garnitur kontra garsonka, czyli jak zbudować dobre relacje w pracy"/>
+		</a>
+		<a class="boo " href="/ksiazka2247/garnitur-kontra-garsonka-czyli-jak-zbudowac-dobre-relacje-w-pracy.html">
+			<span class="title">Garnitur kontra garsonka, czyli jak zbudować dobre relacje w pracy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2244/kiedy-kropla-drazy-skale-czyli-droga-do-mistrzostwa-w-komunikacji-perswazyjnej-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/2244.jpg" alt="Kiedy kropla drąży skałę, czyli droga do mistrzostwa w komunikacji perswazyjnej. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka2244/kiedy-kropla-drazy-skale-czyli-droga-do-mistrzostwa-w-komunikacji-perswazyjnej-wydanie-ii-rozszerzone.html">
+			<span class="title">Kiedy kropla drąży skałę, czyli droga do mistrzostwa w komunikacji perswazyjnej. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2249/biurowa-rewolucja-czyli-sztuka-organizowania-efektywnych-zebran.html">
+			<img class="cover" src="/s/cover/small/2249.jpg" alt="Biurowa rewolucja, czyli sztuka organizowania efektywnych zebrań"/>
+		</a>
+		<a class="boo " href="/ksiazka2249/biurowa-rewolucja-czyli-sztuka-organizowania-efektywnych-zebran.html">
+			<span class="title">Biurowa rewolucja, czyli sztuka organizowania efektywnych zebrań</span>
+		</a>
+			<span class="author">Al Pittampalli</span>
+			
+			<span class="price">
+				Cena:
+				
+					22,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1365/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-audiotrening.html">
+			<img class="cover" src="/s/cover/small/1365.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Audiotrening"/>
+		</a>
+		<a class="boo " href="/ksiazka1365/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-audiotrening.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Audiotrening</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					21,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1027/nie-przeplacaj-poradnik-konsumenta-jak-negocjowac-najlepsze-warunki.html">
+			<img class="cover" src="/s/cover/small/1027.jpg" alt="Nie przepłacaj. Poradnik konsumenta - jak negocjować najlepsze warunki"/>
+		</a>
+		<a class="boo " href="/ksiazka1027/nie-przeplacaj-poradnik-konsumenta-jak-negocjowac-najlepsze-warunki.html">
+			<span class="title">Nie przepłacaj. Poradnik konsumenta - jak negocjować najlepsze warunki</span>
+		</a>
+			<span class="author">Marc Lockley</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1025/prawo-wiezi-jak-sie-dogadac-i-stworzyc-doskonale-relacje-prywatne-i-zawodowe.html">
+			<img class="cover" src="/s/cover/small/1025.jpg" alt="Prawo Więzi. Jak się dogadać i stworzyć doskonałe relacje prywatne i zawodowe"/>
+		</a>
+		<a class="boo " href="/ksiazka1025/prawo-wiezi-jak-sie-dogadac-i-stworzyc-doskonale-relacje-prywatne-i-zawodowe.html">
+			<span class="title">Prawo Więzi. Jak się dogadać i stworzyć doskonałe relacje prywatne i zawodowe</span>
+		</a>
+			<span class="author">Michael J. Losier</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka816/przemow-do-nich-teoria-i-praktyka-wystapien-publicznych.html">
+			<img class="cover" src="/s/cover/small/816.jpg" alt="Przemów do nich! Teoria i praktyka wystąpień publicznych"/>
+		</a>
+		<a class="boo " href="/ksiazka816/przemow-do-nich-teoria-i-praktyka-wystapien-publicznych.html">
+			<span class="title">Przemów do nich! Teoria i praktyka wystąpień publicznych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1359/najniebezpieczniejsza-ksiazka-o-biznesie-jaka-przeczytasz-w-swoim-zyciu.html">
+			<img class="cover" src="/s/cover/small/1359.jpg" alt="Najniebezpieczniejsza książka o biznesie, jaką przeczytasz w swoim życiu"/>
+		</a>
+		<a class="boo " href="/ksiazka1359/najniebezpieczniejsza-ksiazka-o-biznesie-jaka-przeczytasz-w-swoim-zyciu.html">
+			<span class="title">Najniebezpieczniejsza książka o biznesie, jaką przeczytasz w swoim życiu</span>
+		</a>
+			<span class="author">Gregory Hartley, Maryann Karinch</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka814/antymobbing-walcz-o-swoje-prawa-w-miejscu-pracy.html">
+			<img class="cover" src="/s/cover/small/814.jpg" alt="AntyMOBBING. Walcz o swoje prawa w miejscu pracy"/>
+		</a>
+		<a class="boo " href="/ksiazka814/antymobbing-walcz-o-swoje-prawa-w-miejscu-pracy.html">
+			<span class="title">AntyMOBBING. Walcz o swoje prawa w miejscu pracy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka429/10-zalozen-networkingu-jak-w-pelni-wykorzystywac-swoje-znajomosci.html">
+			<img class="cover" src="/s/cover/small/429.jpg" alt="10 założeń networkingu. Jak w pełni wykorzystywać swoje znajomości"/>
+		</a>
+		<a class="boo " href="/ksiazka429/10-zalozen-networkingu-jak-w-pelni-wykorzystywac-swoje-znajomosci.html">
+			<span class="title">10 założeń networkingu. Jak w pełni wykorzystywać swoje znajomości</span>
+		</a>
+			<span class="author">Larry James</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1604/komunikacja-naprawde-skuteczna-niezawodny-sposob-dotarcia-do-klientow-pracownikow-i-znajomych.html">
+			<img class="cover" src="/s/cover/small/1604.jpg" alt="Komunikacja naprawdę skuteczna. Niezawodny sposób dotarcia do klientów, pracowników i znajomych"/>
+		</a>
+		<a class="boo " href="/ksiazka1604/komunikacja-naprawde-skuteczna-niezawodny-sposob-dotarcia-do-klientow-pracownikow-i-znajomych.html">
+			<span class="title">Komunikacja naprawdę skuteczna. Niezawodny sposób dotarcia do klientów, pracowników i znajomych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1879/inteligencja-perswazyjna-pq-poznaj-10-umiejetnosci-wywierania-wplywu.html">
+			<img class="cover" src="/s/cover/small/1879.jpg" alt="Inteligencja perswazyjna (PQ). Poznaj 10 *** umiejętności wywierania wpływu"/>
+		</a>
+		<a class="boo " href="/ksiazka1879/inteligencja-perswazyjna-pq-poznaj-10-umiejetnosci-wywierania-wplywu.html">
+			<span class="title">Inteligencja perswazyjna (PQ). Poznaj 10 *** umiejętności wywierania wpływu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					42,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka637/sprzedaz-prowokacyjna-zostan-mistrzem-uwodzicielskiej-komunikacji.html">
+			<img class="cover" src="/s/cover/small/637.jpg" alt="Sprzedaż prowokacyjna. Zostań mistrzem uwodzicielskiej komunikacji "/>
+		</a>
+		<a class="boo " href="/ksiazka637/sprzedaz-prowokacyjna-zostan-mistrzem-uwodzicielskiej-komunikacji.html">
+			<span class="title">Sprzedaż prowokacyjna. Zostań mistrzem uwodzicielskiej komunikacji </span>
+		</a>
+			<span class="author">Ilona Gross, Karsten Bredemeier</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1776/deszcz-pieniedzy-model-rain-czyli-skuteczne-rozmowy-sprzedazowe.html">
+			<img class="cover" src="/s/cover/small/1776.jpg" alt="Deszcz pieniędzy. Model RAIN, czyli skuteczne rozmowy sprzedażowe"/>
+		</a>
+		<a class="boo " href="/ksiazka1776/deszcz-pieniedzy-model-rain-czyli-skuteczne-rozmowy-sprzedazowe.html">
+			<span class="title">Deszcz pieniędzy. Model RAIN, czyli skuteczne rozmowy sprzedażowe</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka504/sposoby-na-szefa-wychowaj-swojego-przelozonego.html">
+			<img class="cover" src="/s/cover/small/504.jpg" alt="Sposoby na szefa. Wychowaj swojego przełożonego"/>
+		</a>
+		<a class="boo " href="/ksiazka504/sposoby-na-szefa-wychowaj-swojego-przelozonego.html">
+			<span class="title">Sposoby na szefa. Wychowaj swojego przełożonego</span>
+		</a>
+			<span class="author">Petra Begemann</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka942/nie-daj-sie-zlemu-szefowi-i-kiepskim-kolegom.html">
+			<img class="cover" src="/s/cover/small/942.jpg" alt="Nie daj się złemu szefowi i kiepskim kolegom"/>
+		</a>
+		<a class="boo " href="/ksiazka942/nie-daj-sie-zlemu-szefowi-i-kiepskim-kolegom.html">
+			<span class="title">Nie daj się złemu szefowi i kiepskim kolegom</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2022/sztuka-wojny-wydanie-iii.html">
+			<img class="cover" src="/s/cover/small/2022.jpg" alt="Sztuka wojny. Wydanie III"/>
+		</a>
+		<a class="boo " href="/ksiazka2022/sztuka-wojny-wydanie-iii.html">
+			<span class="title">Sztuka wojny. Wydanie III</span>
+		</a>
+			<span class="author">Sun-tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1831/deszcz-pieniedzy-model-rain-czyli-skuteczne-rozmowy-sprzedazowe.html">
+			<img class="cover" src="/s/cover/small/1831.jpg" alt="Deszcz pieniędzy. Model RAIN, czyli skuteczne rozmowy sprzedażowe"/>
+		</a>
+		<a class="boo " href="/ksiazka1831/deszcz-pieniedzy-model-rain-czyli-skuteczne-rozmowy-sprzedazowe.html">
+			<span class="title">Deszcz pieniędzy. Model RAIN, czyli skuteczne rozmowy sprzedażowe</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1602/dlaczego-mnie-nie-rozumiecie-poznaj-osiem-barier-w-komunikacji-i-pokonaj-je.html">
+			<img class="cover" src="/s/cover/small/1602.jpg" alt="Dlaczego mnie nie rozumiecie? Poznaj osiem barier w komunikacji i pokonaj je"/>
+		</a>
+		<a class="boo " href="/ksiazka1602/dlaczego-mnie-nie-rozumiecie-poznaj-osiem-barier-w-komunikacji-i-pokonaj-je.html">
+			<span class="title">Dlaczego mnie nie rozumiecie? Poznaj osiem barier w komunikacji i pokonaj je</span>
+		</a>
+			<span class="author">Kevin Hogan, Ron Stubbs</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">22,90&nbsp;zł</span>
+					<span class="promo">18,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1610/facebook-daj-sie-poznac.html">
+			<img class="cover" src="/s/cover/small/1610.jpg" alt="Facebook. Daj się poznać"/>
+		</a>
+		<a class="boo " href="/ksiazka1610/facebook-daj-sie-poznac.html">
+			<span class="title">Facebook. Daj się poznać</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1929/mistrzowskie-prezentacje-slajdowy-poradnik-mowcy-doskonalego.html">
+			<img class="cover" src="/s/cover/small/1929.jpg" alt="Mistrzowskie prezentacje slajdowy poradnik mówcy doskonałego"/>
+		</a>
+		<a class="boo " href="/ksiazka1929/mistrzowskie-prezentacje-slajdowy-poradnik-mowcy-doskonalego.html">
+			<span class="title">Mistrzowskie prezentacje slajdowy poradnik mówcy doskonałego</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1872/wyznania-mowcy-spraw-by-ludzie-cie-sluchali.html">
+			<img class="cover" src="/s/cover/small/1872.jpg" alt="Wyznania mówcy. Spraw, by ludzie Cię słuchali"/>
+		</a>
+		<a class="boo " href="/ksiazka1872/wyznania-mowcy-spraw-by-ludzie-cie-sluchali.html">
+			<span class="title">Wyznania mówcy. Spraw, by ludzie Cię słuchali</span>
+		</a>
+			<span class="author">Scott Berkun</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1747/najniebezpieczniejsza-ksiazka-o-biznesie-jaka-przeczytasz-w-swoim-zyciu.html">
+			<img class="cover" src="/s/cover/small/1747.jpg" alt="Najniebezpieczniejsza książka o biznesie, jaką przeczytasz w swoim życiu"/>
+		</a>
+		<a class="boo " href="/ksiazka1747/najniebezpieczniejsza-ksiazka-o-biznesie-jaka-przeczytasz-w-swoim-zyciu.html">
+			<span class="title">Najniebezpieczniejsza książka o biznesie, jaką przeczytasz w swoim życiu</span>
+		</a>
+			<span class="author">Gregory Hartley, Maryann Karinch</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1644/nlp-w-negocjacjach-handlowych.html">
+			<img class="cover" src="/s/cover/small/1644.jpg" alt="NLP w negocjacjach handlowych"/>
+		</a>
+		<a class="boo " href="/ksiazka1644/nlp-w-negocjacjach-handlowych.html">
+			<span class="title">NLP w negocjacjach handlowych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1645/przemow-do-nich-teoria-i-praktyka-wystapien-publicznych.html">
+			<img class="cover" src="/s/cover/small/1645.jpg" alt="Przemów do nich! Teoria i praktyka wystąpień publicznych"/>
+		</a>
+		<a class="boo " href="/ksiazka1645/przemow-do-nich-teoria-i-praktyka-wystapien-publicznych.html">
+			<span class="title">Przemów do nich! Teoria i praktyka wystąpień publicznych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">21,99&nbsp;zł</span>
+					<span class="promo">17,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2038/oprogramowanie-szyte-na-miare-jak-rozmawiac-z-klientem-ktory-nie-wie-czego-chce.html">
+			<img class="cover" src="/s/cover/small/2038.jpg" alt="Oprogramowanie szyte na miarę. Jak rozmawiać z klientem, który nie wie, czego chce"/>
+		</a>
+		<a class="boo " href="/ksiazka2038/oprogramowanie-szyte-na-miare-jak-rozmawiac-z-klientem-ktory-nie-wie-czego-chce.html">
+			<span class="title">Oprogramowanie szyte na miarę. Jak rozmawiać z klientem, który nie wie, czego chce</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1719/profesjonalna-prezentacja-multimedialna-jak-uniknac-27-najczesciej-popelnianych-bledow.html">
+			<img class="cover" src="/s/cover/small/1719.jpg" alt="Profesjonalna prezentacja multimedialna. Jak uniknąć 27 najczęściej popełnianych błędów"/>
+		</a>
+		<a class="boo " href="/ksiazka1719/profesjonalna-prezentacja-multimedialna-jak-uniknac-27-najczesciej-popelnianych-bledow.html">
+			<span class="title">Profesjonalna prezentacja multimedialna. Jak uniknąć 27 najczęściej popełnianych błędów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">22,90&nbsp;zł</span>
+					<span class="promo">18,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1825/socjotechnika-sztuka-zdobywania-wladzy-nad-umyslami.html">
+			<img class="cover" src="/s/cover/small/1825.jpg" alt="Socjotechnika. Sztuka zdobywania władzy nad umysłami"/>
+		</a>
+		<a class="boo " href="/ksiazka1825/socjotechnika-sztuka-zdobywania-wladzy-nad-umyslami.html">
+			<span class="title">Socjotechnika. Sztuka zdobywania władzy nad umysłami</span>
+		</a>
+			<span class="author">Christopher Hadnagy</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1724/nie-daj-sie-zlemu-szefowi-i-kiepskim-kolegom.html">
+			<img class="cover" src="/s/cover/small/1724.jpg" alt="Nie daj się złemu szefowi i kiepskim kolegom"/>
+		</a>
+		<a class="boo " href="/ksiazka1724/nie-daj-sie-zlemu-szefowi-i-kiepskim-kolegom.html">
+			<span class="title">Nie daj się złemu szefowi i kiepskim kolegom</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka2057/garnitur-kontra-garsonka-czyli-jak-zbudowac-dobre-relacje-w-pracy.html">
+			<img class="cover" src="/s/cover/small/2057.jpg" alt="Garnitur kontra garsonka, czyli jak zbudować dobre relacje w pracy"/>
+		</a>
+		<a class="boo last" href="/ksiazka2057/garnitur-kontra-garsonka-czyli-jak-zbudowac-dobre-relacje-w-pracy.html">
+			<span class="title">Garnitur kontra garsonka, czyli jak zbudować dobre relacje w pracy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka2056/komunikacja-biznesowa-oczami-kierownika-projektu.html">
+			<img class="cover" src="/s/cover/small/2056.jpg" alt="Komunikacja biznesowa oczami kierownika projektu"/>
+		</a>
+		<a class="boo last" href="/ksiazka2056/komunikacja-biznesowa-oczami-kierownika-projektu.html">
+			<span class="title">Komunikacja biznesowa oczami kierownika projektu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+	</div>
+</div>
+
+
+	</div>
+	<div id="menu">
+		<div class="top"></div>
+			
+			
+			<a href="/promocje/">Promocje</a>
+			
+			<a href="/nowosci/">Nowości</a>
+			
+			<a href="/bestsellery/">Bestsellery</a>
+			
+			<a href="/przedsprzedaz/">Przedsprzedaż</a>
+		
+			
+			<a href="/temat12/bizneswoman.html">Bizneswoman</a>
+		
+			
+			<a href="/temat18/controlling.html">Controlling</a>
+		
+			
+			<a href="/temat15/e-biznes.html">E-biznes</a>
+		
+			
+			<a href="/temat22/ebooki.html">eBooki</a>
+		
+			
+			<a href="/temat17/ekonomia.html">Ekonomia</a>
+		
+			
+			<a href="/temat13/finanse.html">Finanse</a>
+		
+			
+			<a href="/temat16/gielda-i-inwestycje.html">Giełda i inwestycje</a>
+		
+			
+			<a href="/temat8/kompetencje-osobiste.html">Kompetencje osobiste</a>
+		
+			
+			<a href="/temat4/komputer-w-biurze.html">Komputer w biurze</a>
+		
+			
+			<a href="/temat2/komunikacja-i-negocjacje.html" class="active">Komunikacja i negocjacje</a>
+		
+			
+			<a href="/temat7/mala-firma.html">Mała firma</a>
+		
+			
+			<a href="/temat6/marketing.html">Marketing</a>
+		
+			
+			<a href="/temat19/multimedialne-szkolenia.html">Multimedialne szkolenia</a>
+		
+			
+			<a href="/temat11/obsluga-klienta.html">Obsługa klienta</a>
+		
+			
+			<a href="/temat20/perswazja-i-nlp.html">Perswazja i NLP</a>
+		
+			
+			<a href="/temat10/przywodztwo.html">Przywództwo</a>
+		
+			
+			<a href="/temat21/public-relations.html">Public Relations</a>
+		
+			
+			<a href="/temat24/sekret.html">Sekret</a>
+		
+			
+			<a href="/temat28/social-media.html">Social Media</a>
+		
+			
+			<a href="/temat1/sprzedaz.html">Sprzedaż</a>
+		
+			
+			<a href="/temat9/twoja-kariera.html">Twoja kariera</a>
+		
+			
+			<a href="/temat5/zarzadzanie.html">Zarządzanie</a>
+		
+			
+			<a href="/temat14/zarzadzanie-projektami.html">Zarządzanie projektami</a>
+		
+			
+			<a href="/temat3/zasoby-ludzkie-hr.html">Zasoby ludzkie (HR)</a>
+		
+		<div class="bottom"></div>
+	</div>
+</div>
+
+
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-325086-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+

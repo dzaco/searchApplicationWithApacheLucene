@@ -1,0 +1,1003 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | Powszechny Zakład Ubezpieczeń SA</title>
+    <meta name="description" value="Powszechny Zakład Ubezpieczeń SA PZU Klesyk Andrzej Powszechny Zakład Ubezpieczeń SA jest macierzystą firmą wszystkich podmiotów wchodzących w skład Grupy Kapitałowej PZU. Działa w sektorze ubezpieczeń majątkowych oraz osobowych. W skład Grupy wchodzą także PZU Życie, PTE PZU, TFI PZU oraz PZU Pomoc.
+" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 1800000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+
+
+<h1 class="first">Powszechny Zakład Ubezpieczeń SA</h1>
+<div id="rank_description" style="display: none; cursor: pointer; " onclick="this.style.display = 'none'; ">
+<h1>Ranking pb.pl</h1> 
+<p>Ocena jakości papieru dokonywana przez pb.pl. Uwzględnia rentowność kapitałów, dynamikę sprzedaży i rentowności, płynność akcji i ich zachowanie w relacji do  rynku. Dane obejmują ostatnie 12 miesięcy.</p>  
+<p>Rating nie jest 'rekomendacją' w rozumieniu Rozporządzenia Ministra Finansów z dnia 19 października 2005 r. w sprawie informacji stanowiących rekomendacje dotyczące instrumentów finansowych, lub ich emitentów (Dz. U. z 2005 r. Nr 206, poz. 1715). Ocena nie spełnia wymogów stawianych rekomendacjom w rozumieniu w/w rozporządzenia. Strona pb.pl nie ponosi jakiejkolwiek odpowiedzialności za decyzje inwestycyjne podejmowane na podstawie ratingu.</p>
+<p style="font-weight: bold; text-align: right; ">Kliknij aby zamknąć</p>
+</div>
+
+
+
+<script type="text/javascript">
+<!--
+function formatDate(_date) {
+	  var _tmpBegin = _date.getFullYear() + '-';
+	  if (_date.getMonth() +1 < 10) _tmpBegin += '0';
+	  _tmpBegin += _date.getMonth() +1;
+	  _tmpBegin +=  '-'
+	  if (_date.getDate() < 10) _tmpBegin += '0';
+	  _tmpBegin += _date.getDate().toString();
+	  return _tmpBegin;
+	 }
+
+function moveflashmap()
+{ 
+    
+	     
+//    var myElement = document.getElementById("chart");
+//	var startDate = new Date();    
+//	startDate.setMonth(startDate.getMonth()-1);
+    //myElement.innerHTML='<object width="550" height="250" align="middle" id="FlashChart" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param value="sameDomain" name="allowScriptAccess"/><param value="false" name="allowFullScreen"/><param value="/files/FlashChart.swf" name="movie"/><param value="high" name="quality"/><param id="flashChnges" value="paramIsin=PLPZU0000011,PL9999999987&amp;paramType=1&amp;paramBegin='+formatDate(startDate)+'&amp;paramEnd='+formatDate(new Date())+'" name="FlashVars"/>	<param value="#eef8fc" name="bgcolor"/>	<embed width="550" height="250" align="middle" id="emmm" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowfullscreen="false" allowscriptaccess="sameDomain" name="FlashChart" bgcolor="#eef8fc" quality="high" flashvars="paramIsin=PLPZU0000011,PL9999999987&amp;paramType=1&amp;paramBegin='+formatDate(startDate)+'&amp;paramEnd='+formatDate(new Date())+'" src="/files/FlashChart.swf"/></object>';
+    	         
+}
+
+//-->
+</script>
+<div class="company">
+
+
+
+
+<table class="company_review">
+	<tr>
+		<th>aktual.</th>
+		<th title="bieżący kurs">kurs</th>
+		<th title="zmiana procentowa">zmiana</th>
+		<th title="kurs odniesienia">odn.</th>
+		<th title="kurs otwarcia">otw.</th>
+		<th title="kurs zamknięcia">zamk.</th>
+		<th title="wartość minimalna">min.</th>
+		<th title="wartość maksymalna">maks.</th>
+		<th title="obroty wyrażone w złotych">obroty </th>
+		<th title="wolumen akcji">wol.</th>
+	</tr>
+	<tr>
+		<td class="time">2013-03-22</td>
+		<td class="number">405.50</td>
+		<td class="number down"><b>-0.73%</b></td>
+		<td class="number">408.50</td>
+		<td colspan="2" style="text-align: center; ">408.80 / 
+		405.50</td>
+		<td colspan="2" style="text-align: center; ">404.10 - 
+		409.00</td>
+		<td class="number">56.4&nbsp;mln&nbsp;zł</td>
+		<td class="number">139.1&nbsp;tys.</td>
+	</tr>
+</table>
+<div class="chart" id="chart">
+<!--
+<img src="/chart_hourly/SmallChart/PLPZU0000011/550/250/" />
+-->
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+	codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" 
+	width="550" height="250" 
+	id="FlashChart" 
+	align="middle">
+	
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="/files/FlashChart.swf" />
+	<param name="quality" value="high" />
+	<param name="FlashVars"	value="paramIsin=PLPZU0000011&amp;paramType=1&amp;paramSessionStartHour=8&amp;paramSessionStartMinute=40&amp;paramSessionEndHour=17&amp;paramSessionEndMinute=0" id="flashChnges"/>
+	<param name="bgcolor" value="#eef8fc" />
+	<param name="wmode" value="opaque" />	
+		<embed 	src="/files/FlashChart.swf"
+				FlashVars="paramIsin=PLPZU0000011&amp;paramType=1&amp;paramSessionStartHour=8&amp;paramSessionStartMinute=40&amp;paramSessionEndHour=17&amp;paramSessionEndMinute=0"
+				quality="high" bgcolor="#eef8fc" 
+				width="550" height="250" 
+				name="FlashChart" 
+				align="middle" 
+				allowScriptAccess="sameDomain" 
+				allowFullScreen="false" 
+				type="application/x-shockwave-flash" 
+				wmode="opaque"
+				pluginspage="http://www.macromedia.com/go/getflashplayer" id="emmm"/>
+</object>
+
+</div>
+<table>
+	<tr>
+		<th>okres</th>
+		<th>dzień</th>
+		<th>tydzień</th>
+		<th>miesiąc</th>
+		<th>1&nbsp;rok</th>
+		<th>3&nbsp;lata</th>
+		<th>5&nbsp;lat</th>
+		<td>
+		<a href="/technical?isin=PLPZU0000011"><img src="/style/fever.gif">&nbsp;analiza tech.</a>
+		</td>
+	</tr>
+	<tr>
+		<th>zmiana</th>		
+		
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.41%</td>
+		<td class="number down">-0.73%</td>
+		<td class="number up">+28.32%</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+				<td>
+		<!--<a  onclick="moveflashmap()" href="#"><img src="/style/fever.gif">&nbsp;por. z WIG20</a>
+-->
+		</td>
+		
+	</tr>
+</table>
+</div>
+
+<!-- instrument hit -->
+<script type="text/javascript">
+sti = new Image;
+sti.src = '/hit/PLPZU0000011?r=' + Math.random();
+</script>
+
+<div style="width: 468px; margin: 10px auto 0 auto;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-0444287293673271";
+/* Notowania - instrument */
+google_ad_slot = "8573773859";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+
+
+<div id="company_tables">
+<div id="offers" class="offers">
+<h2>Tabela ofert</h2>
+<table>
+<thead>
+	<tr>
+		<th colspan="3">oferty kupna</th>
+		<th colspan="3">oferty sprzedaży</th>
+		
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<th>data</th>
+		<th>wol.</th>
+		<th>cena</th>
+		
+		<th>data</th>
+		<th>wol.</th>
+		<th>cena</th>
+
+	</tr>
+		<tr>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">41</td>
+		<td class="number bg">405.40</td>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">10</td>
+		<td class="number bg">407.60</td>		
+		</tr>
+		
+		<tr>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">25400</td>
+		<td class="number bg">405.00</td>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">200</td>
+		<td class="number bg">408.20</td>		
+		</tr>
+		
+		<tr>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">9860</td>
+		<td class="number bg">405.50</td>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">286</td>
+		<td class="number bg">407.00</td>		
+		</tr>
+		
+		<tr>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">450</td>
+		<td class="number bg">405.20</td>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">5</td>
+		<td class="number bg">407.80</td>		
+		</tr>
+		
+		<tr>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">75</td>
+		<td class="number bg">405.10</td>
+		
+		<td class="number bg">2013-03-22</td>
+		<td class="number bg">730</td>
+		<td class="number bg">408.00</td>		
+		</tr>
+		
+</tbody>	
+</table>
+<p style="margin: 0; padding: 0; text-align: right; "><a href="/transactions/PLPZU0000011" class="bluetext">Zobacz pełną listę transakcji&raquo;</a></p>
+</div><!-- /#offers -->
+
+<div id="factors">
+<h2 style="margin-bottom: 1px; ">wskaźniki giełdowe</h2>
+<div style="padding: 2px 0 0 0; width: 285px; clear: both; float: left; ">
+<table style="width: 138px; float: left; margin: 0 0 0 0px; ">
+
+	
+	<tr>
+		<th title="wskaźnik beta">wskaźnik beta</th>
+		<td class="number">
+			            0.90 
+		</td>
+	</tr>
+
+	
+	<tr>
+		<th title="wartość rynkowa ">Wartość rynkowa</th>
+		<td class="number">
+			         34109.2 mln zł
+		</td>
+	</tr>
+
+	
+	<tr>
+		<th title="rentowność aktywów = E/Aktywa (w proc.)">ROA</th>
+		<td class="number">
+			0.0%
+		</td>
+	</tr>
+
+	
+	<tr>
+		<th title="rentowność kapitałów własnych = E/BV (w proc.) 
+">ROE</th>
+		<td class="number">
+			0.0%
+		</td>
+	</tr>
+
+	
+	<tr>
+		<th title="Wartość księgowa">Wartość księgowa</th>
+		<td class="number">
+			         51329.2 mln zł
+		</td>
+	</tr>
+	</table>
+	<table style="width: 139px; float: right; ">
+
+	
+	<tr>
+		<th title="(wartość rynkowa+zobowiązania)/(zysk operacyjny+amortyzacja)">EV/EBITDA</th>
+		<td class="number">
+			-
+		</td>
+	</tr>
+
+	
+	<tr>
+		<th title="Zysk z   gpw">P/E</th>
+		<td class="number">
+			           13.30 
+		</td>
+	</tr>
+
+	
+	<tr>
+		<th title="None">P/BV</th>
+		<td class="number">
+			            2.62 
+		</td>
+	</tr>
+
+</table>
+</div>&nbsp;
+<div id="recommendations" style="clear: both; ">
+<h2><a href="/rekomendacje">Rekomendacje</a></h2>
+<table width="285" style="margin: 3px 0 0 0; ">
+<tr>
+<th>data</th>
+<th>rekomend.</th>
+<th>wycena</th>
+<th>broker</th>
+</tr>
+<tr>
+<td>2013-03-18</td>
+<td>przeważaj</td>
+<td>447.00</td>
+<td>J.P. Morgan</td>
+</tr>
+<tr>
+<td>2013-03-11</td>
+<td>trzymaj</td>
+<td>447.00</td>
+<td>Wood&Company</td>
+</tr>
+<tr>
+<td>2013-02-12</td>
+<td>akumuluj</td>
+<td>435.00</td>
+<td>DI BRE Banku SA, Warszawa</td>
+</tr>
+<tr>
+<td>2013-01-23</td>
+<td>neutralnie</td>
+<td>436.00</td>
+<td>UBS Investment Research</td>
+</tr>
+<tr>
+<td>2013-01-16</td>
+<td>niedoważaj</td>
+<td>&ndash;</td>
+<td>Morgan Stanley</td>
+</tr>
+</table>
+<p class="sitelink" style="text-align: right; margin: 0; "><a href="/rekomendacje/PLPZU0000011/powszechny-zaklad-ubezpieczen-sa">więcej rekomendacji tej spółki&raquo;</a></p>
+
+</div><!-- /#recommendations -->
+</div><!-- /#factors -->
+</div><!-- /#company_tables -->
+
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+
+
+
+<div id="company_info">
+ 
+<div style="margin: 0 0 5px 0; background: #f2f7f9; padding: 3px; "><a href="http://www.pb.pl/forum/Default.aspx?page=forum&forum=28e2d9fd-7999-4afc-9cfe-c61b9507956b" target="_blank" style="display: block; "><img src="/style/nurse16.gif" alt="+" style="vertical-align: middle; margin: 0 5px 0 0; " />&nbsp;
+<b>Dodaj</b> do Portfela PB</a></div>
+
+
+<h2 class="first">Wyniki</h2>
+<div class="company_box">
+<select class="col_select" onchange="$('.columnchart').hide(); $('#' + this.value).show(); ">
+<option value="chart_year_income">Zysk roczny (mln zł)</option>
+<option value="chart_year_sell">Składka na udziale własnym (mln zł)</option>
+<option value="chart_quarter_income">Zysk kwartalny (mln zł)</option>
+<option value="chart_quarter_sell">Składka na udziale własnym (mln zł)</option>
+</select> 
+<div class="columnchart" id="chart_year_income">
+
+
+<!-- Przychód roczny -->
+<table><tr>
+
+<td>
+<!-- <div class="col_spacer" style="height: 0px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 0px">3762.9 mln</div>
+<div class="col_col_plus " style="height: 70px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _" style=""> 09</div>
+<!-- <div class="col_change "></div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 25px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 25px">2439.2 mln</div>
+<div class="col_col_plus " style="height: 45px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _down" style=""> 10</div>
+<!-- <div class="col_change down">-0.4%</div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 27px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 27px">2345.4 mln</div>
+<div class="col_col_plus " style="height: 43px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _down" style=""> 11</div>
+<!-- <div class="col_change down">-0.0%</div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 10px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 10px">3255.2 mln</div>
+<div class="col_col_plus last" style="height: 60px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus last" style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _up" style=""> 12</div>
+<!-- <div class="col_change up">+0.4%</div> -->
+</td>
+
+</tr></table>
+
+</div>
+<div class="columnchart" id="chart_year_sell" style="display: none; ">
+
+
+<!-- Sprzedaż roczna -->
+<table><tr>
+
+<td>
+<!-- <div class="col_spacer" style="height: 7px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 7px">14485.2 mln</div>
+<div class="col_col_plus " style="height: 63px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _" style=""> 09</div>
+<!-- <div class="col_change "></div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 8px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 8px">14213.0 mln</div>
+<div class="col_col_plus " style="height: 62px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _down" style=""> 10</div>
+<!-- <div class="col_change down">-0.0%</div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 5px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 5px">14890.5 mln</div>
+<div class="col_col_plus " style="height: 65px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _up" style=""> 11</div>
+<!-- <div class="col_change up">+0.0%</div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 0px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 0px">16005.2 mln</div>
+<div class="col_col_plus last" style="height: 70px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus last" style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _up" style=""> 12</div>
+<!-- <div class="col_change up">+0.1%</div> -->
+</td>
+
+</tr></table>
+
+</div>
+<div class="columnchart" id="chart_quarter_income" style="display: none; ">
+
+
+<!-- Przychód kwartalny -->
+<table><tr>
+
+<td>
+<!-- <div class="col_spacer" style="height: 40px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 40px">486.9 mln</div>
+<div class="col_col_plus " style="height: 30px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _" style="">4Q<br />11</div>
+<!-- <div class="col_change "></div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 19px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 19px">822.3 mln</div>
+<div class="col_col_plus " style="height: 51px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _up" style="">1Q<br />12</div>
+<!-- <div class="col_change up">+0.7%</div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 15px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 15px">894.6 mln</div>
+<div class="col_col_plus " style="height: 55px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _up" style="">2Q<br />12</div>
+<!-- <div class="col_change up">+0.1%</div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 0px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 0px">1122.7 mln</div>
+<div class="col_col_plus last" style="height: 70px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus last" style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _up" style="">3Q<br />12</div>
+<!-- <div class="col_change up">+0.3%</div> -->
+</td>
+
+</tr></table>
+
+</div>
+<div class="columnchart" id="chart_quarter_sell" style="display: none; ">
+
+
+<!-- Sprzedaż kwartalna -->
+<table><tr>
+
+<td>
+<!-- <div class="col_spacer" style="height: 5px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 5px">3836.0 mln</div>
+<div class="col_col_plus " style="height: 65px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _" style="">4Q<br />11</div>
+<!-- <div class="col_change "></div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 4px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 4px">3868.9 mln</div>
+<div class="col_col_plus " style="height: 66px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _up" style="">1Q<br />12</div>
+<!-- <div class="col_change up">+0.0%</div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 2px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 2px">3997.9 mln</div>
+<div class="col_col_plus " style="height: 68px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus " style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _up" style="">2Q<br />12</div>
+<!-- <div class="col_change up">+0.0%</div> -->
+</td>
+
+
+<td>
+<!-- <div class="col_spacer" style="height: 0px">&nbsp;</div> -->
+<div class="col_val" style="margin-top: 0px">4082.6 mln</div>
+<div class="col_col_plus last" style="height: 70px; ">&nbsp;</div>
+<!--<div class="col_line"></div> -->
+<div class="col_col_minus last" style="height: 1px; ">&nbsp;</div>
+<div class="col_spacer" style="height: -1px">&nbsp;</div>
+<div class="col_desc _up" style="">3Q<br />12</div>
+<!-- <div class="col_change up">+0.0%</div> -->
+</td>
+
+</tr></table>
+
+</div>
+
+<p><a href="/report/PLPZU0000011"><img src="/style/fever.gif" /> Zobacz pełne wyniki</a></p>
+</div><!--  /.company_box -->
+
+	<h2>Akcjonariat</h2>
+<div class="company_box">
+<select class="col_select" onchange="$('.linechart').hide(); $('#' + this.value).show(); ">
+<option value="shareholder_percent">udziały</option>
+<option value="shareholder_votes">głosy</option>
+</select>
+	<div class="linechart" id="shareholder_percent">
+	
+
+	<table>
+			
+			<tr>
+			<td class="percent">35.2%</td>
+			<td><div class="bigbar" style="height: 56px; "></div></td>
+			<td>Skarb Państwa</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">5.0%</td>
+			<td><div class="bar" style="height: 8px; "></div></td>
+			<td>ING OFE</td>
+			</tr>
+			
+	<tr>
+			<td class="percent">59.8%</td>
+			<td><div class="bar others" style="height: 95px; "></div></td>
+			<td style="overflow: visible; ">pozostali</td>
+	</tr>
+	</table>
+
+	</div>
+	<div class="linechart" id="shareholder_votes" style="display: none; ">
+	
+
+	<table>
+			
+			<tr>
+			<td class="percent">35.2%</td>
+			<td><div class="bigbar" style="height: 56px; "></div></td>
+			<td>Skarb Państwa</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">5.0%</td>
+			<td><div class="bar" style="height: 8px; "></div></td>
+			<td>ING OFE</td>
+			</tr>
+			
+	<tr>
+			<td class="percent">59.8%</td>
+			<td><div class="bar others" style="height: 95px; "></div></td>
+			<td style="overflow: visible; ">pozostali</td>
+	</tr>
+	</table>
+
+	</div>
+</div><!-- /.company_box -->	
+
+		<div id="info">
+		<h2>info</h2>
+		<p><b>Powszechny Zakład Ubezpieczeń SA (PZU)</b></p>
+		<p><span class="lite">prezes</span><br />Klesyk Andrzej</p>
+		<p><span class="lite">liczba pracowników:</span> 15703</p>
+		<p><span class="lite">liczba akcji w obrocie:</span> 86.4&nbsp;mln</p>
+		<p><a href="http://www.pzu.pl" target="_blank">www.pzu.pl</a></p>
+		<p class="small">Powszechny Zakład Ubezpieczeń SA jest macierzystą firmą wszystkich podmiotów wchodzących w skład Grupy Kapitałowej PZU. Działa w sektorze ubezpieczeń majątkowych oraz osobowych. W skład Grupy wchodzą także PZU Życie, PTE PZU, TFI PZU oraz PZU Pomoc.</p>
+		</div>
+
+</div>
+
+
+
+
+<div id="company_news" class="" >
+
+
+
+
+<div id="investor_form">
+<div style="">
+<a href="http://www.gpw.pl/gpw.asp?cel=inwestorzy&k=64&i=/spolkigieldowe/strefa_niskiej_plynnosci/ri_partner&sky=1&nagnaz=GPW%20RI%20Partner"><img src="/img/gpw_ri.png" alt="GPW Relacje Inwestorskie" /></a><br />
+<img src="/img/akcjainwestor.png" alt="Akcja Inwestor" style="float: left; margin: 0 5px 3px 0 ; "/><b>Akcja Inwestor</b> Zapytaj spółkę. 
+<br /><a href="http://akcjainwestor.pb.pl" style="text-decoration: underline; ">Więcej o akcji&nbsp;&raquo;</a>
+</div>
+<h2 style="clear: both; ">Zadaj pytanie spółce</h2>
+<form action="" method="post" id="inv_form" onsubmit="return investor_validate(this); ">
+<div id="inv_status" style="font-weight: bold; color: red; "></div>
+<input type="hidden" name="as2" id="as2" value="164" />
+<input type="hidden" name="rq0" id="rq0" value="" />
+<textarea name="qtxt" id="inv_qtxt">(Tu wpisz pytanie do spółki)</textarea><br />
+<p>Imię i nazwisko:</p>
+<input name="author"><br />
+<p>Adres email:</p>
+<input name="email"><br />
+<input type="checkbox" name="rules" value="accept" id="id_rules" style="width: auto; border: none;" /><label for="id_rules"> akceptuję <a href="http://www.pb.pl/1743000,35940,regulamin-akcji-inwestor" style="text-decoration: underline;">regulamin</a></label><br />
+<input type="hidden" name="as1" id="as1" value="511" />
+<button type="submit">Zapytaj</button>
+</form>
+<script type="text/javascript">
+function investor_check()
+{
+	inv_status = document.getElementById('inv_status');
+	inv_qtxt = document.getElementById('inv_qtxt');
+	if(inv_qtxt.value.length > 1000) 
+	{
+		inv_status.innerHTML = 'Tekst jest za długi'; 
+		inv_qtxt.value = inv_qtxt.value.substring(0, 1000); 
+	} 
+	else 
+	{
+		inv_status.innerHTML = ''; 
+	}
+}
+
+function investor_validate(f)
+{
+	var ok = true;
+	ok = (f.qtxt.value.length > 10) && ok; 
+	ok = (f.author.value.length > 2) && ok;
+	re_email = /.+@.+\..+/
+	ok = re_email.test(f.email.value) && ok;
+    ok = ok && f.rules.checked
+	if(!ok) alert('Proszę wypełnić formularz przed wysłaniem!');  
+	return ok;
+}
+
+window.setInterval(investor_check, 1000); 
+</script>
+
+
+</div>
+
+<h2>Pytania i odpowiedzi</h2>
+	<p><a href="/pytania/PLPZU0000011">PZU wg mnie jest skandalicznie bierne jeśli idzie o przejecia. Obecnie np. akcje potężnego...
+				<br /><b>Odpowiedź:</b> Zgodnie z przyjętą strategią PZU na...
+	</a></p>
+	<p><a href="/pytania/PLPZU0000011">Kiedy możemy spodziewać się wypłaty dywidendy za 2011 r.?
+				<br /><b>Odpowiedź:</b> Zgodnie z Uchwałą WZ PZU SA, które...
+	</a></p>
+	<p><a href="/pytania/PLPZU0000011">PZU to duża firma. Czy nie byłoby sensownym by była notowana także w Londynie? Na pewno...
+	</a></p>
+	<a href="/pytania/PLPZU0000011" class="more"><img src="/img/nurse.gif" width="6" height="6" />więcej</a>
+
+
+
+
+	
+
+<div class="news ">
+<h2 class="">Informacje</h2>
+	<div class="content">
+		<p><a href="http://pulsinwestora.pb.pl/3053976,10203" target="_blank"><span class="dt">2013-03-22</span> Kurz opada nad Książęcą </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3053963,37490" target="_blank"><span class="dt">2013-03-22</span> WIG20 na zamknięciu sesji spadł o 1,08 proc. </a></p>
+		<p><a href="http://notowania.pb.pl/espi/3053616,79685" target="_blank"><span class="dt">2013-03-22</span> Transakcje na instrumentach finansowych PZU SA </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3053105,3699" target="_blank"><span class="dt">2013-03-22</span> Krach w budowlance podciął skrzydła  GPW </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3052540,14439" target="_blank"><span class="dt">2013-03-22</span> TFI będą używać algorytmów </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3052155,17415" target="_blank"><span class="dt">2013-03-22</span> HSBC obniżył rekomendację dla akcji PZU  </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3052023,79760" target="_blank"><span class="dt">2013-03-21</span> Wyraźne spadki na GPW </a></p>
+		<p><a href="http://www.pb.pl/3051842,32977" target="_blank"><span class="dt">2013-03-21</span> WIG20 na zamknięciu sesji spadł o 1,11 proc. i wyniósł 2395,82 pkt </a></p>
+		<p><a href="http://www.pb.pl/3051790,86989" target="_blank"><span class="dt">2013-03-21</span> Lepiej w Chinach, gorzej w Niemczech, na giełdach niewesoło
+ </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3051047,71195" target="_blank"><span class="dt">2013-03-21</span> Credit Suisse nadal negatywnie o PZU </a></p>
+		<p><a href="http://www.pb.pl/3051006,16707" target="_blank"><span class="dt">2013-03-21</span> Warta i TU Europa spłacają dług </a></p>
+		<p><a href="http://www.pb.pl/3049624,96352" target="_blank"><span class="dt">2013-03-20</span> Losy rynków w rękach Fed </a></p>
+		<p><a href="http://www.pb.pl/3049369,41499" target="_blank"><span class="dt">2013-03-20</span> Ergo Hestia ma ponad ćwierć miliarda zysku </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3048896,24212" target="_blank"><span class="dt">2013-03-20</span> Dywidendy rządzą rynkiem </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3045776,52508" target="_blank"><span class="dt">2013-03-19</span> Fundusze mieszane wracają do łask </a></p>
+	</div>
+	<a href="/news/PLPZU0000011" class="more"><img src="/img/nurse.gif" height="6" width="6" />wszystkie artykuły</a>
+</div>	
+
+</div><!-- /#company_news -->
+
+
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

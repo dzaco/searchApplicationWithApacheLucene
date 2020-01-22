@@ -1,0 +1,958 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Puls Biznesu z dnia 24.03.2013.</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<script type="text/javascript" src="js/site.js"></script>
+<script type="text/javascript" src="js/block.js"></script>
+<!--[if IE ]>
+<style type="text/css">
+#main a.min_desb {
+display: inline;
+margin-left: -61px;
+}
+#main ul li.m_first a.min_desb {
+margin-left: -61px;
+}
+</style>
+<![endif]-->
+<style type="text/css">
+.podkr:HOVER{ text-decoration:underline }
+#dhtmltooltip{
+position: absolute;
+width:414px;
+border-left: 1px solid #a6a6a6;
+border-right: 1px solid #a6a6a6;
+*border: 1px solid #a6a6a6;
+background: #FFFFFF;
+padding: 4px;
+margin-left: 1em;
+color: #000000;
+visibility: hidden;
+z-index: 100;
+filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
+-moz-opacity: 0.95;
+}
+#dhtmltooltip:before {
+display: block;
+width: 454px;
+height: 10px;
+content: url(gfx/ballon_top02.png);
+background: transparent;
+margin-top: -12px;
+margin-left: -5px;
+}
+#dhtmltooltip:after {
+display: block;
+width: 454px;
+height: 10px;
+content: url(gfx/ballon_bot02.png);
+background: transparent;
+margin-bottom: -14px;
+margin-left: -5px;
+}
+.popup {
+left:500px;
+top:60px;
+position: absolute;
+visibility: hidden;
+background-color: white;
+width: 260px;
+border: 1px solid black;
+overflow:hidden;
+}
+</style>
+<link href="mprasa_main.css" type="text/css" media="all" rel="stylesheet" />
+<link href="styles_pdf.css" type="text/css" media="all" rel="stylesheet" />
+<script src="js/jquery-1.3.2.min.js" type="text/javascript" language="javascript"></script>
+<script src="js/jquery-ui-1.7.3.custom.min.js" type="text/javascript" language="javascript"></script>
+<script src="js/lpanel.js" type="text/javascript" language="javascript"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-18534830-1x']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+<body onload="hidePreloader(); setblWidth();">
+<div id="header" class="fourpos">
+<a href="./" title="mPrasa" id="logo" style="top: 5px;"><img src="gfx/pb.png" alt="" /></a>
+<ul class="icons">
+<li><a href="./index.php" title="Wydanie bieżące" id="ico_current">Wydanie bieżące</a></li>
+<li><a href="http://sklep.site.pb.pl/offer/current-ewydanie" target="_blank" title="Kup bieżące e-wydanie" >Kup bieżące e-wydanie</a></li>
+<li><a href="index.php?act=archive" title="Archiwum" id="ico_archive">Archiwum</a></li>
+</ul>
+<div style="width: 300px; background: none; position: absolute; right: 0; padding-top: 5px;">
+<form action="index.php?act=users&amp;sub=login" method="post" style="padding: 0; background: none;">
+<div style="margin: 5px; background:url('gfx/search2.gif') no-repeat scroll 0px 0px transparent; padding: 2px 0 0 10px; width: 168px; height: 22px; float: left;">
+<input style="" name="login" type="text" class="txt header_txt" value="Login" onfocus="if(this.value == 'Login'){this.value='';}" onblur="if(this.value == ''){this.value='Login'};" />
+</div>
+<input type="submit" value="Zaloguj się" id="header_login_buttom" name="sub2">
+<div style="margin: 5px; background:url('gfx/search2.gif') no-repeat scroll 0px 0px transparent; padding: 2px 0 0 10px; width: 168px; height: 22px; float: left;">
+<input style="" name="haslo" type="password" class="txt header_txt" value="Hasło" onfocus="if(this.value == 'Hasło'){this.value='';}" onblur="if(this.value == ''){this.value='Hasło'};" />
+</div>
+<a href="http://sklep.pb.pl/bytype/6" title="Kup Dostep" class="btn_blue icons" style="margin: 5px;">Kup dostęp</a>
+</form>
+</div>
+</div>
+<!-- główny blok -->
+<div id="main_block">
+<div id="main_cont">
+<div id="toolbar_stripe">
+<div id="iss_info">
+<div>
+<span>Nr wydania:</span>
+<h2>9 listopada 2011 (nr 214)</h2>
+</div>
+</div>
+<div id="nav_bar" class="icons">
+<div id="select_cont">
+<select class="page_select" name="page_select" onchange="window.location = this.options[this.selectedIndex].value">
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40907&amp;type=1&amp;z=60" selected="selected">1</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40908&amp;type=1&amp;z=60" >2</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40909&amp;type=1&amp;z=60" >3</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40910&amp;type=1&amp;z=60" >4</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40911&amp;type=1&amp;z=60" >5</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40912&amp;type=1&amp;z=60" >6</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40913&amp;type=1&amp;z=60" >7</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40914&amp;type=1&amp;z=60" >8</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40915&amp;type=1&amp;z=60" >9</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40916&amp;type=1&amp;z=60" >10</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40917&amp;type=1&amp;z=60" >11</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40918&amp;type=1&amp;z=60" >12</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40919&amp;type=1&amp;z=60" >13</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40920&amp;type=1&amp;z=60" >14</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40921&amp;type=1&amp;z=60" >15</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40922&amp;type=1&amp;z=60" >16</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40923&amp;type=1&amp;z=60" >17</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40924&amp;type=1&amp;z=60" >18</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40925&amp;type=1&amp;z=60" >19</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40926&amp;type=1&amp;z=60" >20</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40927&amp;type=1&amp;z=60" >21</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40928&amp;type=1&amp;z=60" >22</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40929&amp;type=1&amp;z=60" >23</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40930&amp;type=1&amp;z=60" >24</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40931&amp;type=1&amp;z=60" >25</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40932&amp;type=1&amp;z=60" >26</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40933&amp;type=1&amp;z=60" >27</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40934&amp;type=1&amp;z=60" >28</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40935&amp;type=1&amp;z=60" >29</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40936&amp;type=1&amp;z=60" >30</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40937&amp;type=1&amp;z=60" >31</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40938&amp;type=1&amp;z=60" >32</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40939&amp;type=1&amp;z=60" >33</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40940&amp;type=1&amp;z=60" >34</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40941&amp;type=1&amp;z=60" >35</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40942&amp;type=1&amp;z=60" >36</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40943&amp;type=1&amp;z=60" >37</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40944&amp;type=1&amp;z=60" >38</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40945&amp;type=1&amp;z=60" >39</option>
+<option value="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40946&amp;type=1&amp;z=60" >40</option>
+</select>
+<em>nr strony</em>
+</div>
+<ul>
+<li>
+<span id="ico_prev_img" class="inactive">poprzednia</span>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40908&amp;type=1&amp;z=60" title="Następna strona" id="ico_next_img">następna</a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40907&amp;type=1&amp;z=85" title="Powiększ widok" id="ico_zoomin_img">powiększ</a>
+</li>
+<li>
+<span id="ico_zoomout_img" class="inactive">pomniejsz</span>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40907&amp;type=2&amp;z=50" title="Widok dwustronny" id="ico_double">dwustronny</a>
+</li>
+</ul>
+</div>
+<!-- górny pasek z menu wyświetlania -->
+<div id="view_bar" class="icons">
+<ul>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113161&amp;mode=html&amp;z=50" title="Wyświetl w wersji tekstowej" id="ico_text">tekst</a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113161&amp;mode=img&amp;z=50" title="Wyświetl w wersji graficznej" id="ico_graph">grafika</a>
+</li>
+<li>
+<span id="ico_full" class="inactive">cała strona</span>
+</li>
+</ul>
+</div>
+</div>
+<div id="main_container">
+<div id="show" class="icons">
+<a href="javascript:void(0);" title="pokaż"><img class="hide" src="gfx/btn_show.gif" alt="" /></a>
+<a href="javascript:void(0);" title="spis treści"><img class="nav_txt" src="gfx/btn_content_v02.gif" alt="" /></a>
+<a href="javascript:void(0);" title="wersja pdf"><img class="nav_pdf" src="gfx/btn_pdf.gif" alt="" /></a>
+</div>
+<div id="flp_main" >
+<div id="flp_cont">
+<div id="flp_search">
+<form action="index.php" method="get" class="inner" id="search_form">
+<div id="search_field">
+<div class="inner" style="height: 65px;width:281px;">
+<input type="hidden" value="archive" name="act">
+<input type="hidden" value="result" name="sub">
+<h1>Wyszukiwanie:</h1>
+<div id="find_field_arch" style="width:281px;">
+<input type="text" onblur="if(this.value == ''){this.value='Wpisz szukaną frazę'};" onfocus="if(this.value == 'Wpisz szukaną frazę'){this.value='';}" value="Wpisz szukaną frazę" class="txt01_arch txt" name="text">
+<input style="float: none;" type="submit" value="" class="but01_arch" name="sub1">
+</div>
+</div>
+<div style="float: right; margin: 10px 15px 0 0;">
+<a id="search_advanced_options">zaawansowane</a>
+</div>
+</div>
+<div id="search_advanced" style="display: none; clear: both;">
+<div class="inner_adv">
+<input type="hidden" name="act" value="archive" />
+<input type="hidden" name="sub" value="result" />
+<h1>Opcje zaawansowane:</h1>
+<div class="cheboxes">
+<input name="where_c" value="cont" type="checkbox" class="in_check" /><label class="lab_check">w treści</label>
+<input name="where_t" value="title" type="checkbox" class="in_check" /><label class="lab_check">w tytule</label>
+<input name="where_a" value="author" type="checkbox" class="in_check" /><label class="lab_check">autora</label>
+<input name="where_o" value="adds" type="checkbox" class="in_check" /><label class="lab_check">w działu</label>
+</div>
+<div>
+<label class="lab">data początkowa:</label><br/>
+<select name="bday" class="date">
+<option value="">---</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<select name="bmonth" class="month">
+<option value="">---</option>
+<option value="1">styczeń</option>
+<option value="2">luty</option>
+<option value="3">marzec</option>
+<option value="4">kwiecień</option>
+<option value="5">maj</option>
+<option value="6">czerwiec</option>
+<option value="7">lipiec</option>
+<option value="8">sierpień</option>
+<option value="9">wrzesień</option>
+<option value="10">październik</option>
+<option value="11">listopad</option>
+<option value="12">grudzień</option>
+</select>
+<select name="byear" class="year">
+<option value="">---</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+</select>
+</div>
+<div>
+<label class="lab">data końcowa:</label><br/>
+<select name="eday" class="date">
+<option value="">---</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<select name="emonth" class="month">
+<option value="">---</option>
+<option value="1">styczeń</option>
+<option value="2">luty</option>
+<option value="3">marzec</option>
+<option value="4">kwiecień</option>
+<option value="5">maj</option>
+<option value="6">czerwiec</option>
+<option value="7">lipiec</option>
+<option value="8">sierpień</option>
+<option value="9">wrzesień</option>
+<option value="10">październik</option>
+<option value="11">listopad</option>
+<option value="12">grudzień</option>
+</select>
+<select name="eyear" class="year">
+<option value="">---</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+</select>
+</div>
+<div>
+<label class="lab">numer od:</label><input name="number_from" type="text" value="" class="in_nr" id="from" /><label for="to"> do: </label><input name="number_to" type="text" value="" class="in_nr" id="to" />
+</div>
+<input name="sub2" type="submit" id="search_advanced_submit2" value="" />
+</div>
+</div>
+</form>
+</div>
+<div id="flp_txt">
+<h1>Artykuły</h1>
+<h3>Puls Dnia</h3>
+<ul>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113161" title="">Political fiction, czyli rząd idealny </a></li>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113166" title="">Kolejorz kusi Wandzla </a></li>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113169" title="">Onet nie jest potrzebny Grupie TVN </a></li>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113172" title="">Dilerzy pod ścianą płaczu </a></li>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113181" title="">Kolejny bank w Polsce idzie na sprzedaż </a></li>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113189" title="">Biogazownie i recykling zastąpią Poloczkowi Seata </a></li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113159" title="">Parlament wreszcie ruszył </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113160" title="">Droga poprzez euro </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113162" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113163" title="">Fundusz wierzy w internetową hossę </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113164" title="">Katowice o krok od aquaparku </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113165" title="">Cytat </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113167" title="">Polak stawia się na święta </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113168" title="">Ważą się losy unijnego podatku </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113170" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113171" title="">Cytat </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113173" title="">Euronet kupił Cash4You </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113174" title="">Giełda podtopiła wieloryba w jeziorze </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113175" title="">Exxon łączy siły z Hutton Energy </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113176" title="">Banki i rolnictwo w dobrych nastrojach </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113177" title="">Wtórna emisja PKO BP w przyszłym roku </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113178" title="">Branży LPG wiedzie się lepiej </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113179" title="">Empik traci na ciuchach </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113180" title="">Liczba </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113182" title="">PKM Duda rośnie mimo regresu w branży </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113183" title="">Poprawił się bilans płatniczy Polski </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113184" title="">Izraelski Maabarot przejmuje w Polsce </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113185" title="">Comperia wchodzi w nowy sektor </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113186" title="">Rainbow Tours ambitnie </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113187" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113188" title="">Liczba </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113190" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113191" title="">Nord Stream to projekt strategiczny </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113192" title="">Instalexport szykuje inwestycje </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113193" title="">Fatalny kwartał Redanu </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113194" title="">Aplisens pobił rekord </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113195" title="">Toruń zaoszczędzi na energii </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113196" title="">BPS zyskowny i słaby kapitałowo </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113197" title="">Fundusze w grze o detal Emperii </a>
+</li>
+</ul>
+<h3>Puls Firmy</h3>
+<ul>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113199" title="">Wschód może być lekarstwem na kryzys </a></li>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113202" title="">Nie mają pojęcia, czy i jak szkodzą </a></li>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113204" title="">Zaplanuj przyszłość tak,by twoja firma cię przeżyła </a></li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113198" title="">Kiedy spodziewać się kontroli UOKiK? </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113200" title="">Coraz więcej zatorów płatniczych </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113201" title="">Skala bez zmian w 2012 r. </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113203" title="">Liczba </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113205" title="">Czy intercyza to coś złego – notariusze obalą mity </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113206" title="">Forum Gospodarcze w Cieszynie </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113207" title="">Trudno prowadzić biznes w Polsce </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113208" title="">Dwa tygodnie na upadłość </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113209" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113210" title="">Liczba </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113211" title="">Finanse dla MSP w pigułce </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113212" title="">Nie zwlekaj zeskładką chorobową </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113213" title="">Pieniądze popłyną na wieś </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113214" title="">Sprzedaj podnośnik i nissana </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113215" title="">REKLAMA </a>
+</li>
+</ul>
+<h3>Puls Inwestora</h3>
+<ul>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113232" title="">Złota moneta zamiast sztabki </a></li>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113239" title="">Berlusconi powinien odejść </a></li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113231" title="">Spora zmienność i zwyżki na GPW? </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113233" title="">Kup polisę i tankuj </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113234" title="">KDPW prawie pełnoletni </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113235" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113236" title="">Gołębie obejmą stery w FOMC </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113237" title="">Złoto jeszcze świeci </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113238" title="">WYJAŚNIENIE </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113240" title="">Wygaszanie Rodziny na Swoim </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113241" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113242" title="">STOPY ZWROTU </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113243" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113244" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113245" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113246" title="">Banki w Polsce powinnybyć bardziej polskie </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113247" title="">RYNKI AKCJI </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113248" title="">Bohater sesji </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113249" title="">NEWCONNECT </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113250" title="">Byki z nadzieją patrzą na Grecję i Włochy </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113251" title="">Świat patrzy na Włochy, dziś decyzja RPP </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113252" title="">Inwestorzy jednak wierzą w Europę </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113253" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113254" title="">TABELA NBP </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113255" title="">KURSY WALUT </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113256" title="">STOPKA REDAKCYJNA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113257" title="">WIG </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113258" title="">Wiceprezes NBS rozczarował rynek </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113259" title="">Cytat dnia </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113260" title="">650 tysięcy klientów opuściło wielkie banki </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113261" title="">Koszty kulą u nogifirm budowlanych </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113262" title="">Legenda przewiduje wielką hossę </a>
+</li>
+</ul>
+<h3>Biznes i technologie</h3>
+<ul>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113225" title="">Nuda w serwerach– kurs na stabilność </a></li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113216" title="">Temperatura musi być dobra </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113217" title="">Moc za dobre pieniądze </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113218" title="">Więcej, a nie drożej </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113219" title="">Papierowy dokument trzyma się mocno </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113220" title="">Hakerstwo a biznes </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113221" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113222" title="">Liczba </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113223" title="">Żegnajcie kolejki </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113224" title="">Kamery do nadzoru </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113226" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113227" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113228" title="">Cytat </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113229" title="">Analiza danych biznesowychzamiast wróżenia z fusów </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113230" title="">REKLAMA </a>
+</li>
+</ul>
+<h3>PB+ Inwestuj w CFD</h3>
+<ul>
+<li><a href="index.php?act=mprasa&amp;sub=article&amp;id=113264" title="">CFD, czyli zarabiaj na wahaniach </a></li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113263" title="">PARTNER DODATKU </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113268" title="">Internet przetarł szlaki CFD </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113269" title="">Dźwignia finansowa – nie taki diabeł straszny, jak go malują </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113271" title="">Cierpliwość, ubezpieczenie i dobra pozycja </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113274" title="">Coraz większe pole do popisu </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113275" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113265" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113266" title="">CFD dla każdego malują </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113267" title="">Kontrakty nie tylko dla bogatych </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113270" title="">REKLAMA </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113272" title="">Kryzys? Zarabiaj na spadkach </a>
+</li>
+<li>
+<a href="index.php?act=mprasa&amp;sub=article&amp;id=113273" title="">Ile kosztuje kontrakt CFD? </a>
+</li>
+</ul>
+<h3><a href="http://www.notowania.pb.pl">Dzisiejsze Notowania</a></h3>
+<br />
+</div>
+<div id="flp_pdf" style="">
+<h1>Wersja elektroniczna</h1>
+<ul>
+<li class="no_border">
+<h2><a href="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40907" title="Puls Biznesu nr 214">Puls Biznesu nr 214</a></h2>
+<a href="index.php?act=read&amp;sub=getpdf&amp;id=1365" title="pobierz pdf" class="get_pdf_ico hardhov">pobierz PDF</a> <a href="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40907" title="Puls Biznesu nr 214" class="miniature"><img src="index.php?act=img&amp;sub=main_thumb&amp;id=40907" alt="Puls Biznesu nr 214" /></a>
+</li>
+</ul>
+</div>
+</div>
+<div id="flp_nav" class="icons">
+<a href="javascript:void(0);" title="ukryj"><img class="hide" src="gfx/btn_hide.gif" alt="" /></a>
+<a href="javascript:void(0);" title="spis treści"><img class="nav_txt" src="gfx/btn_content_v02.gif" alt="" /></a>
+<a href="javascript:void(0);" title="wersja pdf"><img class="nav_pdf" src="gfx/btn_pdf.gif" alt="" /></a>
+</div>
+</div>
+<div id="graph">
+<script type="text/javascript" src="js/tooltip.js"></script>
+<div id="graph_scrolls">
+<div id="preloader">
+<img src="gfx/preloader.gif" alt="" />
+</div>
+<div id="kjp_area">
+<div class="page_pn">
+</div>
+<img id="pdfimg"
+style="z-index:50"
+src="index.php?act=img&amp;id=40907&amp;s=60&amp;type=1"
+usemap="#click_map"
+border="0"
+onmouseout="hideddrivetip(); schowaj_zaznaczenie(); "
+onmouseover=""
+alt="" />
+<div class="page_pn">
+<a href="index.php?act=mprasa&amp;sub=page&amp;id=1365&amp;page=40908&amp;type=1&amp;z=60" title="Następna strona" class="hardhov" id="page_next" ><img src="gfx/next.png" alt="następna" /></a>
+</div>
+<!--[if IE]>
+<div style="width: 0px;height: 10px;clear:both;"></div>
+<![endif]-->
+</div>
+<map id="click_map" name="click_map">
+<!-- mapa -->
+<area shape="rect"
+coords="164,52,268,103"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113199"
+onmouseover="ArticlePopup(113199); pokaz_zaznaczenie(113199);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="163,105,269,155"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113204"
+onmouseover="ArticlePopup(113204); pokaz_zaznaczenie(113204);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="272,53,393,102"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113202"
+onmouseover="ArticlePopup(113202); pokaz_zaznaczenie(113202);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="273,106,395,155"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113225"
+onmouseover="ArticlePopup(113225); pokaz_zaznaczenie(113225);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="336,196,394,231"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113166"
+onmouseover="ArticlePopup(113166); pokaz_zaznaczenie(113166);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="335,241,392,280"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113189"
+onmouseover="ArticlePopup(113189); pokaz_zaznaczenie(113189);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="336,291,399,326"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113181"
+onmouseover="ArticlePopup(113181); pokaz_zaznaczenie(113181);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="336,336,396,376"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113172"
+onmouseover="ArticlePopup(113172); pokaz_zaznaczenie(113172);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="336,385,395,412"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113169"
+onmouseover="ArticlePopup(113169); pokaz_zaznaczenie(113169);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="336,432,397,462"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113239"
+onmouseover="ArticlePopup(113239); pokaz_zaznaczenie(113239);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="334,470,395,508"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113232"
+onmouseover="ArticlePopup(113232); pokaz_zaznaczenie(113232);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="335,527,397,551"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113264"
+onmouseover="ArticlePopup(113264); pokaz_zaznaczenie(113264);"
+onmouseout=""
+alt=""
+/>
+<area shape="rect"
+coords="19,177,333,553"
+href="index.php?act=mprasa&amp;sub=article&amp;id=113161"
+onmouseover="ArticlePopup(113161); pokaz_zaznaczenie(113161);"
+onmouseout=""
+alt=""
+/>
+</map>
+<script type="text/javascript">
+<!--
+var kjp_articles = new Array(
+new Array(
+113199,
+'<div id="ballon_top" class="par mnadtytul">Ekonomiści radzą przygotować się na spadek popytu ze strefy euro. Może więc warto poszukać klientów za Bugiem?</div><div class="par mtytul">Wschód może być lekarstwem na kryzys</div><div class="par mtresc"> <p> Strefa euro, nasz główny partner handlowy (trafia tam 56 proc. polskiego eksportu), wchodzi właśnie w okres silnej dekoniunktury. Pewnie nie będzie...</div><div class="par mautor">Jacek Kowalczyk</div>',
+new Array(
+new Array(51,163,107,54)
+)
+),
+new Array(
+113204,
+'<div id="ballon_top" class="par mnadtytul">Osoby prowadzące jednoosobową działalność gospodarczą powinny pamiętać o testamencie. Jeśli go nie ma, może się zrobić bałagan</div><div class="par mtytul">Zaplanuj przyszłość tak,by twoja firma cię przeżyła</div><div class="par mtresc"> <p> Komplikacje, które niesie ze sobą śmierć przedsiębiorcy, mogą być różne w zależności od rodzaju prowadzonej działalności. W przypadku jednoosobowej...</div><div class="par mautor">Sylwia Wedziuk</div>',
+new Array(
+new Array(104,162,109,53)
+)
+),
+new Array(
+113202,
+'<div id="ballon_top" class="par mnadtytul">Większość MSP nie wie, jak ich biznes wpływa na środowisko. Ale 75 proc. z nich chce podjąć działania chroniące je.</div><div class="par mtytul">Nie mają pojęcia, czy i jak szkodzą</div><div class="par mtresc"> <p> Czy polskie mikro-, małe i średnie firmy stosują wzorce zrównoważonej produkcji (WZP), w tym jakiekolwiek rozwiązania na rzecz ochrony środowiska?...</div><div class="par mautor">Sylwester Sacharczuk</div>',
+new Array(
+new Array(52,271,124,52)
+)
+),
+new Array(
+113225,
+'<div id="ballon_top" class="par mnadtytul">Producenci serwerów praktycznie nie odczuli kryzysu. W Polsce sprzedali w pierwszym półroczu ponad 25 tys. urządzeń</div><div class="par mtytul">Nuda w serwerach– kurs na stabilność</div><div class="par mtresc"> <p> Na pierwszy rzut oka polski rynek serwerów wydaje się ustabilizowany. Według Pracowni Analiz Part ITR, prawie trzy czwarte rynku podzieliły między...</div><div class="par mautor">Dariusz Wałach</div>',
+new Array(
+new Array(105,272,125,52)
+)
+),
+new Array(
+113166,
+'<div id="ballon_top" class="par mnadtytul">Właściciele Black Lion i Amiki celują w Ligę Mistrzów dla Poznania. Być może ich współpraca zaowocuje związkiem kapitałowym</div><div class="par mtytul">Kolejorz kusi Wandzla</div><div class="par mtresc"> <p> Mogło być tak: 30. minuta pierwszego meczu Lecha Poznań w tym sezonie Ekstraklasy. Mecz z ŁKS zaczyna się fatalnie. Artiom Rudniew po starciu z rywalem...</div><div class="par mautor">Karol Jedliński</div>',
+new Array(
+new Array(195,335,61,38)
+)
+),
+new Array(
+113189,
+'<div id="ballon_top" class="par mnadtytul">Biznesmen liczy się z tym, że VW przejmie od niego kontrolę nad sprzedażą hiszpańskiej marki w Polsce. Dlatego ma awaryjny plan: energetykę</div><div class="par mtytul">Biogazownie i recykling zastąpią Poloczkowi Seata</div><div class="par mtresc"> <p> Transakcja między Volkswagenem (VW) a Janem Kulczykiem dotycząca przejęcia kontroli nad dystrybucją marek niemieckiej grupy w naszym kraju: VW, Skody,...</div><div class="par mautor">Paweł Janas</div>',
+new Array(
+new Array(240,334,60,42)
+)
+),
+new Array(
+113181,
+'<div id="ballon_top" class="par mnadtytul">Pod młotek idzie spółka Dexii: Kommunalkredit Bank Polska. Trwają rozmowy o sprzedaży DnB Nord i Aliora. W tle pojawiają się Turcy</div><div class="par mtytul">Kolejny bank w Polsce idzie na sprzedaż</div><div class="par mtresc"> <p> Wstrząsy we francusko-bielgijskiej grupie Dexia, częściowo znacjonalizowanej i podzielonej, odczuwalne są również na polskim rynku bankowym. Według...</div><div class="par mautor">Eugeniusz Twaróg</div>',
+new Array(
+new Array(290,335,66,38)
+)
+),
+new Array(
+113172,
+'<div id="ballon_top" class="par mnadtytul">Kupno Plusa przez Zygmunta Solorza-Żaka i fuzja „n”-ki z Cyfrą Plus oznaczają redukcję liczby salonów sprzedaży. Poleje się krew</div><div class="par mtytul">Dilerzy pod ścianą płaczu</div><div class="par mtresc"> <p> PKN Orlen, KGHM Polska Miedź, PGE i Węglokoks powinny otrzymać dziś pieniądze ze sprzedaży Polkomtela, operatora sieci Plus. &#8212; Planujemy dziś...</div><div class="par mautor">Magdalena Wierzchowska</div>',
+new Array(
+new Array(335,335,63,43)
+)
+),
+new Array(
+113169,
+'<div id="ballon_top" class="par mnadtytul">Łukasz Wejchert wyszedł z ITI, by łatwiej kupić Onet. Branża uważnie patrzy na transakcję, która może zmienić rynek.</div><div class="par mtytul">Onet nie jest potrzebny Grupie TVN</div><div class="par mtresc"> <p> Łukasz Wejchert żegna się z Onetem &#8212; taki wniosek można było wysnuć z komunikatu ITI opublikowanego w poniedziałek wieczorem. ITI ma odkupić ...</div><div class="par mautor">MAW</div>',
+new Array(
+new Array(384,335,62,30)
+)
+),
+new Array(
+113239,
+'<div id="ballon_top" class="par mnadtytul">Eksperci Open Europe uważają, że Włochy lepiej poradzą sobie z nowym rządem. Gabinet obecnego premiera ma za małe poparcie, by walczyć z kryzysem</div><div class="par mtytul">Berlusconi powinien odejść</div><div class="par mtresc"> <p> Silvio Berlusconi przetrwał wczoraj głosowanie nad wykonaniem budżetu za 2010 r. Poparło go 308 posłów w parlamencie złożonym z 630 osób. Premier ...</div><div class="par mautor">Kamil Koprowicz</div>',
+new Array(
+new Array(431,335,64,33)
+)
+),
+new Array(
+113232,
+'<div id="ballon_top" class="par mnadtytul">Zwyżki cen złota przekładają się na zyski ze złotych monet. Warto postawić przede wszystkim na wydania kolekcjonerskie, o niewielkich nakładach ostatnich lat</div><div class="par mtytul">Złota moneta zamiast sztabki</div><div class="par mtresc"> <p> Złote monety dzielą się na bulionowe i kolekcjonerskie. Na jednych i drugich trudno jest stracić. Monety bulionowe niewiele różnią się od sztabek,...</div><div class="par mautor">Ewa Bednarz</div>',
+new Array(
+new Array(469,333,64,41)
+)
+),
+new Array(
+113264,
+'<div id="ballon_top" class="par mnadtytul">Nowa forma zawierania kontraktów terminowych zyskuje na popularności. Inwestorów kuszą duże zyski i łatwy dostęp</div><div class="par mtytul">CFD, czyli zarabiaj na wahaniach</div><div class="par mtresc"> <p> CFD (z ang. Contract For Difference) są instrumentami pochodnymi na rynku pozagiełdowym. To kontrakty na różnice kursowe pomiędzy dwiema stronami (najczęściej...</div><div class="par mautor">Kamil Koprowicz</div>',
+new Array(
+new Array(526,334,65,27)
+)
+),
+new Array(
+113161,
+'<div class="par mtytul">Political fiction, czyli rząd idealny</div><div class="par mtresc"> <p> Prezydent Bronisław Komorowski przyjął wczoraj dymisję rządu Donalda Tuska i jednocześnie &#8211; po raz pierwszy w historii III RP &#8211; powierzył ...</div><div class="par mautor">Jacek Kowalczyk</div>',
+new Array(
+new Array(176,18,317,379)
+)
+)
+);
+// -->
+</script>
+</div>
+</div>
+</div>
+</div></div>
+<!-- stopka -->
+<div id="footer">
+<ul id="foot_links">
+<li><a href="./index.php" title="Wydanie bieżące">Wydanie bieżące</a>&nbsp;&nbsp;|&nbsp;</li>
+<li><a href="index.php?act=archive" title="Archiwum">Archiwum</a>&nbsp;&nbsp;|&nbsp;</li>
+<li><a href="index.php?act=static&amp;get=contact" title="Kontakt">Kontakt</a>&nbsp;&nbsp;|&nbsp;</li>
+</ul>
+<p id="copy">&copy; Copyrights 2008 by <a href="http://cyberware.pl/" title="CYBERWARE Poland Sp. z o.o." target="_blank" class="hardhov"><img src="gfx/cyberware_logo.gif" alt="CYBERWARE Poland" /></a>&nbsp; Poland Sp. z o.o.</p>
+</div>
+<!-- (C)2000-2011 Gemius SA - gemiusTraffic / ver 11.1 / ewydanie -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('B2Yw4mbky1_QQm_cgsB7idWb78a1ssLSnI6w5Znrhjj.e7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script>
+</body>
+</html>
+

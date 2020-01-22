@@ -1,0 +1,1194 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | Portfel PB</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+#main {width:1400px}
+#right{width:750px}
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 1800000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+	<object height="100" width="750" align="middle" id="Kryzysk_191x400" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+        <param value="sameDomain" name="allowScriptAccess"/>
+        <param value="false" name="allowFullScreen"/>
+        <param value="http://kryzysk.pb.pl" name="click"/>
+        <param value="opaque" name="wmode"/>
+        <param value="http://www.pb.pl/atta/1733-idmsa.swf?click=http://www.idmtrader.pl/app,site,s,17,lead.html" name="movie"/>
+        <param value="high" name="quality"/>
+        <param value="#ffffff" name="bgcolor"/>    
+        <embed height="100" width="750" align="middle" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowfullscreen="false" allowscriptaccess="sameDomain" name="Kryzysk_191x400" flashvars="click=http://www.idmtrader.pl/app,site,s,17,lead.html" bgcolor="#ffffff" wmode="opaque" quality="high" src="http://www.pb.pl/atta/1733-idmsa.swf"/>
+        </object> 
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+
+
+<div class="wallet_prop" >
+	<a class="wallet_prop" href="http://pulsinwestora.site.pb.pl/2485223,59713" target="_blank">
+	<b>Tu</b> zbieramy propozycje do portfela...</a>
+</div>
+
+
+<h1 class="first">Portfel PB</h1>
+
+<div id="wallet_rules" style="display: none; width:920px ; left: 20px; cursor: pointer; z-index:100 ;position: absolute;background-color: white;" onclick="this.style.display = 'none'; ">
+<h1>Regulamin portfela internautów pb.pl</h1> 
+
+<p>1.	Portfel należy do Bonnier Business (Polska) Sp. z o. o., wydawcy „Pulsu Biznesu” i pb.pl. Wydawca będzie inwestował na realnym rynku giełdowym. </p>
+<p>2.	Wyjściowa wartość portfela to 10 000 zł. </p>
+<p>3.	Ewentualne zyski z działalności inwestycyjnej Wydawca przeznaczy na cele charytatywne</p>
+<p>4.	Decyzje inwestycyjne podejmuje Komitet Inwestycyjny, złożony z trzech osób. </p>
+<p>5.	Członków Komitetu powołuje Wydawca. Członkowie Komitetu muszą posiadać odpowiednią wiedzę i doświadczenie. </p>
+<p>6.	Pierwszymi członkami Komitetu są: </p>
+<ul>
+<li>Przemysław Barankiewicz, CFA, pb.pl</li>
+<li>Kamil Zatoński, redaktor prowadzący pulsinwestora.pl</li>
+<li>Marek Wierciszewski, analityk Pulsu Biznesu</li>
+</ul>
+<p>7.	Komitet inwestuje w akcje notowane na GPW.</p>
+<p>8.	Komitet podejmuje decyzje w oparciu o sugestie/wnioski/maile czytelników. Zgłaszanie propozycji odbywa się poprzez forum pb.pl, przez zarejestrowanych użytkowników. </p>
+<p>9.	Komitet podejmuje decyzje inwestycyjne na stałych posiedzeniach, odbywających się raz na tydzień. W wyjątkowych przypadkach Komitet może spotkać się na posiedzeniach nadzwyczajnych. </p>
+<p>10.	Komitet podejmuje decyzje o zakupie lub sprzedaży akcji do Portfela. Komitet może również nie podejmować żadnych decyzji inwestycyjnych. </p>
+<p>11.	Komitet zbiera się przy obecności co najmniej dwóch członków. </p>
+<p>12.	Do podjęcia decyzji o zakupie lub sprzedaży akcji konieczne jest poparcie co najmniej dwóch członków Komitetu. </p>
+<p>13.	Członek Komitetu nie może uczestniczyć w dyskusjach i głosowaniach, jeśli mógłby być beneficjentem decyzji podjętych na podstawie takich dyskusji i głosowań. </p>
+<p>14.	Komitet ustala warunki (maksymalny kurs i termin) transakcji po danej sesji i składa zlecenie na kolejną sesję giełdową. Przed faktyczną transakcją na GPW, informuje o podjętych decyzjach (ilość akcji, limit, rodzaj zlecenia, itd.) na stronach pb.pl. </p>
+<p>15.	Wydawca publikuje bieżący skład portfela, szczegóły przeprowadzonych transakcji i uzasadnienie podejmowanych decyzji na stronach pb.pl. Przy publikacjach informuje, że kształt portfela nie stanowi rekomendacji inwestycyjnej, a portfel każdego z inwestorów powinien być dostosowany do konkretnego profilu inwestora. </p>
+<p>Masz uwagi? Pisz na adres: portfel@pb.pl</p>
+<p style="font-weight: bold; text-align: right; ">Kliknij aby zamknąć</p>
+</div>
+
+
+
+<script type="text/javascript">
+<!--
+function formatDate(_date) {
+	  var _tmpBegin = _date.getFullYear() + '-';
+	  if (_date.getMonth() +1 < 10) _tmpBegin += '0';
+	  _tmpBegin += _date.getMonth() +1;
+	  _tmpBegin +=  '-'
+	  if (_date.getDate() < 10) _tmpBegin += '0';
+	  _tmpBegin += _date.getDate().toString();
+	  return _tmpBegin;
+	 }
+
+function moveflashmap()
+{ 
+    
+	     
+//    var myElement = document.getElementById("chart");
+//	var startDate = new Date();    
+//	startDate.setMonth(startDate.getMonth()-1);
+    //myElement.innerHTML='<object width="550" height="250" align="middle" id="FlashChart" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param value="sameDomain" name="allowScriptAccess"/><param value="false" name="allowFullScreen"/><param value="/files/FlashChart.swf" name="movie"/><param value="high" name="quality"/><param id="flashChnges" value="paramIsin=PBWALLPB,PL9999999987&amp;paramType=1&amp;paramBegin='+formatDate(startDate)+'&amp;paramEnd='+formatDate(new Date())+'" name="FlashVars"/>	<param value="#eef8fc" name="bgcolor"/>	<embed width="550" height="250" align="middle" id="emmm" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowfullscreen="false" allowscriptaccess="sameDomain" name="FlashChart" bgcolor="#eef8fc" quality="high" flashvars="paramIsin=PBWALLPB,PL9999999987&amp;paramType=1&amp;paramBegin='+formatDate(startDate)+'&amp;paramEnd='+formatDate(new Date())+'" src="/files/FlashChart.swf"/></object>';
+    	         
+}
+
+//-->
+</script>
+<div class="company">
+
+
+
+<table class="company_review" style="width: auto; ">
+	<tr>
+		<th title="">data</th>
+		<th title="">wartość</th>
+		<th title="">zmiana</th>
+	</tr>
+	<tr>
+		<td class="time">2013-03-22</td>
+		<td class="number">8744.94 zł</td>
+		<td class="number down"><b>-1.03%</b></td>
+	</tr>
+</table>
+<div class="chart" id="chart">
+<!--
+<img src="/chart_hourly/SmallChart/PBWALLPB/550/250/" />
+-->
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+	codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" 
+	width="550" height="250" 
+	id="FlashChart" 
+	align="middle">
+	
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="/files/FlashChart.swf" />
+	<param name="quality" value="high" />
+	<param name="FlashVars"	value="paramIsin=PBWALLPB&amp;paramType=1&amp;paramSessionStartHour=9&amp;paramSessionStartMinute=0&amp;paramSessionEndHour=18&amp;paramSessionEndMinute=0" id="flashChnges"/>
+	<param name="bgcolor" value="#eef8fc" />
+	<param name="wmode" value="opaque" />	
+		<embed 	src="/files/FlashChart.swf"
+				FlashVars="paramIsin=PBWALLPB&amp;paramType=1&amp;paramSessionStartHour=9&amp;paramSessionStartMinute=0&amp;paramSessionEndHour=18&amp;paramSessionEndMinute=0"
+				quality="high" bgcolor="#eef8fc" 
+				width="550" height="250" 
+				name="FlashChart" 
+				align="middle" 
+				allowScriptAccess="sameDomain" 
+				allowFullScreen="false" 
+				type="application/x-shockwave-flash" 
+				wmode="opaque"
+				pluginspage="http://www.macromedia.com/go/getflashplayer" id="emmm"/>
+</object>
+
+</div>
+<table>
+	<tr>
+		<th>okres</th>
+		<th>dzień</th>
+		<th>tydzień</th>
+		<th>miesiąc</th>
+		<th>1&nbsp;rok</th>
+		<th>3&nbsp;lata</th>
+		<th>5&nbsp;lat</th>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<th>zmiana</th>		
+		
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.16%</td>
+		<td class="number up">+2.99%</td>
+		<td class="number down">-1.72%</td>
+		<td class="number down">-23.29%</td>
+		<td class="number ">&ndash;</td>
+				<td>
+		<!--<a  onclick="moveflashmap()" href="#"><img src="/style/fever.gif">&nbsp;por. z WIG20</a>
+-->
+		</td>
+		
+	</tr>
+</table>
+</div>
+
+<!-- instrument hit -->
+<script type="text/javascript">
+sti = new Image;
+sti.src = '/hit/PBWALLPB?r=' + Math.random();
+</script>
+
+<div style="width: 468px; margin: 10px auto 0 auto;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-0444287293673271";
+/* Notowania - instrument */
+google_ad_slot = "8573773859";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+
+
+<div id="company_tables">
+<div id="offers" class="offers" style="width: 590px;">
+<h2>Portfel PB</h2>
+<table style="width: 590px;">
+<tbody>
+	<tr>
+		<th>Spółka</th>
+		<th>Kurs</th>
+		<th>Zmiana</th>
+		<th>Udział w portfelu</th>
+		<th>Cena zakupu</th>
+		
+		<th>zysk/strata (w zł)</th>
+		<th>zysk/strata (%)</th>
+		
+
+	</tr>
+	
+	
+		<tr>
+		
+		<td class="name bg"><a href="http://notowania.pb.pl/instrument/CY1000031710">ASBIS</a></td>
+		<td class="number bg">4.10</td>
+		<td class="number bg">+0.24%</td>
+		<td class="number bg">13.92%</td>
+		<td class="number bg">3.30</td>
+		
+		<td class="number bg">0.80</td>
+		<td class="number bg">+24.24%</td>		
+		</tr>
+		<tr>
+		
+		<td class="name bg"><a href="http://notowania.pb.pl/instrument/PLGSPR000014">GETIN</a></td>
+		<td class="number bg">2.57</td>
+		<td class="number bg">-1.15%</td>
+		<td class="number bg">5.58%</td>
+		<td class="number bg">6.73</td>
+		
+		<td class="number bg">-4.16</td>
+		<td class="number bg">-61.81%</td>		
+		</tr>
+		<tr>
+		
+		<td class="name bg"><a href="http://notowania.pb.pl/instrument/PLPOLNA00015">POLNA</a></td>
+		<td class="number bg">12.45</td>
+		<td class="number bg">-0.40%</td>
+		<td class="number bg">8.97%</td>
+		<td class="number bg">12.39</td>
+		
+		<td class="number bg">0.06</td>
+		<td class="number bg">+0.48%</td>		
+		</tr>
+		<tr>
+		
+		<td class="name bg"><a href="http://notowania.pb.pl/instrument/PLZPUE000012">ZPUE</a></td>
+		<td class="number bg">339.00</td>
+		<td class="number bg">+0.41%</td>
+		<td class="number bg">11.63%</td>
+		<td class="number bg">222.50</td>
+		
+		<td class="number bg">116.50</td>
+		<td class="number bg">+52.36%</td>		
+		</tr>
+		<tr>
+		
+		<td class="name bg"><a href="http://notowania.pb.pl/instrument/PLTAURN00011">TAURONPE</a></td>
+		<td class="number bg">4.38</td>
+		<td class="number bg">-1.79%</td>
+		<td class="number bg">9.62%</td>
+		<td class="number bg">4.85</td>
+		
+		<td class="number bg">-0.47</td>
+		<td class="number bg">-9.69%</td>		
+		</tr>
+		<tr>
+		
+		<td class="name bg"><a href="http://notowania.pb.pl/instrument/PLNFI0900014">MIDAS</a></td>
+		<td class="number bg">0.80</td>
+		<td class="number bg">-2.44%</td>
+		<td class="number bg">16.33%</td>
+		<td class="number bg">0.82</td>
+		
+		<td class="number bg">-0.02</td>
+		<td class="number bg">-2.44%</td>		
+		</tr>
+		<tr>
+		
+		<td class="name bg"><a href="http://notowania.pb.pl/instrument/PLGETBK00012">GETINOBLE</a></td>
+		<td class="number bg">1.77</td>
+		<td class="number bg">-1.12%</td>
+		<td class="number bg">11.25%</td>
+		<td class="number bg">0.00</td>
+		
+		<td class="number bg">1.77</td>
+		<td class="number bg">+0.00%</td>		
+		</tr>
+		<tr>
+		
+		<td class="name bg"><a href="http://notowania.pb.pl/instrument/PLIMPXM00019">IMPEXMET</a></td>
+		<td class="number bg">3.17</td>
+		<td class="number bg">-3.35%</td>
+		<td class="number bg">6.63%</td>
+		<td class="number bg">3.40</td>
+		
+		<td class="number bg">-0.23</td>
+		<td class="number bg">-6.76%</td>		
+		</tr>
+		<tr>
+		
+		<td class="name bg"><a href="http://notowania.pb.pl/instrument/PLAPATR00018">APATOR</a></td>
+		<td class="number bg">29.00</td>
+		<td class="number bg">-0.99%</td>
+		<td class="number bg">8.29%</td>
+		<td class="number bg">28.50</td>
+		
+		<td class="number bg">0.50</td>
+		<td class="number bg">+1.75%</td>		
+		</tr>
+		<tr>
+		
+		<td class="name bg">GOTÓWKA</td>
+		<td class="number bg">679.40</td>
+		<td class="number bg">-</td>
+		<td class="number bg">7.78%</td>
+		<td class="number bg">-</td>
+		<td class="number bg">-</td>
+		
+		<td class="number bg">-</td>		
+		</tr>
+		
+		<tr>
+		
+		<td class="name bg"><strong>RAZEM</strong></td>
+		<td class="number bg"><strong>8744.94 zł</strong></td>
+		<td class="number bg"><strong>-1.03%</strong></td>
+		
+		<td class="number bg"></td>
+		
+		<td class="number bg"></td>
+		<td class="number bg"></td>
+		<td class="number bg">-12.55%</td>		
+		</tr>
+		
+
+		
+	</tbody>	
+</table>
+
+<h2>Ostatnie zmiany</h2>
+<table style="width: 590px;">
+<tbody>
+	<tr>
+		<th>Spółka</th>
+		<th>Data</th>
+		<th>Ilośc akcji</th>
+		<th>Cena zakupu/sprzedaży</th>
+		<th>Opis transakcji</th>
+
+	</tr>
+	
+	
+		<tr>
+		<td class="name bg"><a href="/instrument/CY1000031710">ASBIS</a></td>
+		<td class="number bg">2013-02-14</td>
+		<td class="number bg">297</td>		
+		<td class="number bg">3.30</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2999349,37479,bedzie-wiecej-akcji-w-portfelu-pb">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLNFI0900014">MIDAS</a></td>
+		<td class="number bg">2013-02-14</td>
+		<td class="number bg">597</td>		
+		<td class="number bg">0.82</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2999349,37479,bedzie-wiecej-akcji-w-portfelu-pb">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLIMPXM00019">IMPEXMET</a></td>
+		<td class="number bg">2013-01-11</td>
+		<td class="number bg">-200</td>		
+		<td class="number bg">3.40</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2954104,18489">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLTAURN00011">TAURONPE</a></td>
+		<td class="number bg">2013-01-11</td>
+		<td class="number bg">-200</td>		
+		<td class="number bg">4.85</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2954104,18489">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLPOLNA00015">POLNA</a></td>
+		<td class="number bg">2013-01-11</td>
+		<td class="number bg">63</td>		
+		<td class="number bg">12.39</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2954104,18489">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLZPUE000012">ZPUE</a></td>
+		<td class="number bg">2012-10-05</td>
+		<td class="number bg">3</td>		
+		<td class="number bg">222.50</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2675252,8200,portfel-pb-poszedl-na-zakupy">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLAPATR00018">APATOR</a></td>
+		<td class="number bg">2012-10-05</td>
+		<td class="number bg">25</td>		
+		<td class="number bg">28.50</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2675252,8200,portfel-pb-poszedl-na-zakupy">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLKRCHM00015">ALMA</a></td>
+		<td class="number bg">2012-04-25</td>
+		<td class="number bg">-21</td>		
+		<td class="number bg">29.88</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2598168,11328,portfel-pb-dobry-jak-zloto">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLLOTOS00025">LOTOS</a></td>
+		<td class="number bg">2012-02-24</td>
+		<td class="number bg">-55</td>		
+		<td class="number bg">27.10</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2562337,92951,porzadki-w-portfelu-pb">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLGETBK00012">GETINOBLE</a></td>
+		<td class="number bg">2012-01-20</td>
+		<td class="number bg">556</td>		
+		<td class="number bg">0.00</td>
+		<td class="number bg"><a href="">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLGSPR000014">GETIN</a></td>
+		<td class="number bg">2012-01-04</td>
+		<td class="number bg">190</td>		
+		<td class="number bg">6.73</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2538765,70225,portfel-pb-znow-na-zakupach">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLDRZPL00032">DROZAPOL</a></td>
+		<td class="number bg">2011-12-02</td>
+		<td class="number bg">-433</td>		
+		<td class="number bg">1.45</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2523251,33975,portfel-pb-sprzedaje">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLNFI0900014">MIDAS</a></td>
+		<td class="number bg">2011-11-17</td>
+		<td class="number bg">1188</td>		
+		<td class="number bg">1.21</td>
+		<td class="number bg"><a href="http://pulsinwestora.pb.pl/2519182,4939,portfel-pb-na-zakupach">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLIMPXM00019">IMPEXMET</a></td>
+		<td class="number bg">2011-04-07</td>
+		<td class="number bg">383</td>		
+		<td class="number bg">5.22</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2011/04/06/Portfel_PB_na_zakupach">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLZCPLC00036">POLICE</a></td>
+		<td class="number bg">2011-02-23</td>
+		<td class="number bg">-152</td>		
+		<td class="number bg">10.25</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=395adb1a-4103-4c0e-ba3c-9706d01b164b">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLKRCHM00015">ALMA</a></td>
+		<td class="number bg">2011-01-25</td>
+		<td class="number bg">21</td>		
+		<td class="number bg">44.98</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2011/01/24/Portfel_PB_idzie_na_zakupy">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLMWTRD00013">MWTRADE</a></td>
+		<td class="number bg">2010-11-05</td>
+		<td class="number bg">-150</td>		
+		<td class="number bg">15.50</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=64392e1a-8837-4fba-adc8-63def3f3061b">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLNFI0700018">IMPERA</a></td>
+		<td class="number bg">2010-11-05</td>
+		<td class="number bg">-633</td>		
+		<td class="number bg">1.80</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=64392e1a-8837-4fba-adc8-63def3f3061b">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLABMSD00015">ABMSOLID</a></td>
+		<td class="number bg">2010-08-18</td>
+		<td class="number bg">-162</td>		
+		<td class="number bg">18.99</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2010/08/17/Czas_na_wieksze_zmiany_w_portfelu?readcomment=1#comment">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLANTI000012">GREENECO</a></td>
+		<td class="number bg">2010-08-18</td>
+		<td class="number bg">-308</td>		
+		<td class="number bg">3.53</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2010/08/17/Czas_na_wieksze_zmiany_w_portfelu?readcomment=1#comment">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLTAURN00011">TAURONPE</a></td>
+		<td class="number bg">2010-07-08</td>
+		<td class="number bg">392</td>		
+		<td class="number bg">5.09</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2010/07/07/Portfel_PB_chce_akcji_Tauronu">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLMWTRD00013">MWTRADE</a></td>
+		<td class="number bg">2010-05-19</td>
+		<td class="number bg">150</td>		
+		<td class="number bg">6.47</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2010/05/18/Portfel_PB_szuka_perelek">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLDRZPL00032">DROZAPOL</a></td>
+		<td class="number bg">2010-05-19</td>
+		<td class="number bg">433</td>		
+		<td class="number bg">2.28</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2010/05/18/Portfel_PB_szuka_perelek">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLDMDVL00012">DOMDEV</a></td>
+		<td class="number bg">2010-03-17</td>
+		<td class="number bg">-38</td>		
+		<td class="number bg">54.00</td>
+		<td class="number bg"><a href="http://www.pb.pl/a/2010/03/16/Siedzimy_na_kasie">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLZCPLC00036">POLICE</a></td>
+		<td class="number bg">2010-03-05</td>
+		<td class="number bg">152</td>		
+		<td class="number bg">6.55</td>
+		<td class="number bg"><a href="http://www.pb.pl/a/2010/03/04/Rewelacyjny_poczatek_roku">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLPKO0000016">PKOBP</a></td>
+		<td class="number bg">2010-01-15</td>
+		<td class="number bg">-50</td>		
+		<td class="number bg">38.61</td>
+		<td class="number bg"><a href="http://www.pb.pl/a/2010/01/14/Przemeblowania_w_Portfelu_PB">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLPKO0000016">PKOBP</a></td>
+		<td class="number bg">2009-12-18</td>
+		<td class="number bg">10</td>		
+		<td class="number bg">34.70</td>
+		<td class="number bg"><a href="">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLPKO0000065">PKOBP-PDA</a></td>
+		<td class="number bg">2009-12-18</td>
+		<td class="number bg">-10</td>		
+		<td class="number bg">0.00</td>
+		<td class="number bg"><a href="">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLKRUSZ00016">KRUSZWICA</a></td>
+		<td class="number bg">2009-12-15</td>
+		<td class="number bg">-18</td>		
+		<td class="number bg">57.50</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=a2d111af-65bb-46c9-8f21-227de2497c24">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLLOTOS00025">LOTOS</a></td>
+		<td class="number bg">2009-12-15</td>
+		<td class="number bg">-60</td>		
+		<td class="number bg">31.56</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=a2d111af-65bb-46c9-8f21-227de2497c24">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLABMSD00015">ABMSOLID</a></td>
+		<td class="number bg">2009-11-06</td>
+		<td class="number bg">162</td>		
+		<td class="number bg">9.27</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/11/05/Czas_na_zmiany">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLCFRPT00013">CYFRPLSAT</a></td>
+		<td class="number bg">2009-11-06</td>
+		<td class="number bg">-96</td>		
+		<td class="number bg">14.16</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/11/05/Czas_na_zmiany">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLPKO0000065">PKOBP-PDA</a></td>
+		<td class="number bg">2009-11-03</td>
+		<td class="number bg">10</td>		
+		<td class="number bg">0.00</td>
+		<td class="number bg"><a href="http://www.pb.pl/a/2009/11/02/Nowe_akcje_PKO_BP_od_jutra_na_GPW2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLLZPSK00019">PROTEKTOR</a></td>
+		<td class="number bg">2009-10-23</td>
+		<td class="number bg">-438</td>		
+		<td class="number bg">3.50</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=f5cd756d-91f3-447e-8620-b2834f81b652">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLPKO0000040">PKOBP-PP</a></td>
+		<td class="number bg">2009-10-23</td>
+		<td class="number bg">-40</td>		
+		<td class="number bg">0.00</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=f5cd756d-91f3-447e-8620-b2834f81b652">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLPKO0000040">PKOBP-PP</a></td>
+		<td class="number bg">2009-10-09</td>
+		<td class="number bg">40</td>		
+		<td class="number bg">0.00</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=84fb57b0-03b6-4ee2-ad9f-a3c91ce71fc2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLPKO0000016">PKOBP</a></td>
+		<td class="number bg">2009-10-01</td>
+		<td class="number bg">40</td>		
+		<td class="number bg">34.70</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/10/01/PKO_BP_w_Portfelu_PB">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLCFRPT00013">CYFRPLSAT</a></td>
+		<td class="number bg">2009-09-25</td>
+		<td class="number bg">96</td>		
+		<td class="number bg">15.10</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=75eb9c00-f39e-4390-a890-d914843adeef">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLNFI0700018">IMPERA</a></td>
+		<td class="number bg">2009-09-04</td>
+		<td class="number bg">633</td>		
+		<td class="number bg">2.35</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/09/03/Portfel_PB_kupujemy_i_sprzedajemy2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLNFI0700018">IMPERA</a></td>
+		<td class="number bg">2009-09-04</td>
+		<td class="number bg">633</td>		
+		<td class="number bg">2.35</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/09/03/Portfel_PB_kupujemy_i_sprzedajemy2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLMRCOR00016">MERCOR</a></td>
+		<td class="number bg">2009-09-04</td>
+		<td class="number bg">-80</td>		
+		<td class="number bg">21.79</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/09/03/Portfel_PB_kupujemy_i_sprzedajemy2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLANTI000012">GREENECO</a></td>
+		<td class="number bg">2009-09-04</td>
+		<td class="number bg">308</td>		
+		<td class="number bg">4.87</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/09/03/Portfel_PB_kupujemy_i_sprzedajemy2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLGANT000014">GANT</a></td>
+		<td class="number bg">2009-09-04</td>
+		<td class="number bg">-51</td>		
+		<td class="number bg">24.49</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/09/03/Portfel_PB_kupujemy_i_sprzedajemy2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLANTI000012">GREENECO</a></td>
+		<td class="number bg">2009-08-21</td>
+		<td class="number bg">-250</td>		
+		<td class="number bg">9.40</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=eb19e967-c031-4ad7-a9e2-989a9ed1cb41">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLLZPSK00019">PROTEKTOR</a></td>
+		<td class="number bg">2009-07-27</td>
+		<td class="number bg">438</td>		
+		<td class="number bg">2.97</td>
+		<td class="number bg"><a href="http://www.pb.pl/a/2009/07/23/Portfel_PB_w_poszukiwaniu_straconego_czasu">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLGANT000014">GANT</a></td>
+		<td class="number bg">2009-07-13</td>
+		<td class="number bg">51</td>		
+		<td class="number bg">19.40</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/07/11/Portfel_PB_znow_na_zakupach2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLANTI000012">GREENECO</a></td>
+		<td class="number bg">2009-06-29</td>
+		<td class="number bg">250</td>		
+		<td class="number bg">5.19</td>
+		<td class="number bg"><a href="">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLDMDVL00012">DOMDEV</a></td>
+		<td class="number bg">2009-06-29</td>
+		<td class="number bg">-35</td>		
+		<td class="number bg">26.70</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/06/25/Tasujemy_w_Portfelu_PB">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLMRCOR00016">MERCOR</a></td>
+		<td class="number bg">2009-06-05</td>
+		<td class="number bg">80</td>		
+		<td class="number bg">24.90</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/06/04/Portfel_PB_kupujemy2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLKRUSZ00016">KRUSZWICA</a></td>
+		<td class="number bg">2009-05-22</td>
+		<td class="number bg">18</td>		
+		<td class="number bg">54.65</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/05/21/Duze_zmiany_w_Portfelu_PB2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLJTRZN00011">COLIAN</a></td>
+		<td class="number bg">2009-05-22</td>
+		<td class="number bg">-971</td>		
+		<td class="number bg">2.72</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/05/21/Duze_zmiany_w_Portfelu_PB2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLBSK0000017">INGBSK</a></td>
+		<td class="number bg">2009-05-19</td>
+		<td class="number bg">-5</td>		
+		<td class="number bg">339.50</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=405d7501-bec1-44cd-9542-c4303ae5cd68">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/LU0122624777">ORCOGROUP</a></td>
+		<td class="number bg">2009-04-30</td>
+		<td class="number bg">-47</td>		
+		<td class="number bg">34.49</td>
+		<td class="number bg"><a href="http://www.pb.pl/a/2009/04/29/Sprzedajmy_Orco_kupujemy">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLJTRZN00011">COLIAN</a></td>
+		<td class="number bg">2009-04-21</td>
+		<td class="number bg">971</td>		
+		<td class="number bg">2.06</td>
+		<td class="number bg"><a href="http://www.pb.pl/2/a/2009/04/20/Portfel_PB_rusza_na_zakupy2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/LU0122624777">ORCOGROUP</a></td>
+		<td class="number bg">2009-04-21</td>
+		<td class="number bg">47</td>		
+		<td class="number bg">21.25</td>
+		<td class="number bg"><a href="http://www.pb.pl/a/2009/04/20/Kupilismy_Orco_i_Jutrzenke2">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLDMDVL00012">DOMDEV</a></td>
+		<td class="number bg">2009-04-03</td>
+		<td class="number bg">73</td>		
+		<td class="number bg">26.70</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=03ff21a8-476f-47c3-976e-75f4aba7d8c3">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLLOTOS00025">LOTOS</a></td>
+		<td class="number bg">2009-04-03</td>
+		<td class="number bg">115</td>		
+		<td class="number bg">16.50</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=03ff21a8-476f-47c3-976e-75f4aba7d8c3">Opis</a></td>		
+		</tr>
+		<tr>
+		<td class="name bg"><a href="/instrument/PLBSK0000017">INGBSK</a></td>
+		<td class="number bg">2009-04-03</td>
+		<td class="number bg">5</td>		
+		<td class="number bg">220.00</td>
+		<td class="number bg"><a href="http://www.pb.pl/Default2.aspx?ArticleID=03ff21a8-476f-47c3-976e-75f4aba7d8c3">Opis</a></td>		
+		</tr>
+		
+		
+
+		
+	</tbody>	
+</table>
+<p style="margin: 0pt; padding: 0pt; text-align: right;">
+<a class="bluetext" href="/historiaportfela/PBWALLPB">Zobacz pełną listę historię zmian»</a>
+</p>
+<!--<p style="margin: 0pt; padding: 0pt; text-align: right;"><a href="http://notowania.pb.pl/transactions/PLPEKAO00016" class="bluetext">Zobacz pełną listę transakcji»</a></p> -->
+</div><!-- /#offers -->
+
+</div><!-- /#company_tables -->
+
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+	
+	<div id="wallet_data">
+	<h2 class="first" >INFO</h2>		
+		<div class="wallet_info">
+			<p><a style="font-size:11px;" href="#" onclick="document.getElementById('wallet_rules').style.display = 'block'; ">Regulamin portfela  	&raquo;</a></p>
+			<p style="font-size: 11px; "><b>Portfel PB</b> założyliśmy 3 kwietnia 2009 roku. Na starcie mieliśmy 10&nbsp;tys.&nbsp;zł. Trzyosobowy Komitet Inwestycyjny systematycznie decyduje o kupnie i sprzedaży akcji spółek z GPW. Decyzje podejmujemy w oparciu o sugestie, wnioski i maile naszych czytelników. Akcję prowadzimy zgodnie ze znanym Komisji Nadzoru Finansowego regulaminem. Zastrzegamy, że kształt portfela i podjęte decyzji nie stanową żadnej rekomendacji inwestycyjnej.<br />
+            Na początku 2010 r. przekazaliśmy 5100 zł zysku z 2009 r. na cele charytatywne. Na początku 2011 r. to samo zrobiliśmy z 4050 zł zysku za 2010. W 2011r. straciliśmy 1876zł. W 2012 zarobiliśmy 249 zł.</p>
+			
+		</div>
+	
+		<h2 class="first">Portfel</h2>
+		<div class="company_box">		     
+			<div class="linechart">
+				
+
+	<table>
+			
+			<tr>
+			<td class="percent">16.3%</td>
+			<td><div class="bigbar" style="height: 26px; "></div></td>
+			<td>MIDAS</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">13.9%</td>
+			<td><div class="bar" style="height: 22px; "></div></td>
+			<td>ASBIS</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">11.6%</td>
+			<td><div class="bar" style="height: 18px; "></div></td>
+			<td>ZPUE</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">11.2%</td>
+			<td><div class="bar" style="height: 18px; "></div></td>
+			<td>GETINOBLE</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">9.6%</td>
+			<td><div class="bar" style="height: 15px; "></div></td>
+			<td>TAURONPE</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">9.0%</td>
+			<td><div class="bar" style="height: 14px; "></div></td>
+			<td>POLNA</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">8.3%</td>
+			<td><div class="bar" style="height: 13px; "></div></td>
+			<td>APATOR</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">6.6%</td>
+			<td><div class="bar" style="height: 10px; "></div></td>
+			<td>IMPEXMET</td>
+			</tr>
+			
+			
+			<tr>
+			<td class="percent">5.6%</td>
+			<td><div class="bar" style="height: 8px; "></div></td>
+			<td>GETIN</td>
+			</tr>
+			
+	<tr>
+			<td class="percent">7.8%</td>
+			<td><div class="bar others" style="height: 12px; "></div></td>
+			<td style="overflow: visible; ">gotówka</td>
+	</tr>
+	</table>
+
+			</div>
+		</div>
+	
+	
+
+<div id="wallet_news">
+		<div class="news">
+		<h2 class="first">Informacje</h2>
+			<div class="content">
+				<p><a href="http://www.pb.pl/2485223," target="_blank"><span class="dt">2013-03-22</span> Portfel PB </a></p>
+				<p><a href="http://www.pb.pl/3024650," target="_blank"><span class="dt">2013-03-04</span> Portfel PB zbiera żniwo z przebudowy </a></p>
+				<p><a href="http://www.pb.pl/3023917," target="_blank"><span class="dt">2013-03-01</span> Portfel PB bije wszystkich </a></p>
+				<p><a href="http://www.pb.pl/2998428," target="_blank"><span class="dt">2013-02-13</span> Midas drożeje przy dużych obrotach </a></p>
+				<p><a href="http://www.pb.pl/2990507," target="_blank"><span class="dt">2013-02-07</span> Trigon podniósł wycenę ZPUE </a></p>
+				<p><a href="http://www.pb.pl/2971356," target="_blank"><span class="dt">2013-01-25</span> Trigon radzi "kupuj" Midasa </a></p>
+				<p><a href="http://www.pb.pl/2968864," target="_blank"><span class="dt">2013-01-23</span> ZPUE gwiazdą Portfela PB </a></p>
+				<p><a href="http://www.pb.pl/2951090," target="_blank"><span class="dt">2013-01-09</span> Analiza techniczna Apatora i indeksów </a></p>
+				<p><a href="http://www.pb.pl/2913712," target="_blank"><span class="dt">2012-12-13</span> Faworyt Portfela PB liderem sesji (NOTOWANIA) </a></p>
+			</div>			
+		</div>	
+
+</div><!-- /#company_news -->
+	</div><!-- #wallet_data -->
+	<div id="wallet_info">
+		<h2 class="first">Rekiny GPW</h2>
+			
+			<table style="margin-left:1px;width: 199px;"">
+			<tr><th>Indeks</th><th>Wartość</th><th>Zmiana</th></tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Czarnecki">PB Czarnecki</a></td>
+			<td >125.19</td>
+			<td class="down">-0.66%</td>
+			</tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Jakubas">PB Jakubas</a></td>
+			<td >129.85</td>
+			<td class="down">-0.70%</td>
+			</tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Jedrzejewski">PB Jedrzejewski</a></td>
+			<td >134.00</td>
+			<td class="down">-0.12%</td>
+			</tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Jutkiewicz">PB Jutkiewicz</a></td>
+			<td >10.48</td>
+			<td class="up">+7.80%</td>
+			</tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Karkosik">PB Karkosik</a></td>
+			<td >226.06</td>
+			<td class="down">-2.23%</td>
+			</tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Krauze">PB Krauze</a></td>
+			<td >21.25</td>
+			<td class="down">-1.44%</td>
+			</tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Moska">PB Moska</a></td>
+			<td >159.20</td>
+			<td class="up">+0.31%</td>
+			</tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Patrowicz">PB Patrowicz</a></td>
+			<td >984.97</td>
+			<td class="down">-0.87%</td>
+			</tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Solorz">PB Solorz</a></td>
+			<td >73.31</td>
+			<td class="down">-4.45%</td>
+			</tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/Solowow">PB Sołowow</a></td>
+			<td >299.67</td>
+			<td class="down">-3.42%</td>
+			</tr>
+			</table>
+			<table style="margin-left:1px;margin-top:5px;width: 199px;">
+			<tr><th>Indeks</th><th>Wartość</th><th>Zmiana</th></tr>
+			
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/PBLucy">Portfel Lucy</a></td>
+			<td >121.18</td>
+			<td class="down">-0.59%</td>
+			</tr>
+			</table>
+			<table style="margin-left:1px;margin-top:5px;width: 199px;">
+			<tr><th>Indeks</th><th>Wartość</th><th>Zmiana</th></tr>
+			<tr>
+			<td style="padding-left:2px;"><a href="/instrument/PBWALLPB">Portfel PB</a></td>
+			<td >8744.94</td>
+			<td class="down">-1.03%</td>
+			</tr>
+			</table>	
+			<h2>ze spółek portfela pb</h2>
+			<div class="wallet_news">
+			<div class="content" style="font-size:11px">
+				<p><a href="http://www.pb.pl/3053980," target="_blank"><span class="dt">2013-03-22</span> Asbisc proponuje dywidendę </a></p>
+				<p><a href="http://www.pb.pl/3053976," target="_blank"><span class="dt">2013-03-22</span> Kurz opada nad Książęcą </a></p>
+				<p><a href="/espi/3053869/" target="_blank"><span class="dt">2013-03-22</span> Wybór podmiotu uprawnionego do badania sprawozdań finansowych. </a></p>
+				<p><a href="/espi/3053864/" target="_blank"><span class="dt">2013-03-22</span> Rekomendacja Rady Dyrektorów w sprawie dywidendy </a></p>
+				<p><a href="http://www.pb.pl/3053450," target="_blank"><span class="dt">2013-03-22</span> Siedem banków udzieli kredytów na energooszczędne mieszkania i domy </a></p>
+				<p><a href="http://www.pb.pl/3053222," target="_blank"><span class="dt">2013-03-22</span> Oszczędności stale pod ręką </a></p>
+				<p><a href="/espi/3053244/" target="_blank"><span class="dt">2013-03-22</span> Wykaz informacji przekazanych do publicznej wiadomości w 2012 roku </a></p>
+				<p><a href="http://www.pb.pl/3052991," target="_blank"><span class="dt">2013-03-22</span> Sąd UE: Fabryka Łożysk Tocznych nie zarejestruje znaku z literami... </a></p>
+				<p><a href="/espi/3052930/" target="_blank"><span class="dt">2013-03-22</span> Wykaz raportów bieżących i okresowych przekazanych do publicznej... </a></p>
+				<p><a href="/espi/3052877/" target="_blank"><span class="dt">2013-03-22</span> ZBYCIE I NABYCIE OBLIGACJI GETIN NOBLE BANK S.A. PRZEZ NOBLE... </a></p>
+				<p><a href="http://www.pb.pl/3052575," target="_blank"><span class="dt">2013-03-22</span> Mistrzowie świata w programowaniu zapłacą komórkami </a></p>
+				<p><a href="http://www.pb.pl/3052116," target="_blank"><span class="dt">2013-03-22</span> Auto do floty: kosztowne pomysły </a></p>
+			</div>
+			<!-- <a href="/news/PBWALLPB" class="more"><img src="/img/nurse.gif" height="6" width="6" />wszystkie artykuły</a> -->
+			</div>
+		</div>
+	<div id="wallet_info">
+<object height="600" width="300" align="middle" id="Kryzysk_191x400" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+        <param value="sameDomain" name="allowScriptAccess"/>
+        <param value="false" name="allowFullScreen"/>
+        <param value="http://kryzysk.pb.pl" name="click"/>
+        <param value="opaque" name="wmode"/>
+        <param value="http://www.pb.pl/atta/1734-idmsa2.swf?clickTag=http://www.idmtrader.pl/app,site,s,17,lead.html" name="movie"/>
+        <param value="high" name="quality"/>
+
+        <embed height="600" width="300" wmode="opaque" align="middle" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowfullscreen="false" allowscriptaccess="sameDomain" name="Kryzysk_191x400" flashvars="clickTag=http://www.idmtrader.pl/app,site,s,17,lead.html"  quality="high" src="http://www.pb.pl/atta/1734-idmsa2.swf"/>
+        </object>'
+		</div>			
+	</div><!-- /#company_info -->
+	
+
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

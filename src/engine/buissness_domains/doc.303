@@ -1,0 +1,709 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | Notowania</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+<script type="text/javascript">
+function show(n) 
+{
+	document.getElementById('img').src = '/img/technical/' + n + '.jpg';
+	document.getElementById('txt').innerHTML = document.getElementById('txt' + n).innerHTML;	
+}
+</script>
+
+<div id="atc">
+<p class="sitelink"><a href="/technical">Uruchom aplikację do analizy technicznej&nbsp;&raquo;</a></p>
+<h1>Encyklopedia analizy technicznej</h1>
+
+<div id="atc_menu">
+
+	<ul>
+		<li><a href="javascript:show(1)"><strong>%R</strong> - Williams' %R</a></li>
+		<li><a href="javascript:show(2)"><strong>ACC</strong> - Acceleration</a></li>
+		<li><a href="javascript:show(3)"><strong>AD</strong> - Accumulation / Distribution Line</a></li>
+		<li><a href="javascript:show(4)"><strong>ATR</strong> - Average True Range</a></li>
+		<li><a href="javascript:show(5)"><strong>BOL</strong> - Bollinger Bands</a></li>
+		<li><a href="javascript:show(6)"><strong>BOP</strong> - Balance Of Power</a></li>
+		<li><a href="javascript:show(7)"><strong>BOS</strong> - Bollinger Oscillator</a></li>
+		<li><a href="javascript:show(8)"><strong>CCI</strong> - Commodity Channel Index</a></li>
+		<li><a href="javascript:show(9)"><strong>ChAD</strong> - Chaikin A/D Oscillator</a></li>
+		<li><a href="javascript:show(10)"><strong>ChMF</strong> - Chaikin Money Flow</a></li>
+		<li><a href="javascript:show(11)"><strong>ChO</strong> - Chaikin Oscillator</a></li>
+		<li><a href="javascript:show(12)"><strong>ChV</strong> - Chaikin Volatility</a></li>
+		<li><a href="javascript:show(13)"><strong>CMO</strong> - Chande's Momentum Oscillator</a></li>
+		<li><a href="javascript:show(14)"><strong>DMI</strong> - Directional Movement Index</a></li>
+		<li><a href="javascript:show(15)"><strong>DPO</strong> - Detrended Price Oscillator</a></li>
+		<li><a href="javascript:show(16)"><strong>EMA</strong> - Exponential Moving Average</a></li>
+		<li><a href="javascript:show(17)"><strong>EMV</strong> - Ease of Movement</a></li>
+		<li><a href="javascript:show(18)"><strong>FastD, FastK</strong> - %D Fast, %K Fast</a></li>
+		<li><a href="javascript:show(19)"><strong>FI</strong> - Force Index</a></li>
+		<li><a href="javascript:show(20)"><strong>IMI</strong> - Intraday Momentum Index</a></li>
+		<li><a href="javascript:show(21)"><strong>MACD</strong> - Moving Average Convergence / Divergence</a></li>
+		<li><a href="javascript:show(22)"><strong>MACDO</strong> - Moving Average Convergence / Divergence Oscillator</a></li>
+		<li><a href="javascript:show(23)"><strong>MFI</strong> - Money Flow Index</a></li>
+		<li><a href="javascript:show(24)"><strong>MI</strong> - Mass Index</a></li>
+		<li><a href="javascript:show(25)"><strong>MTM</strong> - Momentum type 1 &amp; type 2</a></li>
+		<li><a href="javascript:show(26)"><strong>NVI</strong> - Negative Volume Index</a></li>
+		<li><a href="javascript:show(27)"><strong>OBV</strong> - On Balance Volume</a></li>
+		<li><a href="javascript:show(28)"><strong>ParSAR</strong> - Parabolic Stop and Reversal</a></li>
+		<li><a href="javascript:show(29)"><strong>POS</strong> - Price Oscillator</a></li>
+		<li><a href="javascript:show(30)"><strong>PP</strong> - Pivot Points</a></li>
+		<li><a href="javascript:show(31)"><strong>PVI</strong> - Positive Volume Index</a></li>
+		<li><a href="javascript:show(32)"><strong>PVO</strong> - Percentage Volume Oscillator</a></li>
+		<li><a href="javascript:show(33)"><strong>PVT</strong> - Price and Volume Trend</a></li>
+		<li><a href="javascript:show(34)"><strong>QStick</strong> - QStick Indicator</a></li>
+		<li><a href="javascript:show(35)"><strong>ROC</strong> - Rate of Change</a></li>
+		<li><a href="javascript:show(36)"><strong>RSI</strong> - Relative Strength Index</a></li>
+		<li><a href="javascript:show(37)"><strong>RVI</strong> - Relative Volatility Index</a></li>
+		<li><a href="javascript:show(38)"><strong>SlowD</strong> - %D Slow</a></li>
+		<li><a href="javascript:show(39)"><strong>SMA</strong> - Simple Moving Average</a></li>
+		<li><a href="javascript:show(40)"><strong>StDev</strong> - Standard Deviation</a></li>
+		<li><a href="javascript:show(41)"><strong>STS</strong> - Stochastic</a></li>
+		<li><a href="javascript:show(42)"><strong>TRD</strong> - Trend Deviation</a></li>
+		<li><a href="javascript:show(43)"><strong>TRIX</strong> - TRIX Index</a></li>
+		<li><a href="javascript:show(44)"><strong>ULT</strong> - Ultimate Oscillator</a></li>
+		<li><a href="javascript:show(45)"><strong>VLT</strong> - Volatility Ratio</a></li>
+		<li><a href="javascript:show(46)"><strong>VOS</strong> - Volume Oscillator</a></li>
+		<li><a href="javascript:show(47)"><strong>VROC</strong> - Volume Rate of Change</a></li>
+		<li><a href="javascript:show(48)"><strong>WAD</strong> - Williams' Accumulation / Distribution type 1 &amp; type 2</a></li>	
+	</ul>
+	<p>autor: Piotr Danelski</p>
+</div>
+	
+<div id="atc_description">
+		
+		<img src="/img/technical/8.jpg" alt="" id="img" />
+		
+		<div id="txt">
+			<h2>%R - Williams' %R</h2>
+			<p>Oscylator wskazujący potencjalne poziomy wykupienia i wyprzedania, szczególnie przydatny w trendach horyzontalnych oraz okresach dużych wahań kursu. Momenty opuszczenia przez linię wskaźnika stref przewartościowania (80%-90%) i niedowartościowania (10%-20%) to sygnały, kolejno, sprzedaży i kupna, co doskonale widać na grafice.</p>	
+		</div>
+</div>
+
+</div>
+
+<div style="display: none;">
+
+	<div id="txt2">
+		<h2>ACC - Acceleration</h2>
+		<p>Jeden ze wskaźników monitorujących przyspieszenie trendu. ACC oscyluje wokół linii 0, zarysowując wykres przypominający kurs instrumentu przesunięty o wektor w lewo. Wskaźnik ma więc moc wyprzedzenia notowań i naznaczania momentów osiągnięcia lokalnych szczytów i dołków. Zaobserwować można też czasem rozbieżności między ruchem ACC i wykresem ceny waloru. Dywergencja byka widoczna jest na grafice: coraz niżej położone kolejne lokalne dołki ceny instrumentu a kolejne, coraz wyżej znajdujące się minima lokalne wskaźnika ACC - jako zapowiedź odwrócenia deprecjacji papieru wartościowego.</p>
+	</div>
+	
+	<div id="txt3">
+		<h2>AD - Accumulation / Distribution Line</h2>
+		<p>Wskaźnik ten łączy koncepty trendu i wolumenu, ukazując siłę tego pierwszego za pomocą wielkości obrotów.</p> 
+		<ul>
+			<li>wzrost+duży wolumen: wzrost wskazań AD, następuje akumulacja</li>
+			<li>spadek+duży wolumen: spadek wskazań AD, następuje dystrybucja</li>
+			<li>mieszane poziomy: niepewność, co do kontynuacji ruchu</li>
+		</ul>			
+		<p>Następuje wówczas dywergencja (czerwona linia): kurs waloru wyznacza nowy, głębszy dołek, zaś na wykresie AD można podówczas nakreślić trend wzrostowy; taka niezgodność wieszczy odbicie i ruch przeciwny.</p>
+	</div>
+	
+	<div id="txt4">
+		<h2>ATR - Average True Range</h2>
+		<p>Jest to średnia z tzw. rzeczywistego zakresu zmian (TR). Maksima wskaźnika zwykle wyprzedzają lokalne szczyty i dołki z wykresu kursu. Niskie wartości ATR potwierdzają ruch boczny, co widać na załączonej grafice.</p>
+	</div>
+	
+	<div id="txt5">
+		<h2>BOL - Bollinger Bands</h2>
+		<p>Indykator zmienności cen (rozszerzanie wstęg w okresach wysokiej zmienności; zwężanie w czasach stabilności kursu), który wyznacza potencjalny obszar, w którego obrębie cena powinna się utrzymać. W trendach bocznych wykres kursu ma oscylować między dwiema wstęgami, niejako "odbijając" się od nich. Krótkie wyjście poza tę strefę lub znaczne zbliżenie się do wstęgi sugeruje krótkoterminowe odwrócenie dotychczasowej tendencji kursu. Kilka innych spostrzeżeń dotyczących tradingu przy użyciu tego narzędzia:</p>
+		<ul>
+			<li>silnie zwężające się wstęgi (okręgi na grafice) sygnalizują rychły, znaczny ruch cenowy. Pierwsze wybicie jest wówczas zazwyczaj fałszywe i poprzedza silny ruch w stronę przeciwną</li>
+			<li>znaczące opuszczenie obszaru wyznaczonego przez wstęgi (rynek w trendzie) zwykle informuje, że trend jest mocny i będzie kontynuowany, chyba, że wykres ceny instrumentu prędko nie zawróci (tzw. quick reversal)</li>
+			<li>gdy wykres "przykleja" się do wstęgi sugerowana jest kontynuacja i siła tego ruchu (przykładowy "zjazd" po wstędze na przełomie lipca i sierpnia 2007 roku)</li>
+		</ul>	
+	</div>
+	
+	<div id="txt6">
+		<h2>BOP - Balance Of Power</h2>
+		<p>Jest to stosunkowo nowy wskaźnik (2001), który przed uśrednieniem i stadaryzacją był zwykłym ilorazem różnicy cen zamknięcia i otwarcia przez różnicę między maksymalną i minimalną ceną danej sesji. BOP mierzy równowagę rynku wobec walki byków i niedźwiedzi. Interpretujemy go podobnie jak RSI. Możemy tu więc wyznaczać linie trendu i strefy wykupienia i wyprzedania dla danego instrumentu.</p>	
+	</div>
+	
+	<div id="txt7">
+		<h2>BOS - Bollinger Oscillator</h2>
+		<p>Wskazuje zależność między poziomem ceny instrumentu a położeniem wstęgi Bollingera. Poziome linie na wykresie wskaźnika utożsamiać należy z owymi wstęgami, natomiast sam wykres oscylatora to odpowiednio przedstawiony kurs analizowanego waloru. Sygnał kupna generowany jest, gdy BOS wychodzi poniżej dolnej granicy wahań (zielone kropki), sygnał sprzedaży, gdy BOS wychodzi ponad granicę górną (czerwone kropki). Wskaźnik winien być używany tylko i wyłącznie w czasie ruchów horyzontalnych cen - najlepiej w długoterminowych quasi-prostokątach o silnym wsparciu i silnym oporze. W chwili opuszczenia takiej strefy wahań wszystkie generowane sygnały przez BOS powinny być ignorowane.</p>	
+	</div>
+	
+	<div id="txt8">
+		<h2>CCI - Commodity Channel Index</h2>
+		<p>CCI stworzono dla identyfikacji cyklicznych zwrotów kursu. Donald Lambert w konstrukcji wykorzystał ceny typowe: (H+L+C)/3. Parametr wskaźnika odnosi się do 1/3 długości cyklu, jaki występuje wg nas, np. dla 60-dniowego (np. dołek co 60 sesji) bierzemy 20.</p>
+		<p>Dla wskaźnika zastosowanie jest szerokie (przede wszystkim ruch horyzontalny):</p>
+		<ul>
+			<li>oscylator stref wykupienia i wyprzedania (sygnał kupna po osiągnięciu ekstremalnie niskiej wartości, a potwierdzony po opuszczeniu zony niedowartościowania)</li>
+			<li>dywergencje (sprzedaż wskazana, gdy kurs akcji ustanowił nowy szczyt, a wykres CCI wyznaczał coraz niższe minima)</li>
+			<li>potwierdzenie przekroczenia poziomów: opór (wsparcie) zdecydowanie pokonany, gdy w momencie jego przekroczenia wartości CCI były stale wysoko dodatnie - ponad +100 (wysoko ujemne - poniżej -100)</li> 
+		</ul>	
+	</div>
+	
+	<div id="txt9">
+		<h2>ChAD - Chaikin A/D Oscillator</h2>
+		<p>Wskaźnik oparty jest na idei napływu / odpływu kapitału z rynku. Zbudowany jest jako różnica dwóch wykładniczych średnich kroczących z odczytu AD. Dwa sposoby interpretacji wskazań ChAD to:</p>
+		<ul>
+			<li>wyszukiwanie dywergencji - rozbieżności pomiędzy ruchem cenowym instrumentu a zachowaniem wskaźnika; na grafice sygnał sprzedaży wyznaczony został przez odwrotność trendów (kurs akcji - wzrostowy, oscylator ujemny), co zapowiedziało ruch przeciwny</li>
+			<li>obserwowanie przecięć linii oscylatora z poziomem zerowym: od dołu - kupno, od góry - sprzedaż (pomocniczy charakter wskazań tego typu wymagający potwierdzenia)</li>	
+		</ul>
+	</div>
+	
+	<div id="txt10">
+		<h2>ChMF - Chaikin Money Flow</h2>
+		<p>Jest to pochodna wskaźnika AD. Budowa ChMF opiera się na założeniu o empirycznej podstawie, a mianowicie, że w czasie wzrostów ceny zamknięcia najczęściej znajdują się w górnej połowie odległości między cenami High i Low danego dnia, natomiast w czasie spadków, ceny te zaś oscylują w dolnej połowie dystansu między minimum a maksimum sesji. Istnieją 2 typy sygnałów wysyłanych przez ChMF:</p>
+		<ul>
+			<li>dywergencje: na grafice widać, jak kolejne, wyższe szczyty kursu akcji nie współgrają ze wskaźnikiem, co zapowiedziało przeciwny ruch cenowy; także osiągnięty pierwszy znaczny szczyt (zaznaczony po lewej stronie) nie został do końca potwierdzony przez ChMF, co widać przez analizę odczytu wskaźnika na kolejnych lokalnych maksimach</li>
+			<li>analiza istotności wsparć i oporów: gdy mamy do czynienia z ruchem cenowym ograniczonym przez ważne technicznie poziomy, obserwujemy ChMF w momentach ich testowania. Na grafice widać mocną, kilkuletnią strefę wsparcia, która została sforsowana przy negatywnym (ujemnym) odczycie ChMF. Był to sygnał sprzedaży. Gdyby instrument walczył z mocnym oporem, a wyszedł ponad go przy pozytywnym (dodatnim) wyniku ChMF, powstałby silny sygnał kupna</li>
+		</ul>
+		<p>Z racji interpretacji, ChMF świetnie przydaje się w okresach trendu bocznego, kiedy to jest w stanie szybko określić i potwierdzić (bądź niemu zaprzeczyć) moment wybicia z horyzontalnego ruchu.</p>	
+	</div>
+	
+	<div id="txt11">
+		<h2>ChO - Chaikin Oscillator</h2>
+		<p>Budowa oscylatora opiera się na koncepcie presji popytu i presji podaży. Mierzy on napływy i odpływy kapitału. Do wyznaczania krytycznych momentów dla ceny instrumentu stosuje się dywergencje i przecięcia poziomu zerowego. Na grafice doskonale widać, że sukcesywnie niżej położone lokalne dołki kursu waloru są rozbieżne wobec rosnących wskazań ChO, co bezsprzecznie zapowiada ruch odwrotny. Pomocniczo stosuje się drugi wspomniany typ sygnałów, jednak pozostawia się w mocy jedynie przecięcia "rozpędzonego" wskaźnika, który uprzednio osiągnął skrajną wartość (grafika - litery "S" i "K").</p>	
+	</div>
+	
+	<div id="txt12">
+		<h2>ChV - Chaikin Volatility</h2>
+		<p>Wskaźnik mierzy różnice między kursami minimalnymi a maksymalnymi w zadanym okresie. Istnieje kilka teorii tłumaczących sygnały ChV. Według niektórych szczytom towarzyszą okresy dużej zmienności kursu (wysokie wskazania ChV) z tytułu niezdecydowania i tryumfu emocji. Dołkom cenowym akompaniować miałyby wówczas okresy małej zmienności kursu (niskie wskazania ChV), z powodu znudzenia i marazmu pośród inwestorów. Druga metoda interpretacji zakłada dokładnie odwrotnie, tłumacząc to paniczną wyprzedażą i sukcesywnym opadaniem emocji.</p> 
+		<p>Pewne jest natomiast, że niskie odczyty wskaźnika zazwyczaj wyprzedzają znaczny ruch cenowy na instrumencie, zaś wysokie wartości ChV towarzyszą powstawaniu lokalnie ekstremalnych cen analizowanego waloru. Na grafice widać (poglądowo jedynie naniesione) poziomy oporu na instrumencie, jak i na wskaźniku. Pokonanie takiego poziomu, przy ChV podobnie pokonującym własną strefę oporu, relatywnie wcześnie utwierdza o mocy tego wzrostu.</p>	
+	</div>
+	
+	<div id="txt13">
+		<h2>CMO - Chande's Momentum Oscillator</h2>
+		<p>Oscylator uniwersalny typu Momentum. Istnieje wiele sposobów interpretacji jego wskazań, lecz do najważniejszych należą:</p>
+		<ul>
+			<li>obserwacja stref wykupienia i wyprzedania: przecięcie od góry górnej granicy wskazań wyznacza sygnał sprzedaży ("S" na grafice), podczas, gdy opuszczenie strefy wyprzedania, czyli cross od dołu dolnej granicy stanowi o ważnym sygnale kupna</li>
+			<li>obserwacja przecięć linii wskaźnika (linia niebieska) ze swoją wykładniczą średnią kroczącą (linia żółta); technicznie tak samo, jak w wypadku analizy średnich kroczących - niebieska przecina żółtą od dołu to kupno, a od góry - sprzedaż (małe trójkąty na wykresie CMO)</li>
+			<li>wyszukiwanie dywergencji: kolejne, coraz wyżej położone lokalne minima kursu instrumentu nie idą w parze ze zdecydowanie opadającym wskazaniem CMO, co zapowiada zmianę trendu (sygnał dodatkowo połączony z tymi z podpunktów 1. i 2.)</li>	
+		</ul>
+	</div>
+	
+	<div id="txt14">
+		<h2>DMI - Directional Movement Index</h2>
+		<p>Wskaźnik autorstwa Wellesa Wildera, którego znaczna złożoność przekłada się na mnogość sygnałów i interpretacji. DMI mierzy siłę trendu lub ostrzega przed jego zmianą. Jako nieco opóźniony za notowaniami wskaźnik, mniej czuły na obecne wahania, stosowany winien być głównie w dłuższym horyzoncie czasowym, na rynkach 'określonych', gdyż w konsolidacjach może zamazywać obraz sytuacji. Wykres DMI składa się z 3 linii:</p>
+		<ul>
+			<li>+DI (linia zielona), The Positive Direction Indicator, prezentuje wzrostowe zmiany ceny instrumentu</li>
+			<li>-DI (linia żółta), The Negative Direction Indicator, prezentuje spadkowe zmiany ceny instrumentu</li>
+			<li>ADX (linia niebieska), The Average Directional Movement Index, mierzy siłę rynku, lecz nie jego kierunek</li>
+		</ul>
+		<p>ADX powyżej wartości 40, jak powszechnie przyjęto, sugeruje silny rynek w trendzie (wzrostowy lub spadkowy), natomiast poniżej 20 - trend słaby, nie poparty fundamentami lub też mamy do czynienia z ruchem bocznym. Szukając sygnałów, musimy zwracać uwagę na przecięcia linii +DI oraz -DI oraz umiejscowienie tego crossu względem linii ADX:</p>
+		<ul>
+			<li>kupno, gdy +DI przecina od dołu linię -DI (najlepiej, gdy cross ten ma miejsce ponad ADX - zielona kropka na grafice)</li>
+			<li>sprzedaż, gdy -DI przecina od dołu linię +DI (najlepiej, gdy cross ten ma miejsce poniżej ADX - czerwona kropka na grafice)</li>
+		</ul>
+		<p>By sygnały zostały potwierdzone, ważne jest by w dniu następującym po przecięciu maksimum było wyżej położone od maksimum dnia poprzedniego (dla sygnału kupna) lub minimum było niżej położone od minimum dnia poprzedniego (dla sygnału sprzedaży).</p> 
+		<p>Strategia gry na DMI, opisana przez Alexandra Eldera, kształtuje się następująco:</p>
+		<ul>
+			<li>kupno: gdy +DI jest ponad -DI i spełnia się jeden z tych 2 scenariuszy: (1)ADX rośnie, gdy +DI i ADX są ponad -DI lub (2)gdy ADX zaczyna rosnąć spod +DI i -DI</li>
+			<li>sprzedaż: gdy -DI jest ponad +DI i spełnia się jeden z tych 2 scenariuszy: (1)ADX rośnie, gdy -DI i ADX są ponad +DI lub (2)gdy ADX zaczyna rosnąć spod +DI i -DI</li>
+		</ul>
+		<p>Malejący ADX świadczy o utracie wyczucia kierunku przez rynek. ADX poniżej linii +DI i -DI oznacza niemal 'brak' rynku. Elder sugeruje, by nie handlować na DMI, gdy ADX znacząco nie odbije się od swojego dna (np. czekać 5 punktów: dno na 15 - wzrost do 20 upewnić nas może co do potencjału ruchu). Mówi się również, że im dłużej ADX pozostaje poniżej linii +DI i -DI, tym silniejszy będzie trend.</p>
+		<p>Gdy ADX natomiast rośnie ponad liniami +DI i -DI, sygnalizuje to 'przegrzanie się' rynku. Pozycję najpóźniej zamknąć należy w momencie, gdy ADX zacznie maleć będąc powyżej linii Direction Indicators (+DI, -DI). W przypadku zamieszczonym na grafice, to polecenie pomogłoby zamknąć długą pozycję niemal na samym szczycie formacji cenowej, a więc nieco szybciej niż zautomatyzowany, oparty na crossach sygnał.</p>	
+	</div>
+	
+	<div id="txt15">
+		<h2>DPO - Detrended Price Oscillator</h2>
+		<p>DPO stara się wyeliminować długoterminowe trendy w kursie instrumentu, zostawiając tylko te krótkoterminowe, co pozwala skuteczniej wskazywać strefy wyprzedania i wykupienia. Działa jako swoisty filtr cyklów, eliminuje bowiem te dłuższe niż parametr zadany w konfiguracji. Sygnały generowane przez DPO opierają się głównie na dywergencjach. Na obrazku: nienaturalny wzrost wartości wskaźnika wobec kontynuacji trendu i rozbieżne tendencje sugerują rychłe odwrócenie trendu.</p>	
+	</div>
+	
+	<div id="txt16">
+		<h2>EMA - Exponential Moving Average</h2>
+		<p>Wykładnicza średnia krocząca. Ta forma wygładzania wykresu najwyższą wagę przywiązuje do najświeższych odczytów, przy czym wagi dla dawniejszych danych maleją w sposób wykładniczy (najpierw szybciej, potem wolniej). Powoduje to, że EMA szybciej niż SMA reaguje na dynamiczne zmiany, więc jest mniej opóźniona w stosunku do notowań bieżących. Sygnały wysyłane przez EMA są identyczne z interpretacjami innych średnich kroczących: przecięcie średniej od dołu przez wykres kursu instrumentu wskazuje kupno (zielone kropki), natomiast przecięcie średniej od góry stanowi sygnał sprzedaży (czerwone kropki). Zazwyczaj, korzystając z relatywnie małego opóźnienia sygnałów, EMA stosuje się do krótkoterminowej analizy, wybierając krótki okres średniej (na grafice jest to 5 sesji).</p>	
+	</div>
+	
+	<div id="txt17">
+		<h2>EMV - Ease of Movement</h2>
+		<p>Wskaźnik łączy cenę z wielkością wolumenu. Wysoce dodatnie wartości oznaczają wzrost przy niskim obrocie, wysoce ujemne zaś spadek na niskich obrotach. Niskie, zbliżone do linii 0 wskazania EMV sugerują proces akumulacji lub dystrybucji walorów (cena bez zmian lub duży wolumen potrzebny do jej zmiany). Cross poziomu zerowego od dołu zaleca kupno, od góry natomiast generuje sygnał sprzedaży.</p>	
+	</div>
+	
+	<div id="txt18">
+		<h2>FastD, FastK - %D Fast, %K Fast</h2>
+		<p>Oscylatory, które łącznie stanowią tak zwany Slow Stochastic. Interpretacja wykresów tych indykatorów jest analogiczna do STS. Głównie stosowane są w ruchach horyzontalnych, a sygnały przezeń wysyłane związane są ze strefami wykupienia i wyprzedania (opuszczenie pierwszej z nich to 'sprzedaj' - kropka czerwona, opuszczenie drugiej z nich to 'kupuj' - kropka zielona).</p>	
+	</div>
+	
+	<div id="txt19">
+		<h2>FI - Force Index</h2>
+		<p>Wskaźnik ten monitoruje wynik walki byków i niedźwiedzi za pomocą ruchów cen i wolumenu. Dla odpowiedniego odfiltrowania sygnałów stosuje się wykładnicze średnie kroczące (EMA): na ogół 2-dniowe dla krótkiego terminu i 13-dniowe dla dłuższego horyzontu inwestycji. Skrajne odczyty FI świadczą o sile danej strony rynku: pozytywne - silny popyt, negatywne - silna podaż. Jeśli wskaźnik oscyluje wokół poziomu zerowego znaczy to, że spada wolumen lub że duży wolumen nie jest w stanie znacząco zmienić ceny. Takie sytuacje sugerują odwrócenie.</p>
+		<p>Handlować można patrząc na przecięcia FI z poziomem zerowym (grafika) potwierdzone średnią kroczącą. Najsilniejsze odczyty Force Index generuje jednak dywergując:</p> 
+		<ul>
+			<li>Kupno: FI poniżej 0 i następuje dywergencja byka (instrument ustanawia nowe dno, a wskaźnik nie maleje za nim albo sam rośnie)</li>
+			<li>Sprzedaż: FI powyżej 0 i następuje dywergencja niedźwiedzia (instrument ustanawia nowy szczyt a wskaźnik nie rośnie za nim albo sam maleje)</li>
+		</ul>
+		<p>Wtedy korzystamy z sygnałów EMA(13), wybierając te odczyty, które sugerują ruch zgodny z trendem (nachyleniem średniej kroczącej).</p>	
+	</div>
+	
+	<div id="txt20">
+		<h2>IMI - Intraday Momentum Index</h2>
+		<p>Połączenie RSI ze wskazaniami świec japońskich, których koncepcji używa się do wyznaczenia czy dany dzień był zwyżkowy (cena zamknięcia wyżej niż otwarcia - świeca biała) czy też spadkowy (cena zamknięcia niżej niż otwarcia - świeca czarna). Sygnały, jakie generuje wskaźnik są dwojakie: należy szukać dywergencji, czyli rozbieżności między IMI a ruchem cenowym na instrumencie analizowanym. Na grafice widać dywergencję byka w strefie wyprzedania: kolejne, coraz wyżej położone dołki na IMI nie zaprzeczają silnemu spadkowi kursu i sugerują odwrócenie. Kolejnymi sygnałami są opuszczenia stref wykupienia (czerwona kropka - sprzedaż) i wyprzedania (zielona kropka - kupno).</p>	
+	</div>
+	
+	<div id="txt21">
+		<h2>MACD - Moving Average Convergence / Divergence </h2>
+		<p>Należy do wskaźnikowego kanonu. Powstaje wskutek obliczenia różnicy między dwiema wykładniczymi średnimi kroczącymi (zazwyczaj EMA(26) i EMA(12)). W polu wskaźnika dostrzec można linię MACD (ciemniejsza linia), linię sygnalną (9-sesyjna średnia krocząca tejże różnicy - jaśniejsza linia) oraz histogram (słupki) przedstawiający graficznie wynik odejmowania wartości linii sygnalnej od linii MACD (dodatnie wartości/słupki, gdy ciemniejsza linia wyżej, ujemne wartości/słupki, gdy wyżej linia jaśniejsza).</p>
+		<p>Do niewątpliwych zalet wskaźnika zaliczyć należy znaczną wiarygodność generowanych przezeń sygnałów, a także uniwersalność potencjalnego zastosowania - zarówno podczas wyraźnych trendów, jak i ruchów bocznych kursu instrumentu. Największą wadą z kolei jest opóźnienie tych wskazań, dzięki czemu przyjęło się, by MACD stosować w przewidywaniach i planach długoterminowych.</p>
+		<ul>
+			<li>sygnał kupna generowany jest, gdy linia MACD przecina od dołu linię sygnalną, a cross ten następuje poniżej (im niżej tym lepiej) poziomu zerowego.</li>
+			<li>sygnał sprzedaży generowany jest, gdy linia MACD przecina od góry linię sygnalną, a cross ten następuje powyżej (im wyżej tym lepiej) poziomu zerowego.</li>
+		</ul>
+		<p>Sygnały, te są znacznie mocniejsze, że dojdzie do dywergencji między kursem instrumentu a liniami wskaźnika czy histogramem (przy okazji: sygnał kupna to "wyjście na powierzchnię" słupków, natomiast sprzedaży to przejście od słupków dodatnich do ujemnych). Jeszcze jeden czynnik wzmacniający: gdy dochodzi do stabilizacji odczytu wskaźnika nieco powyżej (poniżej) poziomu zerowego, a następnie do przecięcia linii sygnalnej przez linię MACD od dołu (od góry), to generowany jest bardzo silny sygnał kupna (sprzedaży), co przedstawione zostało na grafice.</p>	
+	</div>
+	
+	<div id="txt22">
+		<h2>MACDO - Moving Average Convergence / Divergence Oscillator</h2>
+		<p>Wariacja na temat wskaźnika konwergencji / dywergencji średnich kroczących, stanowiąca nic więcej jak tylko inny sposób graficznej prezentacji danych. Oscylator ten reprezentuje różnicę między linią MACD a linią sygnalną. Powoduje to, że cross linii MACDO z poziomem zerowym odpowiada przecięciu linii MACD i linii sygnalnej. Ułatwia to wychwycenie tych crossów, lecz odbywa się to kosztem analizy okoliczności takiej sytuacji. Sygnał kupna powstaje, gdy MACDO od dołu przebija poziom zerowy, a sygnał sprzedaży, gdy przebicie to następuje z góry na dół.</p>	
+	</div>
+	
+	<div id="txt23">
+		<h2>MFI - Money Flow Index</h2>
+		<p>Oscylator, który monitoruje napływy i odpływy kapitału. W konstrukcji podobny do RSI z tym, że MFI uwzględnia również wielkość wolumenu. Obserwowane ruchy wskaźnika w górę i dół są analogiczne wobec owych napływów i odpływów. MFI używa się między innymi do określenia wykupienia bądź też wyprzedania danego instrumentu. Sygnały generowane są poprzez momenty opuszczania tych skrajnych stref oraz dywergencje:</p>
+		<ul>
+			<li>kupno, gdy MFI z dołu do góry przecina linię 20, opuszczając zonę wyprzedania</li>
+			<li>sprzedaż, gdy MFI z góry do dołu przecina linię 80, opuszczając zonę wykupienia</li>
+			<li>uwaga na rozbieżności zapowiadające przeciwny ruch cenowy, np. (grafika) wykres ceny ustanawia kolejny lokalny szczyt na równie wysokim poziomie, a wskazania oscylatora MFI maleją (coraz niżej położone kolejne lokalne dna), co zapowiada spadek</li>
+			<li>szczególnie silne sygnały powstają z nałożenia w czasie "sprzedaj" bądź "kupuj" z odpowiednią dywergencją</li>	
+		</ul>
+	</div>
+	
+	<div id="txt24">
+		<h2>MI - Mass Index</h2>
+		<p>Odczyt tego wskaźnika ujawnia kształtowanie się średniej rozpiętości między maksymalnym a minimalnym kursem (ostatnie 25 dni). MI stosowany jest to przewidywania zmiany trendu, a jego interpretacja związana jest z liniami na wykresie wskaźnika, znajdującymi się na pułapach 26.5 oraz 27 punktów. Do wychwycenia sygnałów zmiany trendu stosuje się koncept tak zwanego 'reversal bulge', czyli 'wybrzuszenia' przy odwróceniu. Powstaje ono, gdy linia MI wychodzi ponad poziom 27, a następnie, tworząc owo 'wybrzuszenie', opada przecinając najpierw 27, a potem 26.5 punktów.</p>
+		<p>Dla potwierdzenia sygnału zwykło się stosować 9-sesyjną wykładniczą średnią kroczącą, która pomaga w dwojaki sposób. Po pierwsze, należy patrzeć na zachowanie EMA(9) w momencie wspomnianego już odgórnego przecięcia pułapu 26.5 (po wcześniejszym - 27). Jeśli średnia ta wówczas rośnie, należy spodziewać się spadków (wykres przykładem). Jeśli EMA(9) wtedy opada, warto przemyśleć zajęcie długiej pozycji. Po drugie, można czekać na akceptację danego odczytu MI przez odpowiednie przecięcie linii kursu danego instrumentu właśnie z tą wykładniczą średnią (grafika: czerwona kropka - cross od góry jako sygnał sprzedaży).</p>	
+	</div>
+	
+	<div id="txt25">
+		<h2>MTM - Momentum type 1 &amp; type 2</h2>
+		<p>Indykator impetu, który od ROC różni się praktycznie jedynie sposobem prezentacji wyników. MTM z założenia ukazuje wielkość zmiany ceny danego waloru w określonym horyzoncie czasowym. Dwa typy wskazań:</p>
+		<ul>
+			<li>poszukuje się przecięć linii sygnalnej (żółta) przez wykres MTM (niebieska): od dołu kupno, od góry sprzedaż</li>
+			<li>bierze się pod uwagę cross poziomu zerowego przez linię MTM (niebieska): od dołu kupno, od góry sprzedaż</li>
+		</ul>
+		<p>Pierwszy zestaw sygnałów przedstawiony został na wykresie wskaźnika typu I (górny wykres).</p>
+		<p>Drugi zestaw sygnałów przedstawiony został na wykresie wskaźnika typu II (dolny wykres).</p>
+		<p>Oba typy wskaźnika są równoważne, podobnie jak rodzaje sygnałów, których skuteczność zależy od danego instrumentu.</p>	
+	</div>
+	
+	<div id="txt26">
+		<h2>NVI - Negative Volume Index</h2>
+		<p>Podobnie jak PVI, wskaźnik ten (również autorstwa Fosbacka) oparty jest na przekonaniu, że tzw. "smart money" dominują w handlu w dni spokojne, zaś jednorodny "tłum" buduje wysokie wolumeny w dni dużego obrotu. NVI (w przeciwieństwie do PVI) bazuje na dniach, w które wolumen niższy był niż na poprzedzającej sesji. Fosback utrzymuje, że jest 95% prawdopodobieństwo, że rynek rośnie, gdy NVI jest ponad swą roczną średnią kroczącą. Wynik ten spada do 50%, gdy NVI jest poniżej średniej. Handluje się więc, korzystając z przecięć: kupno, gdy NVI od dołu przecina swą średnią (zielona kropka), sprzedaż zaś, gdy przecina swą wygładzoną postać od góry.</p>
+		<p>Stosować w połączeniu z PVI.</p>	
+	</div>
+	
+	<div id="txt27">
+		<h2>OBV - On Balance Volume</h2>
+		<p>OBV jest jednym ze wskaźników łączących kwestie wolumenu obrotów i ceny danego instrumentu. Jest to narzędzie o charakterze pomocniczym i winno być stosowane w połączeniu z innymi, a dzięki specyficznej budowie wyprzedza nieco notowania waloru. Sygnały, jakie wysyła OBV zależą od zachowania rynku:</p>
+		<ul>
+			<li>w ruchu bocznym rosnący OBV ostrzega przed wybiciem górą z konsolidacji, malejący OBV zaś przed wybiciem dołem</li>
+			<li>wyraźny trend: zgodne ruchy wykresu i wskaźnika sugerują znaczną siłę ruchu; sygnały generowane są w momencie zaistnienia dywergencji - na grafice kurs akcji ustanawia kolejne lokalne minimum na wyższym poziomie, podczas gdy stale i zdecydowanie opadający OBV jednoznacznie wskazuje na spadek</li>	
+		</ul>
+	</div>
+	
+	<div id="txt28">
+		<h2>ParSAR - Parabolic Stop and Reversal</h2>
+		<p>Narzędzie to pochodzi, podobnie jak RSI czy DMI, z warsztatu Wellesa Wildera. Głównym zadaniem wskaźnika jest pomoc w ustalaniu punktów zamykania pozycji (zarówno przez sprzedaż, jak i kupno). Interpretacja linii zawartych na wykresie jest, mimo skomplikowanej budowy ParSAR, bardzo prosta i intuicyjna:
+		<ul>
+			<li>kupno, gdy linia ParSAR schodzi poniżej wykresu i go "podkreśla" (po uprzednim spotkaniu z wykresem kursu instrumentu)</li>
+			<li>sprzedaż, gdy linia ParSAR wychodzi ponad wykres i go ogranicza z góry (po uprzednim spotkaniu z wykresem kursu instrumentu)</li>
+		</ul>
+		<p>Zaleca się branie pod uwagę jedynie tych sygnałów, które zgodne są z zainicjowanym ruchem cenowym (by wyeliminować fałszywe wskazania, jak to z początku czerwca 2007 roku). Co więcej, przed wykorzystaniem wniosków płynących z analizy, trzeba upewnić się, że rynek jest w trendzie, a nie w ruchu horyzontalnym.</p>	
+	</div>
+	
+	<div id="txt29">
+		<h2>POS - Price Oscillator</h2>
+		<p>Oscylator zbliżony do MACD, jednak w przeciwieństwie do niego używa prostych średnich kroczących, nie zaś wykładniczych. Generuje on 2 typy sygnałów:</p> 
+		<ul>
+			<li>(1) kupno, gdy linia sygnalna (jasna) przecięta jest od dołu przez linię oscylatora POS (niebieska), sprzedaż gdy taki cross następuję od góry</li>
+			<li>(2) kupno, gdy niebieska linia POS oddolnie przetnie "linię zero", sprzedaż gdy przetnie ją odgórnie</li>
+		</ul>
+		<p>Na grafice widać, że w przypadku tego instrumentu, obydwa wskazania niemal równo zasygnalizowały kupno i kazały sprzedawać na praktycznie tym samym poziomie, mimo opóźnienia ze strony 2. typu przecięcia.</p>	
+	</div>
+	
+	<div id="txt30">
+		<h2>PP - Pivot Points</h2>
+		<p>Narzędzie pomagające wskazać potencjalny zakres, przewidywanego matematycznie, ruchu cen w zadanym okresie (najczęściej tydzień, miesiąc przy użyciu wykresu dziennego). PP pokazuje kolejno od góry: R2 (resistance 2 - drugi opór), R1 (resistance 1 - pierwszy opór), poziom Pivot Point (linia / punkt zwrotu), S1 (support 1 - pierwsze wsparcie) oraz S2 (support 2 - drugie wsparcie). Istnieje wiele możliwości gry w oparciu o PP (m.in. kupowanie przy liniach S, sprzedaż przy liniach R, czy też momenty przebić poziomów oraz ustawianie zleceń stop-loss), a sama taktyka powinna być rozszerzona na wskazania innych narzędzi.</p>	
+	</div>
+	
+	<div id="txt31">
+		<h2>PVI - Positive Volume Index</h2>
+		<p>Indeks pozytywnego wolumenu koncentruje się na sesjach, których wolumen obrotów był większy w stosunku do dnia poprzedniego. Filozofia PVI związana jest z założeniem jego autora, że to "tłum" jest odpowiedzialny za wysoki wolumen w dni o znacznych obrotach, zaś "smart money" dominują w tak zwane "ciche dni". Fosback (autor) utrzymuje, że w 2 na 3 przypadki na rynku panuje niedźwiedź, gdy PVI jest poniżej swojej rocznej średniej kroczącej (także prezentowana - jako linia jaśniejsza). Prawdopodobieństwo to spada do 21%, gdy PVI znajduje się ponad swą wygładzoną postacią. Handlując przy pomocy PVI sygnałów szukać należy więc w przecięciach: gdy PVI przecina swoją średnią kroczącą od dołu - sugerowane jest kupno (zielona kropka), gdy zaś od góry - sprzedaż (czerwona kropka).</p>
+		<p>Stosować w połączeniu z NVI.</p>	
+	</div>
+	
+	<div id="txt32">
+		<h2>PVO - Percentage Volume Oscillator </h2>
+		<p>PVO to procentowa różnica między dwiema wykładniczymi średnimi kroczącymi (krótko- i długookresowa) wolumenu obrotów. Gdy ten rośnie, krótsza średnia ma większą wartość niż dłuższa, więc PVO przyjmuje dodatnie wartości. Gdy wolumen spada, mamy do czynienia z sytuacją analogicznie odwrotną. Sygnały PVO generuje w trojaki sposób, kolejno jak na rysunku:</p>
+		<ul>
+			<li>kupno po odbiciu od ekstremalnie niskiej wartości (sprzedaż po odbiciu od ekstremalnie wysokiej wartości)</li>
+			<li>kupno po oddolnym crossie linii 0 i sprzedaż po crossie odgórnym (tu sygnał słaby z racji uprzedniego mocnego z punktu 1.)</li>
+			<li>sprzedaż po obserwacji dywergencji, kiedy na wykresie wskaźnika i instrumentu trendy były przeciwne (sprzedaż potwierdzona crossem z punktu 2.)</li>	
+		</ul>
+	</div>
+	
+	<div id="txt33">
+		<h2>PVT - Price and Volume Trend</h2>
+		<p>Jest to wskaźnik wspomagający, który jako taki nie powinien być stosowany osobno. W wymowie podobny do OBV, jednak mierzona wartość przypływu czy odpływu kapitału (jako zmiany wolumenu) zależy od procentowych zmian cen wobec sesji poprzedniej.</p>
+		<p>Interpretacja zależy od typu ruchu cen:</p>
+		<ul>
+			<li>trend: zgodne ruchy cen i wskaźnika sugerują dużą siłę trendu, dywergencje zaś zapowiadają ruch przeciwny (rysunek: przeciwne trendy)</li>
+			<li>ruch boczny, konsolidacja: niskie wartości towarzyszą wybiciom dołem, wysokie zaś wybiciom górą z ruchów horyzontalnych</li>	
+		</ul>
+	</div>
+	
+	<div id="txt34">
+		<h2>QStick - QStick Indicator</h2>
+		<p>Wskaźnik autorstwa znanego Tuskana Chande. Jest to postępująca średnia z różnicy pomiędzy cenami, po jakich walor otwierał się i zamykał. Qstick może zastępować wykres świecowy: dodatnie wartości przyjmuje w okresach przewagi świec białych, ujemne zaś, gdy dominują korpusy czarne. Osiągnięcie przez indykator ekstremalnego poziomu (okrąg na grafice) i potwierdzenie przecięciem linii 0 stanowi sygnał odwrócenia trendu. Podobnie ważne są rozbieżności (dywergencje). Na wykresie QStick osiąga coraz to niższe szczyty, podczas gdy kolejne maksima kursu instrumentu są sukcesywnie wyżej położone. Taka sytuacja podpowiada zamknięcie, a nawet odwrócenie pozycji.</p>	
+	</div>
+	
+	<div id="txt35">
+		<h2>ROC - Rate of Change</h2>
+		<p>Jedno z podstawowych narzędzi analizy technicznej. Wskaźnik najlepiej sprawdza się w krótkim i średnim terminie, a interpretowany być może na 4 sposoby:</p>
+		<ul>
+			<li>przecięcia poziomu zerowego przez ROC (od dołu - kupno, od góry - sprzedaż))</li>
+			<li>przecięcia wzajemne linii składowych indykatora (jasna - linia sygnalna; przecięcie jej od dołu przez ciemniejszą - kupno, przecięcie jej od góry przez ciemniejszą - sprzedaż); na grafice sygnały oznaczone liczbą (2)</li>
+			<li>wyznaczenie stref wykupienia i wyprzedania (ok. 10%-20% od góry i od dołu) i monitorowanie skrajnych wartości ROC. Osiągnięcie takiego ekstremalnie wysokiego odczytu, a następnie opuszczenie strefy stanowi sygnał odwrócenia ruchu cenowego; na grafice - liczba (1)</li>
+			<li>dywergencje pomiędzy wskazaniami ROC a wykresem kursu instrumentu; na grafice walor osiąga nowy szczyt, a wskaźnik nie podąża za nim, kierując się na południe, co sugeruje nadchodzącą zniżkę</li>
+		</ul>	
+	</div>
+	
+	<div id="txt36">
+		<h2>RSI - Relative Strength Index </h2>
+		<p>Tzw. Indeks Siły Względnej. Należy do grupy podstawowych wskaźników. RSI w swej budowie porównuje ruchy zwyżkowe ze zniżkowymi w zadanym parametrze czasie. Domyślnie stosowane jest 14 sesji, jednak krótkoterminowe ujęcie może wymagać dni 7 lub 9, średni termin zaś 21 lub 25. RSI to indykator typu Momentum, który w przeciwieństwie do innych z tej grupy, jest mniej czuły i podatny na niecodziennie niskie i wysokie ceny. Jest kilka taktyk gry na RSI:</p>
+		<ul>
+			<li>w czasie bocznych ruchów - obserwacja poziomów wyprzedania (30 i niżej) i wykupienia (70 i wyżej). Gdy wykres opuszcza pierwszą ze stref (od dołu) - kupno (zielona kropka), gdy wykres zaś opuszcza drugą ze stref (od góry) - sprzedaż (czerwona kropka)</li>
+			<li>dywergencje - na grafice kurs akcji wyraźnie zniżkuje, podczas gdy RSI rośnie w strefie wyprzedania (w tym wypadku - potrójna bycza dywergencja) i generuje następnie sygnał opisany w punkcie pierwszym. To prawdopodobnie najmocniejszy możliwy sygnał RSI. Niedźwiedzia dywergencja pojawia się, gdy wykres ceny instrumentu osiąga nowe szczyty, a RSI w tym samym czasie maleje, osiągając w strefie wykupienia coraz to niższe lokalne szczyty. Warto handlować na każdych dłuższych dywergencjach, gdyż wieszczą one rychły ruch przeciwny do obecnego</li>
+			<li>gdy rynek znajduje się w mocy trendu - kupno w trendzie wzrostowym, gdy RSI spada poniżej 40 i następnie rośnie ponad ten poziom, sprzedaż w trendzie spadkowym, gdy RSI rośnie powyżej 60 i następnie spada poniżej tego poziomu</li>
+			<li>jako wskaźnik rozpędu - w bardzo krótkoterminowym ujęciu cross poziomu 50 od dołu przez RSI wskazuje kupno, a od góry - sprzedaż</li>	
+		</ul>
+	</div>
+	
+	<div id="txt37">
+		<h2>RVI - Relative Volatility Index</h2>
+		<p>Wskaźnik o charakterze pomocniczym, który w konstrukcji różni się od RSI jedynie zastosowaniem 10-sesyjnej średniej kroczącej zamiast dziennych cen zamknięcia. Najprostsze sygnały RVI generuje przecinając poziom 50: od dołu - kupno, od góry - sprzedaż. Efektywna strategia wykorzystania wskaźnika jako wskaźnika potwierdzającego została przedstawiona przez samego autora - Donalda Dorsey'a.</p>
+		<p>Reguły te stosować należy np. przy najprostszym systemie przecięć średnich kroczących, jako pakiet poleceń poprawiających wyniki:</p>
+		<ul>
+			<li>kupno tylko gdy RVI>50, jeśli sygnał zignorowany, to czekać na RVI>60</li>
+			<li>sprzedaż tylko gdy RVI<50, jeśli sygnał zignorowany, to czekać na RVI<40</li>
+			<li>zamknąć długą pozycję, gdy RVI spada poniżej 40</li>
+			<li>zamknąć krótką pozycję, gdy RVI wzrasta ponad 60</li>
+		</ul>
+	</div>
+	
+	<div id="txt38">
+		<h2>SlowD - %D Slow</h2>
+		<p>Wskaźnik ten dodatkowo wygładza odczyty oscylatora STS, dzięki czemu redukuje on wahania i wzmacnia celność sygnałów. Implikacje zastosowania uzyskuje się w ten sam sposób, jak w wypadku STS (tam też opisane strategie gry na wskaźniku). Na grafice przedstawiona została bardzo potężna niedźwiedzia dywergencja - podczas, gdy kurs instrumentu ustanawiał kolejne szczyty, wykres SlowD podążał w dół (wyraźny trend spadkowy), jednocześnie opuszczając strefę wykupienia. Zaowocowało to bardzo mocnym sygnałem sprzedaży. </p>	
+	</div>
+	
+	<div id="txt39">
+		<h2>SMA - Simple Moving Average</h2>
+		<p>Prosta średnia krocząca z n okresów. Liczona jest jako arytmetyczna średnia z n ostatnich sesji. Dla uzyskania kolejnego wyniku odrzuca się odczyt sprzed n sesji i liczy znów średnią z uwzględnieniem obecnych notowań. Jako prosta średnia ruchoma, SMA przypisuje równe wagi dla wszystkich branych pod uwagę danych. W zależności od horyzontu inwestycyjnego stosuje się różne liczby okresów (n): najpopularniejsze to 15, 30, 45 (lub 50) oraz 100 i 200. Średnie często stosuje się jako czynnik potwierdzający i pomocniczy, jednak bardzo wiele systemów jest niemal całkowicie opartych o sygnały przez nie generowane. Wyróżniamy 3 główne (podstawowe i najprostsze) sposoby ich interpretowania:</p>
+		<ul>
+			<li>przecięcia kursu i średniej: oddolny cross średniej (niemalejącej) przez kurs oznacza kupno, odgórny cross średniej (nierosnącej) przez kurs oznacza sprzedaż; w nawiasach - mocniejsze warunki, na grafice dla SMA(15) mniejsze kropki oznaczają niezrealizowane sygnały</li>
+			<li>użycie wiązki kilku (2,3) średnich: w aplikacji domyślnie 15-, 30- i 45-sesyjne; mocny sygnał kupna następuje, gdy wykres ceny przecina od dołu kolejne (począwszy od najmniejszego n) średnie niemalejące; sprzedaż następuje, gdy kurs przebija odgórnie kolejne, nierosnące średnie od tych krótko- do tych długookresowych</li>
+			<li>podobne rezultaty daje obserwacja wzajemnych przecięć samych średnich (np. dwóch); sygnałem kupna będzie wówczas oddolne przecięcie niemalejącej średniej 'dłuższej' przez krótszą, a sprzedaży - odgórny cross nierosnącej średniej 'dłuższej' przez tą 'krótszą'</li>
+		</ul>
+		<p>Proste średnie kroczące zawsze są "za" instrumentem. Z racji opóźnienia generowanych sygnałów (im większy okres, tym ono większe) nie nadają się za bardzo dla krótkiego horyzontu czasowego - lepiej okres średni i długi. Długookresowe średnie, jak ta 100-sesyjna z grafiki, działają również jako indykatory trendów - kreśląc linię pod wzrostowymi trendami i łącząc coraz niższe szczyty w tych spadkowych.</p>	
+	</div>
+	
+	<div id="txt40">
+		<h2>StDev - Standard Deviation</h2>
+		<p>Wskaźnik ten monitoruje stopień dywergencji cen obecnych od uśrednionej z n (najczęściej 20) okresów. W miarę postępowania dywergencji, odczyt rośnie. Gdy cena nie odbiega znacznie, StDev pozostaje na w miarę niskim poziomie.</p>
+		<p>Według założeń, małe wartości sugerują tworzenie się lokalnych minimów, a wartości wysokie mówią o kształtowaniu się relatywnych szczytów. Warto jednak zauważyć, że kształtowanie się lokalnych dołków na StDev zawsze poprzedzało znaczny ruch cenowy na instrumencie, podczas gdy po szczytach wskaźnika zazwyczaj był to ruch w bok. Interpretacja taka zależy jednak od waloru, a sam wskaźnik ma wymiar czysto pomocniczy.</p>	
+	</div>
+	
+	<div id="txt41">
+		<h2>STS - Stochastic</h2>
+		<p>Tzw. oscylator stochastyczny. Wskaźnik składa się z 2 linii:</p>
+		<ul>
+			<li>%K (ciemniejsza) - porównuje ostatnią cenę zamknięcia do ostatniego zasięgu (różnica między maksimum a minimum)</li>
+			<li>%D (jaśniejsza) - linia sygnalna uzyskana dzięki wygładzeniu średnią kroczącą linii %K</li>
+			<li>Wysokie odczyty STS (80-100) świadczą o wykupieniu, zaś niskie (0-20) o wyprzedaniu rynku. Momenty opuszczania tych stref przez %K lub %D stanowią sygnały kolejno: sprzedaży (cross linii 80 z góry na dół - czerwone kropki) oraz kupna (cross linii 20 z dołu do góry - zielone kropki).</li>
+		</ul>
+		<p>Drugi sposób handlu (ruch boczny) z użyciem STS polega na wyszukiwaniu dywergencji pomiędzy zachowaniem indykatora a ruchem analizowanego instrumentu:</p>
+		<ul>
+			<li>kupuje się, gdy kurs waloru spada, a STS ustanawia w tym czasie w strefie wyprzedania kolejny, wyżej położony lokalny dołek. Opuszczenie zony niedowartościowania wyzwala wówczas silny, potwierdzony sygnał kupna - dywergencja byka</li>
+			<li>sprzedaje się, gdy kurs waloru rośnie, a STS ustanawia w tym czasie w strefie wykupienia kolejny, niżej położony lokalny szczyt. Opuszczenie zony przewartościowania wyzwala wówczas silny, potwierdzony sygnał sprzedaży - dywergencja niedźwiedzia</li>
+		</ul>
+		<p>Trzeci sposób monitorowania STS związany jest z wzajemnymi przecięciami dwóch linii składowych. Jasna linia %D stanowi linię sygnalną. Przecięcie jej od dołu przez ciemniejszą %K stanowi sygnał kupna, zaś cross od góry wieszczy spadki. Sygnały te zyskują na znaczeniu w okolicach kolejno: strefy wyprzedania (0-20) oraz strefy wykupienia (80-100).</p>
+		<p>Ważne też, jaki kształt przyjmuje wykres STS w strefach 0-20 i 80-100. Jeśli dno w strefie 0-20 jest wąskie i krótkotrwałe to zasięg korekty jest potencjalnie wysoki. Jeśli dno to jest szerokie i długo formowane, to potencjał przyszłej korekty jest znacznie ograniczony. </p>	
+	</div>
+	
+	<div id="txt42">
+		<h2>TRD - Trend Deviation</h2>
+		<p>Wskaźnik zbudowany jest jako cena waloru przez wartość n-sesyjnej średniej kroczącej. Poziom 1, wokół którego oscyluje TRD oznacza, że cena akcji jest równa w tym momencie wartości średniej ruchomej. Wysoce dodatnie odczyty mówią, że cena jest wiele wyższa niż wartość średniej, zaś mocno zniżkujące wskazania sugerują, że cena jest dużo niższa niż wynik uśredniony.</p>
+		<p>Analizując sygnały płynące ze strony TRD uwzględniamy poziomy wsparć i oporów oraz skrajnie wysokie i niskie wartości wskaźnika. Te drugie zapowiadają przynajmniej krótkookresowy ruch korekcyjny (pierwszy okrąg). TRD świetnie sprawdza się do oceny możliwości walki kursu instrumentu z istotnymi poziomami w ruchu horyzontalnym. Na grafice widać, że na obydwu wykresach zarysowało się wyraźne wsparcie. Widać także, że w momencie jego testowania (drugi okrąg) TRD przyjmował wartości ujemne, co utwierdziło w przekonaniu o mocy i trwałości wybicia dołem. W przypadku testowania istotnych oporów należy oczekiwać, że walor utrzyma cenę ponad oporem na dłuższy czas, o ile w momencie jego przekraczania odczyt TRD będzie stale i wyraźnie pozytywny.</p>	
+	</div>
+	
+	<div id="txt43">
+		<h2>TRIX - TRIX Index</h2>
+		<p>Oscylator zaprojektowany do handlu w okresach mocnych trendów. Eliminuje on bowiem trendy krótsze niż okres wpisany jako parametr. TRIX zbudowany jest jako 3-krotnie wygładzona wykładnicza średnia krocząca ceny zamknięcia.</p>
+		<ul>
+			<li>długo należy grać, gdy TRIX odbija do góry będąc poniżej linii 0</li>
+			<li>krótko gramy, gdy TRIX odbija w dół będąc powyżej linii 0</li>
+		</ul>
+		<p>Fałszywe sygnały eliminuje się czekając na potwierdzenie ze strony 9-sesyjnej wykładniczej średniej kroczącej wskaźnika TRIX (linia żółta). Należy też patrzeć na dywergencje - tutaj: coraz wyższe szczyty na instrumencie zaprzeczone są przez kolejno niższe na wykresie oscylatora, co wieszczy ruch przeciwny (to samo zwiastują lokalnie ekstremalne odczyty TRIX).</p>	
+	</div>
+	
+	<div id="txt44">
+		<h2>ULT - Ultimate Oscillator</h2>
+		<p>Stworzony przez Larrego Williamsa wskaźnik to swoiste połączenie 3 oscylatorów o różnych zasięgach czasowych. Sygnały wysyłane przezeń to opuszczenie stref wykupienia (czerwona kropka - sprzedaj) i wyprzedania (zielona kropka - kupuj). Ważne są też dywergencje zapowiadające odwrócenie ruchu cen (trend wzrostowy kursu a trend spadkowy wykresu ULT). Jednak sam autor przedstawił własną strategię gry na tym wskaźniku:</p>
+		<p>Kupno:</p>
+		<ul>
+			<li>następuje dywergencja byka, tj. cena waloru ustanawia nowy dołek, a wykres ULT - nie</li>
+			<li>w czasie takiej dywergencji, wartość ULT musi spaść poniżej linii 30</li>
+			<li>oscylator wtedy powinien wzrosnąć do poziomu szczytu trwania dywergencji, czyli szczytu otoczonego 2 równymi minimami</li>
+			<li>moment wzrostu powyżej tego pułapu wyzwala sygnał kupna</li>
+		</ul>
+		<p>Pozycję zamykamy, gdy ULT dojdzie do poziomu 70 (wykupienie) lub do 50 i spadnie do 45.</p>
+		<p>Sprzedaż:</p>
+		<p>Analogicznie: niedźwiedzia dywergencja ponad 70 punktami, zamknięcie pozycji na 30 lub 55 po wzroście z 50 punktów.</p>	
+	</div>
+	
+	<div id="txt45">
+		<h2>VLT - Volatility Ratio</h2>
+		<p>Miara zmienności kursu instrumentu o wielu możliwych interpretacjach i zastosowaniach. Gdy rynek jest w mocy silnego trendu (grafika), lokalne szczyty wskaźnika na poziomie większym lub równym 5 pokrywają się z lokalnymi maksimami po stronie analizowanego waloru. Zdecydowane wybicie i wyraźny szczyt VLT oraz podwójny szczyt powyżej zapowiedziały odwrócenie trendu.</p>
+		<p>Gdy mamy do czynienia z ruchem horyzontalnym zaś, także poziomem istotnym jest 5. Pierwsze mocne wybicie ponad ten poziom często towarzyszy luce startu ponad ważnym oporem, kolejne utwierdzić może o sile up-trendu. Kiedy trend wizualnie wytraca impet, następny, trzeci już, wyskok VLT zapowiada korektę. Analogicznie wskaźnik możemy zastosować do scenariusza wybicia dołem. Strategia widoczna jest także na grafice: gdy weźmiemy pod uwagę tylko znaczne wybicia ponad poziom 5 (kropka 2. i 4. oraz szczyt zaznaczony okręgiem). Wówczas oporem, ponad który wybił się kurs z konsolidacji był poziom 200 zł za akcję.</p>	
+	</div>
+	
+	<div id="txt46">
+		<h2>VOS - Volume Oscillator</h2>
+		<p>VOS identyfikuje trendy w wolumenie obrotów poprzez wykorzystanie 2 średnich kroczących (5- i 10-sesyjne wykładnicze). Oscylator mierzy różnicę między 'szybszą' a 'wolniejszą' średnią: przyjmuje pozytywne wartości, gdy 'szybsza' (EMA(5)) jest ponad 'wolniejszą' (EMA(10)), a negatywne wartości w sytuacji przeciwnej. VOS równy będzie 0 w przypadku crossu średnich.</p> 
+		<p>Uważa się, że rosnący wolumen (dodatni VOS) sygnalizuje silny trend. Z kolei malejący miernik obrotu (ujemny VOS) ma wskazywać na słabość trendu. Na grafice widać wczesną rozbieżność, kiedy kolejnym coraz wyższym szczytom kursu, towarzyszą coraz niższe wzrosty aktywności. Dywergencja ta poprzedza inne sygnały wynikające z analizy VOS. W okresie wrzesień-listopad 2007 widać zmianę tendencji, a mianowicie kolejnym krótkoterminowym zwyżkom akompaniują bardzo małe wzrosty wolumenu, a nawet jego zanik na rzecz ruchów podażowych. Zdradza to psychologiczną stronę rynku. Następnie obserwować trzeba wykres VOS w momencie testowania długoterminowego wsparcia dla ceny instrumentu. Wyskok do góry odczytu wskaźnika, wobec przekroczenia w dół ważnego wsparcia, dokładnie ukazał siłę i zakres ruchu spadkowego, a nikłe zmiany wolumenu przy kolejnej zwyżce pokazały, że trend główny jest mocno zniżkujący.</p>	
+	</div>
+	
+	<div id="txt47">
+		<h2>VROC - Volume Rate of Change</h2>
+		<p>Wskaźnik podobny w konstrukcji do ROC. W jego kalkulacji zamiast cen zamknięcia stosuje wielkość wolumenu. VROC przydaje się do prognozowania przełomowych momentów dla kursu instrumentu. Wysokie wartości odczytów sugerują odwrócenie dotychczasowej tendencji kursu. Dzięki grafice dostrzec można 2 sposoby interpretacji wskazań. Pierwszy wyraźny szczyt VROC sugerować mógł odwrócenie średnioterminowego trendu spadkowego. Jednak przy założeniu, że wskaźnik ten "wyprzedza" wykres instrumentu, ten szczyt VROC mógł być już zapowiedzią znacznej aprecjacji z marca roku 2007 (taki szczyt VROC wskazuje na siłę i trwałość kolejnego znacznego ruchu cenowego). Wzrost ten także rozpoczęty został przez ekstremalnie wysoki odczyt VROC (wg pierwszej interpretacji - drugi szczyt w ujęciu długoterminowym).</p>	
+	</div>
+	
+	<div id="txt48">
+		<h2>WAD - Williams' Accumulation / Distribution type 1 &amp; type 2</h2>
+		<p>WAD śledzi presję popytu (akumulację) i presję podaży (dystrybucję) dla danego waloru:</p>
+		<ul>
+			<li>gdy następuje akumulacja, większość wolumenu przypada na zwyżki ceny instrumentu</li>
+			<li>gdy następuje dystrybucja, większość wolumeny przypada na zniżki ceny instrumentu</li>
+		</ul>
+		<p>Używając WAD typu pierwszego, jak i drugiego, handluje się na dywergencjach pomiędzy kierunkiem ruchu wskaźnika i kursu waloru. Na grafice z WAD1, widoczna jest niedźwiedzia rozbieżność: rosnąca cena i opadający wskaźnik. Na grafice z WAD2 także widzimy ten negatywny sygnał: kurs ustanawia nowy szczyt, a indykator za nim nie podąża, co także zapowiada ruch ceny przeciwstawny wobec obecnego.</p>	
+	</div>
+
+
+</div>
+
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

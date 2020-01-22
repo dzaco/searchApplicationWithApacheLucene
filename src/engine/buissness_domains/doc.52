@@ -1,0 +1,753 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+   <title>Konta - Wiadomości - Bankier.pl</title>
+   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+   <meta name="description" content="Bankier.pl - Największy i najlepszy portal finansowy. Informacje o gospodarce, inwestowaniu, finansach osobistych i prowadzeniu firmy. Kursy walut, notowania akcji, fundusze. Dane o wszystkich produktach bankowych: kredyty, konta, lokaty i karty kredytowej  oraz informacje na tematy: kredyty, kredyt, podatki, waluty, giełda, bank, fundusze, kursy walut, euro, mbank, rachunek, banki" />
+   <meta name="keywords" content="kredyty, kredyt, podatki, waluty, giełda, bank, fundusz, kursy walut, euro, mbank, rachunek, banki" />
+
+
+
+<link href="/media/finanse/stylesheets/finanse.css?20111216" rel="stylesheet" type="text/css" />
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Bankier.pl - Finanse osobiste" href="http://rss.bankier.pl/wiadomosci/finanse_osobiste.xml" />
+
+
+
+
+
+
+<!-- ADServer Header //-->
+<script type="text/javascript" src="http://gg.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "gg.adocean.pl", id: "JOcK7gzdoyrcIT2176iLzhCz8UoPOGcT6Y1ax8FNTPf.l7"});
+</script>
+
+
+<!-- bankier/fo/konta/pozostale : MASTER //-->
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, MASTER: GaduGadu.Bankier.pl.finanse.konta.pozostale BKID:72209015165556610 */
+ado.master({id: '0UGsKa_3TUOq109cidxk1XJRPrLfvbtrPlsYNt2UuBr.67', server: 'gg.adocean.pl' });
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bankier.pl/js/cf/cf.js"></script>
+<script type="text/javascript" src="/media/finanse/javascripts/jquery.tools.min.js"></script>
+<script src="/gfx/jedenprocent/jedenprocent_finanse.js" type="text/javascript"></script>
+
+</head><body>
+<script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+<noscript>
+<div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+<div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+</div>
+</div>
+</noscript>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-V82M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-V82M');</script>
+<!-- End Google Tag Manager -->
+
+
+<div id="main">
+	
+<div id="bn_header" style="position: relative; z-index: 100;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+
+
+
+
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB2.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi | Konkurs" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Ffinanse%2Fkonta%2Fnajwazniejsze%2F" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+    <area coords="392,0,455,10" href="http://www.systempartnerski.pl/nagrodomania.html" title="System Partnerski - konkurs" alt=""/>
+
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li class="selected"><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li ><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+ 	<div id="main_content"> 
+		<div id="center_content" >
+  <!-- code: /finanse/konta/ | 750x100-1 | fo/konta/  | A -->
+   <div class="advertisement ad-750-100">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/konta/pozostale : billboard_750x100 //-->
+<div id="adoceangglgjleufubt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.konta.pozostale.pozostale billboard 750x100 BKID:72209015165556610 */
+ado.slave('adoceangglgjleufubt', {myMaster: '0UGsKa_3TUOq109cidxk1XJRPrLfvbtrPlsYNt2UuBr.67' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+    	   <!-- code: /finanse/konta/ | 770x30-1 | fo/konta/  | BELKA -->
+   <div class="advertisement ad-770-30">
+   
+
+
+
+
+<div align="center" style="margin: 2px 0 6px 0">
+<!-- bankier/fo/konta/pozostale : belka_770x50 //-->
+<div id="adoceanggofcfbxlpry"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.konta.pozostale.pozostale belka 770x50 BKID:72209015165595580 */
+ado.slave('adoceanggofcfbxlpry', {myMaster: '0UGsKa_3TUOq109cidxk1XJRPrLfvbtrPlsYNt2UuBr.67' });
+</script>
+</div>
+
+
+
+
+
+
+</div>
+	   	
+	   	<div id="wrapper" style="clear: both">
+	   	   <!-- code: /finanse/konta/ | 160x600-1 | fo/konta/  | HSKY -->
+   <div class="advertisement ad-160-600">
+   
+
+
+
+
+
+<!-- bankier/fo/konta/pozostale : skyscraper_120x600 //-->
+<div id="adoceanggpjffcjngfh"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.konta.pozostale.pozostale skyscraper 120x600 BKID:72209015165556620 */
+ado.slave('adoceanggpjffcjngfh', {myMaster: '0UGsKa_3TUOq109cidxk1XJRPrLfvbtrPlsYNt2UuBr.67' });
+</script>
+
+
+
+
+
+
+
+</div>
+
+	   	<div id="column_left">
+	      	
+<div class="box_menu">
+	<ul>
+		<li><a href="/finanse/kredyty/">Kredyty</a>
+		<li class="select"><a href="/finanse/konta/">Konta</a>
+			<ul>
+				<li><a href="/finanse/konta/ror/">Osobiste</a></li>
+				<li><a href="/finanse/konta/../../lokaty/porownanie-kont/">Oszczędnościowe</a></li>
+			</ul>
+		<li><a href="/finanse/../lokaty/">Lokaty</a>
+		<li><a href="/finanse/karty/">Karty</a>
+		<li><a href="/finanse/ubezpieczenia/">Ubezpieczenia</a>
+		<li><a href="/finanse/podatki/">Podatki</a>
+		<li><a href="/finanse/emerytury/">Emerytury</a>
+		<li><a href="/finanse/nieruchomosci/">Nieruchomości</a>
+		<li class="last"><a href="/finanse/domowe-finanse/">Domowe finanse</a>
+		</li>
+  </ul>
+</div>
+<div class="clear"></div>
+
+
+
+
+
+<div class="box_ink_menu">
+  <ul>
+   <li class="select"><a href="/finanse/konta/najwazniejsze/">Wiadomości</a></li>
+   <li><a href="/finanse/konta/poradniki/">Poradniki</a></li>
+   <li><a href="/finanse/konta/eksperci/">Okiem eksperta</a></li>
+   <li><a href="/finanse/konta/narzedzia/">Kalkulatory i wyszukiwarki</a></li>
+
+    <li><a href="/forum/forum_Banki,9,1.html">Forum</a></li>
+
+     <li class="last"><a href="/narzedzia/slownik/">Słownik</a></li>
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clear"></div>
+<div class="box_menu" id="cf_finanse_menu">
+  <ul>
+	<li><span>Sprawdź ofertę</span>
+		<ul>
+   <li><a href="http://www.bankier.pl/cf/aliorsync/konto.html">Alior Sync</a></li>
+   <li><a href="http://www.bankier.pl/cf/citibank/konta.html">Citi Handlowy</a></li>
+   <li><a href="http://www.bankier.pl/cf/mbank/ekonto.html">mBank</a></li>
+   <li><a href="http://www.bankier.pl/cf/aliorbank/konto.html">Alior Bank</a></li>
+   <li><a href="http://www.bankier.pl/cf/bankpocztowy/konta-index.html">Bank Pocztowy</a></li>
+   <li><a href="http://www.bankier.pl/cf/inteligo/index.html">Inteligo</a></li>
+   <li><a href="http://www.bankier.pl/cf/millennium/konta_osobiste.html">Bank Millennium</a></li>
+   <li><a href="http://www.bankier.pl/cf/multibank/konta_osobiste.html">MultiBank</a></li>
+   <li><a href="http://www.bankier.pl/cf/toyotabank/index.html#osobiste">Toyota Bank</a></li>
+   <li><a href="http://www.bankier.pl/cf/creditagricole/konta-osobiste.html">Crédit Agricole</a></li>
+   <li><a href="http://www.bankier.pl/cf/pko/klienci-indywidualni/rachunki/index.html">PKO BP</a></li>
+   <li><a href="http://www.bankier.pl/cf/ingbankslaski/konto_osobiste.html">ING Bank Śląski</a></li>
+ 	 </ul>
+	</li>
+	</ul>
+</div>
+
+
+
+
+
+
+	    	</div> <!-- /column_left -->
+    	   
+			
+<div id="column_right">
+  
+
+    <div class="box_window_490">
+      <div class="title_blue">Wiadomości - Konta</div>
+      <div class="content_white">
+
+
+            <h2 class="item_list"><a href="/wiadomosc/2013-rokiem-blyskawicznych-przelewow-2787770.html">2013 rokiem błyskawicznych przelewów</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Open Finance | </span>
+<span style="color: #f08000">2013-03-22 15:35</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">Przelewy leniwie wędrujące między bankami całą noc lub weekend mogą już zacząć się bać. Jeszcze w tym roku trzech na czterech klientów banków będzie mogło zlecić przelew, który pomknie do celu w kilkanaście...</div>
+
+
+            <h2 class="item_list"><a href="/wiadomosc/Przybylo-kont-osobistych-na-ktorych-mozna-zarobic-2786198.html">Przybyło kont osobistych, na których można zarobić</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Zuzanna Brud - Bankier.pl | </span>
+<span style="color: #f08000">2013-03-21 13:30</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">Kont osobistych, które nie tylko są mogą być bezpłatne, ale też pozwalają zarobić jest dziś więcej niż jeszcze rok temu. Do gry weszły ROR-y pozwalające na uzyskanie co miesiąc nawet kilkudziesięciu złotych...</div>
+
+
+            <h2 class="item_list"><a href="/wiadomosc/Ranking-zarabiajacych-kont-osobistych-Bankier-pl-marzec-2013-2784770.html">Ranking zarabiających kont osobistych Bankier.pl &#8211; marzec 2013</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Bankier.pl | </span>
+<span style="color: #f08000">2013-03-21 06:00</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">Ostatni rok przyniósł sporo zmian w oferowanych przez banki kontach osobistych. Pojawiły się nowe rachunki, zmieniły się opłaty za posiadany dotychczas ROR i sposób premiowania za aktywność. Na szczęście...</div>
+
+
+            <h2 class="item_list"><a href="/wiadomosc/Polowa-rynku-ROR-ow-nalezy-do-czterech-bankow-2784782.html">Połowa rynku ROR-ów należy do czterech banków</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Hydepark PRNews.pl | </span>
+<span style="color: #f08000">2013-03-20 11:16</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">Zebraliśmy dane z banków uniwersalnych o liczbie prowadzonych przez nie rachunków osobistych. Na koniec ubiegłego roku banki prowadziły blisko 27 mln ROR-ów. Połowa rynku należy do czterech graczy: PKO...</div>
+
+
+            <h2 class="item_list"><a href="/wiadomosc/Juz-ponad-milion-uzytkownikow-bankowosci-mobilnej-2783967.html">Już ponad milion użytkowników bankowości mobilnej</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Hydepark PRNews.pl | </span>
+<span style="color: #f08000">2013-03-19 14:20</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">Bankowość mobilna powoli przestaje być jedynie branżową ciekawostką dla garstki najbardziej zaawansowanych technologicznie klientów. Swój bank przez komórkę obsługuje już ponad milion klientów - wynika...</div>
+
+
+            <h2 class="item_list"><a href="/wiadomosc/Rusza-sprzedaz-1-5-BZ-WBK-Banki-w-cieniu-problemow-Cypru-2783675.html">Rusza sprzedaż 1/5 BZ WBK. Banki w cieniu problemów Cypru</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Jarosław Ryba - Bankier.pl | </span>
+<span style="color: #f08000">2013-03-19 09:33</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">Santander i KBC rozpoczynają dziś sprzedaż akcji BZ WBK. Oferta to ponad 1/5 całego połączonego banku, która może być warta od 4,8 do 5,39 mld zł.</div>
+
+
+            <h2 class="item_list"><a href="/wiadomosc/Runal-mit-bezpiecznych-depozytow-2783102.html">Runął mit bezpiecznych depozytów</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Hydepark PRNews.pl | </span>
+<span style="color: #f08000">2013-03-19 07:00</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">Wydarzenie bez precedensu w strefie euro: cypryjski rząd chce zawłaszczyć część pieniędzy ulokowanych w bankach. Jeszcze nie wiadomo, jakąś część oszczędności stracą klienci banków. Niezależnie od ostatecznej...</div>
+
+
+            <h2 class="item_list"><a href="/wiadomosc/BZ-WBK-przelicytowal-mnicha-z-mBanku-Dolozy-700-zl-do-ROR-u-2783030.html">BZ WBK przelicytował mnicha z mBanku. Dołoży 700 zł do ROR-u</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Hydepark PRNews.pl | </span>
+<span style="color: #f08000">2013-03-18 14:58</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">BZ WBK wprowadza do oferty nowy ROR: Konto Godne Polecenia. Do rachunku dorzuci 700 zł. Wbrew rynkowym trendom nie będzie pobierał opłaty za prowadzenie konta, karty i przelewy.</div>
+
+
+            <h2 class="item_list"><a href="/wiadomosc/PKO-BP-sukces-IKO-po-pierwszym-tygodniu-dzialania-2781742.html">PKO BP: sukces IKO po pierwszym tygodniu działania</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">BankierPress | </span>
+<span style="color: #f08000">2013-03-15 14:16</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">W ciągu pierwszego tygodnia od startu IKO &#8211; innowacyjnej aplikacji PKO Banku Polskiego, nową usługę płatności mobilnych aktywowało blisko 6500 osób. </div>
+
+
+            <h2 class="item_list"><a href="/wiadomosc/Lewych-kont-na-przelew-moga-byc-juz-tysiace-2781522.html">Lewych kont &#34;na przelew&#34; mogą być już tysiące</a></h2>
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Hydepark PRNews.pl | </span>
+<span style="color: #f08000">2013-03-15 10:57</span>
+</span>
+            <div class="simple_text" style="padding-bottom: 16px">Popularna ostatnimi czasy metoda otwierania kont sposobem "na przelew" nie jest tak bezpieczna, jak mogłaby się wydawać. O ile od strony technologicznej wszystko działa bez zarzutu, o tyle słabym ogniwem...</div>
+
+          <div class="right"><a href="/finanse/konta/najwazniejsze/2/">następne</a></div>
+          <div class="clear"></div>
+
+      </div>
+      <div class="footer_white" style="clear: both"></div>
+      
+    
+    </div>
+
+  <div class="clear"></div>
+</div>
+<div id="column_center">
+  
+
+
+		
+		<div class="box_window_336"> 		
+       <div class="title_darkblue"> Tam mieszkam - o projekcie</div>
+<div class="content_white">
+	   
+<form action="/personal/dziennik/index.html" method="post" style="margin: 0; display: inline">     
+   <p style="width: 300px; font-size: 12px; font-weight: bold">
+   Jak się żyje w innych krajach? Za co trzeba tam płacić więcej, a co kosztuje mniej? O warunkach bytowych, szansie na pracę i własne mieszkanie piszemy w kolejnych odcinkach projektu Bankier.pl - "Tam mieszkam".
+   </p>
+
+
+
+</form>
+
+      <div class="clear"></div>
+</div>
+<div class="footer_white"></div>
+
+<script type="text/javascript">
+  $('#newsletter_email_input').focus(function() {
+     if ($(this).val() == 'Twój adres e-mail') {
+        $(this).val('');
+     }
+  });
+
+  $('#newsletter_email_input').blur(function() {
+     if ($(this).val() == '') {
+        $(this).val('Twój adres e-mail');
+     }
+  });
+</script>
+   
+	  </div>
+		
+	 
+	   <!-- code: /finanse/konta/ | 336x280-1 | fo/konta/  | MTXT -->
+   <div class="advertisement ad-336-280">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/konta/pozostale : rectangle_300x250 //-->
+<div id="adoceanggsioooldspi"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.konta.pozostale.pozostale rectangle 300x250 BKID:72209015165556630 */
+ado.slave('adoceanggsioooldspi', {myMaster: '0UGsKa_3TUOq109cidxk1XJRPrLfvbtrPlsYNt2UuBr.67' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+	 	  
+	  <div class="box_window_336"> 	
+			  <div class="title_blue">Najpopularniejsze wiadomości</div>
+  <div class="content_white">
+    <ul>
+   <li><a href="/wiadomosc/Niebawem-doplaty-do-energooszczednego-budownictwa-2787408.html">Niebawem dopłaty do energooszczędnego budownictwa</a></li>
+         
+   <li><a href="/wiadomosc/Kto-ma-szanse-na-kredyt-hipoteczny-w-2013-roku-2784974.html">Kto ma szansę na kredyt hipoteczny w 2013 roku?</a></li>
+         
+   <li><a href="/wiadomosc/Nasze-drogie-dyskonty-2787030.html">Nasze drogie dyskonty</a></li>
+         
+   <li><a href="/wiadomosc/Prokuratura-wkroczyla-do-polskich-szkol-2787781.html">Prokuratura wkroczyła do polskich szkół</a></li>
+         
+   <li><a href="/wiadomosc/Rekordowe-zarobki-prezesow-bankow-2787042.html">Rekordowe zarobki prezesów banków</a></li>
+         
+   <li><a href="/wiadomosc/Wojna-Domowa-2013-zakonczona-Internauci-wybrali-najlepsze-inwestycje-mieszkaniow-2783992.html">Wojna Domowa 2013 zakończona. Internauci wybrali najlepsze inwestycje mieszkaniowe</a></li>
+         
+   <li><a href="/wiadomosc/Ranking-zarabiajacych-kont-osobistych-Bankier-pl-marzec-2013-2784770.html">Ranking zarabiających kont osobistych Bankier.pl &#8211; marzec 2013</a></li>
+         
+   <li><a href="/wiadomosc/Tam-mieszkam-Wieden-2763651.html">Tam mieszkam: Wiedeń</a></li>
+         
+   <li><a href="/wiadomosc/Ranking-kredytow-hipotecznych-Bankier-pl-marzec-2013-r-2780551.html">Ranking kredytów hipotecznych Bankier.pl - marzec 2013 r.</a></li>
+         
+   <li><a href="/wiadomosc/Przybylo-kont-osobistych-na-ktorych-mozna-zarobic-2786198.html">Przybyło kont osobistych, na których można zarobić</a></li>
+         
+   </ul>
+    <div class="clear"></div>
+  </div>
+  <div class="footer_white"></div>
+
+	  </div>	 
+	  
+	   <div class="box_window_336"> 		
+       <div class="icon"><img class="png" src="/media/finanse/images/ico_newspaper.png" /></div>
+<div class="title_darkblue">Dziennik Bankier.pl</div>
+<div class="content_white">
+	   
+<form action="/personal/dziennik/index.html" method="post" style="margin: 0; display: inline">     
+   <p style="width: 300px; font-size: 12px; font-weight: bold">
+   Najświeższe wiadomości ekonomiczne i gospodarcze w Twojej skrzynce mailowej!
+   </p>
+   <p style="margin: 15px 10px 0px 15px">
+      <input type="text" name="pre_email" id="newsletter_email_input" value="Twój adres e-mail"/>
+      <input type="hidden" name="f1" value="1" />
+      <input type="submit" class="submit" value="Zapisz się" /> 
+   </p>
+</form>
+
+      <div class="clear"></div>
+</div>
+<div class="footer_white"></div>
+
+<script type="text/javascript">
+  $('#newsletter_email_input').focus(function() {
+     if ($(this).val() == 'Twój adres e-mail') {
+        $(this).val('');
+     }
+  });
+
+  $('#newsletter_email_input').blur(function() {
+     if ($(this).val() == '') {
+        $(this).val('Twój adres e-mail');
+     }
+  });
+</script>
+   
+	  </div> 
+	  
+	  <div class="box_window_336"> 		
+			<div class="title_yellow">Centrum Produktów Finansowych</div>
+<div class="content_white">
+  <ul class="point_yellow">
+    <li><a href="http://www.bankier.pl/goto2.html?nazwa=FO_CF_KO_ALIOR_061109&url=http%3A%2F%2Fwww.bankier.pl%2Fcf%2Faliorbank%2Fkonto.html">Konto osobiste z lokatą nocną</a></li>
+    <li><a href="http://www.bankier.pl/goto2.html?nazwa=FO_CF_KO_INGBS_061109&url=http%3A%2F%2Fwww.bankier.pl%2Fcf%2Fingbank%2Fkonta_osobiste%2Ckomfort.html">Konto z Lwem Komfort</a></li>
+    <li><a href="http://www.bankier.pl/goto2.html?nazwa=FO_CF_KO_MBANK_061109&url=http%3A%2F%2Fwww.bankier.pl%2Fcf%2Fmbank%2Fekonto.html">Masz eKONTO, masz wszystko</a></li>
+    <li><a href="http://www.bankier.pl/cf/aliorsync/konto.html">5% za zakupy w internecie</a></li>
+  </ul>
+  <div class="clear"></div>
+</div>
+<div class="footer_yellow"></div>
+
+
+	  </div>
+	  
+<script>
+
+	$(document).ready(function() {
+ 		$(".boksscrollable").scrollable({
+			circular: true,
+			mousewheel: true
+		});
+	});
+</script>
+
+<div class="box_bankier_tv">
+   <ul style="margin: 0; padding: 0">
+      <li><a href="http://bankier.tv/tag/konta.html">Najnowsze</a></li>
+      <li><a href="http://bankier.tv/tag/konta.html?n=1">Najpopularniejsze</a></li>
+   </ul>   
+   <a href="http://bankier.tv/" style="position: absolute; top: 0; left: 0; width: 160px; height: 55px; text-indent: -4000px">Bankier.TV</a>
+<div style="margin-top:-10px;padding-top:0;">
+	<div style="float:left;">
+	<a class="prev">&nbsp;</a>
+	</div>
+		<div class="boksscrollable">
+			<div class="items">
+
+
+<div>
+	<div style="margin-right:15px; width: 125px;"><a href="http://bankier.tv/czy-to-juz-koniec-bezplatnych-kont-11833.html"><img src="http://bankier.tv/s/i/video_image/boczon.jpg" width="110" /></a><br/><a href="http://bankier.tv/czy-to-juz-koniec-bezplatnych-kont-11833.html">Czy to już koniec bezpłatnych kont?</a></div>
+	<div style="margin-right:15px; width: 125px;"><a href="http://bankier.tv/komu-polacy-powierzaja-swoje-oszczednosci-11285.html"><img src="http://bankier.tv/s/i/video_image/n/4335.jpg" width="110" /></a><br/><a href="http://bankier.tv/komu-polacy-powierzaja-swoje-oszczednosci-11285.html">Komu Polacy powierzają swoje oszczędności?</a></div>
+</div>
+<div>
+	<div style="margin-right:15px; width: 125px;"><a href="http://bankier.tv/10-mln-aktywnych-klientow-e-bankowosci-10247.html"><img src="http://bankier.tv/s/i/video_image/n/3550.jpg" width="110" /></a><br/><a href="http://bankier.tv/10-mln-aktywnych-klientow-e-bankowosci-10247.html">10 mln aktywnych klientów e-bankowości</a></div>
+	<div style="margin-right:15px; width: 125px;"><a href="http://bankier.tv/kir-przelewy-natychmiastowe-w-kazdym-banku-w-polsce-9480.html"><img src="http://bankier.tv/s/i/video_image/n/2844.jpg" width="110" /></a><br/><a href="http://bankier.tv/kir-przelewy-natychmiastowe-w-kazdym-banku-w-polsce-9480.html">KIR: Przelewy natychmiastowe w każdym banku w Polsce</a></div>
+</div>
+<div>
+	<div style="margin-right:15px; width: 125px;"><a href="http://bankier.tv/korzystaj-bezpiecznie-z-bankowosci-internetowej-na-urlopie-9243.html"><img src="http://bankier.tv/s/i/video_image/n/2605.jpg" width="110" /></a><br/><a href="http://bankier.tv/korzystaj-bezpiecznie-z-bankowosci-internetowej-na-urlopie-9243.html">Korzystaj bezpiecznie z bankowości internetowej na urlopie</a></div>
+	<div style="margin-right:15px; width: 125px;"><a href="http://bankier.tv/najlepsze-produkty-bankowe-2010-roku-8483.html"><img src="http://bankier.tv/s/i/video_image/n/1843.jpg" width="110" /></a><br/><a href="http://bankier.tv/najlepsze-produkty-bankowe-2010-roku-8483.html">Najlepsze produkty bankowe 2010 roku</a></div>
+</div>
+<div>
+	<div style="margin-right:15px; width: 125px;"><a href="http://bankier.tv/poltorak-produkty-bankowe-na-miare-potrzeb-klientow-8362.html"><img src="http://bankier.tv/s/i/video_image/n/1706.jpg" width="110" /></a><br/><a href="http://bankier.tv/poltorak-produkty-bankowe-na-miare-potrzeb-klientow-8362.html">Półtorak: Produkty bankowe na miarę potrzeb klientów</a></div>
+	<div style="margin-right:15px; width: 125px;"><a href="http://bankier.tv/jutro-podwyzka-stop-i-na-tym-sie-nie-skonczy-8318.html"><img src="http://bankier.tv/s/i/video_image/n/1662.jpg" width="110" /></a><br/><a href="http://bankier.tv/jutro-podwyzka-stop-i-na-tym-sie-nie-skonczy-8318.html">Jutro podwyżka stóp i na tym się nie skończy</a></div>
+</div>
+
+			</div>
+
+		</div>
+
+	<div style="float:right;">
+	<a class="next">&nbsp;</a>
+	</div>
+
+</div>
+
+   <div class="right"><a href="http://bankier.tv/tag/konta.html">więcej</a></div>
+   <div class="clear"></div>
+</div>
+
+
+ 
+    
+
+  <div class="clear"></div>
+</div>
+
+		</div>
+		</div>
+	        <div style="clear: both"></div>
+	</div> <!-- /main_content -->
+	
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+<!-- google-analytics -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-325086-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- end google-analytics -->
+
+
+
+
+
+
+
+<!-- (c) 2008 Gemius SA / gemiusHeatMap(GHM+XY) / http://www.bankier.pl -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ghmxy_align = 'center';
+var ghmxy_type = 'absolute';
+var ghmxy_identifier = 'ndbq_HMBGwk6w9QTnR_FeGYmLXU1EM82cIVb5IqSO0D.f7';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://pro.hit.gemius.pl/hmapxy.js"></script>
+
+
+</div> <!-- /main -->
+<!-- code: /finanse/konta/ | 0x0-master | fo/konta/  | DHTML -->
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/konta/pozostale : DHTML_1x1 //-->
+<div id="adoceanggudeikmigmi"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.konta.pozostale.pozostale DHTML 1x1 BKID:72209015165556700 */
+ado.slave('adoceanggudeikmigmi', {myMaster: '0UGsKa_3TUOq109cidxk1XJRPrLfvbtrPlsYNt2UuBr.67' });
+</script>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- (C)2005 Gemius SA - gemiusAudience  / bankier.pl / finanse_osobiste_Konta -->
+<script language="javascript" type="text/javascript">
+<!--
+var pp_gemius_identifier = new String('cstLmUcOfHwEppzEdnq04ZewfXTUUAbzVGdygozNup..z7');
+//-->
+</script>
+<script language="javascript" type="text/javascript" src="http://arbo.hit.gemius.pl/pp_gemius.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<!-- (C) 2000-2005 Gemius SA - gemiusTraffic / ver 11.1 / konta_pozostale --> 
+<script type="text/javascript">
+var gemius_identifier = new String('B22aby9Cd_INKUYQ7TSqq4XxXrEdoXroh2aYbwAgngz.u7');
+</script>
+<script type="text/javascript" src="/inc/js/gemius.js"></script> 
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+

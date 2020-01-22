@@ -1,0 +1,3725 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | WIG</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+
+<h1>WIG</h1>
+
+
+<script type="text/javascript">
+<!--
+function formatDate(_date) {
+	  var _tmpBegin = _date.getFullYear() + '-';
+	  if (_date.getMonth() +1 < 10) _tmpBegin += '0';
+	  _tmpBegin += _date.getMonth() +1;
+	  _tmpBegin +=  '-'
+	  if (_date.getDate() < 10) _tmpBegin += '0';
+	  _tmpBegin += _date.getDate().toString();
+	  return _tmpBegin;
+	 }
+
+function moveflashmap()
+{ 
+    
+	     
+//    var myElement = document.getElementById("chart");
+//	var startDate = new Date();    
+//	startDate.setMonth(startDate.getMonth()-1);
+    //myElement.innerHTML='<object width="550" height="250" align="middle" id="FlashChart" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param value="sameDomain" name="allowScriptAccess"/><param value="false" name="allowFullScreen"/><param value="/files/FlashChart.swf" name="movie"/><param value="high" name="quality"/><param id="flashChnges" value="paramIsin=PL9999999995,PL9999999987&amp;paramType=1&amp;paramBegin='+formatDate(startDate)+'&amp;paramEnd='+formatDate(new Date())+'" name="FlashVars"/>	<param value="#eef8fc" name="bgcolor"/>	<embed width="550" height="250" align="middle" id="emmm" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowfullscreen="false" allowscriptaccess="sameDomain" name="FlashChart" bgcolor="#eef8fc" quality="high" flashvars="paramIsin=PL9999999995,PL9999999987&amp;paramType=1&amp;paramBegin='+formatDate(startDate)+'&amp;paramEnd='+formatDate(new Date())+'" src="/files/FlashChart.swf"/></object>';
+    	         
+}
+
+//-->
+</script>
+<div class="company">
+
+
+
+
+<table class="company_review">
+	<tr>
+		<th>aktual.</th>
+		<th title="bieżący kurs">kurs</th>
+		<th title="zmiana procentowa">zmiana</th>
+		<th title="kurs odniesienia">odn.</th>
+		<th title="kurs otwarcia">otw.</th>
+		<th title="kurs zamknięcia">zamk.</th>
+		<th title="wartość minimalna">min.</th>
+		<th title="wartość maksymalna">maks.</th>
+		<th title="obroty wyrażone w złotych">obroty </th>
+		<th title="wolumen akcji">wol.</th>
+	</tr>
+	<tr>
+		<td class="time">2013-03-18</td>
+		<td class="number">&ndash;</td>
+		<td class="number "><b>+0.00%</b></td>
+		<td class="number">45066.18</td>
+		<td colspan="2" style="text-align: center; ">&ndash; / 
+		-</td>
+		<td colspan="2" style="text-align: center; ">&ndash; - 
+		&ndash;</td>
+		<td class="number">0.0&nbsp;zł</td>
+		<td class="number">&ndash;</td>
+	</tr>
+</table>
+<div class="chart" id="chart">
+<!--
+<img src="/chart_hourly/SmallChart/PL9999999995/550/250/" />
+-->
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+	codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" 
+	width="550" height="250" 
+	id="FlashChart" 
+	align="middle">
+	
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="/files/FlashChart.swf" />
+	<param name="quality" value="high" />
+	<param name="FlashVars"	value="paramIsin=PL9999999995&amp;paramType=1&amp;paramSessionStartHour=9&amp;paramSessionStartMinute=0&amp;paramSessionEndHour=18&amp;paramSessionEndMinute=0" id="flashChnges"/>
+	<param name="bgcolor" value="#eef8fc" />
+	<param name="wmode" value="opaque" />	
+		<embed 	src="/files/FlashChart.swf"
+				FlashVars="paramIsin=PL9999999995&amp;paramType=1&amp;paramSessionStartHour=9&amp;paramSessionStartMinute=0&amp;paramSessionEndHour=18&amp;paramSessionEndMinute=0"
+				quality="high" bgcolor="#eef8fc" 
+				width="550" height="250" 
+				name="FlashChart" 
+				align="middle" 
+				allowScriptAccess="sameDomain" 
+				allowFullScreen="false" 
+				type="application/x-shockwave-flash" 
+				wmode="opaque"
+				pluginspage="http://www.macromedia.com/go/getflashplayer" id="emmm"/>
+</object>
+
+</div>
+<table>
+	<tr>
+		<th>okres</th>
+		<th>dzień</th>
+		<th>tydzień</th>
+		<th>miesiąc</th>
+		<th>1&nbsp;rok</th>
+		<th>3&nbsp;lata</th>
+		<th>5&nbsp;lat</th>
+		<td>
+		<a href="/technical?isin=PL9999999995"><img src="/style/fever.gif">&nbsp;analiza tech.</a>
+		</td>
+	</tr>
+	<tr>
+		<th>zmiana</th>		
+		
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.37%</td>
+		<td class="number down">-1.92%</td>
+		<td class="number up">+10.36%</td>
+		<td class="number up">+7.60%</td>
+		<td class="number down">-1.82%</td>
+				<td>
+		<!--<a  onclick="moveflashmap()" href="#"><img src="/style/fever.gif">&nbsp;por. z WIG20</a>
+-->
+		</td>
+		
+	</tr>
+</table>
+</div>
+
+<!-- instrument hit -->
+<script type="text/javascript">
+sti = new Image;
+sti.src = '/hit/PL9999999995?r=' + Math.random();
+</script>
+
+<div style="width: 468px; margin: 10px auto 0 auto;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-0444287293673271";
+/* Notowania - instrument */
+google_ad_slot = "8573773859";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+<h1>Skład indeksu</h1>
+<table class="sortable">
+<thead>
+	<tr>
+		<th>nazwa</th>
+		<th>kurs</th>
+		<th>dzień</th>
+		<th>tydzień</th>
+		<th>1&nbsp;mies.</th>
+		<th>6&nbsp;mies.</th>
+		<th>rok</th>		
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td class=""><a href="/instrument/AT0000827209">WARIMPEX</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.24%</td>
+		<td class="number up">+3.33%</td>
+		<td class="number up">+75.79%</td>
+		<td class="number up">+34.70%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/BG1100114062">EUROHOLD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.30%</td>
+		<td class="number down">-9.30%</td>
+		<td class="number down">-25.00%</td>
+		<td class="number down">-23.53%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/BG11SOSOBT18">SOPHARMA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number up">+6.49%</td>
+		<td class="number down">-35.94%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/CA5012401058">KOV</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.04%</td>
+		<td class="number down">-7.69%</td>
+		<td class="number down">-0.75%</td>
+		<td class="number down">-27.47%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/CY0101062111">AGROTON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.81%</td>
+		<td class="number down">-0.88%</td>
+		<td class="number down">-10.62%</td>
+		<td class="number down">-55.70%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/CY0102492119">KDMSHIPNG</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+9.51%</td>
+		<td class="number up">+31.86%</td>
+		<td class="number up">+38.48%</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/CY1000031710">ASBIS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.20%</td>
+		<td class="number up">+15.82%</td>
+		<td class="number up">+51.85%</td>
+		<td class="number up">+57.09%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/CZ0005112300">CEZ</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.89%</td>
+		<td class="number down">-7.50%</td>
+		<td class="number down">-23.99%</td>
+		<td class="number down">-31.18%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/DE0003304200">BMPAG</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.33%</td>
+		<td class="number up">+6.33%</td>
+		<td class="number up">+10.00%</td>
+		<td class="number up">+16.85%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/EE3100001751">SILVANO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+3.55%</td>
+		<td class="number up">+1.70%</td>
+		<td class="number down">-9.96%</td>
+		<td class="number down">-15.75%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/EE3100084021">OLYMPIC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number up">+3.29%</td>
+		<td class="number up">+32.28%</td>
+		<td class="number up">+28.89%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/FR0000060873">SOBIESKI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.06%</td>
+		<td class="number down">-25.45%</td>
+		<td class="number down">-55.00%</td>
+		<td class="number down">-56.38%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/GB00B42CTW68">NEWWORLDR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.42%</td>
+		<td class="number down">-16.99%</td>
+		<td class="number down">-22.56%</td>
+		<td class="number down">-43.65%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/HU0000068952">MOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.88%</td>
+		<td class="number down">-9.58%</td>
+		<td class="number down">-14.11%</td>
+		<td class="number down">-12.74%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/IM00B58FMW76">EXILLON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.15%</td>
+		<td class="number up">+13.43%</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/IT0004781412">UNICREDIT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.11%</td>
+		<td class="number down">-15.56%</td>
+		<td class="number up">+4.97%</td>
+		<td class="number down">-6.75%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LT0000127466">AGROWILL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.17%</td>
+		<td class="number down">-18.97%</td>
+		<td class="number down">-30.88%</td>
+		<td class="number down">-32.86%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LT0000128381">AVIASG</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.84%</td>
+		<td class="number up">+22.64%</td>
+		<td class="number up">+79.06%</td>
+		<td class="number up">+79.56%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LT0000128621">INTERAOLT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.40%</td>
+		<td class="number up">+7.72%</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LU0122624777">ORCOGROUP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+10.11%</td>
+		<td class="number down">-10.91%</td>
+		<td class="number up">+47.37%</td>
+		<td class="number down">-38.83%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LU0275164910">PEGAS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.09%</td>
+		<td class="number up">+3.49%</td>
+		<td class="number up">+3.49%</td>
+		<td class="number up">+25.71%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LU0299378421">ACE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.94%</td>
+		<td class="number up">+6.60%</td>
+		<td class="number up">+28.67%</td>
+		<td class="number up">+8.51%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LU0327357389">KERNEL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.90%</td>
+		<td class="number down">-18.44%</td>
+		<td class="number down">-11.20%</td>
+		<td class="number down">-18.98%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LU0564351582">SADOVAYA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-11.88%</td>
+		<td class="number down">-5.82%</td>
+		<td class="number down">-59.08%</td>
+		<td class="number down">-79.61%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LU0607203980">IMCOMPANY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.23%</td>
+		<td class="number down">-7.41%</td>
+		<td class="number up">+3.45%</td>
+		<td class="number up">+25.94%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LU0611262873">KSGAGRO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.69%</td>
+		<td class="number down">-0.91%</td>
+		<td class="number down">-6.98%</td>
+		<td class="number down">-47.87%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LU0627170920">WESTAISIC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.53%</td>
+		<td class="number up">+4.62%</td>
+		<td class="number down">-24.44%</td>
+		<td class="number down">-81.22%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/LU0646112838">COALENERG</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-20.00%</td>
+		<td class="number down">-34.34%</td>
+		<td class="number down">-52.47%</td>
+		<td class="number down">-70.84%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/NL0000474351">AMREST</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.62%</td>
+		<td class="number down">-0.56%</td>
+		<td class="number up">+24.65%</td>
+		<td class="number up">+24.47%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/NL0000686509">ASTARTA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.68%</td>
+		<td class="number down">-11.90%</td>
+		<td class="number down">-12.31%</td>
+		<td class="number down">-9.52%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/NL0000686772">PLAZACNTR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.85%</td>
+		<td class="number up">+25.00%</td>
+		<td class="number down">-34.78%</td>
+		<td class="number down">-45.45%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/NL0000687309">CCIINT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.68%</td>
+		<td class="number up">+0.44%</td>
+		<td class="number down">-1.95%</td>
+		<td class="number down">-15.47%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/NL0006106007">RONSON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.00%</td>
+		<td class="number down">-2.11%</td>
+		<td class="number up">+24.00%</td>
+		<td class="number down">-8.82%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/NL0009508712">MILKILAND</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.49%</td>
+		<td class="number down">-5.26%</td>
+		<td class="number down">-17.00%</td>
+		<td class="number down">-13.15%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/NL0009604859">FORTUNA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number up">+10.27%</td>
+		<td class="number up">+9.97%</td>
+		<td class="number down">-3.03%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/NL0009805613">OVOSTAR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.48%</td>
+		<td class="number up">+4.30%</td>
+		<td class="number down">-3.96%</td>
+		<td class="number down">-22.34%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000102646">WS0922</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.07%</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000102836">DS1013</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.31%</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000103602">DS1015</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.92%</td>
+		<td class="number down">-4.97%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000104543">DS1017</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000105391">WS0429</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000105433">PS0414</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000105441">DS1019</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000105953">PS0415</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000106126">DS1020</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000106340">PS0416</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000106670">DS1021</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000106712">OK0114</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000106795">PS1016</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000107009">OK0714</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000107058">PS0417</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000107264">DS1023</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL0000107314">PS0418</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PL4FNMD00013">4FUNMEDIA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.40%</td>
+		<td class="number down">-11.93%</td>
+		<td class="number up">+28.75%</td>
+		<td class="number up">+4.94%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLAB00000019">ABPL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.33%</td>
+		<td class="number down">-3.67%</td>
+		<td class="number up">+5.21%</td>
+		<td class="number down">-2.55%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLABCDT00014">ABCDATA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-13.94%</td>
+		<td class="number down">-11.48%</td>
+		<td class="number up">+10.77%</td>
+		<td class="number down">-1.82%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLABS0000018">ASSECOBS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.57%</td>
+		<td class="number down">-0.45%</td>
+		<td class="number up">+17.02%</td>
+		<td class="number up">+5.97%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLACSA000014">ACAUTOGAZ</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.30%</td>
+		<td class="number down">-0.68%</td>
+		<td class="number up">+22.39%</td>
+		<td class="number up">+29.19%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLACTIN00018">ACTION</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.60%</td>
+		<td class="number up">+7.30%</td>
+		<td class="number up">+53.37%</td>
+		<td class="number up">+42.89%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLADVPL00029">SMT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.83%</td>
+		<td class="number up">+2.36%</td>
+		<td class="number up">+12.83%</td>
+		<td class="number up">+12.22%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLAGORA00067">AGORA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.44%</td>
+		<td class="number down">-8.43%</td>
+		<td class="number up">+12.88%</td>
+		<td class="number down">-33.47%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLALIOR00045">ALIOR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.56%</td>
+		<td class="number down">-5.83%</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLAMBRA00013">AMBRA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.67%</td>
+		<td class="number up">+9.15%</td>
+		<td class="number up">+42.29%</td>
+		<td class="number up">+36.85%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLAMICA00010">AMICA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.62%</td>
+		<td class="number up">+14.26%</td>
+		<td class="number up">+65.94%</td>
+		<td class="number up">+58.81%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLANTI000012">GREENECO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.26%</td>
+		<td class="number down">-31.94%</td>
+		<td class="number down">-59.34%</td>
+		<td class="number up">+11.36%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLAPATR00018">APATOR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.73%</td>
+		<td class="number down">-6.42%</td>
+		<td class="number up">+3.20%</td>
+		<td class="number up">+34.20%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLAPLS000016">APLISENS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.80%</td>
+		<td class="number down">-8.19%</td>
+		<td class="number up">+26.46%</td>
+		<td class="number up">+75.87%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLARCUS00040">ARCUS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.22%</td>
+		<td class="number down">-26.04%</td>
+		<td class="number up">+42.03%</td>
+		<td class="number up">+24.44%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLARTER00016">ARTERIA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.84%</td>
+		<td class="number up">+13.22%</td>
+		<td class="number up">+18.93%</td>
+		<td class="number up">+4.35%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLARTPR00012">ARCTIC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.76%</td>
+		<td class="number up">+4.23%</td>
+		<td class="number up">+12.28%</td>
+		<td class="number up">+4.07%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLASMOT00030">TRITON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-15.79%</td>
+		<td class="number down">-19.19%</td>
+		<td class="number down">-33.33%</td>
+		<td class="number down">-75.16%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLASSEE00014">ASSECOSEE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.00%</td>
+		<td class="number down">-3.16%</td>
+		<td class="number up">+21.45%</td>
+		<td class="number up">+30.50%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLATLNT00016">ATLANTIS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-40.91%</td>
+		<td class="number down">-69.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLATLPL00018">ATLANTAPL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.83%</td>
+		<td class="number up">+3.33%</td>
+		<td class="number down">-2.00%</td>
+		<td class="number down">-46.50%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLATM0000021">ATMGRUPA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.79%</td>
+		<td class="number up">+2.46%</td>
+		<td class="number up">+17.92%</td>
+		<td class="number down">-19.87%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLATMSA00013">ATM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.83%</td>
+		<td class="number up">+13.09%</td>
+		<td class="number up">+43.60%</td>
+		<td class="number up">+53.42%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLATMSI00016">ATMSI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-14.52%</td>
+		<td class="number up">+5.30%</td>
+		<td class="number up">+19.55%</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLATREM00017">ATREM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.54%</td>
+		<td class="number down">-3.66%</td>
+		<td class="number up">+30.23%</td>
+		<td class="number down">-30.76%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBALTN00014">BALTONA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.69%</td>
+		<td class="number down">-4.00%</td>
+		<td class="number up">+10.09%</td>
+		<td class="number ">+0.00%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBAUMA00017">ULMA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.48%</td>
+		<td class="number up">+0.64%</td>
+		<td class="number up">+40.71%</td>
+		<td class="number down">-21.64%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBEFSN00010">PBSFINANSE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.27%</td>
+		<td class="number down">-4.44%</td>
+		<td class="number down">-4.44%</td>
+		<td class="number down">-23.21%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBH00000012">HANDLOWY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.40%</td>
+		<td class="number up">+5.43%</td>
+		<td class="number up">+2.39%</td>
+		<td class="number up">+19.81%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBIG0000016">MILLENNIUM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.00%</td>
+		<td class="number down">-1.45%</td>
+		<td class="number up">+17.57%</td>
+		<td class="number up">+12.29%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBIOTN00029">BIOTON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-28.57%</td>
+		<td class="number down">-28.57%</td>
+		<td class="number down">-50.00%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBKLND00017">BAKALLAND</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-11.61%</td>
+		<td class="number up">+1.29%</td>
+		<td class="number down">-12.59%</td>
+		<td class="number down">-43.41%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBMECH00012">BUMECH</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.60%</td>
+		<td class="number up">+15.38%</td>
+		<td class="number down">-10.16%</td>
+		<td class="number down">-31.15%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBNFTS00018">BENEFIT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.09%</td>
+		<td class="number down">-11.47%</td>
+		<td class="number up">+51.61%</td>
+		<td class="number up">+61.81%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBOS0000019">BOS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.92%</td>
+		<td class="number down">-1.57%</td>
+		<td class="number up">+8.28%</td>
+		<td class="number down">-40.42%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBOWM000019">BOWIM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.77%</td>
+		<td class="number down">-7.33%</td>
+		<td class="number down">-39.75%</td>
+		<td class="number down">-49.80%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBPH0000019">BANKBPH</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.80%</td>
+		<td class="number down">-0.87%</td>
+		<td class="number up">+20.00%</td>
+		<td class="number up">+17.94%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBPRMT00011">BIPROMET</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.61%</td>
+		<td class="number down">-2.06%</td>
+		<td class="number up">+10.12%</td>
+		<td class="number down">-16.69%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBRE0000012">BRE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.43%</td>
+		<td class="number up">+4.55%</td>
+		<td class="number up">+9.91%</td>
+		<td class="number up">+21.48%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBRLNG00015">BERLING</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.31%</td>
+		<td class="number down">-1.60%</td>
+		<td class="number up">+36.69%</td>
+		<td class="number up">+61.81%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBRLNK00017">BARLINEK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.30%</td>
+		<td class="number down">-10.34%</td>
+		<td class="number down">-1.27%</td>
+		<td class="number down">-42.22%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBRSTM00015">CALATRAVA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.25%</td>
+		<td class="number down">-9.09%</td>
+		<td class="number down">-38.78%</td>
+		<td class="number down">-36.17%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBRSZW00011">BORYSZEW</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-4.08%</td>
+		<td class="number down">-14.55%</td>
+		<td class="number down">-38.16%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBSCDO00017">BSCDRUK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+6.22%</td>
+		<td class="number up">+5.00%</td>
+		<td class="number up">+36.54%</td>
+		<td class="number up">+35.66%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBSK0000017">INGBSK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.56%</td>
+		<td class="number up">+2.99%</td>
+		<td class="number up">+6.29%</td>
+		<td class="number up">+0.67%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBUDMX00013">BUDIMEX</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.58%</td>
+		<td class="number up">+5.70%</td>
+		<td class="number up">+35.90%</td>
+		<td class="number down">-18.36%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLBYTOM00010">BYTOM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-18.60%</td>
+		<td class="number up">+29.63%</td>
+		<td class="number up">+25.00%</td>
+		<td class="number down">-51.39%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCAMMD00032">CAMMEDIA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.16%</td>
+		<td class="number up">+6.31%</td>
+		<td class="number down">-2.74%</td>
+		<td class="number down">-7.25%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCASHF00018">CASHFLOW</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-17.56%</td>
+		<td class="number down">-9.45%</td>
+		<td class="number down">-4.17%</td>
+		<td class="number down">-30.30%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCASPL00019">FON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-47.06%</td>
+		<td class="number down">-52.63%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCCC0000016">CCC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.85%</td>
+		<td class="number up">+8.23%</td>
+		<td class="number up">+38.12%</td>
+		<td class="number up">+32.04%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCELPD00013">CELTIC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-2.94%</td>
+		<td class="number down">-44.94%</td>
+		<td class="number down">-72.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCFRPT00013">CYFRPLSAT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.39%</td>
+		<td class="number up">+0.81%</td>
+		<td class="number up">+11.24%</td>
+		<td class="number up">+16.04%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCHMDW00010">CHEMOS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.56%</td>
+		<td class="number down">-5.56%</td>
+		<td class="number down">-19.05%</td>
+		<td class="number down">-41.38%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCIECH00018">CIECH</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.73%</td>
+		<td class="number up">+0.37%</td>
+		<td class="number up">+24.86%</td>
+		<td class="number up">+47.61%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCMP0000017">COMP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.09%</td>
+		<td class="number up">+1.73%</td>
+		<td class="number up">+2.38%</td>
+		<td class="number down">-23.71%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCMPLD00016">SYGNITY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.65%</td>
+		<td class="number down">-7.59%</td>
+		<td class="number up">+17.99%</td>
+		<td class="number down">-29.33%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCMRAY00029">CORMAY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.66%</td>
+		<td class="number down">-6.45%</td>
+		<td class="number up">+17.04%</td>
+		<td class="number up">+8.12%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCNTSL00014">COGNOR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.14%</td>
+		<td class="number down">-10.96%</td>
+		<td class="number down">-14.47%</td>
+		<td class="number down">-49.87%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCNTZP00010">IDEON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-33.33%</td>
+		<td class="number down">-73.33%</td>
+		<td class="number down">-73.33%</td>
+		<td class="number down">-77.78%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCOMAR00012">COMARCH</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.47%</td>
+		<td class="number down">-10.00%</td>
+		<td class="number up">+14.73%</td>
+		<td class="number up">+22.54%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCPENR00035">DUON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-21.97%</td>
+		<td class="number up">+18.39%</td>
+		<td class="number up">+94.34%</td>
+		<td class="number up">+51.47%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCPTLP00015">CAPITAL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.57%</td>
+		<td class="number down">-3.76%</td>
+		<td class="number up">+20.75%</td>
+		<td class="number down">-24.26%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCRMNG00029">NOWAGALA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.35%</td>
+		<td class="number down">-9.23%</td>
+		<td class="number down">-11.06%</td>
+		<td class="number down">-19.55%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCRSNT00011">ROVESE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number up">+17.54%</td>
+		<td class="number down">-39.64%</td>
+		<td class="number down">-69.20%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLCTINT00018">CITYINTER</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-14.32%</td>
+		<td class="number down">-12.83%</td>
+		<td class="number up">+21.19%</td>
+		<td class="number down">-17.14%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLDEBCA00016">DEBICA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.36%</td>
+		<td class="number down">-1.29%</td>
+		<td class="number up">+31.62%</td>
+		<td class="number up">+15.31%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLDECOR00013">DECORA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.89%</td>
+		<td class="number down">-12.37%</td>
+		<td class="number up">+16.62%</td>
+		<td class="number down">-29.81%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLDMDVL00012">DOMDEV</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.12%</td>
+		<td class="number down">-9.09%</td>
+		<td class="number up">+4.06%</td>
+		<td class="number down">-21.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLDROP000011">DROP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.19%</td>
+		<td class="number up">+10.86%</td>
+		<td class="number up">+25.00%</td>
+		<td class="number down">-28.57%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLDRZPL00032">DROZAPOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.50%</td>
+		<td class="number up">+10.81%</td>
+		<td class="number down">-10.87%</td>
+		<td class="number down">-46.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLDUDA000016">DUDA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.55%</td>
+		<td class="number up">+36.11%</td>
+		<td class="number up">+8.89%</td>
+		<td class="number down">-35.53%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLDWORY00019">SYNTHOS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.82%</td>
+		<td class="number up">+9.54%</td>
+		<td class="number up">+8.77%</td>
+		<td class="number down">-0.64%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLECHPS00019">ECHO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.19%</td>
+		<td class="number up">+3.01%</td>
+		<td class="number up">+38.33%</td>
+		<td class="number up">+35.75%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLEDINV00014">EDINVEST</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+16.41%</td>
+		<td class="number up">+22.48%</td>
+		<td class="number up">+21.68%</td>
+		<td class="number down">-18.26%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLEFH0000022">EFH</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-27.54%</td>
+		<td class="number down">-52.38%</td>
+		<td class="number up">+163.16%</td>
+		<td class="number down">-10.71%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLEKEP000019">EKOEXPORT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.76%</td>
+		<td class="number down">-3.55%</td>
+		<td class="number up">+12.19%</td>
+		<td class="number up">+2.47%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLELDRD00017">EMPERIA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.00%</td>
+		<td class="number up">+2.67%</td>
+		<td class="number up">+28.00%</td>
+		<td class="number down">-46.67%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLELEKT00016">ELEKTROTI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.04%</td>
+		<td class="number down">-8.48%</td>
+		<td class="number up">+34.08%</td>
+		<td class="number up">+4.35%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLELKOP00013">ELKOP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+15.38%</td>
+		<td class="number up">+15.38%</td>
+		<td class="number down">-42.31%</td>
+		<td class="number down">-48.28%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLELPO000016">WIKANA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.50%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-13.33%</td>
+		<td class="number down">-30.36%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLELTBD00017">ELBUDOWA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.44%</td>
+		<td class="number down">-3.68%</td>
+		<td class="number up">+29.65%</td>
+		<td class="number up">+21.43%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLEMCIM00017">EMCINSMED</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-12.73%</td>
+		<td class="number down">-9.36%</td>
+		<td class="number up">+71.84%</td>
+		<td class="number up">+89.26%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLENEA000013">ENEA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.27%</td>
+		<td class="number down">-10.39%</td>
+		<td class="number down">-16.41%</td>
+		<td class="number down">-17.22%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLENLMD00017">ENELMED</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.84%</td>
+		<td class="number up">+7.11%</td>
+		<td class="number up">+31.69%</td>
+		<td class="number down">-2.63%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLERBUD00012">ERBUD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.12%</td>
+		<td class="number up">+10.71%</td>
+		<td class="number up">+32.23%</td>
+		<td class="number down">-11.43%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLERGIN00015">ENERGOINS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.94%</td>
+		<td class="number down">-13.37%</td>
+		<td class="number up">+19.45%</td>
+		<td class="number up">+53.72%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLERGPL00014">CNT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.68%</td>
+		<td class="number up">+33.87%</td>
+		<td class="number up">+37.19%</td>
+		<td class="number up">+58.40%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLERPCO00017">EUCO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.18%</td>
+		<td class="number up">+8.22%</td>
+		<td class="number up">+31.94%</td>
+		<td class="number up">+0.08%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLERTEL00011">EUROTEL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.05%</td>
+		<td class="number up">+10.72%</td>
+		<td class="number up">+26.16%</td>
+		<td class="number up">+14.44%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLESSYS00030">ESSYSTEM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.62%</td>
+		<td class="number down">-0.38%</td>
+		<td class="number up">+22.64%</td>
+		<td class="number down">-15.58%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLEUFLM00017">ERGIS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.55%</td>
+		<td class="number down">-8.54%</td>
+		<td class="number up">+26.60%</td>
+		<td class="number up">+34.55%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLEURCH00011">EUROCASH</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.51%</td>
+		<td class="number up">+5.25%</td>
+		<td class="number up">+34.22%</td>
+		<td class="number up">+50.57%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLFAM0000012">FAM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.68%</td>
+		<td class="number up">+9.70%</td>
+		<td class="number up">+5.76%</td>
+		<td class="number up">+24.58%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLFAMUR00012">FAMUR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.89%</td>
+		<td class="number up">+0.64%</td>
+		<td class="number up">+6.33%</td>
+		<td class="number up">+33.52%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLFERRO00016">FERRO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.32%</td>
+		<td class="number up">+6.13%</td>
+		<td class="number up">+4.23%</td>
+		<td class="number down">-26.74%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLFERUM00014">FERRUM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.77%</td>
+		<td class="number up">+4.74%</td>
+		<td class="number down">-11.62%</td>
+		<td class="number down">-38.09%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLFORTE00012">FORTE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.12%</td>
+		<td class="number up">+5.98%</td>
+		<td class="number up">+42.19%</td>
+		<td class="number up">+52.73%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLFOTA000014">FOTA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.75%</td>
+		<td class="number down">-16.22%</td>
+		<td class="number down">-38.70%</td>
+		<td class="number down">-57.55%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLFRMCL00066">FARMACOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+8.29%</td>
+		<td class="number up">+4.03%</td>
+		<td class="number up">+76.32%</td>
+		<td class="number up">+56.67%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLFSING00010">FASING</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.04%</td>
+		<td class="number down">-2.17%</td>
+		<td class="number down">-5.70%</td>
+		<td class="number up">+1.47%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLFSTFC00012">FASTFIN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.89%</td>
+		<td class="number up">+24.24%</td>
+		<td class="number up">+13.89%</td>
+		<td class="number down">-6.82%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGANT000014">GANT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-31.63%</td>
+		<td class="number down">-62.47%</td>
+		<td class="number down">-65.46%</td>
+		<td class="number down">-83.25%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGETBK00012">GETINOBLE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.80%</td>
+		<td class="number down">-4.84%</td>
+		<td class="number up">+7.93%</td>
+		<td class="number down">-6.84%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGFPRE00040">PRAGMAFA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+9.89%</td>
+		<td class="number up">+10.47%</td>
+		<td class="number up">+8.57%</td>
+		<td class="number up">+8.57%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGNRSI00015">GINOROSSI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.89%</td>
+		<td class="number up">+3.70%</td>
+		<td class="number up">+32.08%</td>
+		<td class="number down">-0.71%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGPW0000017">GPW</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.30%</td>
+		<td class="number down">-4.30%</td>
+		<td class="number up">+8.32%</td>
+		<td class="number down">-1.84%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGRAAL00022">GRAAL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.26%</td>
+		<td class="number down">-17.81%</td>
+		<td class="number down">-3.14%</td>
+		<td class="number up">+12.73%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGRBRN00012">ALCHEMIA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.07%</td>
+		<td class="number down">-15.46%</td>
+		<td class="number down">-26.13%</td>
+		<td class="number down">-31.21%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGRNKT00019">NOKAUT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.12%</td>
+		<td class="number down">-3.85%</td>
+		<td class="number down">-25.83%</td>
+		<td class="number down">-50.49%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGSPR000014">GETIN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.89%</td>
+		<td class="number down">-4.46%</td>
+		<td class="number up">+37.43%</td>
+		<td class="number up">+9.83%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGTC0000037">GTC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.39%</td>
+		<td class="number up">+0.50%</td>
+		<td class="number up">+4.97%</td>
+		<td class="number up">+31.48%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLGUARD00019">PCGUARD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+6.22%</td>
+		<td class="number up">+4.06%</td>
+		<td class="number up">+105.00%</td>
+		<td class="number up">+42.36%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLHDRTR00013">HYDROTOR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.45%</td>
+		<td class="number down">-1.82%</td>
+		<td class="number down">-12.23%</td>
+		<td class="number up">+14.29%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLHELIO00014">HELIO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.61%</td>
+		<td class="number down">-0.54%</td>
+		<td class="number down">-12.54%</td>
+		<td class="number down">-32.80%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLHGNKA00028">HYGIENIKA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.21%</td>
+		<td class="number up">+26.71%</td>
+		<td class="number up">+59.48%</td>
+		<td class="number up">+81.37%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLHOGA000041">WASKO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+3.48%</td>
+		<td class="number down">-5.18%</td>
+		<td class="number up">+5.31%</td>
+		<td class="number down">-13.77%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLHOOP000010">KOFOLA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.41%</td>
+		<td class="number down">-1.35%</td>
+		<td class="number down">-0.31%</td>
+		<td class="number up">+15.70%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLHPRON00017">HYPERION</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.87%</td>
+		<td class="number up">+18.95%</td>
+		<td class="number up">+4.15%</td>
+		<td class="number down">-27.10%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLHRPHG00023">HARPER</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+6.38%</td>
+		<td class="number up">+17.92%</td>
+		<td class="number up">+17.92%</td>
+		<td class="number up">+4.17%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLHUTMN00017">HUTMEN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.63%</td>
+		<td class="number down">-3.35%</td>
+		<td class="number down">-3.65%</td>
+		<td class="number down">-20.75%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLIDATF00012">IDEATFI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.94%</td>
+		<td class="number up">+19.53%</td>
+		<td class="number up">+9.19%</td>
+		<td class="number down">-65.17%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLIDMSA00044">IDMSA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-12.50%</td>
+		<td class="number down">-6.67%</td>
+		<td class="number down">-46.15%</td>
+		<td class="number down">-92.75%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLIMPEL00011">IMPEL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.27%</td>
+		<td class="number up">+2.97%</td>
+		<td class="number up">+32.08%</td>
+		<td class="number up">+45.83%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLIMPXM00019">IMPEXMET</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.94%</td>
+		<td class="number down">-3.06%</td>
+		<td class="number down">-19.13%</td>
+		<td class="number down">-26.28%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINCLT00015">INVESTCON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.94%</td>
+		<td class="number down">-5.71%</td>
+		<td class="number up">+12.50%</td>
+		<td class="number down">-48.70%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINDKP00013">INDYKPOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.45%</td>
+		<td class="number down">-2.86%</td>
+		<td class="number down">-11.69%</td>
+		<td class="number down">-20.71%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINPRO00015">INPRO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.10%</td>
+		<td class="number up">+14.02%</td>
+		<td class="number up">+9.25%</td>
+		<td class="number down">-6.15%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINSTK00013">INSTALKRK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.79%</td>
+		<td class="number down">-1.67%</td>
+		<td class="number up">+13.01%</td>
+		<td class="number down">-2.25%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINSTL00011">AWBUD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.06%</td>
+		<td class="number down">-1.72%</td>
+		<td class="number down">-10.94%</td>
+		<td class="number down">-65.24%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINTBD00014">INTERBUD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-14.20%</td>
+		<td class="number down">-3.33%</td>
+		<td class="number down">-11.04%</td>
+		<td class="number down">-50.68%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINTCS00010">INTERCARS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.54%</td>
+		<td class="number up">+9.90%</td>
+		<td class="number up">+17.22%</td>
+		<td class="number up">+14.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINTEG00011">INTEGERPL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.10%</td>
+		<td class="number up">+0.27%</td>
+		<td class="number up">+30.71%</td>
+		<td class="number up">+21.11%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINTFR00023">INTERFERI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.41%</td>
+		<td class="number down">-3.87%</td>
+		<td class="number up">+10.69%</td>
+		<td class="number up">+5.74%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINTGR00013">GROCLIN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.37%</td>
+		<td class="number up">+20.80%</td>
+		<td class="number up">+85.28%</td>
+		<td class="number up">+11.36%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINTRL00013">INTROL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.73%</td>
+		<td class="number up">+12.42%</td>
+		<td class="number up">+76.11%</td>
+		<td class="number up">+78.75%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLINTSP00038">INTERSPPL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.51%</td>
+		<td class="number down">-2.14%</td>
+		<td class="number down">-1.08%</td>
+		<td class="number down">-19.35%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLIPOPM00011">IPOPEMA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.41%</td>
+		<td class="number down">-3.48%</td>
+		<td class="number up">+42.38%</td>
+		<td class="number down">-4.66%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLIQPRT00017">IQP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.18%</td>
+		<td class="number down">-4.72%</td>
+		<td class="number up">+2.02%</td>
+		<td class="number down">-34.84%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLIZNS000022">KANIA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.60%</td>
+		<td class="number up">+16.33%</td>
+		<td class="number up">+60.56%</td>
+		<td class="number up">+54.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLIZSTL00015">IZOSTAL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.83%</td>
+		<td class="number down">-4.66%</td>
+		<td class="number down">-4.66%</td>
+		<td class="number down">-13.00%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLJHMDL00018">JHMDEV</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-11.63%</td>
+		<td class="number up">+35.71%</td>
+		<td class="number up">+65.22%</td>
+		<td class="number down">-60.42%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLJSW0000015">JSW</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.52%</td>
+		<td class="number down">-0.43%</td>
+		<td class="number down">-4.02%</td>
+		<td class="number up">+2.20%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLJTRZN00011">COLIAN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.47%</td>
+		<td class="number up">+1.90%</td>
+		<td class="number down">-6.96%</td>
+		<td class="number down">-11.57%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLJWC0000019">JWCONSTR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.63%</td>
+		<td class="number down">-10.44%</td>
+		<td class="number down">-14.58%</td>
+		<td class="number down">-39.51%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLK2ITR00010">K2INTERNT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-11.12%</td>
+		<td class="number down">-13.05%</td>
+		<td class="number up">+22.06%</td>
+		<td class="number down">-24.22%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKAREN00014">CCENERGY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-13.04%</td>
+		<td class="number down">-4.76%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-31.03%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKCSTL00010">KONSSTALI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.93%</td>
+		<td class="number down">-2.68%</td>
+		<td class="number up">+3.76%</td>
+		<td class="number down">-26.34%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKETY000011">KETY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.51%</td>
+		<td class="number down">-4.51%</td>
+		<td class="number up">+20.61%</td>
+		<td class="number up">+13.36%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKFARM00013">ARMATURA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.42%</td>
+		<td class="number down">-2.34%</td>
+		<td class="number up">+12.61%</td>
+		<td class="number down">-34.21%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKGHM000017">KGHM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.49%</td>
+		<td class="number down">-13.10%</td>
+		<td class="number up">+4.21%</td>
+		<td class="number up">+9.53%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKGNRC00015">KOGENERA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.19%</td>
+		<td class="number down">-9.40%</td>
+		<td class="number down">-17.28%</td>
+		<td class="number down">-21.96%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKLNR000017">KOELNER</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-12.50%</td>
+		<td class="number down">-29.77%</td>
+		<td class="number down">-31.27%</td>
+		<td class="number down">-50.80%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKLSTN00017">MIRACULUM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.33%</td>
+		<td class="number down">-8.33%</td>
+		<td class="number down">-47.62%</td>
+		<td class="number down">-78.00%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKMPTR00012">KOMPUTRON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-12.90%</td>
+		<td class="number down">-10.00%</td>
+		<td class="number up">+17.09%</td>
+		<td class="number down">-47.24%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKNOPL00014">KINOPOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.62%</td>
+		<td class="number up">+6.79%</td>
+		<td class="number up">+51.00%</td>
+		<td class="number up">+115.71%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKOPEX00018">KOPEX</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.35%</td>
+		<td class="number down">-0.79%</td>
+		<td class="number down">-16.61%</td>
+		<td class="number down">-31.71%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKPPD000017">KPPD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-2.62%</td>
+		<td class="number down">-4.54%</td>
+		<td class="number down">-6.56%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKRCHM00015">ALMA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.78%</td>
+		<td class="number up">+2.16%</td>
+		<td class="number down">-6.72%</td>
+		<td class="number down">-16.21%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKRINK00014">KREDYTIN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.96%</td>
+		<td class="number up">+17.22%</td>
+		<td class="number down">-8.30%</td>
+		<td class="number down">-4.46%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKRK0000010">KRUK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+11.71%</td>
+		<td class="number up">+21.33%</td>
+		<td class="number up">+40.27%</td>
+		<td class="number up">+26.66%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKRKCH00019">KRAKCHEM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.62%</td>
+		<td class="number up">+7.24%</td>
+		<td class="number up">+84.60%</td>
+		<td class="number up">+68.15%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKRNRC00012">KREC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.10%</td>
+		<td class="number down">-2.42%</td>
+		<td class="number up">+48.99%</td>
+		<td class="number up">+48.49%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLKRUSZ00016">KRUSZWICA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.41%</td>
+		<td class="number up">+9.89%</td>
+		<td class="number up">+7.14%</td>
+		<td class="number down">-44.95%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLBT0000013">LIBET</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.59%</td>
+		<td class="number down">-8.27%</td>
+		<td class="number up">+4.08%</td>
+		<td class="number down">-39.29%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLCCRP00017">LCCORP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.24%</td>
+		<td class="number up">+14.91%</td>
+		<td class="number up">+10.08%</td>
+		<td class="number down">-4.38%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLENAL00015">LENA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.64%</td>
+		<td class="number up">+12.59%</td>
+		<td class="number up">+36.09%</td>
+		<td class="number up">+39.11%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLENTX00010">LENTEX</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.42%</td>
+		<td class="number down">-1.46%</td>
+		<td class="number down">-7.63%</td>
+		<td class="number down">-7.09%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLOTOS00025">LOTOS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.57%</td>
+		<td class="number up">+2.98%</td>
+		<td class="number up">+34.77%</td>
+		<td class="number up">+55.70%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLPP0000011">LPP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.59%</td>
+		<td class="number up">+14.59%</td>
+		<td class="number up">+65.01%</td>
+		<td class="number up">+122.85%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLSTIA00018">LSTCAPITA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.08%</td>
+		<td class="number down">-7.55%</td>
+		<td class="number up">+6.52%</td>
+		<td class="number down">-30.99%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLUBAW00013">LUBAWA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+3.85%</td>
+		<td class="number up">+46.74%</td>
+		<td class="number up">+84.93%</td>
+		<td class="number up">+64.63%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLWBGD00016">BOGDANKA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.87%</td>
+		<td class="number down">-7.04%</td>
+		<td class="number down">-0.32%</td>
+		<td class="number down">-1.51%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLLZPSK00019">PROTEKTOR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.39%</td>
+		<td class="number down">-10.32%</td>
+		<td class="number down">-3.95%</td>
+		<td class="number up">+7.67%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMAKRM00019">MAKRUM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+14.41%</td>
+		<td class="number up">+14.41%</td>
+		<td class="number up">+11.40%</td>
+		<td class="number down">-3.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMATRX00017">IVMX</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.80%</td>
+		<td class="number up">+3.00%</td>
+		<td class="number up">+13.39%</td>
+		<td class="number down">-18.04%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMCIMG00012">MCI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.08%</td>
+		<td class="number down">-2.38%</td>
+		<td class="number up">+52.63%</td>
+		<td class="number up">+49.04%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMCSFT00018">MCLOGIC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+14.29%</td>
+		<td class="number up">+20.00%</td>
+		<td class="number up">+30.62%</td>
+		<td class="number down">-4.00%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMEDCS00015">PELION</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+14.22%</td>
+		<td class="number up">+14.25%</td>
+		<td class="number up">+54.39%</td>
+		<td class="number up">+29.76%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMGLAN00018">MAGELLAN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+9.29%</td>
+		<td class="number up">+10.09%</td>
+		<td class="number up">+17.18%</td>
+		<td class="number up">+24.53%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMNNCP00011">MENNICA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.29%</td>
+		<td class="number down">-6.41%</td>
+		<td class="number up">+1.03%</td>
+		<td class="number up">+55.49%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMNRTR00012">MONNARI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.63%</td>
+		<td class="number up">+220.51%</td>
+		<td class="number up">+231.86%</td>
+		<td class="number up">+184.09%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMOBRK00013">MOBRUK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.31%</td>
+		<td class="number down">-1.14%</td>
+		<td class="number down">-26.15%</td>
+		<td class="number down">-56.80%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMRBUD00015">MIRBUD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.57%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number up">+4.00%</td>
+		<td class="number down">-49.27%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMRCOR00016">MERCOR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.48%</td>
+		<td class="number down">-1.25%</td>
+		<td class="number up">+10.90%</td>
+		<td class="number up">+1.22%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMSTEX00017">MOSTALEXP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.34%</td>
+		<td class="number down">-13.33%</td>
+		<td class="number down">-51.85%</td>
+		<td class="number down">-62.86%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMSTPL00018">MOSTALPLC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.50%</td>
+		<td class="number down">-16.00%</td>
+		<td class="number up">+29.23%</td>
+		<td class="number up">+16.67%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMSTSD00019">POLIMEXMS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-26.79%</td>
+		<td class="number down">-22.64%</td>
+		<td class="number down">-45.33%</td>
+		<td class="number down">-68.94%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMSTWS00019">MOSTALWAR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-36.51%</td>
+		<td class="number down">-43.94%</td>
+		<td class="number down">-38.51%</td>
+		<td class="number down">-49.59%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMSTZB00018">MOSTALZAB</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.94%</td>
+		<td class="number down">-4.35%</td>
+		<td class="number up">+13.79%</td>
+		<td class="number down">-6.38%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMSZKO00010">MIESZKO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number up">+14.94%</td>
+		<td class="number up">+25.63%</td>
+		<td class="number up">+19.62%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLMWTRD00013">MWTRADE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.54%</td>
+		<td class="number up">+19.98%</td>
+		<td class="number up">+20.77%</td>
+		<td class="number up">+4.29%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNETIA00014">NETIA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.46%</td>
+		<td class="number up">+7.98%</td>
+		<td class="number down">-28.07%</td>
+		<td class="number down">-30.94%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI0200019">KREZUS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.84%</td>
+		<td class="number up">+9.87%</td>
+		<td class="number up">+71.20%</td>
+		<td class="number up">+101.50%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI0300017">JUPITER</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.00%</td>
+		<td class="number down">-16.18%</td>
+		<td class="number down">-16.18%</td>
+		<td class="number down">-48.65%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI0400015">BLACKLION</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.34%</td>
+		<td class="number up">+36.46%</td>
+		<td class="number up">+32.32%</td>
+		<td class="number down">-9.03%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI0500012">RUBICON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-12.50%</td>
+		<td class="number down">-50.00%</td>
+		<td class="number down">-74.55%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI0600010">06MAGNA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.52%</td>
+		<td class="number down">-5.00%</td>
+		<td class="number down">-34.48%</td>
+		<td class="number down">-48.65%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI0700018">IMPERA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.33%</td>
+		<td class="number down">-22.81%</td>
+		<td class="number down">-44.30%</td>
+		<td class="number down">-55.10%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI0800016">08OCTAVA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.19%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-6.41%</td>
+		<td class="number down">-78.90%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI0900014">MIDAS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.88%</td>
+		<td class="number up">+1.27%</td>
+		<td class="number up">+12.68%</td>
+		<td class="number down">-6.98%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI1000012">BBIZENNFI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-70.69%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI1200018">BBIDEVNFI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.00%</td>
+		<td class="number up">+2.70%</td>
+		<td class="number up">+11.76%</td>
+		<td class="number up">+5.56%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNFI1500011">NFIEMF</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.64%</td>
+		<td class="number down">-0.58%</td>
+		<td class="number up">+67.02%</td>
+		<td class="number up">+90.57%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNTMDA00018">NETMEDIA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.63%</td>
+		<td class="number down">-13.74%</td>
+		<td class="number down">-18.65%</td>
+		<td class="number down">-35.26%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNTSYS00013">NTTSYSTEM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+3.95%</td>
+		<td class="number up">+9.72%</td>
+		<td class="number up">+27.42%</td>
+		<td class="number down">-12.22%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLNVITA00018">NOVITA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.11%</td>
+		<td class="number up">+0.20%</td>
+		<td class="number up">+6.68%</td>
+		<td class="number up">+36.48%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLODLPL00013">ODLEWNIE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.83%</td>
+		<td class="number down">-8.17%</td>
+		<td class="number down">-18.03%</td>
+		<td class="number down">-9.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLOPNFN00010">OPENFIN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.25%</td>
+		<td class="number down">-5.22%</td>
+		<td class="number down">-20.73%</td>
+		<td class="number down">-12.80%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLOPNPL00013">OPONEO.PL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.34%</td>
+		<td class="number down">-7.33%</td>
+		<td class="number down">-14.20%</td>
+		<td class="number down">-30.50%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLOPTEM00012">OPTEAM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-22.54%</td>
+		<td class="number down">-19.83%</td>
+		<td class="number up">+103.70%</td>
+		<td class="number up">+39.24%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLOPTTC00011">CDPROJEKT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.64%</td>
+		<td class="number down">-3.06%</td>
+		<td class="number up">+37.67%</td>
+		<td class="number up">+14.43%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLORBIS00014">ORBIS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.03%</td>
+		<td class="number down">-2.70%</td>
+		<td class="number down">-5.26%</td>
+		<td class="number down">-21.93%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLORZBL00013">ORZBIALY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.22%</td>
+		<td class="number up">+9.26%</td>
+		<td class="number down">-10.46%</td>
+		<td class="number down">-30.29%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPAGED00017">PAGED</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.54%</td>
+		<td class="number up">+6.23%</td>
+		<td class="number up">+48.29%</td>
+		<td class="number up">+38.44%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPANVA00013">PANOVA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.98%</td>
+		<td class="number up">+10.28%</td>
+		<td class="number up">+1.79%</td>
+		<td class="number down">-8.74%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPCCIM00014">PCCINTER</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-12.43%</td>
+		<td class="number down">-1.90%</td>
+		<td class="number down">-47.81%</td>
+		<td class="number down">-65.93%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPEKAO00016">PEKAO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.21%</td>
+		<td class="number down">-2.90%</td>
+		<td class="number down">-3.57%</td>
+		<td class="number up">+2.12%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPEKAS00017">PEKAES</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.59%</td>
+		<td class="number down">-10.18%</td>
+		<td class="number up">+26.88%</td>
+		<td class="number down">-10.57%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPEKPL00010">POINTGROUP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.35%</td>
+		<td class="number down">-8.33%</td>
+		<td class="number up">+120.00%</td>
+		<td class="number down">-59.26%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPEPES00018">PEPEES</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-1.22%</td>
+		<td class="number up">+10.96%</td>
+		<td class="number down">-8.99%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPGER000010">PGE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.05%</td>
+		<td class="number up">+2.72%</td>
+		<td class="number down">-10.75%</td>
+		<td class="number down">-13.13%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPGNIG00014">PGNIG</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.03%</td>
+		<td class="number up">+0.87%</td>
+		<td class="number up">+43.92%</td>
+		<td class="number up">+49.48%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPGO0000014">PGODLEW</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.50%</td>
+		<td class="number down">-8.26%</td>
+		<td class="number up">+1.52%</td>
+		<td class="number up">+17.65%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPHN0000014">PHN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.46%</td>
+		<td class="number up">+6.76%</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPKN0000018">PKNORLEN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.75%</td>
+		<td class="number down">-1.60%</td>
+		<td class="number up">+21.56%</td>
+		<td class="number up">+37.56%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPKO0000016">PKOBP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.60%</td>
+		<td class="number down">-2.60%</td>
+		<td class="number down">-8.26%</td>
+		<td class="number up">+0.12%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPLSEP00013">PEP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.34%</td>
+		<td class="number up">+3.93%</td>
+		<td class="number down">-6.73%</td>
+		<td class="number up">+20.45%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPMPOL00031">PAMAPOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.59%</td>
+		<td class="number down">-11.36%</td>
+		<td class="number down">-8.68%</td>
+		<td class="number down">-3.20%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPMWRM00012">URSUS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-12.01%</td>
+		<td class="number down">-17.80%</td>
+		<td class="number up">+20.36%</td>
+		<td class="number up">+127.70%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPOLNA00015">POLNA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.86%</td>
+		<td class="number down">-3.11%</td>
+		<td class="number up">+16.36%</td>
+		<td class="number up">+5.51%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPOLND00019">POLNORD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-11.38%</td>
+		<td class="number down">-11.09%</td>
+		<td class="number down">-37.73%</td>
+		<td class="number down">-47.80%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPPWK000014">MIT</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.00%</td>
+		<td class="number down">-5.00%</td>
+		<td class="number down">-28.30%</td>
+		<td class="number down">-53.09%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPRCHK00018">PROCHNIK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.27%</td>
+		<td class="number up">+34.38%</td>
+		<td class="number up">+104.76%</td>
+		<td class="number up">+48.28%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPRCHM00014">PROCHEM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.17%</td>
+		<td class="number down">-7.96%</td>
+		<td class="number up">+77.00%</td>
+		<td class="number up">+22.15%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPRESC00018">PRESCO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+5.89%</td>
+		<td class="number up">+8.16%</td>
+		<td class="number up">+39.29%</td>
+		<td class="number up">+32.50%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPRGNK00017">PRAGMAINK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.91%</td>
+		<td class="number up">+11.33%</td>
+		<td class="number up">+38.32%</td>
+		<td class="number up">+15.50%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPROJP00018">PROJPRZEM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.75%</td>
+		<td class="number down">-3.62%</td>
+		<td class="number up">+44.57%</td>
+		<td class="number up">+29.91%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPSTBX00016">PLASTBOX</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.86%</td>
+		<td class="number up">+2.22%</td>
+		<td class="number down">-4.17%</td>
+		<td class="number down">-79.65%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPTIW000014">PTI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+3.97%</td>
+		<td class="number up">+2.93%</td>
+		<td class="number up">+27.71%</td>
+		<td class="number up">+17.59%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPTMED00015">TERESA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.03%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number up">+25.20%</td>
+		<td class="number down">-12.48%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPTNTS00019">PATENTUS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+10.00%</td>
+		<td class="number up">+12.50%</td>
+		<td class="number up">+26.92%</td>
+		<td class="number down">-10.81%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPTRLI00018">PETROLINV</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.63%</td>
+		<td class="number down">-4.31%</td>
+		<td class="number down">-7.50%</td>
+		<td class="number down">-50.45%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPZBDT00013">POZBUD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.04%</td>
+		<td class="number up">+5.91%</td>
+		<td class="number up">+29.56%</td>
+		<td class="number up">+11.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLPZU0000011">PZU</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.41%</td>
+		<td class="number down">-0.73%</td>
+		<td class="number up">+11.55%</td>
+		<td class="number up">+28.32%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLQMKSK00017">QUMAK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.25%</td>
+		<td class="number down">-3.26%</td>
+		<td class="number up">+53.83%</td>
+		<td class="number up">+8.83%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLQRCUS00012">QUERCUS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.65%</td>
+		<td class="number up">+4.79%</td>
+		<td class="number up">+35.54%</td>
+		<td class="number up">+33.33%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLRAFAK00018">RAFAKO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-24.14%</td>
+		<td class="number down">-27.22%</td>
+		<td class="number down">-34.66%</td>
+		<td class="number down">-41.21%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLRDPOL00010">RADPOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.64%</td>
+		<td class="number up">+5.26%</td>
+		<td class="number up">+14.07%</td>
+		<td class="number down">-4.76%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLREDAN00019">REDAN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-39.75%</td>
+		<td class="number up">+14.12%</td>
+		<td class="number down">-40.49%</td>
+		<td class="number down">-57.83%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLRELPL00014">RELPOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-12.20%</td>
+		<td class="number down">-15.31%</td>
+		<td class="number down">-0.40%</td>
+		<td class="number up">+47.32%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLREMAK00016">REMAK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.25%</td>
+		<td class="number down">-2.46%</td>
+		<td class="number up">+89.81%</td>
+		<td class="number down">-4.49%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLRFMET00016">RAFAMET</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.05%</td>
+		<td class="number up">+6.60%</td>
+		<td class="number down">-11.80%</td>
+		<td class="number down">-6.56%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLRNBWT00031">RAINBOW</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.48%</td>
+		<td class="number up">+17.75%</td>
+		<td class="number up">+49.70%</td>
+		<td class="number up">+35.64%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLRNKPR00014">RANKPROGR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-13.45%</td>
+		<td class="number down">-8.55%</td>
+		<td class="number up">+25.10%</td>
+		<td class="number down">-32.00%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLROBYG00016">ROBYG</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.67%</td>
+		<td class="number down">-2.19%</td>
+		<td class="number up">+5.51%</td>
+		<td class="number down">-21.18%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLROPCE00017">ROPCZYCE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.32%</td>
+		<td class="number down">-2.38%</td>
+		<td class="number up">+18.34%</td>
+		<td class="number down">-7.14%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSEKO000014">SEKO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.69%</td>
+		<td class="number down">-1.41%</td>
+		<td class="number up">+40.47%</td>
+		<td class="number down">-34.48%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSELNA00010">SELENAFM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.95%</td>
+		<td class="number up">+14.92%</td>
+		<td class="number up">+70.49%</td>
+		<td class="number up">+2.16%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSFNKS00011">SFINKS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+14.21%</td>
+		<td class="number up">+55.00%</td>
+		<td class="number up">+146.59%</td>
+		<td class="number up">+35.62%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSIMPL00011">SIMPLE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.05%</td>
+		<td class="number up">+4.05%</td>
+		<td class="number up">+19.38%</td>
+		<td class="number down">-3.51%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSKTAN00010">SKOTAN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-5.73%</td>
+		<td class="number down">-9.40%</td>
+		<td class="number down">-15.42%</td>
+		<td class="number up">+28.66%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSLRCP00021">SOLAR</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.32%</td>
+		<td class="number up">+22.83%</td>
+		<td class="number down">-45.41%</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSNZKA00033">SNIEZKA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.10%</td>
+		<td class="number up">+0.88%</td>
+		<td class="number up">+39.60%</td>
+		<td class="number up">+52.07%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSOFTB00016">ASSECOPOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.67%</td>
+		<td class="number down">-3.29%</td>
+		<td class="number down">-8.87%</td>
+		<td class="number down">-12.61%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSONEL00011">SONEL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.85%</td>
+		<td class="number down">-8.44%</td>
+		<td class="number up">+9.94%</td>
+		<td class="number up">+5.59%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSTLEX00019">STALEXP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.76%</td>
+		<td class="number up">+0.71%</td>
+		<td class="number up">+19.49%</td>
+		<td class="number up">+27.03%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSTLPD00017">STALPROD</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.88%</td>
+		<td class="number down">-12.97%</td>
+		<td class="number down">-13.11%</td>
+		<td class="number down">-33.95%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSTLPF00012">STALPROFI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.49%</td>
+		<td class="number up">+9.38%</td>
+		<td class="number up">+13.45%</td>
+		<td class="number down">-20.91%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSTLSK00016">SANOK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.78%</td>
+		<td class="number up">+5.27%</td>
+		<td class="number up">+10.66%</td>
+		<td class="number up">+47.07%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSTPRK00019">STAPORKOW</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.34%</td>
+		<td class="number down">-7.14%</td>
+		<td class="number up">+6.69%</td>
+		<td class="number down">-30.46%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSUWAR00014">SUWARY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-5.80%</td>
+		<td class="number up">+2.63%</td>
+		<td class="number up">+9.86%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSWMED00013">SWISSMED</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.00%</td>
+		<td class="number up">+18.87%</td>
+		<td class="number up">+28.57%</td>
+		<td class="number down">-5.97%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLSZPTL00010">MNI</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.40%</td>
+		<td class="number up">+8.46%</td>
+		<td class="number down">-25.40%</td>
+		<td class="number down">-38.70%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTAURN00011">TAURONPE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.88%</td>
+		<td class="number up">+1.62%</td>
+		<td class="number down">-10.98%</td>
+		<td class="number down">-12.92%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTELL000023">TELL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.23%</td>
+		<td class="number up">+3.33%</td>
+		<td class="number down">-2.62%</td>
+		<td class="number down">-20.17%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTIM0000016">TIM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.27%</td>
+		<td class="number down">-6.64%</td>
+		<td class="number up">+30.91%</td>
+		<td class="number down">-13.42%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTLKPL00017">TPSA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-0.74%</td>
+		<td class="number down">-3.71%</td>
+		<td class="number down">-58.84%</td>
+		<td class="number down">-59.63%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTOYA000011">TOYA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.61%</td>
+		<td class="number down">-1.61%</td>
+		<td class="number down">-12.50%</td>
+		<td class="number down">-18.06%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTRAST00020">KBDOM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-30.00%</td>
+		<td class="number down">-41.67%</td>
+		<td class="number down">-65.00%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTRFRM00018">NEUCA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.27%</td>
+		<td class="number up">+6.89%</td>
+		<td class="number up">+56.60%</td>
+		<td class="number up">+79.75%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTRKPL00014">TRAKCJA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-26.79%</td>
+		<td class="number down">-33.87%</td>
+		<td class="number down">-44.59%</td>
+		<td class="number down">-67.20%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTRNSP00013">TRANSPOL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-9.64%</td>
+		<td class="number down">-3.50%</td>
+		<td class="number down">-21.86%</td>
+		<td class="number down">-41.39%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTRNSU00013">TUP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.67%</td>
+		<td class="number down">-17.65%</td>
+		<td class="number down">-15.88%</td>
+		<td class="number down">-52.08%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTSGS000019">TESGAS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.51%</td>
+		<td class="number down">-12.97%</td>
+		<td class="number down">-20.50%</td>
+		<td class="number down">-50.64%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLTVN0000017">TVN</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-1.26%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number up">+39.67%</td>
+		<td class="number down">-12.56%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLUNBEP00015">UNIBEP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.31%</td>
+		<td class="number down">-4.66%</td>
+		<td class="number up">+40.89%</td>
+		<td class="number up">+14.44%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLVENTS00019">HAWE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.98%</td>
+		<td class="number down">-12.00%</td>
+		<td class="number down">-35.43%</td>
+		<td class="number down">-42.96%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLVNDEX00013">VINDEXUS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.68%</td>
+		<td class="number up">+30.86%</td>
+		<td class="number up">+39.47%</td>
+		<td class="number down">-38.99%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLVOTUM00016">VOTUM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.16%</td>
+		<td class="number down">-2.45%</td>
+		<td class="number down">-2.67%</td>
+		<td class="number up">+3.79%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLVOXEL00014">VOXEL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.01%</td>
+		<td class="number down">-5.03%</td>
+		<td class="number up">+41.55%</td>
+		<td class="number up">+16.76%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLVSTLA00011">VISTULA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.99%</td>
+		<td class="number up">+11.76%</td>
+		<td class="number up">+66.25%</td>
+		<td class="number up">+11.76%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLVTGDL00010">VANTAGE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-7.41%</td>
+		<td class="number up">+11.11%</td>
+		<td class="number up">+25.00%</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLWADEX00018">WADEX</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-5.44%</td>
+		<td class="number up">+10.68%</td>
+		<td class="number up">+26.17%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLWAWEL00013">WAWEL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.68%</td>
+		<td class="number down">-0.57%</td>
+		<td class="number up">+18.53%</td>
+		<td class="number up">+38.39%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLWDM0000029">DMWDM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-10.71%</td>
+		<td class="number down">-35.90%</td>
+		<td class="number down">-45.65%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLWELTN00012">WIELTON</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.41%</td>
+		<td class="number down">-5.57%</td>
+		<td class="number up">+8.33%</td>
+		<td class="number up">+15.73%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLWOJAS00014">WOJAS</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.44%</td>
+		<td class="number up">+16.75%</td>
+		<td class="number up">+39.44%</td>
+		<td class="number up">+11.74%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLWRKSR00019">WORKSERV</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.23%</td>
+		<td class="number up">+5.57%</td>
+		<td class="number up">+24.41%</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLWRWCK00013">SECOGROUP</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.32%</td>
+		<td class="number down">-6.75%</td>
+		<td class="number up">+34.43%</td>
+		<td class="number up">+71.19%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLYAWAL00058">YAWAL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.93%</td>
+		<td class="number up">+17.06%</td>
+		<td class="number up">+50.00%</td>
+		<td class="number up">+15.92%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZAMET00010">ZAMET</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-4.80%</td>
+		<td class="number up">+11.91%</td>
+		<td class="number up">+56.58%</td>
+		<td class="number up">+105.17%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZAPUL00057">PULAWY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.08%</td>
+		<td class="number up">+0.38%</td>
+		<td class="number up">+7.17%</td>
+		<td class="number up">+44.51%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZATRM00012">AZOTYTARNOW</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.30%</td>
+		<td class="number up">+1.75%</td>
+		<td class="number up">+11.28%</td>
+		<td class="number up">+64.43%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZCPLC00036">POLICE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.47%</td>
+		<td class="number up">+7.43%</td>
+		<td class="number up">+34.86%</td>
+		<td class="number up">+51.00%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZELMR00011">ZELMER</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2.21%</td>
+		<td class="number up">+0.76%</td>
+		<td class="number up">+29.74%</td>
+		<td class="number up">+17.14%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZEPAK00012">ZEPAK</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-6.93%</td>
+		<td class="number down">-0.21%</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZPCOT00018">OTMUCHOW</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-10.94%</td>
+		<td class="number down">-12.20%</td>
+		<td class="number up">+15.35%</td>
+		<td class="number up">+24.47%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZPUE000012">ZPUE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+1.80%</td>
+		<td class="number up">+8.65%</td>
+		<td class="number up">+64.96%</td>
+		<td class="number up">+105.45%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZPW0000017">GRAJEWO</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+0.67%</td>
+		<td class="number down">-6.25%</td>
+		<td class="number up">+20.97%</td>
+		<td class="number up">+50.91%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZRWZW00012">HERKULES</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.80%</td>
+		<td class="number down">-32.54%</td>
+		<td class="number up">+7.55%</td>
+		<td class="number up">+192.31%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZSTAL00012">ZASTAL</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-3.65%</td>
+		<td class="number up">+10.78%</td>
+		<td class="number up">+107.87%</td>
+		<td class="number up">+37.04%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZTKMA00017">ZETKAMA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-8.25%</td>
+		<td class="number down">-8.00%</td>
+		<td class="number up">+3.51%</td>
+		<td class="number up">+58.93%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PLZUE0000015">ZUE</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.86%</td>
+		<td class="number up">+2.86%</td>
+		<td class="number down">-14.64%</td>
+		<td class="number down">-21.54%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/SI0021104052">NOVAKBM</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-30.25%</td>
+		<td class="number down">-37.68%</td>
+		<td class="number down">-30.25%</td>
+		<td class="number down">-76.78%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/SI0031102120">KRKA</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number down">-11.83%</td>
+		<td class="number up">+3.27%</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/SK1120010287">TATRY</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">+0.00%</td>
+		<td class="number ">+0.00%</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/US1534351028">CEDC</a></td>
+		<td class="number ">0.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number down">-24.06%</td>
+		<td class="number down">-78.74%</td>
+		<td class="number down">-88.57%</td>
+		<td class="number down">-94.02%</td>
+	</tr>
+</tbody>
+</table>
+
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

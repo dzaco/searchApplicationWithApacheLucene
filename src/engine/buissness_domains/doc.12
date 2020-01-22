@@ -1,0 +1,2397 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | Krótka  sprzedaż</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class="selected"><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox">
+<h1>Krótka  sprzedaż</h1>
+<p>Notowania GPW dostarcza <a href="http://www.notoria.pl" target="_blank">Notoria</a></p>
+<p class="description">Kliknij w kolumnę aby posortować, kliknij drugi raz aby zmienić kolejność sortowania</p>
+
+<table id="bigstock" class="sortable {sortlist: [[1,0]]}">
+<thead>
+<tr>
+<td colspan="20" class="widebox_nav" >
+
+
+<a href="AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class="selected">akcje</a> |
+<a href="CO" >obligacje</a> 
+<form style="padding-left: 510px;" action="" id="date_form">od : <input name="session_date_from" value="2013-03-22" class="datepicker1" id="date_session1" style="width: 80px; height: 13px; " />
+do : <input name="session_date_to" value="2013-03-22" class="datepicker2" id="date_session2" style="width: 80px; height: 13px; " />
+<input type="submit" class="button" value="Pokaż" />
+</form>
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"><b>ostatnia transakcja krótkiej sprzedaży</b></td>
+<td colspan="3"><b>wszystkie transakcje (dane skumulowane)</b></td>
+<td colspan="4"><b>wszystkie transakcje KS (dane skumulowane)</b></td>
+
+
+</tr>
+<tr>
+<th><b>instrument</b></th>
+<th class="{sorter: 'digit'}"><b>czas ostatniej transakcji</b></th>
+<th class="{sorter: 'digit'}"><b>kurs</b></th>
+<th class="{sorter: 'digit'}"><b>wolumen</b></th>
+<th class="{sorter: 'digit'}"><b>liczba transakcji (szt.)</b></th>
+<th class="{sorter: 'digit'}"><b>wolumen obrotu (szt.)</b></th>
+<th class="{sorter: 'digit'}"><b>wartość obrotu (zł)</b></th>
+<th class="{sorter: 'digit'}"><b>liczba transakcji (szt.)</b></th>
+<th class="{sorter: 'digit'}"><b>wolumen obrotu (szt.)</b></th>
+<th class="{sorter: 'digit'}"><b>wartość obrotu (zł)</b></th>
+<th class="{sorter: 'percent'}"><b>% udziału wolumenu transakcji KS w całości obrotu danymi akcjami</b></th>
+</tr>
+</thead>
+<tbody>
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLLOTOS00025/lotos">LOTOS &raquo;</a></td>
+<td >2013-03-22</td>
+<td>41.86</td>
+<td >36.00</td>
+<td>463.00</td>
+<td>132149.00</td>
+<td>5501014.05</td>
+<td></td>
+<td>2442.00</td>
+<td>50978.07</td>
+<td>1.85%</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPGNIG00014/pgnig">PGNIG &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>787.00</td>
+<td>1832182.00</td>
+<td>10713083.43</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLDWORY00019/synthos">SYNTHOS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>953.00</td>
+<td>1609759.00</td>
+<td>10255658.98</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPEKAO00016/pekao">PEKAO &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>2095.00</td>
+<td>917081.00</td>
+<td>141273474.40</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPZU0000011/pzu">PZU &raquo;</a></td>
+<td >2013-03-22</td>
+<td>407.80</td>
+<td >59.00</td>
+<td>1600.00</td>
+<td>139096.00</td>
+<td>56439158.70</td>
+<td></td>
+<td>532.00</td>
+<td>108190.30</td>
+<td>0.38%</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLTLKPL00017/tpsa">TPSA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>903.00</td>
+<td>1351181.00</td>
+<td>9164715.23</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/LU0327357389/kernel">KERNEL &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>539.00</td>
+<td>71675.00</td>
+<td>3928416.70</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBRE0000012/bre">BRE &raquo;</a></td>
+<td >2013-03-22</td>
+<td>345.20</td>
+<td >5.00</td>
+<td>327.00</td>
+<td>49323.00</td>
+<td>17036100.90</td>
+<td></td>
+<td>5.00</td>
+<td>863.00</td>
+<td>0.01%</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLGTC0000037/gtc">GTC &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>259.00</td>
+<td>481938.00</td>
+<td>3878556.26</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLTAURN00011/tauronpe">TAURONPE &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>1044.00</td>
+<td>2595823.00</td>
+<td>11455576.09</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBH00000012/handlowy">HANDLOWY &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>349.00</td>
+<td>42458.00</td>
+<td>3912939.75</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLKGHM000017/kghm">KGHM &raquo;</a></td>
+<td >2013-03-22</td>
+<td>157.70</td>
+<td >38.00</td>
+<td>6165.00</td>
+<td>1787864.00</td>
+<td>280592454.80</td>
+<td></td>
+<td>768.00</td>
+<td>60566.75</td>
+<td>0.04%</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPKN0000018/pknorlen">PKNORLEN &raquo;</a></td>
+<td >2013-03-22</td>
+<td>52.85</td>
+<td >469.00</td>
+<td>932.00</td>
+<td>502593.00</td>
+<td>26485017.55</td>
+<td></td>
+<td>4769.00</td>
+<td>126393.32</td>
+<td>0.95%</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPGER000010/pge">PGE &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>1208.00</td>
+<td>1212712.00</td>
+<td>20287458.30</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLJSW0000015/jsw">JSW &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>567.00</td>
+<td>84639.00</td>
+<td>7958868.55</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLLWBGD00016/bogdanka">BOGDANKA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>334.00</td>
+<td>50431.00</td>
+<td>6272722.50</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBRSZW00011/boryszew">BORYSZEW &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>1493.00</td>
+<td>45684835.00</td>
+<td>20991167.55</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLEURCH00011/eurocash">EUROCASH &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>488.00</td>
+<td>197159.00</td>
+<td>10482622.80</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPKO0000016/pkobp">PKOBP &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>4507.00</td>
+<td>5637625.00</td>
+<td>190666799.03</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLSOFTB00016/assecopol">ASSECOPOL &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>785.00</td>
+<td>123229.00</td>
+<td>5172652.64</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/CZ0005112300/cez">CEZ &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>41.00</td>
+<td>1776.00</td>
+<td>165043.85</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/IT0004781412/unicredit">UNICREDIT &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>6.00</td>
+<td>3866.00</td>
+<td>58465.55</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/HU0000068952/mol">MOL &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>8.00</td>
+<td>8062.00</td>
+<td>1801797.10</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/NL0009604859/fortuna">FORTUNA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>&ndash;</td>
+<td>0.00</td>
+<td>0.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/SI0031102120/krka">KRKA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>&ndash;</td>
+<td>0.00</td>
+<td>0.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLAGORA00067/agora">AGORA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>105.00</td>
+<td>29090.00</td>
+<td>240572.84</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLIDMSA00044/idmsa">IDMSA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>93.00</td>
+<td>2471243.00</td>
+<td>346978.70</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLALIOR00045/alior">ALIOR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>231.00</td>
+<td>86142.00</td>
+<td>5785001.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLGRBRN00012/alchemia">ALCHEMIA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>72.00</td>
+<td>89292.00</td>
+<td>383152.30</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLZAPUL00057/pulawy">PULAWY &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>47.00</td>
+<td>4635.00</td>
+<td>609504.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLGPW0000017/gpw">GPW &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>206.00</td>
+<td>29997.00</td>
+<td>1202352.50</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLNETIA00014/netia">NETIA &raquo;</a></td>
+<td >2013-03-22</td>
+<td>4.33</td>
+<td >8927.00</td>
+<td>98.00</td>
+<td>61835.00</td>
+<td>265382.29</td>
+<td></td>
+<td>8927.00</td>
+<td>19326.96</td>
+<td>14.44%</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLZATRM00012/azotytarnow">AZOTYTARNOW &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>190.00</td>
+<td>63355.00</td>
+<td>3482355.65</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBSK0000017/ingbsk">INGBSK &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>57.00</td>
+<td>7636.00</td>
+<td>684913.80</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLECHPS00019/echo">ECHO &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>47.00</td>
+<td>30058.00</td>
+<td>174729.57</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLKETY000011/kety">KETY &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>40.00</td>
+<td>2992.00</td>
+<td>416287.40</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCIECH00018/ciech">CIECH &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>118.00</td>
+<td>19199.00</td>
+<td>419685.16</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLKOPEX00018/kopex">KOPEX &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>95.00</td>
+<td>176462.00</td>
+<td>2645300.71</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPTRLI00018/petrolinv">PETROLINV &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>748.00</td>
+<td>1693482.00</td>
+<td>1853736.86</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBUDMX00013/budimex">BUDIMEX &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>51.00</td>
+<td>1502.00</td>
+<td>108530.45</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLENEA000013/enea">ENEA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>326.00</td>
+<td>127073.00</td>
+<td>1768679.05</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLGETBK00012/getinoble">GETINOBLE &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>228.00</td>
+<td>1728410.00</td>
+<td>3007310.98</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCCC0000016/ccc">CCC &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>94.00</td>
+<td>31075.00</td>
+<td>2328709.55</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCMRAY00029/cormay">CORMAY &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>211.00</td>
+<td>35754.00</td>
+<td>458880.49</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLGSPR000014/getin">GETIN &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>722.00</td>
+<td>1469386.00</td>
+<td>3674343.50</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLAPATR00018/apator">APATOR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>62.00</td>
+<td>7286.00</td>
+<td>211043.42</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLOPTTC00011/cdprojekt">CDPROJEKT &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>456.00</td>
+<td>203171.00</td>
+<td>1396204.72</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/CA5012401058/kov">KOV &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>470.00</td>
+<td>1534887.00</td>
+<td>2046483.40</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLMSTSD00019/polimexms">POLIMEXMS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>832.00</td>
+<td>10814941.00</td>
+<td>4678310.64</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/GB00B42CTW68/newworldr">NEWWORLDR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>&ndash;</td>
+<td>77.00</td>
+<td>933.24</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLELDRD00017/emperia">EMPERIA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>95.00</td>
+<td>9285.00</td>
+<td>524084.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/NL0000686509/astarta">ASTARTA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>37.00</td>
+<td>6306.00</td>
+<td>359934.75</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLZEPAK00012/zepak">ZEPAK &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>163.00</td>
+<td>26528.00</td>
+<td>745756.14</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLTVN0000017/tvn">TVN &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>105.00</td>
+<td>73265.00</td>
+<td>688829.48</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLORBIS00014/orbis">ORBIS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>4.00</td>
+<td>1144.00</td>
+<td>41184.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBIOTN00029/bioton">BIOTON &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>115.00</td>
+<td>3248314.00</td>
+<td>168009.23</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLINTCS00010/intercars">INTERCARS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>14.00</td>
+<td>463.00</td>
+<td>48730.60</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLLPP0000011/lpp">LPP &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>185.00</td>
+<td>878.00</td>
+<td>4920225.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLNFI0900014/midas">MIDAS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>723.00</td>
+<td>8107140.00</td>
+<td>6427909.61</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBIG0000016/millennium">MILLENNIUM &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>226.00</td>
+<td>308540.00</td>
+<td>1453675.66</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/US1534351028/cedc">CEDC &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>818.00</td>
+<td>1842265.00</td>
+<td>1889026.91</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLVENTS00019/hawe">HAWE &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>2064.00</td>
+<td>2859068.00</td>
+<td>8616349.56</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/NL0000687309/cciint">CCIINT &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>14.00</td>
+<td>885.00</td>
+<td>24632.60</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCFRPT00013/cyfrplsat">CYFRPLSAT &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>297.00</td>
+<td>125441.00</td>
+<td>2061197.40</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/NL0000474351/amrest">AMREST &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>173.00</td>
+<td>6531.00</td>
+<td>574780.65</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLATLNT00016/atlantis">ATLANTIS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>114.00</td>
+<td>3551486.00</td>
+<td>455370.49</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLINTEG00011/integerpl">INTEGERPL &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>54.00</td>
+<td>2840.00</td>
+<td>516202.30</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBOS0000019/bos">BOS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>110.00</td>
+<td>8349.00</td>
+<td>256446.07</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLMSTWS00019/mostalwar">MOSTALWAR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>143.00</td>
+<td>30456.00</td>
+<td>263028.53</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/LU0646112838/coalenerg">COALENERG &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>21.00</td>
+<td>3779.00</td>
+<td>29610.44</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLABS0000018/assecobs">ASSECOBS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>3.00</td>
+<td>330.00</td>
+<td>3636.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLATMSA00013/atm">ATM &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>23.00</td>
+<td>2821.00</td>
+<td>31608.92</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPOLND00019/polnord">POLNORD &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>484.00</td>
+<td>153751.00</td>
+<td>1223124.79</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLSTLPD00017/stalprod">STALPROD &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>21.00</td>
+<td>176.00</td>
+<td>29127.10</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLZCPLC00036/police">POLICE &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>178.00</td>
+<td>97910.00</td>
+<td>1543548.42</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCASPL00019/fon">FON &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>10.00</td>
+<td>200484.00</td>
+<td>18043.56</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLZPW0000017/grajewo">GRAJEWO &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>67.00</td>
+<td>10459.00</td>
+<td>154547.68</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLDEBCA00016/debica">DEBICA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>15.00</td>
+<td>406.00</td>
+<td>26407.10</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLLENTX00010/lentex">LENTEX &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>21.00</td>
+<td>7860.00</td>
+<td>37102.47</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLMNNCP00011/mennica">MENNICA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>123.00</td>
+<td>14375.00</td>
+<td>282332.84</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLTRKPL00014/trakcja">TRAKCJA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>502.00</td>
+<td>2185522.00</td>
+<td>906678.33</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLIMPEL00011/impel">IMPEL &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>54.00</td>
+<td>6839.00</td>
+<td>237241.77</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLFAMUR00012/famur">FAMUR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>43.00</td>
+<td>108812.00</td>
+<td>520323.82</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLMRCOR00016/mercor">MERCOR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>16.00</td>
+<td>2126.00</td>
+<td>31894.09</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLWAWEL00013/wawel">WAWEL &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>49.00</td>
+<td>326.00</td>
+<td>255351.50</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLDMDVL00012/domdev">DOMDEV &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>32.00</td>
+<td>1908.00</td>
+<td>57037.87</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLHOOP000010/kofola">KOFOLA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>2.00</td>
+<td>383.00</td>
+<td>9908.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBPH0000019/bankbph">BANKBPH &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>53.00</td>
+<td>6794.00</td>
+<td>325835.46</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCMP0000017/comp">COMP &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>&ndash;</td>
+<td>0.00</td>
+<td>0.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLFRMCL00066/farmacol">FARMACOL &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>178.00</td>
+<td>177019.00</td>
+<td>7392544.68</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLIMPXM00019/impexmet">IMPEXMET &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>129.00</td>
+<td>61324.00</td>
+<td>193758.82</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLRAFAK00018/rafako">RAFAKO &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>1158.00</td>
+<td>458439.00</td>
+<td>2753778.87</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPLSEP00013/pep">PEP &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>11.00</td>
+<td>1247.00</td>
+<td>36127.60</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/LU0564351582/sadovaya">SADOVAYA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>128.00</td>
+<td>107360.00</td>
+<td>187049.97</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLAB00000019/abpl">ABPL &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>5.00</td>
+<td>2044.00</td>
+<td>42925.04</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCTINT00018/cityinter">CITYINTER &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>66.00</td>
+<td>7781.00</td>
+<td>180856.52</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLKGNRC00015/kogenera">KOGENERA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>2.00</td>
+<td>579.00</td>
+<td>38793.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLSZPTL00010/mni">MNI &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>20.00</td>
+<td>41751.00</td>
+<td>58748.70</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/NL0009508712/milkiland">MILKILAND &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>&ndash;</td>
+<td>0.00</td>
+<td>0.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLMCIMG00012/mci">MCI &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>199.00</td>
+<td>91808.00</td>
+<td>633232.22</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLRNKPR00014/rankprogr">RANKPROGR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>97.00</td>
+<td>43619.00</td>
+<td>417043.91</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCOMAR00012/comarch">COMARCH &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>94.00</td>
+<td>2462.00</td>
+<td>198475.65</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLNFI0200019/krezus">KREZUS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>255.00</td>
+<td>19948.00</td>
+<td>399268.33</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/NL0009805613/ovostar">OVOSTAR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>2.00</td>
+<td>3.00</td>
+<td>292.95</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLANTI000012/greeneco">GREENECO &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>34.00</td>
+<td>20110.00</td>
+<td>19861.62</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLLCCRP00017/lccorp">LCCORP &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>53.00</td>
+<td>95762.00</td>
+<td>120977.28</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLPMWRM00012/ursus">URSUS &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>413.00</td>
+<td>284855.00</td>
+<td>943017.88</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLVSTLA00011/vistula">VISTULA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>420.00</td>
+<td>925369.00</td>
+<td>1291708.46</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBNFTS00018/benefit">BENEFIT &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>45.00</td>
+<td>605.00</td>
+<td>150035.70</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLMEDCS00015/pelion">PELION &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>70.00</td>
+<td>77251.00</td>
+<td>3385797.52</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLTRFRM00018/neuca">NEUCA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>79.00</td>
+<td>1875.00</td>
+<td>264347.60</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLJWC0000019/jwconstr">JWCONSTR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>33.00</td>
+<td>11778.00</td>
+<td>42855.02</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLZELMR00011/zelmer">ZELMER &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>20.00</td>
+<td>2142.00</td>
+<td>87034.55</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLNFI1200018/bbidevnfi">BBIDEVNFI &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>109.00</td>
+<td>674210.00</td>
+<td>258424.13</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLEKEP000019/ekoexport">EKOEXPORT &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>110.00</td>
+<td>17834.00</td>
+<td>303348.25</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLGANT000014/gant">GANT &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>2352.00</td>
+<td>4538206.00</td>
+<td>5488769.28</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLNFI1500011/nfiemf">NFIEMF &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>70.00</td>
+<td>1377.00</td>
+<td>25734.35</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLOPNFN00010/openfin">OPENFIN &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>7.00</td>
+<td>1211.00</td>
+<td>15849.21</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLMRBUD00015/mirbud">MIRBUD &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>109.00</td>
+<td>178942.00</td>
+<td>187609.47</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLACTIN00018/action">ACTION &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>31.00</td>
+<td>2343.00</td>
+<td>73819.85</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLBRSTM00015/calatrava">CALATRAVA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>195.00</td>
+<td>8523876.00</td>
+<td>2598930.60</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCRSNT00011/rovese">ROVESE &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>200.00</td>
+<td>971373.00</td>
+<td>1254757.39</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLSKTAN00010/skotan">SKOTAN &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>269.00</td>
+<td>166426.00</td>
+<td>651899.06</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/NL0000686772/plazacntr">PLAZACNTR &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>71.00</td>
+<td>139249.00</td>
+<td>210397.30</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLAMICA00010/amica">AMICA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>90.00</td>
+<td>4274.00</td>
+<td>306352.55</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLFORTE00012/forte">FORTE &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>20.00</td>
+<td>3243.00</td>
+<td>53213.49</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLDUDA000016/duda">DUDA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>112.00</td>
+<td>746933.00</td>
+<td>372989.29</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLELTBD00017/elbudowa">ELBUDOWA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>6.00</td>
+<td>64.00</td>
+<td>8546.80</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLKRK0000010/kruk">KRUK &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>79.00</td>
+<td>13311.00</td>
+<td>824249.00</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLSTLSK00016/sanok">SANOK &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>37.00</td>
+<td>19014.00</td>
+<td>390600.69</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLSTLEX00019/stalexp">STALEXP &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>39.00</td>
+<td>129579.00</td>
+<td>182432.82</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLZPUE000012/zpue">ZPUE &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>25.00</td>
+<td>434.00</td>
+<td>147459.80</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/LU0607203980/imcompany">IMCOMPANY &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>15.00</td>
+<td>2161.00</td>
+<td>32398.48</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLIPOPM00011/ipopema">IPOPEMA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>13.00</td>
+<td>2110.00</td>
+<td>17925.56</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLSNZKA00033/sniezka">SNIEZKA &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>4.00</td>
+<td>175.00</td>
+<td>8171.93</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLCMPLD00016/sygnity">SYGNITY &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>35.00</td>
+<td>6332.00</td>
+<td>96457.75</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLWRWCK00013/secogroup">SECOGROUP &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>5.00</td>
+<td>309.00</td>
+<td>12669.34</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLORZBL00013/orzbialy">ORZBIALY &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>13.00</td>
+<td>6612.00</td>
+<td>117650.29</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLEFH0000022/efh">EFH &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>171.00</td>
+<td>253722.00</td>
+<td>129369.63</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td><a href="/instrument/PLRDPOL00010/radpol">RADPOL &raquo;</a></td>
+<td ></td>
+<td>&ndash;</td>
+<td >&ndash;</td>
+<td>12.00</td>
+<td>4482.00</td>
+<td>39689.80</td>
+<td></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+
+</tr>
+
+</tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+
+</tr>
+</table>
+<script type="text/javascript">
+sortList = [[0,0]];
+$('.datepicker1').datepicker({"minDate":new Date(2010, 7-1, 1)});
+$('.datepicker2').datepicker({"minDate":new Date(2010, 7-1, 1)});
+function i_on(e)
+{
+	e.style.backgroundColor = 'white';
+}
+function i_out(e)
+{
+	e.style.backgroundColor = 'transparent';
+}
+</script>
+</div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

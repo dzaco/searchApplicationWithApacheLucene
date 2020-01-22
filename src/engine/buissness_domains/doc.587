@@ -1,0 +1,581 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+
+<title> Komunikaty prasowe - BiznesPolska.pl</title>
+<meta name="keywords" content="Biznes, BiznesPolska, Polska, B2B, wiadomości, przetargi, komunikaty prasowe, ludzie, Network, zdjecie dnia, krs, firmy, nowe krs, analizy, kalendarium, rankingi, komentarze" />
+<meta name="description" content="BiznesPolska.pl jest wiodącym portalem B2B, który obecnie odnotowuje ok. 14,000 odwiedzających dziennie. Z portalu korzystają przede wszystkim mieszkańcy wszystkich większych miast w Polsce, reprezentujący kadrę zarządzającą wyższego i średniego szczebla. W portalu BiznesPolska.pl znajdują źródło najświeższych informacji prasowych, bazę danych firm (również tych nowo utworzonych), raporty biznesowe oraz kontakt do innych osób świata biznesu." />
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="http://biznespolska.pl/www/css/style-1.css" type="text/css" />
+<link rel="stylesheet" href="http://biznespolska.pl/www/css/style-old.css" type="text/css" />
+<link rel="shortcut icon" href="BiznesPolska.ico" type="image/x-icon" />
+<script src="http://biznespolska.pl/www/js/tiny.ddmenu.js" type="text/javascript"></script>
+<script src="http://biznespolska.pl/www/js/register_functions.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26440187-1']);
+  _gaq.push(['_setDomainName', 'biznespolska.pl']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><!-- Start of Woopra Code -->
+
+<script type="text/javascript">
+
+function woopraReady(tracker) {
+
+    tracker.setDomain('biznespolska.pl');
+
+    tracker.setIdleTimeout(300000);
+
+    tracker.track();
+
+    return false;
+
+}
+
+(function() {
+
+    var wsc = document.createElement('script');
+
+    wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+
+    wsc.type = 'text/javascript';
+
+    wsc.async = true;
+
+    var ssc = document.getElementsByTagName('script')[0];
+
+    ssc.parentNode.insertBefore(wsc, ssc);
+
+})();
+
+</script>
+
+<!-- End of Woopra Code -->
+</head>
+<body>
+
+
+<div id="section-top">
+  <div class="wrapper">
+    <div id="nav">
+      <div class="f-l">
+	    <ul id="navTopList">
+	      <li class="level-1 home"><a href="/"></a></li>
+	      <li class="level-1"><a href="/przeglad/">News</a>
+			  <ul>
+				<li class="level-2"><a href="/przeglad/">Nowe Inwestycje - <span class="c-red">NOWOŚĆ!</span></a></li>
+				<li class="level-2"><a href="/wywiad/">10 pytań do zagranicznego inwestora - <span class="c-red">NOWOŚĆ!</span></a></li>
+				<li class="level-2"><a href="/komunikaty/">Komunikaty prasowe</a></li>
+				<li class="level-2"><a href="/kalendarium/">Kalendarium</a></li>
+				<li class="level-2"><a href="/wydarzenia/">Wydarzenia</a></li>
+				<!-- <li class="level-2"><a href="/przetargi/">Przetargi</a></li> -->
+				<!-- <li class="level-2"><a href="/krs/">Nowe firmy KRS</a></li> -->
+				<li class="level-2"><a href="/rankingi/">Rankingi</a></li>
+				<li class="level-2"><a href="/bizbaza/">Biz Baza</a></li>
+				<li class="level-2"><a href="/analizy/">Analizy i raporty</a></li>
+			  </ul>
+		  </li>
+	      <li class="level-1"><a href="/przewodniki/">Przewodniki</a>
+			<ul>
+				<li class="level-2"><a href="/przewodniki/officebuildings/">Top Office Buildings</a></li>
+				<li class="level-2"><a href="/przewodniki/windenergy/">Wind Energy</a></li>
+				<li class="level-2"><a href="/przewodniki/equities/">Equities Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/outsourcing/">Outsourcing Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/aviation/">Aviation Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/foodexports/">Food Exports Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/cityinvest/">CityInvest Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/shoppingcentres/">Top Shopping Centres</a></li>
+				<!-- <li class="level-2"><a href="/przewodniki/energiawiatrowa/">Energia Wiatrowa</a></li> -->
+			</ul>
+		  </li>
+	      <li class="level-1"><a href="/reklama/">Reklama</a>
+			<ul>
+				<li class="level-2"><a href="/autoreklama/">AutoReklama</a></li>
+				<li class="level-2"><a href="/reklama/a/internet/">Reklama w internecie</a></li>
+				<li class="level-2"><a href="/reklama/a/newsletter/">Reklama w newsletterze</a></li>
+				<li class="level-2"><a href="/reklama/a/mailing/">Reklama w mailingu celowym</a></li>
+				<li class="level-2"><a href="/reklama/a/dodatki/">Reklama w dodatkach</a></li>
+			</ul>
+		  </li>
+	      <li class="level-1"><a href="/network/">BP Network</a>
+			<ul>
+				<li class="level-2"><a href="/network/a/jaktodziala/">Jak to działa</a></li>
+				<li class="level-2"><a href="/network/a/nowaosoba/">Dodaj inną osobę</a></li>
+			</ul>
+
+		  </li>
+	      <li class="level-1"><a href="#">Usługi</a>
+			  <ul>
+				<li class="level-2"><a href="/regulamin/">Regulamin</a></li>
+				<li class="level-2"><a href="/newsletter/">Newsletter</a></li>
+				<li class="level-2"><a href="/formularz/">Formularze</a></li>
+				<li class="level-2"><a href="/szukaj/">Szukaj</a></li>
+				<li class="level-2"><a href="/mojekonto/">Strona użytkownika</a></li>
+				<li class="level-2"><a href="/kontakt/">Kontakt</a></li>
+				<li class="level-2"><a href="/onas/">O Nas</a></li>
+			  </ul>
+			</li>
+			<li class="level-1"><a href="#">Regiony</a>
+				<ul>
+					<li class="level-2"><a href="/warszawa/">Warszawa</a></li>
+					<li class="level-2"><a href="/wroclaw/">Wrocław</a></li>
+					<li class="level-2"><a href="/poznan/">Poznań</a></li>
+					<li class="level-2"><a href="/krakow/">Kraków</a></li>
+					<li class="level-2"><a href="/szczecin/">Szczecin</a></li>
+					<li class="level-2"><a href="/trojmiasto/">Trójmiasto</a></li>
+					<li class="level-2"><a href="/lodz/">Łódź</a></li>
+					<li class="level-2"><a href="/katowice/">Katowice</a></li>
+				</ul>
+			</li>
+	    </ul>
+	  </div>
+      <div class="f-r">
+	    <ul>
+	      <!-- <li class="i1"><a href="/autoreklama/">AutoReklama</a></li> -->
+	      <li class="i2"><a href="/newsletter/">Newsletter</a></li>
+	      <li class="i3"><a href="/rejestracja/">Rejestracja</a></li>
+	      <li class="i4"><a href="/logowanie/">Zaloguj się</a></li>
+	    </ul>
+	  </div>
+	  <div class="clear"></div>
+	</div>
+			<div id="logo"><a href="/">BiznesPolska.pl</a></div><div class="clear"></div>
+		<div id="logo_underscore">Inwestycje zagraniczne w Polsce</div>
+	
+	<!-- boxAd -->
+	<div class="advert">
+		<!-- BBelements AdServer one2many Position: BiznesPolska(2087) / Strona głowna(16) / Billboard(1) / billboard 750x100 750x100(30) -->
+		<!-- HowTo: Place this code into the html page there the ad should appear. -->
+		<div id='bmone2n-2087.16.1.30'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/30/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/30/?typkodu=img&amp;keywords=' width='750' height='100' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	</div>
+	<!-- END boxAd -->
+
+	<div class="clear"></div>
+  </div>
+</div>
+
+<div id="section-content">
+  <div class="wrapper">
+  
+    <!-- main left col -->
+	<div class="w-670 f-l">
+  
+	      <!-- box -->
+	  <div class="box">
+	    <div class="boxInner">
+						  <!-- <div class="boxHdr-bt"><div class="inner"><a href="url">Zobacz następny artykuł <span>&raquo;</span></a></div></div> -->
+		  <div class="boxHdr">
+		    <h2><span class="black">Komunikaty prasowe </span></h2>
+		  </div>
+		  <div id="content">
+		    <div class="inner">
+						  <h2>Komercjalizacja Nowego Dworca Olsztyn w toku</h2>
+			  <p><p>Trwa wynajem powierzchni handlowej w Nowym Dworcu Olsztyn, inwestycji realizowanej przez sp&oacute;łkę Retail Provider. Za&nbsp;doradztwo przy opracowywaniu strategii wynajmu obiektu odpowiada firma <strong>DTZ</strong>. Galeria handlowa w ramach Nowego Dworca Olsztyn zajmie około&nbsp;45 tys. mkw.&nbsp;powierzchni najmu (GLA), obejmie blisko&nbsp;180&nbsp;punkt&oacute;w handlowo-usługowych, wielosalowe kino, a także dużą strefę rozrywki z lokalami gastronomicznymi.</p>
+<p>O ogromnym potencjale inwestycji stanowi jej unikalny koncept, polegający na połączeniu galerii handlowej z nowymi obiektami dworca kolejowego i autobusowego. Adekwatny model zintegrowanego centrum komunikacyjno&ndash;usługowego z sukcesem realizowany jest obecnie w Katowicach i Poznaniu &ndash;&nbsp;m&oacute;wi Edyta Bobek, Associate Director w Zespole Powierzchni Handlowej w DTZ.&nbsp;&ndash; Obiecujące perspektywy biznesowe zapewnia r&oacute;wnież imponująca liczba potencjalnych klient&oacute;w, do kt&oacute;rych Nowy Dworzec Olsztyn kieruje ofertę. To nie tylko blisko dwieście tysięcy olsztynian, p&oacute;łtora miliona mieszkańc&oacute;w wojew&oacute;dztwa warmińsko-mazurskiego, ale i milion turyst&oacute;w, kt&oacute;rzy corocznie odwiedzają stolicę Warmii i Mazur &ndash;&nbsp;komentuje Edyta Bobek.</p>
+<p>Dodatkowe szanse dla olsztyńskiego projektu stwarza otwarcie w lipcu tego roku małego ruchu granicznego z Obwodem Kaliningradzkim i stosunkowo niskie nasycenie powierzchnią centr&oacute;w handlowych na tle miast liczących 100 - 200 tys. os&oacute;b.&nbsp;Zgodnie z branżowymi raportami, Olsztyn zajmuje także wysoką pozycję pod względem rocznej siły nabywczej na mieszkańca, a wynik 6,500 euro zbliżony jest np. do Krakowa.</p>
+<p>&nbsp;</p>
+<p><strong>Źr&oacute;dło:&nbsp;&nbsp;&nbsp; DTZ</strong></p></p>
+	        </div>
+	      </div>
+	    		</div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	  </div>  
+
+	  <div class="clear"></div>	  
+	  
+		  
+	  	  
+    <div class="clear"></div>
+
+	<script type="text/javascript">
+<!--
+
+function validateForm(AForm)
+{
+	if (document.getElementById('sid').value=='') {
+		alert('Musisz być zalogowany aby przesłać komunikat prasowy!');
+		return false;
+	}
+    if (document.getElementById('title').value=='' && 
+		document.getElementById('content').value=='' &&
+		document.getElementById('displaydate').value=='' &&
+		document.getElementById('cityid').value=='') {
+		alert('Wszystkie pola puste!');
+		return false;
+	}
+    if (document.getElementById('title').value=='') {
+		alert('Musisz podać tytuł komunikatu!');
+		return false;
+	}
+    if (document.getElementById('content').value=='') {
+		alert('Musisz podać treść komunikatu!');
+		return false;
+	}
+    if (document.getElementById('displaydate').value=='') {
+		alert('Musisz podać datę publikacji komunikatu!');
+		return false;
+	}
+    if (document.getElementById('cityid').value=='') {
+		alert('Musisz wybrać region komunikatu!');
+		return false;
+	}
+	
+    if (document.getElementById('title').value=='') {
+		alert('Musisz podać tytuł komunikatu!');
+		return false;
+	}
+	
+	return true;
+		
+}
+
+//-->
+</script>
+
+<!-- box wyslij kp -->
+<div class="box">
+<div class="boxInner">
+  <div class="boxHdr">
+	<h2>Wyślij komunikat</h2>
+  </div>
+	<div class="inner">
+	
+	<!-- formularz -->
+	<form name="kp" method="post" action="" onsubmit="return validateForm(this)">
+	  <fieldset>
+		<input type="hidden" id="number" name="number" value="13" />	  
+		<input type="hidden" name="article[serviceid]" value="KOMPRASOWE">
+		<input type="hidden" id="sid" name="sid" value="">
+	  
+		<div class="legend">Aby wysłać komunikat musisz się zalogować.</div>	  
+		<div class="row">
+		  <div class="f-l w-150"><label>Tytuł:</label></div>
+		  <div class="f-l w-450"><input class="w-480" maxlength="1000" size="85" type="text" id="title" name="article[title]" value="" title="Wpisz tytuł artykułu."></div>
+		  <div class="clear"></div>
+		</div>
+	  
+		<div class="row">
+		  <div class="f-l w-150"><label>Treść komunikatu:</label></div>
+		  <div class="f-l w-450"><textarea class="w-480" cols="82" rows="8" id="content" name="article[content]" title="Wpisz treść komunikatu."></textarea></div>
+		  <div class="clear"></div>
+		</div>
+	  
+		<div class="row">
+		  <div class="f-l w-150"><label>Data wyświetlenia:</label></div>
+		  <div class="f-l w-450"><input class="w-100" type="text" id="displaydate" name="article[displaydate]" size="18" value="2013-03-29" title="Wpisz datę wyświetlenia."></div>
+		  <div class="clear"></div>
+		</div>
+
+		<div class="row">
+		  <div class="f-l w-150"><label>Miasto:</label></div>
+		  <div class="f-l w-450">
+			<select class="w-250" id="cityid" name="article[cityid]" title="Wybierz region dla artykułu">
+			  <option value="" selected>-- wybierz region --</option>
+			  <option value="ogolnopol">Ogólnopolski</option>
+			  <option value="warszawa">Warszawa</option>
+			  <option value="wroclaw">Wrocław</option>
+			  <option value="poznan">Poznań</option>
+			  <option value="krakow">Kraków</option>
+			  <option value="szczecin">Szczecin</option>
+			  <option value="trojmiasto">Trójmiasto</option>
+			  <option value="lodz">Łódź</option>
+			  <option value="katowice">Katowice</option>								
+			</select>
+		  </div>
+		  <div class="clear"></div>
+		</div>
+	  	  
+		<div class="row">
+		  <div class="f-l w-150"><label>Weryfikacja:</label></div>
+		  <div class="f-l w-450"><img src="/upload/pictures/logos/13.jpeg" alt="anti-spam" /></div>
+		  <div class="clear"></div>
+		</div>
+
+		<div class="row">
+		  <div class="f-l w-150"><label>Kod z obrazka:</label></div>
+		  <div class="f-l w-450"><input class="w-150" type="text" id="code" name="code" /></div>
+		  <div class="clear"></div>
+		</div>
+
+		
+		<div class="row">
+		  <label>UWAGA:</label>
+		  Redakcja serwisu zastrzega sobie prawo do odrzucenia komunikatu bez podania przyczyny.
+		</div>
+		
+		<div class="row">
+		  <input type="submit" value="Wyślij">
+		</div>
+		
+	  </fieldset>
+	</form>
+	<!-- end formularz -->
+	</div>
+</div>
+<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+</div> 
+<!-- END box wyslij kp -->
+	
+	  
+    </div>
+    <!-- END main left col -->
+  
+    <!-- main right col -->
+    <div class="w-300 f-r">
+  
+	<!-- szukaj  -->
+<div class="boxSearch">
+<div class="boxInner">
+  <div class="inner">
+	<form action="/szukaj/" method="post" id="formSearch">
+	  <input type="hidden" name="rodzaj" value="Wszystkie" />
+	  <input type="hidden" name="jakszukac" value="niedokladnie" />
+	  <div class="input shd-in-1"><input type="text" name="szukaj" value="" /></div>
+	  <input type="image" class="submit" src="/www/img/tpl/bt/szukaj.png" value="" />
+	  <div class="clear"></div>
+	</form>
+  </div>
+</div>
+</div>
+<!-- koniec szukaj  -->	<!-- boxAd rectangle -->
+	<div class="advert">
+		<!-- BBelements AdServer one2many Position: go.arbopl.bbelements.com BiznesPolska(2087) / Strona głowna(16) / Box(1) / box 300x250 300x250(36)-->
+		<!-- HowTo: Place this code into the html page where the ad should appear. -->
+		<div id='bmone2n-2087.16.1.36'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/36/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/36/?typkodu=img&keywords=' width='300' height='250' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	</div>
+	<!-- END boxAd rectangle -->	
+  				
+        <!-- newsletter  -->
+	    <div class="box">
+	      <div class="boxInner">
+		    <div class="boxHdr">
+		      <h2>Biznes Polska Newsletter</h2>
+		    </div>
+		    <div class="inner-15">
+				<form action="/rejestracja/" method="post" id="formNl">
+					<input type="hidden" name="step" value="1" />
+				  <div class="input shd-in-1"><input type="text" name="email" value="E-mail" /></div>
+				  <input type="image" class="submit" src="/www/img/tpl/bt/nl.png" value="" />
+				  <div class="clear"></div>
+				</form>
+		    </div>
+		    <div class="boxBottomLink">
+		      <div class="button"><div class="inner"><a href="/newsletter/">Więcej</a></div></div>
+		    </div>
+	      </div>
+		  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+        <!-- koniec newsletter  -->
+		
+	  
+        <!-- box -->
+	    <div class="box">
+	      <div class="boxInner">
+		    <div class="boxHdr">
+		      <h2>Archiwum</h2>
+		    </div>
+		    <div class="inner">
+          <div class="list-archiwum">
+			<p>
+			  				niedziela, <a href="/komunikaty/217986/">17 marzec 2013</a>
+			  				piątek, <a href="/komunikaty/217983/">15 marzec 2013</a>
+			  				poniedziałek, <a href="/komunikaty/217939/">11 marzec 2013</a>
+			  				wtorek, <a href="/komunikaty/217901/">05 marzec 2013</a>
+			  				piątek, <a href="/komunikaty/217889/">01 marzec 2013</a>
+			  				czwartek, <a href="/komunikaty/217867/">28 luty 2013</a>
+			  				środa, <a href="/komunikaty/217744/">20 luty 2013</a>
+			  				poniedziałek, <a href="/komunikaty/217710/">18 luty 2013</a>
+			  				piątek, <a href="/komunikaty/217687/">15 luty 2013</a>
+			  				środa, <a href="/komunikaty/217633/">13 luty 2013</a>
+			  				wtorek, <a href="/komunikaty/217621/">12 luty 2013</a>
+			  				poniedziałek, <a href="/komunikaty/217596/">11 luty 2013</a>
+			  				wtorek, <a href="/komunikaty/217514/">05 luty 2013</a>
+			  				czwartek, <a href="/komunikaty/217445/">31 styczeń 2013</a>
+			  				wtorek, <a href="/komunikaty/217323/">22 styczeń 2013</a>
+			  				poniedziałek, <a href="/komunikaty/217294/">21 styczeń 2013</a>
+			  				piątek, <a href="/komunikaty/217274/">18 styczeń 2013</a>
+			  				środa, <a href="/komunikaty/217242/">16 styczeń 2013</a>
+			  				wtorek, <a href="/komunikaty/217226/">15 styczeń 2013</a>
+			  				piątek, <a href="/komunikaty/217201/">11 styczeń 2013</a>
+			  				czwartek, <a href="/komunikaty/217186/">10 styczeń 2013</a>
+			  				środa, <a href="/komunikaty/217174/">09 styczeń 2013</a>
+			  				wtorek, <a href="/komunikaty/217161/">08 styczeń 2013</a>
+			  				poniedziałek, <a href="/komunikaty/217136/">07 styczeń 2013</a>
+			  				czwartek, <a href="/komunikaty/217112/">03 styczeń 2013</a>
+			  				środa, <a href="/komunikaty/217099/">02 styczeń 2013</a>
+			  				piątek, <a href="/komunikaty/217082/">21 grudzień 2012</a>
+			  				środa, <a href="/komunikaty/217056/">19 grudzień 2012</a>
+			  				wtorek, <a href="/komunikaty/217045/">18 grudzień 2012</a>
+			  				poniedziałek, <a href="/komunikaty/217036/">17 grudzień 2012</a>
+			    	  	    </p>
+          </div>
+		    </div>
+	      </div>
+        <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+	  
+				        <!-- box -->
+	    <div class="box">
+	      <div class="boxInner">
+			<div class="boxHdr-bt"><div class="inner">29-03-2013</div></div>
+		    <div class="boxHdr">
+		      <h2>Zobacz także</h2>
+		    </div>
+		    <div class="inner">
+								<div class="articlesRelated">
+				<!-- <h3>Wtorek, 12 lipca 2011</h3> -->
+				<ul class="list-articlesRelated">
+				  
+				</ul>
+				</div>
+								<div class="articlesRelated">
+				<!-- <h3>Wtorek, 12 lipca 2011</h3> -->
+				<ul class="list-articlesRelated">
+								  <li>
+					<h4><a href="/komunikaty/217042/GLL-Real-Estate-Partners-podpisuje-z-Commercial-Bank-of-China-umowę-najmu-na-10-lat.html">GLL Real Estate Partners podpisuje z Commercial Bank of China umowę najmu na 10 lat</a></h4>
+				  </li>
+				  
+				</ul>
+				</div>
+						    </div>
+	      </div>
+        <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+			  
+      <!-- boxAd -->
+	  <div class="advert">
+		<!-- BBelements AdServer one2many Position: BiznesPolska(2087) / Strona glowna(16) / Skyscraper(1) / skyscraper_pl 160x600 160x600(31) -->
+		<!-- HowTo: Place this code into the html page there the ad should appear. -->
+		<div id='bmone2n-2087.16.1.31'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/31/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/31/?typkodu=img&amp;keywords=' width='160' height='600' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	  </div>
+	
+    </div>
+    <!-- END main right col -->
+	
+	<div class="clear"></div>
+	
+			  
+<!-- box bp magazine bottom -->
+<div class="box">
+  <div class="boxInner">
+	<div class="boxHdr-bt"><div class="inner"><a href="http://biznespolska.pl/unassigned/download.php?target=LZIIJDBSDPON7HD4BB4M9ACX4Y.pdf">Zamów prenumeratę<span>&raquo;</span></a></div></div>
+	<div class="boxHdr">
+	  <h2>BizPoland Magazine - our monthly magazine for Foreign Investors.</h2>
+	</div>
+	<div class="inner">
+	  <ul class="list-przewodniki">
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_nov2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_129/bizpol_mag_129_Covers/bizpol_mag_129_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_sept2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_128/bizpol_mag_128_Covers/bizpol_mag_128_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpoland_july_2012_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_127/bizpol_mag_127_Covers/bizpol_mag_127_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_may2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_126/bizpol_mag_126_Covers/bizpol_mag_126_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_april2012_finalpdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_125/bizpol_mag_125_Covers/bizpol_mag_125_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_march2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_124/bizpol_mag_124_Covers/bizpol_mag_124_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_feb_2012_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_123/bizpol_mag_123_Covers/bizpol_mag_123_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmagazine_dec2011_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_122/bizpol_mag_122_Covers/bizpol_mag_122_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+	  </ul>
+	  <div class="clear"></div>
+	</div>
+  </div>
+  <div class="boxBottomLink">
+	<div class="button"><div class="inner"><a href="/przewodniki/bizpolandmag/">Szczegóły reklamowe</a></div></div>
+  </div>
+  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+</div>
+<!-- End box bp magazine bottom -->	
+  </div>
+</div>
+
+
+<!-- BBelements AdServer one2many code -->
+<!-- HowTo: All the ad codes must be above this code! -->	
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<script type='text/javascript' src='http://go.arbopl.bbelements.com/bb/bb_one2n.js'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+var bbkeywords=''; //fill in: 'key1;key2;..'
+bmone2n.addPosition('2087.16.1.30','');
+bmone2n.addPosition('2087.16.1.36','');
+bmone2n.addPosition('2087.16.1.31','');
+bmone2n.getAd('go.arbopl.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''));
+/* ]]> */</script>
+<div id='bmone2t-2087.16.1.30' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.30'); /* ]]> */</script></div>
+<div id='bmone2t-2087.16.1.36' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.36'); /* ]]> */</script></div>
+<div id='bmone2t-2087.16.1.31' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.31'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+
+<div id="section-foot">
+  <div class="wrapper">
+    <div class="inner">
+      <div class="navFoot">
+	    <ul>
+		  <li><a href="/przeglad/">News</a></li>
+		  <li><a href="/przewodniki/">Przewodniki biznesowe</a></li>
+		  <li><a href="/reklama/">Reklama</a></li>
+		  <li><a href="/network/">BP network</a></li>
+		  <li><a href="/kontakt/">Kontakt</a></li>
+		  <li><a href="http://www.polandoutsourcingawards.pl/" target="_blank">PolandOutsourcingAwards.pl</a></li>
+		  <li><a href="http://equitiespoland.pl/" target="_blank">EquitiesPoland.pl</a></li>
+		</ul>
+		<div class="clear"></div>
+	  </div>
+	  <div class="clear"></div>
+	  <div class="f-l"><p>Copyright &copy; 2013 <a class="copy" href="/">Biznes<span>Polska.pl</span></a></p></div>
+	  <div class="f-r w-140"><p class="f-l">Design by</p><a class="gv" href="http://www.globalvanet.com">Globalvanet.pl</a></div>
+	  <div class="clear"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  var menu=new menu.dd("menu");
+  menu.init("navTopList","menuhover")
+</script> 
+
+</body>
+</html>

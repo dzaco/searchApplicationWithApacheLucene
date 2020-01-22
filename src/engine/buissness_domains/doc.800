@@ -1,0 +1,409 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+
+<head>
+
+<title>Badanie: trendy kont</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+<meta name="description" content="Weź udział w badaniu 'Trendy na rynku kont osobistych w 2013 roku',pomóż nam przygotować analizę tego segmentu rynku i wygraj atrakcyjne nagrody" />
+
+<meta name="keywords" content="badanie , ankieta, nagrody, bankier.pl, konta osobiste" />
+
+<link rel="alternate" type="application/rss+xml" title="" href="http://.xml" />
+<link href="/gfx/fundusze-inwestycyjne/stylesheets/style.css?7" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/gfx/kupujtaniej/js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="/media/finanse/javascripts/jquery.tools.min.js"></script>
+
+<!-- (C)2005 Gemius SA - gemiusAudience  / bankier.pl / wiadomosci_Pozostale -->
+<script language="javascript" type="text/javascript"> 
+<!--
+var pp_gemius_identifier = new String('nXnq_HOKN0xa..iC1bOfR9VrLVABcue4c3MSx5CI2t3.z7');
+//-->
+</script>
+<script language="javascript" type="text/javascript" src="http://arbo.hit.gemius.pl/pp_gemius.js"></script>
+
+<!-- (C) 2000-2005 Gemius SA - gemiusTraffic / ver 11.1 / wiadomosci_pozostale --> 
+<script type="text/javascript"> 
+var gemius_identifier = new String('p9Oazz7Rd2I9XpCDxRhmOJR8.j568LurbLvu7CXXhq3.b7');
+</script>
+<script type="text/javascript" src="/inc/js/gemius.js"></script>
+
+
+</head>
+<body>
+<div id="wrapper">
+<div id="top"><a href="/trendy_kont/"></a></div>
+
+
+<div id="middle">
+<div id="a_description">
+</div>
+<div id="left">
+
+  <div id="news">
+<h2>Artykuły</h2>
+<ul>
+<li ><a href="/trendy_kont/artykul/W-ciagu-roku-KIR-przetworzyl-ponad-151-tys-przelewow-natychmiastowych-2887538.html">W ciągu roku KIR przetworzył ponad 151 tys. przelewów natychmiastowych</a></li>		
+<li ><a href="/trendy_kont/artykul/Polacy-nie-dali-zagonic-sie-do-konta-2875778.html">Polacy nie dali zagonić się do konta</a></li>		
+<li ><a href="/trendy_kont/artykul/NBP-bedzie-nas-wlaczal-finansowo-2872190.html">NBP będzie nas &#34;włączał&#34; finansowo</a></li>		
+<li ><a href="/trendy_kont/artykul/Polak-nie-chce-konta-w-banku-bo-uwaza-ze-jest-za-biedny-2871880.html">Polak nie chce konta w banku, bo uważa, że jest za biedny</a></li>		
+<li ><a href="/trendy_kont/artykul/Atak-phishingowy-na-uzytkownikow-serwisu-iPKO-2867229.html">Atak phishingowy na użytkowników serwisu iPKO</a></li>		
+<li ><a href="/trendy_kont/artykul/PKO-BP-zaoferuje-konta-nawet-dla-niemowlakow-2857767.html">PKO BP zaoferuje konta nawet dla niemowlaków</a></li>		
+<li ><a href="/trendy_kont/artykul/Z-tych-powodow-zmieniamy-bank-2854727.html">Z tych powodów zmieniamy bank</a></li>		
+<li ><a href="/trendy_kont/artykul/Platnosci-mobilne-Pekao-rzuca-wyzwanie-PKO-BP-2851194.html">Płatności mobilne: Pekao rzuca wyzwanie PKO BP</a></li>		
+<li class="last"><a href="/trendy_kont/artykul/Dzis-wystartowal-nowy-mBank-2849501.html">Dziś wystartował nowy mBank</a></li>		
+
+
+
+</ul>
+</div>
+
+
+</div>
+<div id="center">
+
+
+	         <style>
+.red {color:red}
+</style>
+
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+$("select[name='pytanie4']").attr('disabled', 'disabled');
+ 
+ $("input[name='pytanie3']").change(function(){
+  	if ($(this).val() == 'tak') {
+ 		 	/*console.log('Zaznaczono tak');*/
+ 		 	
+ 		 	$("select[name='pytanie4']").attr('disabled', '');
+  	} else if ($(this).val() == 'niewiem') {
+  			/*console.log('Zaznaczono cos innego');*/
+  $("select[name='pytanie4']").attr('disabled', '');
+
+  	} else {
+  	$("select[name='pytanie4']").attr('disabled', 'disabled');
+  	}
+    
+  });
+  
+  
+
+  
+
+/*
+$("input:checkbox[name=pytanie3]").click(function() {
+var cos = $('input[name=pytanie3]:checked').length;
+if (cos > 3) {
+alert("Pytanie 3: W tym pytaniu możesz zaznaczyć tylko 3 odpowiedzi");
+return false;
+}
+});
+
+$("input:checkbox[name=pytanie5]").click(function() {
+var cos2 = $('input[name=pytanie5]:checked').length;
+if (cos2 > 3) {
+alert("Pytanie 5: W tym pytaniu możesz zaznaczyć tylko 3 odpowiedzi");
+return false;
+}
+});
+
+$("input:checkbox[name=pytanie6]").click(function() {
+var cos3 = $('input[name=pytanie6]:checked').length;
+if (cos3 > 3) {
+alert("Pytanie 6: W tym pytaniu możesz zaznaczyć tylko 3 odpowiedzi");
+return false;
+}
+});*/
+
+
+
+
+$('#ankieta').submit(function() {
+
+if ($('input:checkbox[id=checkbox_regulamin]', this).is(':checked')) {
+} else {
+alert("Musisz zaakceptować regulamin.");
+return false;
+}
+/*if ($('input:checkbox[id=checkbox_zgoda]', this).is(':checked')) {
+} else {
+alert("Musisz zaakceptować zgodę na przetwarzanie danych.");
+return false;
+}
+if ($('input:checkbox[id=checkbox_zgoda_publikacji]', this).is(':checked')) {
+} else {
+alert("Musisz zaakceptować zgodę publikacji.");
+return false;
+}*/
+
+
+if ($('input:radio[name=pytanie9]', this).is(':checked') && $('input:checkbox[name=pytanie5]', this).is(':checked') && $('input:checkbox[name=pytanie6]', this).is(':checked') && $('input:checkbox[name=pytanie8]', this).is(':checked') && $('input:radio[name=pytanie2]', this).is(':checked') && $('input:radio[name=pytanie3]', this).is(':checked') && $('input:radio[name=pytanie7]', this).is(':checked')){
+
+} else {
+alert("Zaznacz wszystkie odpowiedzi");
+return false;
+}
+
+});
+});
+
+
+
+</script>
+
+
+
+<div id="users">
+
+                 
+         <h2 class="users_h2" style="margin-top:5px;margin-bottom:20px;padding-top:7px;color:#1C2956;">Weź udział w badaniu<br /> 
+         <font color="#E85B23">"Trendy na rynku kont osobistych w 2013 roku", </font><br />
+         pomóż nam przygotować analizę tego segmentu rynku i wygraj atrakcyjne nagrody </h2>
+         
+         
+
+
+       
+        <div class="text">Aby wziąć udział w ankiecie organizowanej przez Bankier.pl musisz być zarejestrowanym użytkownikiem</div>
+        <a href="http://www.bankier.pl/personal/logowanie.html?url=%2Ftrendy_kont%2F%3Futm_source%3DLPA%26utm_medium%3Dbanner%26utm_campaign%3DAnkietaROR" alt="Zaloguj si�"/><img style="margin-top:15px;" src="/gfx/trendykont/log-btn.png" /></a> <a href="https://ssl.bankier.pl/ssl/personal/rejestracja/rejestracja.html?url=/trendy_kont/index.html&etykieta=trendy_kont#knkrs"><img style="margin-top:15px; margin-left:85px;" src="/gfx/trendykont/reg-btn.png" /></a>
+        <div style="clear:both;"></div>
+       
+</div>
+
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Trendy na rynku kont osobistych w 2013 roku</h2>
+
+
+<form style="margin-top:20px;" id="ankieta" action="" method="POST">
+
+	<p ><strong>1. W którym banku masz podstawowy rachunek ROR?</strong></p>
+	
+	    <select size="1" disabled="disabled" name="pytanie1">
+	    <option disabled="disabled" value="0" selected="">wybierz bank</option>
+	    <option disabled="disabled" value="Alior Bank">Alior Bank</option>
+	    <option disabled="disabled" value="Alior Sync">Alior Sync</option>
+		<option disabled="disabled" value="Bank BGZ">Bank BGŻ</option>
+		<option disabled="disabled" value="Bank BPH">Bank BPH</option>
+		<option disabled="disabled" value="Bank Millennium">Bank Millennium</option>
+		<option disabled="disabled" value="Bank Ochrony Srodowiska">Bank Ochrony Środowiska</option>
+		<option disabled="disabled" value="Bank Pekao SA">Bank Pekao SA</option>
+		<option disabled="disabled" value="Bank Pocztowy SA">Bank Pocztowy SA</option>
+		<option disabled="disabled" value="BGZ Optima">BGŻ Optima</option>
+		<option disabled="disabled" value="BNP Paribas Bank Polska">BNP Paribas Bank Polska</option>
+		<option disabled="disabled" value="BZ WBK">BZ WBK</option>
+		<option disabled="disabled" value="Citi Handlowy">Citi Handlowy</option>
+		<option disabled="disabled" value="Credit Agricole">Credit Agricole</option>
+		<option disabled="disabled" value="Deutsche Bank">Deutsche Bank PBC</option>
+		<option disabled="disabled" value="DnB NORD">DnB NORD</option>
+		<option disabled="disabled" value="Euro Bank">Euro Bank</option>
+		<option disabled="disabled" value="FM Bank">FM Bank</option>
+		<option disabled="disabled" value="Getin Noble Bank">Getin Noble Bank</option>
+		<option disabled="disabled" value="Idea Bank">Idea Bank</option>
+		<option disabled="disabled" value="ING Bank Slaski">ING Bank Śląski</option>
+		<option disabled="disabled" value="Inteligo">Inteligo</option>
+		<option disabled="disabled" value="Invest-Bank">Invest-Bank</option>
+		<option disabled="disabled" value="Kredyt Bank">Kredyt Bank</option>
+		<option disabled="disabled" value="mBank">mBank</option>
+		<option disabled="disabled" value="Meritum Bank">Meritum Bank</option>
+		<option disabled="disabled" value="MultiBank">MultiBank</option>
+		<option disabled="disabled" value="Nordea Bank Polska">Nordea Bank Polska</option>
+		<option disabled="disabled" value="PKO Bank Polski">PKO Bank Polski</option>
+		<option disabled="disabled" value="Raiffeisen Polbank">Raiffeisen Polbank</option>
+		<option disabled="disabled" value="Toyota Bank Polska">Toyota Bank Polska</option>
+		<option disabled="disabled" value="VW Bank direct">VW Bank direct</option>
+	    </select>
+	    
+	
+	<p><strong>2. Jak bardzo jesteś zadowolony(-a) z jakości tego rachunku?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie2" value="bardzo zadowolony 5">bardzo zadowolony<br/>
+		<input type="radio" disabled="disabled" name="pytanie2" value="raczej zadowolony 4">raczej zadowolony<br/>
+		<input type="radio" disabled="disabled" name="pytanie2" value="trudno powiedziec 3">trudno powiedzieć<br/>
+		<input type="radio" disabled="disabled" name="pytanie2" value="raczej niezadowolony 2">raczej niezadowolony<br/>
+		<input type="radio" disabled="disabled" name="pytanie2" value="niezadowolony 1">niezadowolony<br/>
+		
+	    
+	    <p><strong>3. Czy w ciągu najbliższych 12 miesięcy masz zamiar zmienić swój podstawowy ROR – przenieść się do innego banku?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie3" value="tak" id="hide1">tak<br/>
+		<input type="radio" disabled="disabled" name="pytanie3" value="nie" id="show1">nie<br/>
+		<input type="radio" disabled="disabled" name="pytanie3" value="niewiem" id="hide2">nie wiem<br/>
+		
+    <p><strong>4. Do jakiego banku przeniósłbyś/przeniosłabyś swój rachunek, gdybyś zmieniał(-a) bank?</strong></p>
+   <d> <select size="1"  name="pytanie4">
+	    <option  value="0" selected="">wybierz bank</option>
+	    <option disabled="disabled" value="Alior Bank">Alior Bank</option>
+	    <option disabled="disabled" value="Alior Sync">Alior Sync</option>
+		<option disabled="disabled" value="Bank BGZ">Bank BGŻ</option>
+		<option disabled="disabled" value="Bank BPH">Bank BPH</option>
+		<option disabled="disabled" value="Bank Millennium">Bank Millennium</option>
+		<option disabled="disabled" value="Bank Ochrony Srodowiska">Bank Ochrony Środowiska</option>
+		<option disabled="disabled" value="Bank Pekao SA">Bank Pekao SA</option>
+		<option disabled="disabled" value="Bank Pocztowy SA">Bank Pocztowy SA</option>
+		<option disabled="disabled" value="BGZ Optima">BGŻ Optima</option>
+		<option disabled="disabled" value="BNP Paribas Bank Polska">BNP Paribas Bank Polska</option>
+		<option disabled="disabled" value="BZ WBK">BZ WBK</option>
+		<option disabled="disabled" value="Citi Handlowy">Citi Handlowy</option>
+		<option disabled="disabled" value="Credit Agricole">Credit Agricole</option>
+		<option disabled="disabled" value="Deutsche Bank">Deutsche Bank PBC</option>
+		<option disabled="disabled" value="DnB NORD">DnB NORD</option>
+		<option disabled="disabled" value="Euro Bank">Euro Bank</option>
+		<option disabled="disabled" value="FM Bank">FM Bank</option>
+		<option disabled="disabled" value="Getin Noble Bank">Getin Noble Bank</option>
+		<option disabled="disabled" value="Idea Bank">Idea Bank</option>
+		<option disabled="disabled" value="ING Bank Slaski">ING Bank Śląski</option>
+		<option disabled="disabled" value="Inteligo">Inteligo</option>
+		<option disabled="disabled" value="Invest-Bank">Invest-Bank</option>
+		<option disabled="disabled" value="Kredyt Bank">Kredyt Bank</option>
+		<option disabled="disabled" value="mBank">mBank</option>
+		<option disabled="disabled" value="Meritum Bank">Meritum Bank</option>
+		<option disabled="disabled" value="MultiBank">MultiBank</option>
+		<option disabled="disabled" value="Nordea Bank Polska">Nordea Bank Polska</option>
+		<option disabled="disabled" value="PKO Bank Polski">PKO Bank Polski</option>
+		<option disabled="disabled" value="Raiffeisen Polbank">Raiffeisen Polbank</option>
+		<option disabled="disabled" value="Toyota Bank Polska">Toyota Bank Polska</option>
+		<option disabled="disabled" value="VW Bank direct">VW Bank direct</option>
+		<option disabled="disabled" value="Jeszcze nie wiem">Jeszcze nie wiem</option>
+	    </select></d>
+    
+    
+    		
+		
+		
+
+	<p><strong>5. Które czynniki są Twoim zdaniem najważniejsze w wyborze podstawowego rachunku ROR (wielokrotnego wyboru)</strong></p>
+		<input type="checkbox" disabled="disabled" name="pytanie5" value="cashback w karcie debetowej (zwrot okreslonego procentu od obrotow karta)">cashback w karcie debetowej (zwrot określonego procentu od obrotów kartą)<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie5" value="wygodna bankowosc mobilna">wygodna bankowość mobilna<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie5" value="rabaty u okreslonych sprzedawcow">rabaty u określonych sprzedawców<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie5" value="programy lojalnosciowe i mozliwosc zbierania punktow">programy lojalnościowe i możliwość zbierania punktów<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie5" value="szybka procedura kredytowa">szybka procedura kredytowa<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie5" value="wysokie oprocentowanie depozytow">wysokie oprocentowanie depozytów<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie5" value="niskie oplaty za prowadzenie ROR">niskie opłaty za prowadzenie ROR<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie5" value="platnosci telefonem">płatności telefonem<br/>
+		
+
+	<p><strong>6. Co by Cię przekonało do zmiany rachunku?  (wielokrotnego wyboru)</strong></p>
+		<input type="checkbox" disabled="disabled" name="pytanie6" value="korzystniejsza cena">korzystniejsza cena<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie6" value="platnosci telefonem">płatności telefonem<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie6" value="lepsze oprocentowanie lokat">lepsze oprocentowanie lokat<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie6" value="szybka procedura kredytowa">szybka procedura kredytowa<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie6" value="rozbudowany program rabatowy">rozbudowany program rabatowy<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie6" value="prestiz/wizerunek banku">prestiż/wizerunek banku<br/>
+		
+		<p><strong>7. Czy korzystasz z bankowości mobilnej?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie7" value="tak">tak<br/>
+		<input type="radio" disabled="disabled" name="pytanie7" value="nie">nie, dla mnie to zbędny gadżet <br/>
+		<input type="radio" disabled="disabled" name="pytanie7" value="niewiem">nie, ale będę korzystał<br/>
+		
+		<p><strong>8. Czego oczekujesz po mobilnych platformach bankowych?</strong></p>
+		<input type="checkbox" disabled="disabled" name="pytanie8" value="Wygodny interfejs">wygodny interfejs<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie8" value="jednostopniowa procedura logowania">jednostopniowa procedura logowania (np. tylko PIN, bez loginu).<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie8" value="mozliwosc realizacji dowolnych przelewow">możliwość realizacji dowolnych przelewów<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie8" value="mozliwosc wnioskowania o dodatkowe produkty">możliwość wnioskowania o dodatkowe produkty<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie8" value="geolokalizacja ">geolokalizacja (aplikacja podpowiada np., że w sklepie obok są rabaty przy płatności kartą).<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie8" value="mozliwosc zakladania lokat">możliwość zakładania lokat<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie8" value="manager finansow">manager finansów<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie8" value="platnosci mobilne">płatności mobilne<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie8" value="sprawdzenie salda bez logowania">możliwość szybkiego sprawdzenia salda bez logowania<br/>
+		
+		<p><strong>9. Czy chciałbyś/łabyś mieć dostęp do swojej historii kredytowej poprzez własne konto ROR?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie9" value="tak">tak<br/>
+		<input type="radio" disabled="disabled" name="pytanie9" value="nie">nie<br/>
+		<input type="radio" disabled="disabled" name="pytanie9" value="niewiem">nie wiem<br/>
+		
+		<p><strong>10.  Co w Twojej opinii było najważniejszą innowacją na rynku kont osobistych w ostatnich latach? (max. 1000 znaków) </strong></p>
+		<textarea disabled="disabled" name="pytanie10" cols="50" rows="15" maxlength="1000"></textarea>
+
+	<p class="acceptation"><input disabled="disabled" id="checkbox_regulamin" type="checkbox" name="regulamin" /><label for="checkbox_regulamin"><i>Oświadczam, iż zapoznałem się z <a href="/gfx/trendykont/regulamin_badania_trendy_na_rynku_kont.pdf" target="_blank">regulaminem badania i konkursu</a> "Trendy na rynku kont osobistych w 2013 roku" i akceptuję jego treść</i></label></p>
+
+		<input id="submit_button" type="submit" disabled="disabled" name="submit" value="Złóż ankietę" />
+
+
+
+</div>
+<div id="right">
+
+  <h2><a href="/gfx/trendykont/regulamin_badania_trendy_na_rynku_kont.pdf">Regulamin</a></h2>
+<h2>Nagrody główne: czytnik Sony PRS-T1 (Wi-Fi) i iPod nano (8 GB)</h2>
+	<div style="margin:0 auto;">
+	<img style="padding:5px;" src="/gfx/trendykont/nagrody3.jpg" />
+
+	</div>
+<h2>Pozostałe nagrody</h2>
+<div id="lista_firm2" style="padding: 0 1px; font-size: 12px;text-align: justify;">
+	<div style="width:250px; margin:0 auto;text-align:left">
+	
+	<li>Książka: Zenon Komar "Sztuka spekulacji" (tom I i II) – 1 egz.</li><br />
+	<li>Książka: Curtis M. Faith „Droga żółwia” - 1 egz. </li><br />
+    <li>Książka: Mark Galant, Brian Dolan, „Forex dla bystrzaków” – 1 egz.</li><br />
+    <li>Książka: Jack D. Schwager, „Czarodzieje rynku” - 1 egz.</li><br />
+    <li>Książka: Robert C. Miner, „Strategie Inwestycyjne” - 1 egz.</li><br />
+    <li>Głośnik bezprzewodowy Logitech  - 1 sztuka</li><br />
+    <li>Teczka konferencyjna – 5 sztuk</li><br />
+    <li>Etui na telefon – 10 sztuk</li><br />
+    
+	</div>
+</div>
+
+
+
+</div>
+
+
+</div>
+<div id="footer">
+
+    		<div id="footer_top">
+<div id="bankier_div"><p>Autor badania:</p><a href="http://www.bankier.pl" id="bankier_logo">Bankier.pl</a></div>
+<div id="trendykont_div" ><p>Partnerzy badania:</p> <img src="/gfx/trendykont/bik_down132.gif" style="margin-left:-15px; margin-top:15px;" /></div><img src="/gfx/trendykont/ibgr.jpg" style="margin-left:-170px; margin-top:40px; />
+    		</div>
+
+<div id="footer_bottom">
+</div>
+  		</div><!-- end #footer -->
+</div> <!-- end #wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- /bankier-v2/wiadomosci/ -->
+<script type="text/javascript">
+var firstTracker = _gat._getTracker("UA-325086-1");
+firstTracker._initData();
+firstTracker._trackPageview();
+</script>
+
+<!-- (c) 2008 Gemius SA / gemiusHeatMap(GHM+XY) / http://www.bankier.pl -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ghmxy_align = 'center';
+var ghmxy_type = 'absolute';
+var ghmxy_identifier = 'ndbq_HMBGwk6w9QTnR_FeGYmLXU1EM82cIVb5IqSO0D.f7';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://pro.hit.gemius.pl/hmapxy.js"></script>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

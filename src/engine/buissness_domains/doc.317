@@ -1,0 +1,602 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" />
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">_domrdy_flag=false;_domrdy=function(c,a){var b=function(e,d){if("undefined"!=typeof d&&"undefined"!=typeof d.wait&&d.wait>0){setTimeout(function(){d.wait=0;b(e,d)},d.wait);return}if("undefined"!=typeof d&&"undefined"!=typeof d.context){d.context.call(e)}else{e()}};if(_domrdy_flag){b(c,a);return}if(document.addEventListener){document.addEventListener("DOMContentLoaded",function(){document.removeEventListener("DOMContentLoaded",arguments.callee,false);_domrdy_flag=true;b(c,a)},false)}else{if(document.attachEvent){if(document.documentElement.doScroll&&window==window.top){(function(){if(_domrdy_flag){return}try{document.documentElement.doScroll("left")}catch(d){setTimeout(arguments.callee,0);return}_domrdy_flag=true;b(c,a)})()}else{document.attachEvent("onreadystatechange",function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",arguments.callee);_domrdy_flag=true;b(c,a)}})}}else{window.onload=function(){_domrdy_flag=true;b(c,a)}}}};</script>
+<script type="text/javascript" src="/templates/default/js/default.b1021.min.js"></script>
+<title>Parkiet olejowany - jesion</title>
+<meta name="keywords" content="Parkiet olejowany, jesion" />
+<meta name="description" content="Parkiet olejowany - jesion" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/templates/parkiet/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+<link rel="stylesheet" href="/templates/parkiet/images/style.css" type="text/css" charset="utf-8" />
+<link href="/templates/parkiet/menu.css" rel="stylesheet" type="text/css" />
+
+
+
+<!--[if gte IE 5]><![if lt IE 10]>
+<style type="text/css">
+div#menunav li { behavior: url(/templates/europol/images/iemen.htc); }
+div#menunav ul ul { display: none; position: absolute; top: 24px; left: 0px; }
+div#menunav ul ul ul { display: none; position: absolute; top: 0px; left: 212px; }
+div#menunav ul.level1 li {text-align: center; }
+div#menunav ul.level2 li { width: auto; text-align: left; }
+</style>
+<![endif]><![endif]-->
+
+<!--[if gte IE 5]><![if lt IE 6]>
+<style type="text/css">
+div#menunav ul.level1 li { margin-left: 0px; }
+div#menunav ul.level2 li { margin-left: -16px; }
+</style>
+<![endif]><![endif]-->
+
+<script type="text/javascript" language="JavaScript" src="/templates/default/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="/templates/default/js/Shifter.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35685097-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+
+<body>
+<div id="tlo"><div id="all">
+<div id="level1">
+<a href="/" id="logo" title="Parkiet"></a>
+<div id="topdane"><div class="sklep2_koszyk_move" style="position: relative;">
+
+<img src="/templates/parkiet/images/koszyk-top.png" style="position: absolute; left: -30px; top: -9px;"  />
+
+<!--
+<img src="/templates/parkiet/images/koszyk-top.png" style="position: absolute; left: -30px; top: -9px;"  />
+-->
+<div class="head_move head_move_up">
+    <div class="ilosc_pozycji"><a href="/strefa_klienta/koszyk/" title="przejdź do Koszyk">Koszyk</a> jest pusty <span>(0)</span></div>
+</div>
+<script src="/templates/parkiet/js/koszyk.js" type="text/javascript" charset="utf-8"></script>
+
+<div class="sklep2_koszyk_EMBEDDED">  
+
+   
+  
+  <div class="error_msgs">
+    
+
+    </div>  
+  
+  
+  <div class="sum">
+    
+    <div class="sum_brutto">Razem brutto: <span>0,00 PLN</span></div>
+    
+  </div>
+  
+  <div class="basket_embedded">
+    <div class="link_do_koszyka"><a href="/strefa_klienta/koszyk/" class="button"><!--Przejdź do koszyka--></a></div>
+  </div>
+   <div class="clear"></div>
+</div></div>
+<div style="float: right; margin-right: 5px;"><a href="http://www.youtube.com/user/ProfiParkiet2/videos?flow=grid&view=0" target="_blank" title="You Toube - nasz kanał"><img src="/templates/parkiet/images/you-toube.jpg" border="0" /></a><a href="https://www.facebook.com/Parkietpl" target="_blank" title="Facebook - nasz profil"><img src="/templates/parkiet/images/facebook.jpg" border="0" /></a></div></div>
+
+  <!-- menu [nav] start -->
+  <div id="menunav" class="menunav">
+    
+    <ul class="level1">
+      
+      <li class="page_140792  first">
+        
+        <a href="/wersja_polska/" class="label"  title="Start"><span>Start</span></a>
+        
+      </li>
+      
+      <li class="page_140843  submenu">
+        
+        <a href="/o_nas/" class="label"  title="O nas"><span>O nas</span></a>
+        
+    <ul class="level2">
+      
+      <li class="page_148738  first">
+        
+        <a href="/o_nas/historia_firmy/" class="label"  title="Historia firmy"><span>Historia firmy</span></a>
+        
+      </li>
+      
+      <li class="page_149366 ">
+        
+        <a href="/o_nas/kim_jestesmy/" class="label"  title="Kim jesteśmy?"><span>Kim jesteśmy?</span></a>
+        
+      </li>
+      
+      <li class="page_140845  last">
+        
+        <a href="/kontakt/" class="label"  title="Kontakt"><span>Kontakt</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+      </li>
+      
+      <li class="page_140793  parent submenu">
+        
+        <a href="/produkty/" class="label"  title="Produkty"><span>Produkty</span></a>
+        
+    <ul class="level2">
+      
+      <li class="page_140835  first parent submenu">
+        
+        <a href="/produkty/parkiety/" class="label"  title="Podłogi drewniane"><span>Podłogi drewniane</span></a>
+        
+    <ul class="level3">
+      
+      <li class="page_140836  first">
+        
+        <a href="/produkty/parkiety/parkiety_krajowe/" class="label"  title="Parkiety i deski krajowe"><span>Parkiety i deski krajowe</span></a>
+        
+      </li>
+      
+      <li class="page_149676 ">
+        
+        <a href="/produkty/parkiety/egzotyczne" class="label"  title="Parkiety i deski egzotyczne"><span>Parkiety i deski egzotyczne</span></a>
+        
+      </li>
+      
+      <li class="page_149682 ">
+        
+        <a href="/produkty/parkiety/a/mozaiki_przemyslowe/" class="label"  title="Mozaiki przemysłowe"><span>Mozaiki przemysłowe</span></a>
+        
+      </li>
+      
+      <li class="page_140838  last parent">
+        
+        <a href="/produkty/parkiety/parkiety_i_deski_gotowe/" class="label"  title="Podłogi gotowe"><span>Podłogi gotowe</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+      </li>
+      
+      <li class="page_140794  submenu">
+        
+        <a href="/strona.140794.html" class="label"  title="Listwy przypodłogowe"><span>Listwy przypodłogowe</span></a>
+        
+    <ul class="level3">
+      
+      <li class="page_140830  first">
+        
+        <a href="/produkty/listwy_przypodlogowe/cmprofile" class="label"  title="Listwy CM Profile"><span>Listwy CM Profile</span></a>
+        
+      </li>
+      
+      <li class="page_141947 ">
+        
+        <a href="/produkty/listwy_przypodlogowe/poluku" class="label"  title="Listwy po łuku"><span>Listwy po łuku</span></a>
+        
+      </li>
+      
+      <li class="page_149108 ">
+        
+        <a href="/produkty/listwy_przypodlogowe/opaski_drzwiowe" class="label"  title="Opaski drzwiowe"><span>Opaski drzwiowe</span></a>
+        
+      </li>
+      
+      <li class="page_148596 ">
+        
+        <a href="/produkty/listwy_przypodlogowe/dodatki" class="label"  title="Wykończenie listew i dodatki"><span>Wykończenie listew i dodatki</span></a>
+        
+      </li>
+      
+      <li class="page_149081  last">
+        
+        <a href="/produkty/listwy_przypodlogowe/warto_wiedziec" class="label"  title="Co warto wiedzieć o listwach MDF?"><span>Co warto wiedzieć o listwach MDF?</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+      </li>
+      
+      <li class="page_140795  last">
+        
+        <a href="/produkty/boazeria_angielska/" class="label"  title="Boazeria angielska"><span>Boazeria angielska</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+      </li>
+      
+      <li class="page_140847  submenu">
+        
+        <a href="/uslugi/" class="label"  title="Usługi"><span>Usługi</span></a>
+        
+    <ul class="level2">
+      
+      <li class="page_150337  first">
+        
+        <a href="/uslugi/ukladanie_i_renowacja_podlog_drewnianych/" class="label"  title="Układanie i renowacja parkietu"><span>Układanie i renowacja parkietu</span></a>
+        
+      </li>
+      
+      <li class="page_140848 ">
+        
+        <a href="/uslugi/podlogi_lazienkowe/" class="label"  title="Podłogi łazienkowe"><span>Podłogi łazienkowe</span></a>
+        
+      </li>
+      
+      <li class="page_140849 ">
+        
+        <a href="/uslugi/podlogi_palacowe/" class="label"  title="Podłogi pałacowe"><span>Podłogi pałacowe</span></a>
+        
+      </li>
+      
+      <li class="page_140851 ">
+        
+        <a href="/uslugi/uslugi_stolarskie/" class="label"  title="Usługi stolarskie"><span>Usługi stolarskie</span></a>
+        
+      </li>
+      
+      <li class="page_140852 ">
+        
+        <a href="/uslugi/cennik_uslug/" class="label"  title="Cennik usług"><span>Cennik usług</span></a>
+        
+      </li>
+      
+      <li class="page_140853  last">
+        
+        <a href="/uslugi/technologia/" class="label"  title="Technologia"><span>Technologia</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+      </li>
+      
+      <li class="page_140846  submenu">
+        
+        <a href="/realizacje/" class="label"  title="Realizacje"><span>Realizacje</span></a>
+        
+    <ul class="level2">
+      
+      <li class="page_143467  first">
+        
+        <a href="/realizacje/willa_parkiet_palac_dab" class="label"  title="Willa - parkiet pałacowy dębowy"><span>Willa - parkiet pałacowy dębowy</span></a>
+        
+      </li>
+      
+      <li class="page_143469 ">
+        
+        <a href="/realizacje/teak_ironwood" class="label"  title="Rezydencja pod Warszawą - teak &amp; ironwood"><span>Rezydencja pod Warszawą - teak &amp; ironwood</span></a>
+        
+      </li>
+      
+      <li class="page_143468 ">
+        
+        <a href="/realizacje/slowiczynski" class="label"  title="Domek rodzinny - wzór słowiczyński"><span>Domek rodzinny - wzór słowiczyński</span></a>
+        
+      </li>
+      
+      <li class="page_149593 ">
+        
+        <a href="/realizacje/lapacho_teak" class="label"  title="Domek rodzinny - Ipe Lapacho &amp; Teak"><span>Domek rodzinny - Ipe Lapacho &amp; Teak</span></a>
+        
+      </li>
+      
+      <li class="page_143470 ">
+        
+        <a href="/realizacje/palac_w_patrykozach/" class="label"  title="Pałac w Patrykozach"><span>Pałac w Patrykozach</span></a>
+        
+      </li>
+      
+      <li class="page_143464 ">
+        
+        <a href="/realizacje/palac_w_wilanowie/" class="label"  title="Pałac w Wilanowie - restauracja podłóg drewnianych"><span>Pałac w Wilanowie - restauracja podłóg drewnianych</span></a>
+        
+      </li>
+      
+      <li class="page_143466 ">
+        
+        <a href="/realizacje/urzad_rady_ministrow/" class="label"  title="Urząd Rady Ministrów"><span>Urząd Rady Ministrów</span></a>
+        
+      </li>
+      
+      <li class="page_149612 ">
+        
+        <a href="/realizacje/rozety_i_biezniki/" class="label"  title="Rozety i bieżniki"><span>Rozety i bieżniki</span></a>
+        
+      </li>
+      
+      <li class="page_149594 ">
+        
+        <a href="/realizacje/parkiet_w_lazience/" class="label"  title="Deski parkietowe w łazience"><span>Deski parkietowe w łazience</span></a>
+        
+      </li>
+      
+      <li class="page_152208 ">
+        
+        <a href="/realizacje/renowacja_20-letniego_parkietu/" class="label"  title="Renowacja 20-letniego parkietu"><span>Renowacja 20-letniego parkietu</span></a>
+        
+      </li>
+      
+      <li class="page_149718 ">
+        
+        <a href="/realizacje/schody/" class="label"  title="Schody"><span>Schody</span></a>
+        
+      </li>
+      
+      <li class="page_144002  last">
+        
+        <a href="/realizacje/inne_realizacje/" class="label"  title="Inne realizacje"><span>Inne realizacje</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+      </li>
+      
+      <li class="page_140844  submenu">
+        
+        <a href="/porady/" class="label"  title="Porady"><span>Porady</span></a>
+        
+    <ul class="level2">
+      
+      <li class="page_143475  first">
+        
+        <a href="/porady/dlaczego_warto_wybrac_drewniana_podloge/" class="label"  title="Czy warto wybrać drewnianą podłogę"><span>Czy warto wybrać drewnianą podłogę</span></a>
+        
+      </li>
+      
+      <li class="page_143476 ">
+        
+        <a href="/listwy-podlogowe" class="label"  title="Jak wybrać drewnianą podłogę"><span>Jak wybrać drewnianą podłogę</span></a>
+        
+      </li>
+      
+      <li class="page_143477  last">
+        
+        <a href="/porady/zanim_wybierzesz_podloge/" class="label"  title="Zanim wybierzesz podłogę"><span>Zanim wybierzesz podłogę</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+      </li>
+      
+      <li class="page_149613  submenu">
+        
+        <a href="/architekci" class="label"  title="Architekci"><span>Architekci</span></a>
+        
+    <ul class="level2">
+      
+      <li class="page_149614  first">
+        
+        <a href="/nasi_architekci/invent-deco/" class="label"  title="Invent-Deco "><span>Invent-Deco </span></a>
+        
+      </li>
+      
+      <li class="page_149618  last">
+        
+        <a href="/nasi_architekci/shumi_ekskluzywne_wnetrza/" class="label"  title="Shumi Ekskluzywne Wnętrza"><span>Shumi Ekskluzywne Wnętrza</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+      </li>
+      
+      <li class="page_150348  last">
+        
+        <a href="/regulamin/" class="label"  title="Cookies"><span>Cookies</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+  </div>
+  <!-- menu [nav] end -->
+  
+</div>
+
+<div id="level3">
+<div id="sciezka"><a href="/wersja_polska/"><span>Start</span></a> &raquo; <a href="/produkty/"><span>Produkty</span></a> &raquo; <a href="/produkty/parkiety/"><span>Podłogi drewniane</span></a> &raquo; <a href="/produkty/parkiety/parkiety_i_deski_gotowe/"><span>Podłogi gotowe</span></a> &raquo; <a href="/produkty/parkiety/parkiety_i_deski_gotowe/drewno_lite/"><span>Drewno lite</span></a> &raquo; <span>Parkiet olejowany - jesion</span></div>
+<div class="kolum1">
+<div class="tresc">
+  <!-- menu [path] start -->
+  <div  class="menupath">
+    <div class="title">OFERTA</div>
+    <ul class="level1">
+      
+      <li class="page_140836  first">
+        
+        <a href="/produkty/parkiety/parkiety_krajowe/" class="label"  title="Parkiety i deski krajowe"><span>Parkiety i deski krajowe</span></a>
+        
+      </li>
+      
+      <li class="page_149676 ">
+        
+        <a href="/produkty/parkiety/egzotyczne" class="label"  title="Parkiety i deski egzotyczne"><span>Parkiety i deski egzotyczne</span></a>
+        
+      </li>
+      
+      <li class="page_149682 ">
+        
+        <a href="/produkty/parkiety/a/mozaiki_przemyslowe/" class="label"  title="Mozaiki przemysłowe"><span>Mozaiki przemysłowe</span></a>
+        
+      </li>
+      
+      <li class="page_140838  last parent submenu">
+        
+        <a href="/produkty/parkiety/parkiety_i_deski_gotowe/" class="label"  title="Podłogi gotowe"><span>Podłogi gotowe</span></a>
+        
+    <ul class="level2">
+      
+      <li class="page_149837  first">
+        
+        <a href="/produkty/parkiety/parkiety_i_deski_gotowe/dab/" class="label"  title="Drewno barwione"><span>Drewno barwione</span></a>
+        
+      </li>
+      
+      <li class="page_149911 ">
+        
+        <a href="/produkty/parkiety/parkiety_i_deski_gotowe/drewno_naturalne/" class="label"  title="Drewno naturalne"><span>Drewno naturalne</span></a>
+        
+      </li>
+      
+      <li class="page_149970 ">
+        
+        <a href="/produkty/parkiety/parkiety_i_deski_gotowe/drewno_szczotkowane/" class="label"  title="Drewno szczotkowane"><span>Drewno szczotkowane</span></a>
+        
+      </li>
+      
+      <li class="page_149912  last parent">
+        
+        <a href="/produkty/parkiety/parkiety_i_deski_gotowe/drewno_lite/" class="label"  title="Drewno lite"><span>Drewno lite</span></a>
+        
+      </li>
+      
+    </ul>
+    
+  
+      </li>
+      
+    </ul>
+    
+  
+  </div>
+  <!-- menu [path] end -->
+  <div class="aktext"><p><table border="0"><tbody><tr><td><p align="center"><strong><font face="tahoma,arial,helvetica,sans-serif" size="3">Uwaga</font></strong></p><p align="center"><font face="tahoma,arial,helvetica,sans-serif" size="2"><strong><font color="#990000">Przy zakupie podłogi wraz z montażem doliczamy jedynie 8% VAT </font></strong><br /></font></p></td></tr></tbody></table></p></div><div class="aktext"><p><script type="text/javascript"> ListDo("parkiet", "parkiet.pl", "<img src=\"http://www.parkiet.pl/upload/obrazki/Guziki_i_ikony/pytania_ludzik_1.jpg\" border=\"0\" alt=\"zapytaj o wycenę\" width=\"303\" height=\"143\" />", " ", "") </script></p></div></div></div><div class="kolum2"><div class="tresc">
+<link rel="stylesheet" type="text/css" href="/templates/default/css/katalog2.css" />
+
+<div class="k2produkt">
+	
+
+<div class="prod_head">Parkiet olejowany - jesion</div>
+<div class="prod_galeria">
+	<div class="big">
+		<div class="loading">
+			<div class="img"></div>
+		</div>
+		<div class="empty">
+			<div class="img"></div>
+		</div>
+		
+		<div class="pic" key="domyslny">
+		<a href="/upload_dir/256/obrazki/parkiety-krajowe/jesion_natur.png">
+			<img class="img" src="/upload_dir/256/obrazki/parkiety-krajowe/mini/jesion_natur.m320.4.png" />
+		</a>
+		</div>
+		
+		<div class="pic" key="obraz_2">
+		<a href="/upload_dir/256/obrazki/parkiety-krajowe/jesion/jesion_3.jpg">
+			<img class="img" src="/upload_dir/256/obrazki/parkiety-krajowe/jesion/mini/jesion_3.m320.2.jpg" />
+		</a>
+		</div>
+		
+	</div>
+	<div class="small">
+		
+		<div class="pic" key="domyslny">
+		<a href="javascript:void(0)" onclick="$('.prod_galeria')">
+			<div class="img" style="background-image: url('/upload_dir/256/obrazki/parkiety-krajowe/mini/jesion_natur.m50.4.png');"></div>
+		</a>
+		</div>
+		
+		<div class="pic" key="obraz_2">
+		<a href="javascript:void(0)" onclick="$('.prod_galeria')">
+			<div class="img" style="background-image: url('/upload_dir/256/obrazki/parkiety-krajowe/jesion/mini/jesion_3.m50.2.jpg');"></div>
+		</a>
+		</div>
+		
+		<div style="clear: both;"></div>
+	</div>
+	<script type="text/javascript" src="/templates/default/js/jquery.lightbox-0.5.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/templates/default/js/jquery.lightbox-0.5.css" />
+	<script type="text/javascript" src="/templates/parkiet/parkiet.js"></script>
+	<script type="text/javascript">
+	$(function(){
+		parkietInitPictures();
+	});
+	</script>
+</div>
+<div class="prod_opis2">
+<font face="tahoma,arial,helvetica,sans-serif" size="2">Lite drewno, 4-stronnie fazowane </font>
+
+</div>
+
+<div class="prod_stopka">
+
+
+<!-- 
+<span  class="produkt_cena pos">
+
+     
+
+cena netto od:
+
+
+
+<span class="cena"><strong>0.00&nbsp;PLN</strong></span>
+<!---->	
+
+</span>
+
+
+
+</div>
+<div class="opis_dlugi">
+		<!--  /* Font Definitions */ @font-face 	{font-family:"Courier New"; 	panose-1:2 7 3 9 2 2 5 2 4 4; 	mso-font-charset:0; 	mso-generic-font-family:auto; 	mso-font-pitch:variable; 	mso-font-signature:3 0 0 0 1 0;} @font-face 	{font-family:Times; 	panose-1:2 0 5 0 0 0 0 0 0 0; 	mso-font-charset:0; 	mso-generic-font-family:auto; 	mso-font-pitch:variable; 	mso-font-signature:3 0 0 0 1 0;} @font-face 	{font-family:Wingdings; 	panose-1:5 0 0 0 0 0 0 0 0 0; 	mso-font-charset:2; 	mso-generic-font-family:auto; 	mso-font-pitch:variable; 	mso-font-signature:0 268435456 0 0 -2147483648 0;} @font-face 	{font-family:"ＭＳ 明朝"; 	mso-font-charset:78; 	mso-generic-font-family:auto; 	mso-font-pitch:variable; 	mso-font-signature:1 134676480 16 0 131072 0;} @font-face 	{font-family:"Cambria Math"; 	panose-1:2 4 5 3 5 4 6 3 2 4; 	mso-font-charset:0; 	mso-generic-font-family:auto; 	mso-font-pitch:variable; 	mso-font-signature:3 0 0 0 1 0;} @font-face 	{font-family:Cambria; 	panose-1:2 4 5 3 5 4 6 3 2 4; 	mso-font-charset:0; 	mso-generic-font-family:auto; 	mso-font-pitch:variable; 	mso-font-signature:-536870145 1073743103 0 0 415 0;} @font-face 	{font-family:"Czcionka tekstu podstawowego"; 	panose-1:0 0 0 0 0 0 0 0 0 0; 	mso-font-alt:"Times New Roman"; 	mso-font-charset:0; 	mso-generic-font-family:roman; 	mso-font-format:other; 	mso-font-pitch:auto; 	mso-font-signature:0 0 0 0 0 0;} @font-face 	{font-family:Tahoma; 	panose-1:2 11 6 4 3 5 4 4 2 4; 	mso-font-charset:0; 	mso-generic-font-family:auto; 	mso-font-pitch:variable; 	mso-font-signature:3 0 0 0 1 0;}  /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal 	{mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-parent:""; 	margin:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:Cambria; 	mso-ascii-font-family:Cambria; 	mso-ascii-theme-font:minor-latin; 	mso-fareast-font-family:"ＭＳ 明朝"; 	mso-fareast-theme-font:minor-fareast; 	mso-hansi-font-family:Cambria; 	mso-hansi-theme-font:minor-latin; 	mso-bidi-font-family:"Times New Roman"; 	mso-bidi-theme-font:minor-bidi;} .MsoChpDefault 	{mso-style-type:export-only; 	mso-default-props:yes; 	font-family:Cambria; 	mso-ascii-font-family:Cambria; 	mso-ascii-theme-font:minor-latin; 	mso-fareast-font-family:"ＭＳ 明朝"; 	mso-fareast-theme-font:minor-fareast; 	mso-hansi-font-family:Cambria; 	mso-hansi-theme-font:minor-latin; 	mso-bidi-font-family:"Times New Roman"; 	mso-bidi-theme-font:minor-bidi;} @page WordSection1 	{size:595.0pt 842.0pt; 	margin:72.0pt 90.0pt 72.0pt 90.0pt; 	mso-header-margin:35.4pt; 	mso-footer-margin:35.4pt; 	mso-paper-source:0;} div.WordSection1 	{page:WordSection1;}  /* List Definitions */ @list l0 	{mso-list-id:1800999428; 	mso-list-template-ids:-1312542912;} @list l0:level1 	{mso-level-number-format:bullet; 	mso-level-text:; 	mso-level-tab-stop:36.0pt; 	mso-level-number-position:left; 	text-indent:-18.0pt; 	mso-ansi-font-size:10.0pt; 	font-family:Symbol;} @list l0:level2 	{mso-level-number-format:bullet; 	mso-level-text:o; 	mso-level-tab-stop:72.0pt; 	mso-level-number-position:left; 	text-indent:-18.0pt; 	mso-ansi-font-size:10.0pt; 	font-family:"Courier New";} @list l0:level3 	{mso-level-number-format:bullet; 	mso-level-text:; 	mso-level-tab-stop:108.0pt; 	mso-level-number-position:left; 	text-indent:-18.0pt; 	mso-ansi-font-size:10.0pt; 	font-family:Wingdings;} @list l0:level4 	{mso-level-number-format:bullet; 	mso-level-text:; 	mso-level-tab-stop:144.0pt; 	mso-level-number-position:left; 	text-indent:-18.0pt; 	mso-ansi-font-size:10.0pt; 	font-family:Wingdings;} @list l0:level5 	{mso-level-number-format:bullet; 	mso-level-text:; 	mso-level-tab-stop:180.0pt; 	mso-level-number-position:left; 	text-indent:-18.0pt; 	mso-ansi-font-size:10.0pt; 	font-family:Wingdings;} @list l0:level6 	{mso-level-number-format:bullet; 	mso-level-text:; 	mso-level-tab-stop:216.0pt; 	mso-level-number-position:left; 	text-indent:-18.0pt; 	mso-ansi-font-size:10.0pt; 	font-family:Wingdings;} @list l0:level7 	{mso-level-number-format:bullet; 	mso-level-text:; 	mso-level-tab-stop:252.0pt; 	mso-level-number-position:left; 	text-indent:-18.0pt; 	mso-ansi-font-size:10.0pt; 	font-family:Wingdings;} @list l0:level8 	{mso-level-number-format:bullet; 	mso-level-text:; 	mso-level-tab-stop:288.0pt; 	mso-level-number-position:left; 	text-indent:-18.0pt; 	mso-ansi-font-size:10.0pt; 	font-family:Wingdings;} @list l0:level9 	{mso-level-number-format:bullet; 	mso-level-text:; 	mso-level-tab-stop:324.0pt; 	mso-level-number-position:left; 	text-indent:-18.0pt; 	mso-ansi-font-size:10.0pt; 	font-family:Wingdings;} ol 	{margin-bottom:0cm;} ul 	{margin-bottom:0cm;} -->        <p class="MsoNormal"><span style="font-size: 10pt; font-family: Times">&nbsp;</span></p>  <ul><li class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma">4-stronnie fazowany </span><span style="font-size: 10pt; font-family: Times"></span></li><li class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma">lakierowany </span><span style="font-size: 10pt; font-family: Times"></span></li><li class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma">lite drewno</span><span style="font-size: 10pt; font-family: Times"></span></li></ul>  <table border="0" cellspacing="0" cellpadding="0" width="422" class="MsoNormalTable" style="width: 422pt; margin-left: 4.65pt; border-collapse: collapse">  <tbody><tr style="height: 22pt">   <td width="69" valign="bottom" style="width: 69pt; padding: 0cm 5.4pt; height: 22pt">&nbsp;</td>   <td width="55" valign="bottom" style="width: 55pt; padding: 0cm 5.4pt; height: 22pt">&nbsp;</td>   <td colspan="2" width="212" valign="bottom" style="width: 212pt; padding: 0cm 5.4pt; height: 22pt">   <p class="MsoNormal"><strong><span style="font-size: 16pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: #9a3836">PARKIETY OLEJOWANE</span></strong></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; padding: 0cm 5.4pt; height: 22pt">&nbsp;</td>  </tr>  <tr style="height: 16pt">   <td colspan="2" width="124" valign="bottom" style="width: 124pt; border-width: 1pt; border-style: solid; border-color: windowtext black windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: #9a3836">Rodzaj drewna</span></strong></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: #9a3836">wymiary</span></strong></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: #9a3836">kolory</span></strong></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: #9a3836">cena netto m2</span></strong></p>   </td>  </tr>  <tr style="height: 16pt">   <td width="69" valign="bottom" style="width: 69pt; border-width: medium medium medium 1pt; border-style: none none none solid; border-color: -moz-use-text-color -moz-use-text-color -moz-use-text-color windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="55" valign="bottom" style="width: 55pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">bezbarwny</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">128</span></p>   </td>  </tr>  <tr style="height: 16pt">   <td colspan="2" width="124" valign="bottom" style="width: 124pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color black windowtext windowtext; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">Parkiet dąb klasa I</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">16x70x420</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">kolorowy</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">139</span></p>   </td>  </tr>  <tr style="height: 16pt">   <td width="69" valign="bottom" style="width: 69pt; border-width: medium medium medium 1pt; border-style: none none none solid; border-color: -moz-use-text-color -moz-use-text-color -moz-use-text-color windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="55" valign="bottom" style="width: 55pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">bezbarwny</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">130</span></p>   </td>  </tr>  <tr style="height: 16pt">   <td colspan="2" width="124" valign="bottom" style="width: 124pt; border-width: medium 1pt; border-style: none solid; border-color: -moz-use-text-color black -moz-use-text-color windowtext; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">Parkiet dąb klasa I</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">16x70x500</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">kolorowy</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">145</span></p>   </td>  </tr>  <tr style="height: 16pt">   <td width="69" valign="bottom" style="width: 69pt; border-width: medium medium 1pt 1pt; border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="55" valign="bottom" style="width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: medium medium 1pt; border-style: none none solid; border-color: -moz-use-text-color -moz-use-text-color windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">dwukolorowy</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">160</span></p>   </td>  </tr>  <tr style="height: 16pt">   <td width="69" valign="bottom" style="width: 69pt; border-width: medium medium medium 1pt; border-style: none none none solid; border-color: -moz-use-text-color -moz-use-text-color -moz-use-text-color windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="55" valign="bottom" style="width: 55pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">bezbarwny</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">138</span></p>   </td>  </tr>  <tr style="height: 16pt">   <td colspan="2" width="124" valign="bottom" style="width: 124pt; border-width: medium 1pt; border-style: none solid; border-color: -moz-use-text-color black -moz-use-text-color windowtext; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">Parkiet dąb klasa I</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">22x70x500</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">kolorowy</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">150</span></p>   </td>  </tr>  <tr style="height: 16pt">   <td width="69" valign="bottom" style="width: 69pt; border-width: medium medium 1pt 1pt; border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="55" valign="bottom" style="width: 55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: medium medium 1pt; border-style: none none solid; border-color: -moz-use-text-color -moz-use-text-color windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">dwukolorowy</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">168</span></p>   </td>  </tr>  <tr style="height: 16pt">   <td width="69" valign="bottom" style="width: 69pt; border-width: medium medium medium 1pt; border-style: none none none solid; border-color: -moz-use-text-color -moz-use-text-color -moz-use-text-color windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="55" valign="bottom" style="width: 55pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">bezbarwny</span></strong></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">130</span></strong></p>   </td>  </tr>  <tr style="height: 16pt">   <td colspan="2" width="124" valign="bottom" style="width: 124pt; border-width: medium 1pt; border-style: none solid; border-color: -moz-use-text-color black -moz-use-text-color windowtext; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">Parkiet jesion klasa I</span></strong></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">16x70x350</span></strong></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">kolorowy</span></strong></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">142</span></strong></p>   </td>  </tr>  <tr style="height: 16pt">   <td width="69" valign="bottom" style="width: 69pt; border-width: medium medium medium 1pt; border-style: none none none solid; border-color: -moz-use-text-color -moz-use-text-color -moz-use-text-color windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></strong></p>   </td>   <td width="55" valign="bottom" style="width: 55pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></strong></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></strong></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">dwukolorowy</span></strong></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt medium medium; border-style: none solid none none; border-color: -moz-use-text-color windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><strong><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">161</span></strong></p>   </td>  </tr>  <tr style="height: 15pt">   <td colspan="2" width="124" valign="bottom" style="width: 124pt; border-width: 1pt 1pt medium; border-style: solid solid none; border-color: windowtext black -moz-use-text-color windowtext; padding: 0cm 5.4pt; height: 15pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">Parkiet jesion</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: 1pt medium medium; border-style: solid none none; border-color: windowtext -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 15pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: 1pt medium medium 1pt; border-style: solid none none solid; border-color: windowtext -moz-use-text-color -moz-use-text-color windowtext; padding: 0cm 5.4pt; height: 15pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: 1pt 1pt medium; border-style: solid solid none; border-color: windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 15pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">&nbsp;</span></p>   </td>  </tr>  <tr style="height: 16pt">   <td colspan="2" width="124" valign="bottom" style="width: 124pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color black windowtext windowtext; padding: 0cm 5.4pt; height: 16pt">   <p class="MsoNormal"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">thermo koniak kl. I</span></p>   </td>   <td width="95" valign="bottom" style="width: 95.15pt; border-width: medium medium 1pt; border-style: none none solid; border-color: -moz-use-text-color -moz-use-text-color windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">16x70x500</span></p>   </td>   <td width="117" valign="bottom" style="width: 116.85pt; border-width: medium medium 1pt 1pt; border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">bezbarwny</span></p>   </td>   <td width="86" valign="bottom" style="width: 86pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; padding: 0cm 5.4pt; height: 16pt">   <p style="text-align: center" class="MsoNormal" align="center"><span style="font-size: 11pt; font-family: &quot;Czcionka tekstu podstawowego&quot;,&quot;serif&quot;; color: black">167</span></p>   </td>  </tr> </tbody></table>  <p class="MsoNormal">&nbsp;</p>
+	</div>
+</div>
+<div style="clear: both;"></div>
+</div><div class="actions" style="text-align: right;"><a href="#">^ do góry</a> | <a href="javascript:history.go(-1);">powrót ›</a></div></div></div>
+<div id="level4"><div class="tresc"><div class="aktext"><p><div> 				</div><table border="0" cellspacing="1" cellpadding="10" width="100%" align="center" style="font-size: 110%"> 	<tbody> 		<tr> 			<td align="left" valign="top" style="width: 25%"> 					<h3 style="font-size: 100%; margin: 0px">PROFI PARKIET II Salon</h3><br /> 					<div> 					     ul. <span>Kępna 2</span><br /> 					     <span>03-730 </span> 					     <span><strong>Warszawa</strong></span> 					</div><br /> 					www: <a href="http://www.parkiet.pl" target="_blank">www.parkiet.pl</a> 				</td> 				<td align="left" valign="top" style="width: 25%"> 					<strong>Skontaktuj się z nami</strong><br /><br /> 					tel. <span>022 618 26 47</span><br /> 					fax. <span>022 618 79 23</span><br /><br /> 					email: <script type="text/javascript"> ListDo("parkiet", "parkiet.pl", "<span>parkiet // parkiet.pl</span>", " ", "") </script> 				</td> 			 			<td align="left" valign="top" style="width: 25%"> 				<strong>Godziny otwarcia:</strong><br /><br /> 				pon.-pt. - 8.00 - 16.00<br /> 				sob. - 10.00 - 13.00 (co 2 tygodnie) 			</td> 			<td valign="top" style="width: 25%"> 				<p align="left"><strong>Zobacz na <a href="http://www.parkiet.pl/kontakt/">mapie</a> gdzie jesteśmy</strong></p> 				<div align="left" style="text-align: center"><a href="http://www.parkiet.pl/kontakt/"><img src="http://www.parkiet.pl/upload/obrazki/Guziki_i_ikony/mapa.jpg" border="0" alt="gdzie jestesmy" width="101" height="81" /></a></div><br /> 			</td> 		</tr>	 	</tbody> </table></p></div><div class="aktext"><p>Korzystanie z serwisu oznacza akceptację <a href="http://www.parkiet.pl/regulamin/" target="_blank">regulaminu</a> .<br /><a href="http://www.parkiet.pl/regulamin/" target="_blank">Informacja o cookies</a></p></div></div></div>
+
+
+<div id="level6">
+<div class="kolum1"><strong>PROFI PARKIET II</strong>: podłogi drewniane, CM profile - listwy przypodłogowe</div>
+<div class="kolum2"><a href="http://www.mediaconsulting.pl" title="Rozwiązania internetowe - MediaConsulting.pl" target="_blank">Realizacja, system MC CMS - MediaConsulting.pl</a></div>
+</div>
+
+</div>
+<!-- Google Code for Byli na stronie do 30 -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1042867085;
+var google_conversion_label = "3M3yCNPQnAUQjcej8QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1042867085/?value=0&amp;label=3M3yCNPQnAUQjcej8QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body><!-- 0.25621104240417 -->
+</html>
+

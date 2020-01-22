@@ -1,0 +1,1382 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | Indeksy giełdowe</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class="selected"><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox">
+<h1>Indeksy giełdowe</h1>
+<p>Notowania GPW dostarcza <a href="http://www.notoria.pl" target="_blank">Notoria</a></p>
+<p class="description">Kliknij w kolumnę aby posortować, kliknij drugi raz aby zmienić kolejność sortowania</p>
+
+<table id="bigstock" class="sortable {sortlist: [[1,0]]}">
+<thead>
+<tr>
+<td colspan="20" class="widebox_nav" >
+<a href="01A,ND" >wszystkie</a> |
+<a href="00I,Wallets" class="selected">indeksy</a> |
+<a href="AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" >akcje</a> |
+<a href="WIG" >WIG</a> | 
+<a href="WIG20" >WIG20</a> | 
+<a href="mWIG40" >mWIG40</a> | 
+<a href="sWIG80" >sWIG80</a> | 
+<a href="01S" >New Connect</a> |
+<a href="01F" >kontrakty terminowe</a>
+</td>
+</tr>
+<tr>
+<th><b>czas</b></th>
+<th><b>instrument</b></th>
+<th class="{sorter:'digit'}"><b>kurs</b></th>
+<th class="{sorter: 'procent'}"><b>%</b></th>
+<th class="{sorter:'digit'}"><b>kurs odniesienia</b></th>
+<th class="{sorter:'digit'}"><b>min.</b></th>
+<th class="{sorter:'digit'}"><b>maks.</b></th>
+<th class="{sorter:'digit'}"><b>otw.</b></th>
+<th class="{sorter:'digit'}"><b>zam.</b></th>
+<th class="{sorter:'digit'}"><b>wolumen</b><br />(tys.)</th>
+<th class="endblock"><b>obroty</b><br />(tys. zł)</th>
+<th class="{sorter:'digit'}" title="wartość rynkowa"><b>kapitalizacja</b><br />(mln zł)</th>
+<th class="{sorter:'digit'}" title="beta"><b>beta</b></th>
+<th class="{sorter:'digit'}" title="cena / zysk netto"><b>P/E</b></th>
+<th class="{sorter:'digit'}" title="cena / wartość księgowa"><b>P/BV</b></th>
+<th class="{sorter:'digit'}" title="rentowność aktywów = E/Aktywa"><b>ROA</b><br />(%)</th>
+<th class="{sorter:'digit'}" title="rentowność kapitałów własnych = E/BV"><b>ROE</b><br />(%)</th>
+<th class="{sorter:'digit'}"><b>min. roczne</b></th>
+<th class="{sorter:'digit'}"><b>maks. roczne</b></th>
+</tr>
+</thead>
+<tbody>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999755/wig-media">WIG-MEDIA &raquo;</a></td>
+<td>2623.23</td>
+<td class="down"><b>-2.97%</b></td>
+<td>2658.58</td>
+<td>2579.62</td>
+<td>2643.55</td>
+<td>2643.55</td>
+<td>2579.62</td>
+<td>&ndash;</td>
+<td>3720.90</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999599/wig-poland">WIG-Poland &raquo;</a></td>
+<td>45668.95</td>
+<td class="down"><b>-1.18%</b></td>
+<td>46017.88</td>
+<td>45473.08</td>
+<td>45668.95</td>
+<td>45535.95</td>
+<td>45473.08</td>
+<td>&ndash;</td>
+<td>971858.29</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999870/wig-telkom">WIG-TELKOM &raquo;</a></td>
+<td>703.23</td>
+<td class="down"><b>-0.60%</b></td>
+<td>707.10</td>
+<td>702.85</td>
+<td>707.12</td>
+<td>707.12</td>
+<td>702.85</td>
+<td>&ndash;</td>
+<td>18109.30</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999458/wig-ukrain">WIG-Ukrain &raquo;</a></td>
+<td>605.00</td>
+<td class="down"><b>-0.13%</b></td>
+<td>603.42</td>
+<td>600.44</td>
+<td>605.00</td>
+<td>600.44</td>
+<td>602.64</td>
+<td>&ndash;</td>
+<td>5046.87</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999466/wig-surowc">WIG-SUROWC &raquo;</a></td>
+<td>5189.02</td>
+<td class="down"><b>-0.39%</b></td>
+<td>5236.73</td>
+<td>5162.09</td>
+<td>5216.09</td>
+<td>5162.09</td>
+<td>5216.09</td>
+<td>&ndash;</td>
+<td>295041.64</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL9999999888/wig-spozyw">WIG-SPOZYW &raquo;</a></td>
+<td>3342.66</td>
+<td class="up"><b>+0.22%</b></td>
+<td>3320.24</td>
+<td>3300.81</td>
+<td>3342.66</td>
+<td>3300.81</td>
+<td>3327.55</td>
+<td>&ndash;</td>
+<td>8040.25</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999490/ncxlifesci">NCXLifeSci &raquo;</a></td>
+<td>56.43</td>
+<td class="down"><b>-1.63%</b></td>
+<td>56.95</td>
+<td>56.02</td>
+<td>56.62</td>
+<td>56.62</td>
+<td>56.02</td>
+<td>&ndash;</td>
+<td>107.19</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999896/wig-budow">WIG-BUDOW &raquo;</a></td>
+<td>1704.45</td>
+<td class="down"><b>-3.48%</b></td>
+<td>1769.42</td>
+<td>1704.45</td>
+<td>1741.19</td>
+<td>1741.19</td>
+<td>1707.83</td>
+<td>&ndash;</td>
+<td>7899.63</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999722/wig-paliwa">WIG-PALIWA &raquo;</a></td>
+<td>3835.16</td>
+<td class="down"><b>-1.44%</b></td>
+<td>3847.08</td>
+<td>3791.82</td>
+<td>3835.16</td>
+<td>3829.59</td>
+<td>3791.82</td>
+<td>&ndash;</td>
+<td>48584.79</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999540/respect">RESPECT &raquo;</a></td>
+<td>2419.55</td>
+<td class="down"><b>-0.79%</b></td>
+<td>2438.71</td>
+<td>2419.52</td>
+<td>2437.74</td>
+<td>2436.28</td>
+<td>2419.55</td>
+<td>&ndash;</td>
+<td>437292.31</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999995/wig">WIG &raquo;</a></td>
+<td>45066.18</td>
+<td class="down"><b>-1.13%</b></td>
+<td>45580.47</td>
+<td>45066.18</td>
+<td>45475.73</td>
+<td>45467.91</td>
+<td>45066.18</td>
+<td>&ndash;</td>
+<td>984496.40</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999565/ncindex">NCIndex &raquo;</a></td>
+<td>32.54</td>
+<td class="down"><b>-0.21%</b></td>
+<td>32.61</td>
+<td>32.38</td>
+<td>32.62</td>
+<td>32.62</td>
+<td>32.54</td>
+<td>&ndash;</td>
+<td>2351.98</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999987/wig20">WIG20 &raquo;</a></td>
+<td>2370.02</td>
+<td class="down"><b>-1.08%</b></td>
+<td>2395.82</td>
+<td>2367.71</td>
+<td>2391.84</td>
+<td>2391.08</td>
+<td>2370.02</td>
+<td>&ndash;</td>
+<td>842468.46</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999482/wigdiv">WIGdiv &raquo;</a></td>
+<td>982.63</td>
+<td class="down"><b>-1.03%</b></td>
+<td>992.85</td>
+<td>982.63</td>
+<td>992.76</td>
+<td>992.76</td>
+<td>982.63</td>
+<td>&ndash;</td>
+<td>727804.11</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999532/wig20lev">WIG20lev &raquo;</a></td>
+<td>938.56</td>
+<td class="down"><b>-2.16%</b></td>
+<td>959.31</td>
+<td>936.72</td>
+<td>956.04</td>
+<td>955.43</td>
+<td>938.56</td>
+<td>&ndash;</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999912/mwig40">mWIG40 &raquo;</a></td>
+<td>2596.69</td>
+<td class="down"><b>-1.47%</b></td>
+<td>2635.54</td>
+<td>2596.69</td>
+<td>2630.59</td>
+<td>2629.71</td>
+<td>2596.69</td>
+<td>&ndash;</td>
+<td>66733.71</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999441/wig-plus">WIG-Plus &raquo;</a></td>
+<td>845.32</td>
+<td class="down"><b>-0.65%</b></td>
+<td>850.86</td>
+<td>835.67</td>
+<td>847.12</td>
+<td>846.83</td>
+<td>845.32</td>
+<td>&ndash;</td>
+<td>16911.50</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999979/swig80">sWIG80 &raquo;</a></td>
+<td>10908.77</td>
+<td class="down"><b>-1.45%</b></td>
+<td>11069.03</td>
+<td>10837.33</td>
+<td>11021.18</td>
+<td>11021.18</td>
+<td>10908.77</td>
+<td>&ndash;</td>
+<td>42145.68</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999904/wig-banki">WIG-BANKI &raquo;</a></td>
+<td>6299.51</td>
+<td class="down"><b>-1.45%</b></td>
+<td>6357.84</td>
+<td>6239.20</td>
+<td>6299.51</td>
+<td>6239.20</td>
+<td>6265.59</td>
+<td>&ndash;</td>
+<td>368158.21</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999672/investorms">InvestorMS &raquo;</a></td>
+<td>2800.94</td>
+<td class="down"><b>-1.16%</b></td>
+<td>2833.61</td>
+<td>2800.67</td>
+<td>2800.94</td>
+<td>2800.94</td>
+<td>2800.67</td>
+<td>&ndash;</td>
+<td>162891.99</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL9999999524/wig20short">WIG20short &raquo;</a></td>
+<td>3189.91</td>
+<td class="up"><b>+1.09%</b></td>
+<td>3155.36</td>
+<td>3161.17</td>
+<td>3192.94</td>
+<td>3162.16</td>
+<td>3189.91</td>
+<td>&ndash;</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999516/wig-energ">WIG-ENERG &raquo;</a></td>
+<td>3448.58</td>
+<td class="down"><b>-1.05%</b></td>
+<td>3443.55</td>
+<td>3407.51</td>
+<td>3448.58</td>
+<td>3445.79</td>
+<td>3407.51</td>
+<td>&ndash;</td>
+<td>34921.01</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999706/wig-dewel">WIG-DEWEL &raquo;</a></td>
+<td>1357.46</td>
+<td class="down"><b>-1.29%</b></td>
+<td>1372.60</td>
+<td>1354.95</td>
+<td>1357.46</td>
+<td>1356.56</td>
+<td>1354.95</td>
+<td>&ndash;</td>
+<td>13580.43</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999847/wig-chemia">WIG-CHEMIA &raquo;</a></td>
+<td>10481.48</td>
+<td class="down"><b>-2.35%</b></td>
+<td>10554.19</td>
+<td>10306.40</td>
+<td>10481.48</td>
+<td>10415.33</td>
+<td>10306.40</td>
+<td>&ndash;</td>
+<td>16310.75</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL9999999771/wig-info">WIG-INFO &raquo;</a></td>
+<td>1106.61</td>
+<td class="down"><b>-1.62%</b></td>
+<td>1110.00</td>
+<td>1091.98</td>
+<td>1106.61</td>
+<td>1102.68</td>
+<td>1091.98</td>
+<td>&ndash;</td>
+<td>10829.75</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/Moska/pb-moska">PB Moska &raquo;</a></td>
+<td>159.20</td>
+<td class="up"><b>+0.31%</b></td>
+<td>158.70</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>110.90</td>
+<td>159.20</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/Karkosik/pb-karkosik">PB Karkosik &raquo;</a></td>
+<td>226.06</td>
+<td class="down"><b>-2.23%</b></td>
+<td>231.21</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>228.20</td>
+<td>226.06</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/MillenniumDM/millenniumdm">MillenniumDM &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b></b></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/Czarnecki/pb-czarnecki">PB Czarnecki &raquo;</a></td>
+<td>125.19</td>
+<td class="down"><b>-0.66%</b></td>
+<td>126.02</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>123.80</td>
+<td>125.19</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/Solowow/pb-solowow">PB Sołowow &raquo;</a></td>
+<td>299.67</td>
+<td class="down"><b>-3.42%</b></td>
+<td>310.29</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>307.16</td>
+<td>299.67</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/DMDBM/dmdbm">DMDBM &raquo;</a></td>
+<td>10613.42</td>
+<td class="down"><b>-0.26%</b></td>
+<td>10640.90</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>10441.64</td>
+<td>10613.42</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/Jedrzejewski/pb-jedrzejewski">PB Jedrzejewski &raquo;</a></td>
+<td>134.00</td>
+<td class="down"><b>-0.12%</b></td>
+<td>134.16</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>133.09</td>
+<td>134.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/Raiffeisen/raiffeisen">Raiffeisen &raquo;</a></td>
+<td>981769.75</td>
+<td class="down"><b>-1.97%</b></td>
+<td>1001489.16</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>998869.66</td>
+<td>981769.75</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/BMAlior/bmalior">BMAlior &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b></b></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/NobleSecurities/noblesecurities">NobleSecurities &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b></b></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/CDMPekao/cdmpekao">CDMPekao &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b></b></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/Krauze/pb-krauze">PB Krauze &raquo;</a></td>
+<td>21.25</td>
+<td class="down"><b>-1.44%</b></td>
+<td>21.56</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>21.47</td>
+<td>21.25</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/Patrowicz/pb-patrowicz">PB Patrowicz &raquo;</a></td>
+<td>984.97</td>
+<td class="down"><b>-0.87%</b></td>
+<td>993.59</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>508.45</td>
+<td>984.97</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/Jakubas/pb-jakubas">PB Jakubas &raquo;</a></td>
+<td>129.85</td>
+<td class="down"><b>-0.70%</b></td>
+<td>130.76</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>130.18</td>
+<td>129.85</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/Jutkiewicz/pb-jutkiewicz">PB Jutkiewicz &raquo;</a></td>
+<td>10.48</td>
+<td class="up"><b>+7.80%</b></td>
+<td>9.72</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>6.19</td>
+<td>10.48</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/BMDnBNord/bmdnbnord">BMDnBNord &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b></b></td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/DMBPS/dmbps">DMBPS &raquo;</a></td>
+<td>8735.66</td>
+<td class="up"><b>+0.01%</b></td>
+<td>8734.35</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>8767.05</td>
+<td>8735.66</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/DMPKOBP/dmpkobp">DMPKOBP &raquo;</a></td>
+<td>101638.40</td>
+<td class="down"><b>-1.68%</b></td>
+<td>103376.10</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>102851.80</td>
+<td>101638.40</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/Solorz/pb-solorz">PB Solorz &raquo;</a></td>
+<td>73.31</td>
+<td class="down"><b>-4.45%</b></td>
+<td>76.72</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>76.12</td>
+<td>73.31</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PBLucy/portfel-lucy">Portfel Lucy &raquo;</a></td>
+<td>121.18</td>
+<td class="down"><b>-0.59%</b></td>
+<td>121.90</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>121.52</td>
+<td>121.18</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/DMAmertBrokers/dmamertbrokers">DMAmertBrokers &raquo;</a></td>
+<td>10726.68</td>
+<td class="down"><b>-1.04%</b></td>
+<td>10839.62</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>9454.16</td>
+<td>10726.68</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+</tbody>
+<tr>
+<td></td>
+<td class="down"><b>RAZEM</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><b>5085305.14</b></td>
+<td><b>0.00</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th ><b>czas</b></th>
+<th><b>instrument</b></th>
+<th  class="{sorter:'digit'}"><b>kurs</b></th>
+<th  class="{sorter:'digit'}"><b>%</b></th>
+<th  class="{sorter:'digit'}"><b>kurs odniesienia</b></th>
+<th class="{sorter:'digit'}"><b>min.</b></th>
+<th class="{sorter:'digit'}"><b>maks.</b></th>
+<th class="{sorter:'digit'}"><b>otw.</b></th>
+<th class="{sorter:'digit'}"><b>zam.</b></th>
+<th class="{sorter:'digit'}"><b>wolumen</b><br />(tys.)</th>
+<th class="endblock"><b>obroty</b><br />(tys. zł)</th>
+<th class="{sorter:'digit'}" title="wartość rynkowa"><b>kapitalizacja</b><br />(mln zł)</th>
+<th class="{sorter:'digit'}" title="Beta"><b>beta</b></th>
+<th class="{sorter:'digit'}" title="cena / zysk netto"><b>P/E</b></th>
+<th class="{sorter:'digit'}" title="cena / wartość księgowa"><b>P/BV</b></th>
+<th class="{sorter:'digit'}" title="rentowność aktywów = E/aktywa"><b>ROA</b><br />(%)</th>
+<th class="{sorter:'digit'}" title="rentowność kapitałów własnych = E/BV"><b>ROE</b><br />(%)</th>
+<th class="{sorter:'digit'}"><b>min. roczne</b></th>
+<th class="{sorter:'digit'}"><b>maks. roczne</b></th>
+</tr>
+</table>
+<script type="text/javascript">
+sortList = [[1,0]];
+function i_on(e)
+{
+	e.style.backgroundColor = 'white';
+}
+function i_out(e)
+{
+	e.style.backgroundColor = 'transparent';
+}
+</script>
+</div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

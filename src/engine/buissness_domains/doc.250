@@ -1,0 +1,638 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | Surowce</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class="selected"><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+
+<div id="bigbox">
+<div class="left">
+<ul>
+
+
+
+
+
+<li id="_bigbox_PBST223f8159" class="down c">
+<a href="/instrument/PBST223f8159/cynk" class="down" onmouseover="bfl('PBST223f8159', '/chart_daily/MediumChart/PBST223f8159/270/200', 'bigbox');" id="bigbox_PBST223f8159">
+			<span class="c1"><b>cynk </b></span>	
+	
+			<span class="number c2">1913.00</span>
+	
+			<span class="number c3">-0.26%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBST22540584" class=" c">
+<a href="/instrument/PBST22540584/srebro" class="" onmouseover="bfl('PBST22540584', '/chart_daily/MediumChart/PBST22540584/270/200', 'bigbox');" id="bigbox_PBST22540584">
+			<span class="c1"><b>srebro </b></span>	
+	
+			<span class="number c2">28.63</span>
+	
+			<span class="number c3">&ndash;</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBST32deb3c5" class="up c">
+<a href="/instrument/PBST32deb3c5/ropa-brent" class="up" onmouseover="bfl('PBST32deb3c5', '/chart_daily/MediumChart/PBST32deb3c5/270/200', 'bigbox');" id="bigbox_PBST32deb3c5">
+			<span class="c1"><b>ropa brent </b></span>	
+	
+			<span class="number c2">107.50</span>
+	
+			<span class="number c3">+0.28%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBST3f8685a1" class="up c">
+<a href="/instrument/PBST3f8685a1/zloto" class="up" onmouseover="bfl('PBST3f8685a1', '/chart_daily/MediumChart/PBST3f8685a1/270/200', 'bigbox');" id="bigbox_PBST3f8685a1">
+			<span class="c1"><b>złoto </b></span>	
+	
+			<span class="number c2">1607.79</span>
+	
+			<span class="number c3">+0.01%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBST6884123" class="down c">
+<a href="/instrument/PBST6884123/platyna" class="down" onmouseover="bfl('PBST6884123', '/chart_daily/MediumChart/PBST6884123/270/200', 'bigbox');" id="bigbox_PBST6884123">
+			<span class="c1"><b>platyna </b></span>	
+	
+			<span class="number c2">1579.50</span>
+	
+			<span class="number c3">-1.34%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBST689c3f94" class="up c">
+<a href="/instrument/PBST689c3f94/miedz" class="up" onmouseover="bfl('PBST689c3f94', '/chart_daily/MediumChart/PBST689c3f94/270/200', 'bigbox');" id="bigbox_PBST689c3f94">
+			<span class="c1"><b>miedź </b></span>	
+	
+			<span class="number c2">7618.00</span>
+	
+			<span class="number c3">+0.50%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBST705700d9" class="up c">
+<a href="/instrument/PBST705700d9/aluminium" class="up" onmouseover="bfl('PBST705700d9', '/chart_daily/MediumChart/PBST705700d9/270/200', 'bigbox');" id="bigbox_PBST705700d9">
+			<span class="c1"><b>aluminium </b></span>	
+	
+			<span class="number c2">1938.50</span>
+	
+			<span class="number c3">+0.08%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBST78021077" class="down c">
+<a href="/instrument/PBST78021077/olow" class="down" onmouseover="bfl('PBST78021077', '/chart_daily/MediumChart/PBST78021077/270/200', 'bigbox');" id="bigbox_PBST78021077">
+			<span class="c1"><b>ołów </b></span>	
+	
+			<span class="number c2">2163.50</span>
+	
+			<span class="number c3">-0.94%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBST7a86425f" class="down c">
+<a href="/instrument/PBST7a86425f/pallad" class="down" onmouseover="bfl('PBST7a86425f', '/chart_daily/MediumChart/PBST7a86425f/270/200', 'bigbox');" id="bigbox_PBST7a86425f">
+			<span class="c1"><b>pallad </b></span>	
+	
+			<span class="number c2">768.00</span>
+	
+			<span class="number c3">-0.03%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBSTb7746ee" class="up c">
+<a href="/instrument/PBSTb7746ee/cyna" class="up" onmouseover="bfl('PBSTb7746ee', '/chart_daily/MediumChart/PBSTb7746ee/270/200', 'bigbox');" id="bigbox_PBSTb7746ee">
+			<span class="c1"><b>cyna </b></span>	
+	
+			<span class="number c2">22750.00</span>
+	
+			<span class="number c3">+0.24%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBSTed239c65" class="down c">
+<a href="/instrument/PBSTed239c65/nikiel" class="down" onmouseover="bfl('PBSTed239c65', '/chart_daily/MediumChart/PBSTed239c65/270/200', 'bigbox');" id="bigbox_PBSTed239c65">
+			<span class="c1"><b>nikiel </b></span>	
+	
+			<span class="number c2">16930.00</span>
+	
+			<span class="number c3">-0.09%</span>
+	
+</a></li>
+
+</ul>
+<br />
+<p class="bigbox_description"></p>
+</div>
+
+<div class="right">
+<a id="bigbox_chart_link" href="/instrument/PBST223f8159/cynk"><img src="/chart_daily/MediumChart/PBST223f8159/270/200" id="bigbox_chart" alt="wykres" /></a>
+</div>
+</div><!-- / #bigbox -->
+<script type="text/javascript">
+pbtools.apreload("/chart_daily/MediumChart/PBST223f8159/270/200,/chart_daily/MediumChart/PBST22540584/270/200,/chart_daily/MediumChart/PBST32deb3c5/270/200,/chart_daily/MediumChart/PBST3f8685a1/270/200,/chart_daily/MediumChart/PBST6884123/270/200,/chart_daily/MediumChart/PBST689c3f94/270/200,/chart_daily/MediumChart/PBST705700d9/270/200,/chart_daily/MediumChart/PBST78021077/270/200,/chart_daily/MediumChart/PBST7a86425f/270/200,/chart_daily/MediumChart/PBSTb7746ee/270/200,/chart_daily/MediumChart/PBSTed239c65/270/200".split(','));
+</script>
+
+<div class="spacer">&nbsp;</div>
+
+</div>
+<div id="ado-wH3s50v9LUNZwKjzl90Mk7bU3O4wJL.hin5PLQQ_7XH.e7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.Pod boksem fundusze */
+ado.placement({id: 'ado-wH3s50v9LUNZwKjzl90Mk7bU3O4wJL.hin5PLQQ_7XH.e7', server: 'myao.adocean.pl' });
+</script>
+</div>
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+
+
+<!-- news1 -->
+<div id="news1">
+<div class="content">
+<h2>Wiadomości</h2>
+
+
+<div id="ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.1 kolumna news GPW */
+ado.placement({id: 'ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7', server: 'myao.adocean.pl' });
+</script>
+    <p class="first"><a href="http://www.pb.pl/3054223,52089" target="_blank"><span class="dt">13:38</span> Schauble: Niemcy nie ugną się przed Cyprem</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054199,85294" target="_blank"><span class="dt">13:29</span> Policja przeszukała dom Bieriezowskiego </a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3051286,61234" target="_blank"><span class="dt">12:31</span> Zbawicielem Cypru powinna być Turcja, nie Rosja</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054206,2197" target="_blank"><span class="dt">10:45</span> Manifest kardynała Bergoglio przeciwko korupcji </a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054190,81103" target="_blank"><span class="dt">10:10</span> 10 biznesowych wojen wszech czasów</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054203,4447" target="_blank"><span class="dt">09:00</span> Wpadka z prześwitującymi spodniami</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054201,93174" target="_blank"><span class="dt">08:32</span> Wojterkowski w Rogu Afryki</a></p>
+    
+</div><!--  /.content -->
+<div id="ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.1 kolumna news przeglad dol */
+ado.placement({id: 'ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7', server: 'myao.adocean.pl' });
+</script>
+<a href="http://www.pb.pl/" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie wiadomości</a>
+
+</div><!-- /news1 -->
+
+
+<!--  news2 -->
+<div id="news2">
+<div class="content">
+<h2>Puls Biznesu</h2>
+<div id="ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.2 kolumna news */
+ado.placement({id: 'ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67', server: 'myao.adocean.pl' });
+</script>
+	
+	    <div class="box">
+	    	<h3><a href="http://www.pb.pl/3050336,28478" target="_blank">Gazela Biznesu nie trafi za kratki</a></h3>
+	    	<p><a href="http://www.pb.pl/3050336,28478" target="_blank">Przedsiębiorca, któremu prokuratura zarzuca wyłudzenie 11 mln zł VAT, zostanie na wolności. Na jego aresztowanie nie zgodził się już drugi...&nbsp;<img src="/style/pointer_red.gif" alt="..." /></a></p>
+	    </div>
+	    <div class="box">
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049885," target="_blank">W sprawie JTT każdy sąd wie swoje</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049881," target="_blank">BGK – ostatni bastion kominiarzy</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049878," target="_blank">Roman Karkosik chwyta za kielnię</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3047733," target="_blank">Neverending story w Straży Granicznej</a></p>
+	
+	</div>
+</div><!-- /.content -->
+<a href="http://prenumerata.pb.pl/Today" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />czytaj e-wydanie</a>
+</div><!-- /news2 -->
+
+
+<!--  news3 -->
+<div id="news3">
+<div class="content">
+<h2>Forum</h2>
+<h3><a href="http://www.pb.pl/3052115," >900 mln zł mniej z papierosów</a></h3>
+<p style="font-weight: bold; color: #816F43; margin: 6px 0 6px 5px;">komentarze:</p> 
+<div class="box">
+<p class="comment pointer">I teraz pewnie już nikogo nie dziwi ta nagonka na e-papierosy. Wyszło szydło z worka. Tak jak podejrzewałam, wszystko to przez zmniejszające...</p>
+<p class="author">kolia</p>
+<p class="comment pointer">Te niższe wpływy do budżetu to nie dlatego, że ludzie mniej palą. Niższe wpływy są dlatego, że "zestaw podatków" w paczce papierosów...</p>
+<p class="author">eldealeros</p>
+<p class="comment pointer">a obywatele wkur... takim obrotem sprawy moze w koncu zmadrzeja i pogonia to towarzystwo tak chojnie obdarowujace sie nagrodami i premiami ... no i...</p>
+<p class="author">buntownik</p>
+</div>
+</div><!--  /.content -->
+<a href="http://www.pb.pl/3052115,&amp;readcomment=1#comment" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news3 -->
+
+
+<!--  news4 -->
+<div id="news4">
+<div class="content">
+<h2>Komentarze</h2>
+
+    <div class="box">
+		<p class="head"><a href="http://www.pb.pl/3053981," target="_blank"> Parlament Cypru ma głosować w piątek wieczorem nad projektami ustaw, które pozwolą...</a></p>
+    </div>
+    <div class="box">
+
+    <p class="pointer"><a href="http://www.pb.pl/3049307," target="_blank">Goldman Sachs pesymistycznie o cenach rudy  żelaza</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3047839," target="_blank">Rosną notowania metali przemysłowych </a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3047830," target="_blank">Ceny ropy w Nowym Jorku rosną </a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3045716," target="_blank">100 USD za baryłkę ropy to "rozsądna" cena
+</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3045701," target="_blank">Ropa lekko podrożała</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3045698," target="_blank">Złoto zdrożało</a></p>
+
+</div>
+</div><!-- /.content -->
+<a href="http://www.pb.pl/forum" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news4 -->
+
+
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+<h1 class="first">Surowce</h1>
+<p>Notowania surowców dostarcza <a href="http://www.notoria.pl" target="_blank">Notoria</a></p>
+<table class="sortable">
+<thead>
+	<tr>
+		<td colspan="2">surowiec</td>
+		<td colspan="4">zmiana</td>
+	</tr>
+	<tr>
+		<th>nazwa</th>
+		<th>cena (USD)</th>
+		<th>dzień</th>
+		<th>tydzień</th>
+		<th>miesiąc</th>
+		<th>rok</th>
+		
+	</tr>
+</thead>
+<tbody>
+		
+	<tr>
+		<td class="down"><a href="/instrument/PBST223f8159/cynk">cynk</a></td>
+		<td class="number">1913.00</td>
+		<td class="number down">-0.26%</td>
+		
+		<td class="number down">-1.77%</td>
+		<td class="number down">-10.46%</td>
+		<td class="number down">-4.54%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBST22540584/srebro">srebro</a></td>
+		<td class="number">28.63</td>
+		<td class="number ">+0.00%</td>
+		
+		<td class="number down">-0.17%</td>
+		<td class="number down">-0.10%</td>
+		<td class="number down">-10.96%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBST32deb3c5/ropa-brent">ropa brent</a></td>
+		<td class="number">107.50</td>
+		<td class="number up">+0.28%</td>
+		
+		<td class="number down">-2.32%</td>
+		<td class="number down">-6.60%</td>
+		<td class="number down">-12.87%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBST3f8685a1/zloto">złoto</a></td>
+		<td class="number">1607.79</td>
+		<td class="number up">+0.01%</td>
+		
+		<td class="number up">+0.99%</td>
+		<td class="number up">+1.89%</td>
+		<td class="number down">-2.70%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBST6884123/platyna">platyna</a></td>
+		<td class="number">1579.50</td>
+		<td class="number down">-1.34%</td>
+		
+		<td class="number ">+0.00%</td>
+		<td class="number down">-1.14%</td>
+		<td class="number down">-1.17%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBST689c3f94/miedz">miedź</a></td>
+		<td class="number">7618.00</td>
+		<td class="number up">+0.50%</td>
+		
+		<td class="number down">-2.11%</td>
+		<td class="number down">-4.89%</td>
+		<td class="number down">-8.44%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBST705700d9/aluminium">aluminium</a></td>
+		<td class="number">1938.50</td>
+		<td class="number up">+0.08%</td>
+		
+		<td class="number down">-2.34%</td>
+		<td class="number down">-8.13%</td>
+		<td class="number down">-11.14%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBST78021077/olow">ołów</a></td>
+		<td class="number">2163.50</td>
+		<td class="number down">-0.94%</td>
+		
+		<td class="number down">-3.20%</td>
+		<td class="number down">-8.48%</td>
+		<td class="number up">+8.18%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBST7a86425f/pallad">pallad</a></td>
+		<td class="number">768.00</td>
+		<td class="number down">-0.03%</td>
+		
+		<td class="number down">-1.88%</td>
+		<td class="number up">+3.37%</td>
+		<td class="number up">+16.02%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBSTb7746ee/cyna">cyna</a></td>
+		<td class="number">22750.00</td>
+		<td class="number up">+0.24%</td>
+		
+		<td class="number down">-5.23%</td>
+		<td class="number down">-4.81%</td>
+		<td class="number up">+1.90%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBSTed239c65/nikiel">nikiel</a></td>
+		<td class="number">16930.00</td>
+		<td class="number down">-0.09%</td>
+		
+		<td class="number down">-1.54%</td>
+		<td class="number down">-2.05%</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+</tbody>
+</table>
+<div id="rectangle" style="clear: both; /* width: 300px; height: 250px; border: 1px solid #aaa; */ margin: 10px 0; ">
+</div>
+
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

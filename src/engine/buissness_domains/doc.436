@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="pb.pl – portal inwestorów – giełda, inwestycje, gospodarka, polityka" />
+	<meta name="description" content="pb.pl – portal inwestorów – giełda, inwestycje, gospodarka, polityka" />
+
+	<title>pb.pl - Giełda w pigułce</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>		
+		
+		<div id="header">
+			<div id="logo">
+			<a href="http://www.pb.pl/" target="_blank"><img border="0" src="media/logo.jpg" width="100" height="135" alt="Puls Biznesu" /></a>
+			</div>
+			<div id="header-right">
+			<h1>Giełda w pigułce</h1>			
+			</div>
+			
+		</div>
+		
+		<div id="content">
+			
+			<div id="menu">
+					<ul>
+						<li><strong>Spis treści</strong></li>
+						<li><a target="show" href="slides/1.htm">Architektura rynku kapitałowego</a></li>
+						<li><a target="show" href="slides/2.htm">Charakterystyka notowanych walorów</a></li>
+						<li><a target="show" href="slides/3.htm">Inwestorzy</a></li>
+						<li><a target="show" href="slides/4.htm">Harmonogram sesji</a></li>
+						<li><a target="show" href="slides/5.htm">Rozliczenie transakcji</a></li>
+						<li><a target="show" href="slides/6.htm">Dlaczego giełda? </a></li>
+						<li><a target="show" href="slides/7.htm">Ujemne strony bycia spółką giełdową</a></li>
+						<li><a target="show" href="slides/8.htm">Oferta publiczna - koszty</a></li>
+						<li><a target="show" href="slides/9.htm">Droga na GPW</a></li>
+						<li><a target="show" href="slides/10.htm">Prospekt emisyjny</a></li>
+						<li><a target="show" href="slides/11.htm">Słowniczek dotyczący IPO / SPO</a></li>
+						<li><a target="show" href="slides/12.htm">Emisja z prawem poboru</a></li>
+						<li><a target="show" href="slides/13.htm">Split</a></li>
+						<li><a target="show" href="slides/14.htm">Indeksy GPW</a></li>
+						<li><a target="show" href="slides/15.htm">Dywidenda</a></li>
+						<li><a target="show" href="slides/16.htm">Obowiązki informacyjne spółek – raporty bieżące</a></li>
+						<li><a target="show" href="slides/17.htm">Obowiązki informacyjne akcjonariuszy</a></li>
+						<li><a target="show" href="slides/18.htm">Obowiązki informacyjne osób zobowiązanych</a></li>
+						<li><a target="show" href="slides/19.htm">Wezwanie</a></li>
+						<li><a target="show" href="slides/20.htm">Prawa akcjonariuszy</a></li>
+						<li><a target="show" href="slides/21.htm">Przejęcia i fuzje</a></li>
+						<li><a target="show" href="slides/22.htm">Rodzaje raportów</a></li>
+						<li><a target="show" href="slides/23.htm">Jak czytać raporty?</a></li>
+						<li><a target="show" href="slides/24.htm">Bilans</a></li>
+						<li><a target="show" href="slides/25.htm">Rachunek zysków i strat - analiza</a></li>
+						<li><a target="show" href="slides/26.htm">Rachunek przepływów pieniężnych</a></li>
+						<li><a target="show" href="slides/27.htm">Wycena spółki</a></li>
+						<li><a target="show" href="slides/28.htm">Wycena porównawcza</a></li>
+						<li><a target="show" href="slides/29.htm">Fundusze emerytalne i inwestycyjne</a></li>
+					</ul>			
+			</div>
+				
+				<div id="content-right">
+				
+				<iframe src="siteframes/img0.htm" id="frame" name="show" width="700" height="750" frameborder="0">
+				</iframe>
+					
+				</div>
+	
+			
+		</div>
+	
+<script src="parentdirector.js"></script>
+
+<!-- (C) 2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / Gieldawpigulce --> 
+<script type="text/javascript">
+var pbpl_gemius_identifier = new String('pzA66Hbup68gvJAGwrwgV9U7LeW18tsunI53SJprbdD..7');
+</script>	
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1121769-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>
+

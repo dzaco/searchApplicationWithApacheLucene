@@ -1,0 +1,1489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl">
+<head>
+
+
+
+
+<meta name="verify-v1" content="OrDJPq1dWJbe16OQwnFDoCdDBSNTizftc7Hna6FU4OY=" />
+
+<!-- :) -->
+
+
+
+<title>Prawo własności intelektualnej    a zamówienia publiczne w farmacji </title>
+
+
+<meta name="robots" content="index,follow" />
+<meta name="description" content="Prawo - Orzecznictwo - Strategia - Praktyka // " />
+<meta name="keywords" content="" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/style/pb/thematic.css" />
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/style/pb/style.css" />
+<link rel="stylesheet" type="text/css" href="/style/pb/konferencje.css" />
+<link rel="stylesheet" type="text/css" href="/style/datepicker.css" />
+<link rel="stylesheet" type="text/css" href="/style/chat.css" />
+
+
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" media="print" href="/style/print.css" />
+<script type="text/javascript" src="/js/jquery-1.7.2.all.js"></script>
+<script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.all.js"></script>
+<script type="text/javascript" src="/js/ui/ui.datepicker-pl.js"></script>
+<script type="text/javascript" src="/js/all.js"></script>
+<script type="text/javascript" src="/js/linker_companies.js"></script>
+<script type="text/javascript" src="/js/linker.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011 */
+if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+ado.config({mode: "old", xml: false, characterEncoding: true});
+ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>
+
+<!-- G: apache1 2013-03-24T07:34:55.593031 -->
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+    <div id="banner" class="not4bbtext"><div style="margin: 0 auto; text-align: center;">
+    <!--<div style="text-align: center;"><a href="/marketingowy_marzec"><img src="/img/konferencje/marzec750x200.gif" alt="" /></a></div>-->
+
+
+</div></div><!--/#banner -->
+	<div id="site" class="not4bbtext">
+		<a href="#" class="path"><img src="/style/pb/pbpl.gif" alt="pb.pl"/> </a>
+		<div id="menu">
+			<ul>
+			    <li><a href="http://cynk.pb.pl/" title="Daj cynk">Daj cynk</a></li>
+			    <li><a href="http://tablet.pb.pl/" title="Wersja na tablet">Wersja na tablet</a></li>
+				<li><a href="http://newsletter.pb.pl" title="Newsletter PB.pl">Newsletter</a></li>
+				<li><a href="http://sklep.pb.pl/bygroup/eprenumerator" title="Prenumerata Pulsu Biznesu">Prenumerata</a></li>
+				<li><a href="http://sklep.pb.pl" title="Sklep Pulsu Biznesu">Sklep</a></li>
+				<li><a href="http://archiwum.pb.pl" title="Sklep Pulsu Biznesu">Archiwum</a></li>
+				<li><a href="http://profil.pb.pl/"><span id="profile_text">Mój profil</span><span id="username"></span></a></li>
+			</ul>
+		</div><!--/#menu -->
+<script type="text/javascript">
+(function()
+{
+    var pbname = $.cookie('pbname');
+    if( pbname )
+    {
+        var name = '';
+        if( pbname.search(/^[-0-9]+$/)>=0 )
+        {
+            var aname = pbname.split("-");
+            for(var i in aname)
+                name += String.fromCharCode(aname[i]);
+        }
+        else
+            name = pbname.replace(/\"/g,'');
+        if( name )
+        {
+            $('#profile_text').hide();
+            $('#username').html(name);
+        }
+    }
+})();
+</script>
+
+<div id="header" class="header_thematic">
+<a href="http://www.pb.pl/"><img src="/img/pb1.png" alt="pb.pl" /></a> 
+	
+<p class="header_text">Konferencje<span style='color:#000;'>.pb.pl</span></p>
+	
+<div id="search">
+<form action="/s">
+<input name="q" type="text" class="search" />
+</form>
+</div>
+	
+</div><!--/#header -->
+
+
+
+
+	
+<div id="menu1">
+<ul>
+<li><a href="http://www.pb.pl" title="pb.pl" >pb.pl</a></li>
+<li><a href="http://pulsinwestora.pb.pl/" title="Puls Inwestora" >Puls Inwestora</a></li>
+<li><a href="http://notowania.pb.pl/" title="Notowania" >Notowania</a></li>
+<li><a href="http://firma.pb.pl/" title="Firma" >Firma</a></li>
+<li><a href="http://ludzie.pb.pl/" title="Ludzie biznesu" >Ludzie biznesu</a></li>
+<li><a href="http://weekend.pb.pl/" title="Weekend" >Weekend</a></li>
+<li><a href="http://gazele.pl/" title="Gazele" >Gazele</a></li>
+<li><a href="http://konferencje.pb.pl" title="Konferencje" class="selected">Konferencje</a></li>
+<li><a href="http://www.pb.pl/b/blog" title="Blogi" >Blogi</a></li>
+<li><a href="http://wideo.pb.pl" title="Wideo" >Wideo</a></li>
+</ul>
+</div><!--/#menu1 -->
+		
+<div id="menu2">
+
+<ul>
+
+ <li class="menu_first"><a href="/" title="Konferencje.pb.pl">Konferencje.pb.pl</a></li>	
+
+ <li ><a href="/2180549,37864-o-nas" title="O nas">O nas</a></li>	
+
+ <li ><a href="/2180473,42114-sponsoring" title="Zostań sponsorem">Zostań sponsorem</a></li>	
+
+ <li ><a href="/2180471,64796-konferencje-informedia-puls-biznesu" title="Kontakt">Kontakt</a></li>	
+</ul>
+</div><!--/#menu2 -->
+
+
+<div id="content">
+<div id="superwidecol">
+
+<div id="event_col1">
+
+<div id="event_detail_top">
+
+<img src="http://static.pb.pl/picture/63632,45258/250x250" class="event_detail_picture" />
+		
+<h3>
+<a href="/konferencje/3">Farmacja</a>
+</h3>
+<h1>Prawo własności intelektualnej    a zamówienia publiczne w farmacji</h1>
+
+
+<p id="event-address">10-11.04.2013, Warszawa, <br />Hotel Hyatt Regency
+</p>
+
+<p class="event_prices">
+<span class="event_price">2495 PLN</span> (od 4 marca 2013 do 29 marca 2013)<br />
+<span class="event_price">2995 PLN</span> (od 30 marca 2013 do 10 kwietnia 2013)<br />
+</p>
+
+</div><!-- /#event_detail_top -->
+
+        <div class="event_tabs"  id="tabs">
+		<div id="event_menu">
+			<ul>
+				<li><a class="first" href="#event_intro"><span>Wstęp</span></a></li>
+				<li><a href="#event_schedule"><span>Program</span></a></li>
+				<li ><a href="#event_speakers"><span>Prelegenci</span></a></li>
+                <li ><a href="#event_partners"><span>Partnerzy</span></a></li>
+				<li><a href="#event_conditions"><span>Regulamin</span></a></li>
+				<li class="register"><a class="last register" href="#event_register" class="red"><span>Rejestracja</span></a></li>
+				<span onClick="window.print()" class="print"><img src="/img/bookmark/print.png" /><span class="print_txt">Drukuj</span></span>
+			</ul>
+		</div>
+			<div style="clear: both;"></div>
+        </div>
+		
+
+
+<script type="text/javascript">
+var $tabs;
+$(document).ready(function(){
+    $tabs = $("#tabs").tabs();
+});
+
+function rejestracja()
+{
+    $tabs.tabs('select',5);
+}
+
+</script>
+
+
+<div id="event_detail_body">		
+		<div id="event_intro" class="event">		
+		
+<h2><span class="event_type">Warsztaty.</span> Prawo - Orzecznictwo - Strategia - Praktyka</h2>		
+
+<p class="register_button"><a class="red" href="#event_register" onclick="rejestracja();">Zarejestruj się</a></p>
+		
+<p><strong>W programie m. in.:</strong></p>
+<ul style="margin-left: 35px;">
+<li style="padding: 5px">charakterystyka zamówień publicznych w sektorze farmaceutycznym i medycznym</li>
+<li style="padding: 5px">próby nadużywania praw własności intelektualnej</li>
+<li style="padding: 5px">spory pomiędzy producentami leków generycznych a innowacyjnych</li>
+<li style="padding: 5px">najważniejsze zmiany w zakresie zasad dystrybucji leków refundowanych</li>
+<li style="padding: 5px">egzekwowanie praw z patentów farmaceutycznych w polskim systemie prawnym</li>
+<li style="padding: 5px">utrzymywanie zasad uczciwej konkurencji w ofertach na zakup produktów leczniczych i dostawę sprzętu medycznego</li>
+</ul>
+<p style="text-indent: 35px;"><span style="font-size: 25px;">J</span>edną z podstawowych zasad systemu zamówień publicznych jest <strong>zasada uczciwej konkurencji</strong>. Zamawiający i Wykonawcy coraz częściej zmagają się z różnymi problemami związanymi z koniecznością<strong> poszanowania własności intelektualnej </strong>podmiotów trzecich. Na tym tle dochodzi do sporów, które w <strong>sektorze farmaceutycznym</strong> - charakteryzującym się silną konkurencją pomiędzy <strong>firmami innowacyjnymi i generycznymi</strong> - zaczynają przenosić się również na grunt postępowań w sprawie zamówień publicznych.</p>
+<p style="text-indent: 35px;"><span style="font-size: 25px;">S</span>erdecznie zapraszamy do udziału w warsztatach, które pomogą Państwu zdobyć i usystematyzować niezbędną wiedzę z zakresu ochrony praw własności intelektualnej w kontekście procedur o udzielenie zamówień publicznych w sektorze farmaceutycznym. Podczas warsztatów wystąpią <strong>specjaliści</strong> z zakresu ochrony prawa własności intelektualnej, <strong>przedstawiciele Urzędu Zamówień Publicznych</strong>, jak również <strong>praktycy </strong>z przedsiębiorstw, którzy na co dzień mierzą się z tą tematyką.</p>
+<p style="text-align: right; text-decoration: italic;"><em>Zapraszam do udziału w Warsztacie! <br />Anna Tyra - Project Manager</em></p>
+<p><strong>Podczas warsztatów dowiedzą się Państwo m. in.:</strong></p>
+<ul style="margin-left: 35px;">
+<em> </em>
+<li style="padding: 5px">jak obecnie przedstawia się rynek zamówień  publicznych w sektorze farmaceutycznym i medycznym</li>
+<li style="padding: 5px">jakie praktyki mogą ograniczać konkurencję w zamówieniach publicznych</li>
+<li style="padding: 5px">jak radzić sobie z naruszeniami patentów w procedurach przetargowych</li>
+<li style="padding: 5px">jak zarządzać ryzykiem w procesie zamówień publicznych</li>
+<li style="padding: 5px">jak przedstawia się orzecznictwo Krajowej Izby Odwoławczej w zakresie praw własności intelektualnej</li>
+<em> </em> 
+</ul>
+<p><em> </em></p>
+<p><em><br /></em></p>
+<p><em> </em></p>
+<hr />
+<p><em> </em></p>
+<p><em><strong>Szczegółowe informacje:</strong></em></p>
+<p><em> </em></p>
+<p><em>tel.  +48 22 333 97 77<br />fax  +48 22 333 97 78<br />e-mail: konferencje@pb.pl<br /><br />Zapraszamy  do współpracy w  zakresie Promocji, Reklamy, Sponsoringu:</em></p>
+<p><em> </em></p>
+<p><em>Dział   Sponsoringu<br />tel. +48 22 333 97 77<br />fax +48 22 333 97 78<br />e-mail:   sponsoring@pb.pl<br /><br />Jeśli są Państwo zainteresowani   zakupem materiałów konferencyjnych, prosimy o kontakt:</em></p>
+<p><em> </em></p>
+<p><em>tel. +48   22 333 97 77<br />fax +48 22 333 97 78<br />e-mail:   konferencje@pb.pl</em></p>
+<p><em> </em></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+
+        <p class="register_button"><a class="red" href="#event_register" onclick="rejestracja();">Zarejestruj się</a></p>
+        
+
+        <div class="event_partners">
+        
+        <h3>Partnerzy</h3>
+
+            <h4>Patron Merytoryczny</h4>
+            
+        
+        <div class="event_partner" style="width: 131px;">
+        <a href="http://lds-ip.pl"><img src="http://static.pb.pl/picture/63619,42209/131" alt="" class="event_partner_logo" /></a>
+        <!--131x60 -->
+        <h1><a href="http://lds-ip.pl">LDS Łazewski, Depo i Wspólnicy sp.k.</a></h1>
+        </div>
+            <h4>Patron Medialny</h4>
+            
+        
+        <div class="event_partner" style="width: 172px;">
+        <a href="http://pulsmedycyny.pl"><img src="http://static.pb.pl/picture/65444,53015/172" alt="" class="event_partner_logo" /></a>
+        <!--172x46 -->
+        </div>
+
+
+</div><!-- /#event_partners -->
+
+
+		</div>
+			
+		<div id="event_schedule" class="schedule event">
+		
+		
+ <table summary="">
+ <tbody>
+
+<tr><td colspan="2">
+<h3>10 kwietnia 2013</h3>
+</td></tr>
+
+
+<tr>
+<td class="event_date">
+09:00
+</td>
+<td>
+<p class="point_title point_title-0">Rejestracja, poranna kawa</p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+09:30
+</td>
+<td>
+<p class="point_title point_title-0">Praktyki ograniczające konkurencje w zamówieniach publicznych</p>
+<p class="point_lead">URZĄD ZAMÓWIEŃ PUBLICZNYCH</p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+10:30
+</td>
+<td>
+<p class="point_title point_title-0">Przerwa kawowa</p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+10:45
+</td>
+<td>
+<p class="point_title point_title-0">Prawa własności intelektualnej na rynku farmaceutycznym – najnowsze orzecznictwo</p>
+<p class="point_lead">CASE STUDY</p>
+<p class="point_desc"><ul>
+</ul>
+<ul>
+<li>zasady zgłaszania patentów farmaceutycznych</li>
+<li>znakowanie produktów leczniczych</li>
+<li>prawa własności intelektualnej w orzecznictwie KIO (równoważność produktów, wymogi specyfikacji przetargowej)</li>
+</ul>
+<p><strong>Agnieszka Gałązka-Kuszczyk</strong><br /><em>Radca prawny, Senior Associate LDS Łazewski, Depo i Wspólnicy sp.k.</em></p></p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+12:15
+</td>
+<td>
+<p class="point_title point_title-0">Ryzyko odpowiedzialności antymonopolowej przedsiębiorców farmaceutycznych </p>
+<p class="point_desc"><ul>
+<li>Nadużycia pozycji dominującej przez podmioty uprawnione z praw własności intelektualnej</li>
+<li>Zmowy przetargowe – podstawowe formy zawierania; zasady zapobiegania</li>
+<li>Przesłanki odpowiedzialności antymonopolowej</li>
+<li>Sankcje w prawie konkurencji – z uwzględnieniem proponowanych zmian ustawy antymonopolowej</li>
+<li>Uwagi na tle porównawczo prawnym.<strong><br /></strong></li>
+</ul>
+<p><strong>Mateusz Błachucki</strong><em> </em></p>
+<p><em>Dr nauk prawnych, adiunkt w Zakładzie Prawa Administracyjnego w Instytucie Nauk Prawnych PAN. <br /></em></p>
+<p><strong>Sonia Jóźwiak-Górna LL.M<br /></strong></p>
+<p><em><em>Starszy specjalista w Departamencie Ochrony Konkurencji Urzędu Ochrony Konkurencji i Konsumentów</em> - doktorantka na Wydziale Prawa i Administracji Uniwersytetu Śląskiego.<br /></em></p></p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+13:15
+</td>
+<td>
+<p class="point_title point_title-0">Przerwa obiadowa</p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+14:15
+</td>
+<td>
+<p class="point_title point_title-0">Wpływ Ustawy refundacyjnej na dostawy leków do szpitali w trybie zamówień publicznych</p>
+<p class="point_desc"><ul>
+<li>zmiany w zakresie zasad dystrybucji leków  refundowanych, z uwzględnieniem rynku szpitalnego</li>
+<li>wpływ nowych zasad dystrybucji leków dla zamówień publicznych w szpitalach </li>
+<li>problem zapewnienia ciągłości dostaw leków refundowanych – czy można nie startować w przetargu?</li>
+</ul>
+<p><strong>Katarzyna Czyżewska</strong><br /><em>Adwokat, Wspólnik, Czyżewscy Kancelaria Adwokacka s.c</em></p></p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+15:30
+</td>
+<td>
+<p class="point_title point_title-0">Zakończenie pierwszego dnia warsztatów</p>
+</td>
+</tr>
+
+
+<tr><td colspan="2">
+<h3>11 kwietnia 2013</h3>
+</td></tr>
+
+
+<tr>
+<td class="event_date">
+09:00
+</td>
+<td>
+<p class="point_title point_title-0">Rejestracja, poranna kawa</p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+09:30
+</td>
+<td>
+<p class="point_title point_title-0">Dochodzenie roszczeń z tytułu naruszenia patentu na drodze cywilnej </p>
+<p class="point_lead">CASE STUDY</p>
+<p class="point_desc"><ul>
+<li>egzekwowanie praw z patentów w polskim systemie prawnym</li>
+<li> zmiany w zakresie ochrony patentowej wynikające z wprowadzenia patentu jednolitego</li>
+</ul>
+<p><strong>Marek Łazewski</strong><br /><em>Rzecznik patentowy, Partner, LDS Łazewski, Depo i Wspólnicy sp.k.</em></p>
+<p><strong>Kamil Kiljański</strong><br /><em>Naczelnik wydziału ds. analiz ekonomicznych w Dyrekcji Generalnej ds. Rynku<br />Wewnętrznego i Usług Komisji Europejskiej</em></p></p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+11:00
+</td>
+<td>
+<p class="point_title point_title-0">Przerwa kawowa</p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+11:15
+</td>
+<td>
+<p class="point_title point_title-0">Oferty na zakup produktów leczniczych i dostawę sprzętu medycznego a zasady uczciwej konkurencji</p>
+<p class="point_desc"><ul>
+<li>opis przedmiotu zamówienia i warunki stawiane wykonawcom</li>
+<li>wyjaśnienia treści oferty - dopuszczalne formy kontaktu zamawiającego z wykonawcami</li>
+<li>kryteria oceny złożonych ofert</li>
+</ul>
+<p><strong>Katarzyna Mateńka- Ajdakowska</strong><em><br />Kierownik Działu Zamówień Publicznych, SP ZOZ Wojewódzki Szpital Zakaźny w Warszawie<br /></em></p></p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+12:30
+</td>
+<td>
+<p class="point_title point_title-0">Przerwa obiadowa</p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+13:30
+</td>
+<td>
+<p class="point_title point_title-0">Zarządzanie ryzykiem w procesie zamówień publicznych</p>
+<p class="point_desc"><ul>
+<li>najczęściej występujące zagrożenia</li>
+<li>korupcja a zamówienia publiczne</li>
+<li>sposoby ograniczające ryzyka i compliance</li>
+<li>FCPA i Antbribery Act UK</li>
+</ul>
+<p><strong>Jolanta Chlebicka Dominiak</strong><em><br />Radca prawny, Legal &amp; Compliance Director, Poland &amp; Baltic States, Novartis Poland Sp. z o.o.</em></p></p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+14:30
+</td>
+<td>
+<p class="point_title point_title-0">Rynek farmaceutyczny w Unii Europejskiej - między innowacją a konkurencją</p>
+<p class="point_desc"><ul>
+<li>wpływ systemu jednolitej ochrony patentowej w UE na innowacyjność w sektorze farmacji w poszczególnych państwach członkowskich</li>
+<li>badania sektorowe Komisji Europejskiej</li>
+</ul>
+<p> </p>
+<p><strong>Kamil Kiljański</strong><br /><em>Naczelnik wydziału ds. analiz ekonomicznych w Dyrekcji Generalnej ds. Rynku Wewnętrznego i Usług Komisji Europejskiej.</em></p></p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td class="event_date">
+15:30
+</td>
+<td>
+<p class="point_title point_title-0">Zakończenie drugiego dnia warsztatów, wręczenie certyfikatów</p>
+</td>
+</tr>
+
+
+ 
+</tbody>
+</table>
+
+
+</div>
+ 
+ <div id="event_speakers" class="event" style="display: none; ">
+
+<div class="speaker">
+<img src="http://static.pb.pl/picture/64236,68699/100" alt=" Mateusz Błachucki" />
+
+<div class="speaker_desc">
+<h5><strong> Mateusz Błachucki</strong><br /><em>Dr nauk prawnych, adiunkt w Zakładzie Prawa Administracyjnego w Instytucie Nauk Prawnych PAN.</em></h5>
+<p><p>Prowadził wiele skomplikowanych postępowań antymonopolowych w sprawach kontroli koncentracji w sektorach farmaceutycznym, sieci wielkopowierzchniowych, alkoholowym czy energetycznym. Ekspert w grupach roboczych międzynarodowych organizacji ds. ochrony konkurencji, tj. Europejska Sieć Konkurencji, Międzynarodowa Sieć Konkurencji, Komitet Konkurencji OECD, Grupa Robocza ds. Koncentracji przy Komisji Europejskiej, czy Europejskie Organy ds. Konkurencji. Przedstawiciel Polski w Komitecie Doradczym ds. Koncentracji przy Komisji Europejskiej. Prelegent na licznych konferencjach krajowych i zagranicznych oraz autor i redaktor wielu publikacji naukowych w języku polskim i angielskim. Specjalizuje się w postępowaniu administracyjnym, prawie antymonopolowym i prawie pomocy publicznej.</p></p>
+</div>
+
+</div><!--/.speaker -->
+<div class="speaker">
+<img src="http://static.pb.pl/picture/63769,84758/100" alt=" Jolanta Chlebicka Dominiak" />
+
+<div class="speaker_desc">
+<h5><strong> Jolanta Chlebicka Dominiak</strong><br /><em>Radca prawny, Legal & Compliance Director, Poland & Baltic States, Novartis Poland Sp. z o.o.</em></h5>
+<p><p>Specjalizuje się w doradztwie prawnym przedsiębiorstwom w każdym obszarze ich aktywności.  Posiada duże doświadczenie we współpracy z firmami farmaceutycznymi oraz medycznymi obsługując spółki w regionie (Europa, Bliski Wschód i Afryka). Specjalizuje się w prawie farmaceutycznym, prawie refundacyjnym oraz prawie ochrony konkurencji. Dokonywała due diligence struktur dystrybucyjnych pod kątem zgodności z prawem konkurencji europejskim jak i polskim. Doradzała w tematach związanych z nadużywaniem pozycji dominującej, fuzji i przejęć oraz zawierania porozumień niedozwolonych. Brała aktywny udział w wewnętrznym ii zewnętrznym postępowaniu w zakresie FCPA (foreign corrupt practices act). Na obecnym stanowisku odpowiada za obsługę prawną w Polsce, na Litwie, Łotwie i Estonii.</p></p>
+</div>
+
+</div><!--/.speaker -->
+<div class="speaker">
+<img src="http://static.pb.pl/picture/63624,31247/100" alt=" Katarzyna Czyżewska" />
+
+<div class="speaker_desc">
+<h5><strong> Katarzyna Czyżewska</strong><br /><em>Adwokat, Wspólnik, Czyżewscy Kancelaria Adwokacka s.c</em></h5>
+<p><p>Posiada wieloletnie doświadczenie w doradztwie na rzecz podmiotów z sektora szeroko pojętych life sciences, obejmującym m.in. zagadnienia regulacyjne związane z wytwarzaniem i wprowadzaniem do obrotu leków i wyrobów medycznych, bezpieczeństwo farmakoterapii, badania kliniczne, marketing i reklamę, a także postępowania sądowe i prowadzone przed organami administracji publicznej. Przed powstaniem Kancelarii przez kilka lat kierowała działem prawa farmaceutycznego i medycznego renomowanej polskiej kancelarii prawniczej, a następnie pracowała jako adwokat w Zespole Prawa Farmaceutycznego dużej międzynarodowej kancelarii. Była prelegentem wielu konferencji i seminariów z zakresu prawa farmaceutycznego i medycznego, a także prawa konkurencji. Jest rekomendowana przez międzynarodowy ranking kancelarii prawnych Chambers &amp; Partners; otrzymała również szereg wyróżnień, m.in. Life Sciences Lawyer of the Year in Poland wydawnictwa Corporate INTL, a także nagrodę dla Law Firm of the Year in Poland przyznaną przez Global Law Experts.</p></p>
+</div>
+
+</div><!--/.speaker -->
+<div class="speaker">
+<img src="http://static.pb.pl/picture/63625,34585/100" alt=" Agnieszka Gałązka-Kuszczyk" />
+
+<div class="speaker_desc">
+<h5><strong> Agnieszka Gałązka-Kuszczyk</strong><br /><em>Radca prawny, Senior Associate LDS Łazewski, Depo i Wspólnicy sp.k.</em></h5>
+<p><p>Radca prawny w Kancelarii LDS Łazewski, Depo i Wspólnicy. Doradza w sprawach z zakresu prawa farmaceutycznego, własności przemysłowej, ochrony praw autorskich oraz zwalczania nieuczciwej konkurencji. Jej zainteresowania zawodowe koncentrują się również wokół zagadnień prawa żywnościowego oraz tzw. produktów z pogranicza (suplementów diety, kosmetyków, wyrobów medycznych). Doświadczenie zawodowe zdobywała w dziale prawnym jednej z największych na polskim rynku firm farmaceutycznych, Ministerstwie Zdrowia oraz Głównym Inspektoracie Farmaceutycznym.</p></p>
+</div>
+
+</div><!--/.speaker -->
+<div class="speaker">
+<img src="http://static.pb.pl/picture/64239,39009/100" alt=" Sonia Jóźwiak-Górna LL.M." />
+
+<div class="speaker_desc">
+<h5><strong> Sonia Jóźwiak-Górna LL.M.</strong><br /><em>Doktorantka na Wydziale Prawa i Administracji Uniwersytetu Śląskiego, starszy specjalista w Departamencie Ochrony Konkurencji Urzędu Ochrony Konkurencji i Konsumentów </em></h5>
+<p><p>W pracy zawodowej zajmuje się prowadzeniem postępowań z zakresu praktyk ograniczających konkurencję. Wcześniej, koordynowała uczestnictwo Urzędu w Europejskiej Sieci Konkurencji. Ekspert w międzynarodowych forach, takich jak Europejska Sieć Konkurencji, Międzynarodowa Sieć Konkurencji czy Komitet Konkurencji OECD. Przed rozpoczęciem pracy w UOKiK pracowała w Parlamencie Europejskim w Strasburgu. Absolwentka studiów prawniczych na Wydziale Prawa i Administracji Uniwersytetu im. Adama Mickiewicza w Poznaniu. Jako stypendystka rządu belgijskiego studiowała również na Uniwersytecie w Liège w Belgii, gdzie uzyskała tytuł LL.M. in European Intellectual Property and Competition Law z wynikiem magna cum laude. Autorka publikacji z zakresu prawa konkurencji</p>
+<p> </p></p>
+</div>
+
+</div><!--/.speaker -->
+<div class="speaker">
+<img src="http://static.pb.pl/picture/63626,99428/100" alt=" Kamil Kiljański" />
+
+<div class="speaker_desc">
+<h5><strong> Kamil Kiljański</strong><br /><em>Naczelnik wydziału ds. analiz ekonomicznych w Dyrekcji Generalnej ds. Rynku Wewnętrznego i Usług Komisji Europejskiej.</em></h5>
+<p><p>Od kwietnia 2011 roku jest naczelnikiem wydziału ds. analiz ekonomicznych w Dyrekcji Generalnej ds. Rynku Wewnętrznego i Usług Komisji Europejskiej. Wcześniej od września 2003 roku był członkiem Zespołu Głównego Ekonomisty w Dyrekcji Generalnej ds. Konkurencji Komisji Europejskiej. Przed rozpoczęciem pracy w KE pracował przez trzy lata jako Starszy Ekonomista w londyńskim biurze LECG (doradztwo gospodarcze). Dokonywał analiz w różnych branżach, m.in.: energetyka, usługi pocztowe i logistyka, ochrona środowiska, systemy płatnicze, ICT i media. Był również zaangażowany w postępowania sporne przy Międzynarodowej Izbie Handlowej (ICC), jak również doradzał w kwestiach regulacyjnych. Uzyskał tytuł doktora ekonomii w Szkole Głównej Handlowej</p></p>
+</div>
+
+</div><!--/.speaker -->
+<div class="speaker">
+<img src="http://static.pb.pl/picture/63627,16634/100" alt=" Marek Łazewski" />
+
+<div class="speaker_desc">
+<h5><strong> Marek Łazewski</strong><br /><em>Rzecznik patentowy, Partner, LDS Łazewski, Depo i Wspólnicy sp.k.</em></h5>
+<p><p>Absolwent Szkoły Głównej Handlowej oraz Wydziału Prawa Uniwersytetu Warszawskiego. Od lat zajmuje się głównie skomplikowanymi sprawami spornymi dotyczącymi patentów, znaków towarowych oraz wzorów; prowadzi szereg procesów związanych z ochroną patentową farmaceutyków, włącznie z problematyką ochrony zgodnie z doktryną ekwiwalentów. Doradzał Ministerstwu Gospodarki w kwestiach prawnych i ekonomicznych związanych z wprowadzeniem Patentu Wspólnotowego w Polsce. Marek Łazewski jest corocznie rekomendowany przez niezależny międzynarodowy ranking Chambers &amp; Partners w dziedzinie własności intelektualnej.</p></p>
+</div>
+
+</div><!--/.speaker -->
+<div class="speaker">
+<img src="http://static.pb.pl/picture/64429,85989/100" alt=" Katarzyna Mateńka - Ajdakowska" />
+
+<div class="speaker_desc">
+<h5><strong> Katarzyna Mateńka - Ajdakowska</strong><br /><em>Kierownik Działu Zamówień Publicznych SP ZOZ Wojewódzki Szpital Zakaźny w Warszawie.</em></h5>
+<p><p>Socjolog, trener, absolwentka Studium Trenerów i Przywództwa PRAECEPOTR. Od 2005r. praktyk w dziedzinie zamówień publicznych w sektorze medycznym. Od 2010 roku kierownik Działu Zamówień Publicznych w Wojewódzkim Szpitalu Zakaźnym w Warszawie;</p></p>
+</div>
+
+</div><!--/.speaker -->
+ 
+
+
+</div><!-- /#event_speakers -->
+
+
+<div id="event_partners" class="event event_partners" style="display: none; ">
+
+<h3>Partnerzy</h3>
+
+    <h4>Patron Merytoryczny</h4>
+    
+<div class="event_partner">
+<a href="http://lds-ip.pl"><img src="http://static.pb.pl/picture/63619,42209/131" class="event_partner_logo" /></a>
+<h1><a href="http://lds-ip.pl">LDS Łazewski, Depo i Wspólnicy sp.k.</a></h1>
+</div>
+    <h4>Patron Medialny</h4>
+    
+<div class="event_partner">
+<a href="http://pulsmedycyny.pl"><img src="http://static.pb.pl/picture/65444,53015/172" class="event_partner_logo" /></a>
+<h1><a href="http://pulsmedycyny.pl"></a></h1>
+</div>
+
+</div><!-- /#event_partners -->
+  
+
+
+
+<div id="event_conditions" class="event">
+
+<h3>Ogólne warunki uczestnictwa</h3>
+<h4>A. Koszt uczestnictwa</h4>
+<p>1. Koszt uczestnictwa jednej osoby w Wydarzeniu wynosi: </p>
+<table class="pricing">
+
+<tr><th>koszt uczestnictwa</th></tr>
+<tr>
+<td><b>2495 PLN</b> (od 4 marca 2013 do 29 marca 2013)</td>
+</tr>
+
+<tr>
+<td><b>2995 PLN</b> (od 30 marca 2013 do 10 kwietnia 2013)</td>
+</tr>
+
+<tr><td>(ceny netto należy powiększyć o należny podatek VAT 23% - <b>dotyczy wyłącznie wydarzeń płatnych</b>)</td></tr>
+</table>
+
+<h4>B. Konferencje płatne</h4>
+<p>1. Cena obejmuje prelekcje, materiały szkoleniowe, przerwy kawowe, lunch.</p>
+<p>2. Wypełnienie formularza on-line na stronie konferencje.pb.pl, stanowi zawarcie wiążącej umowy pomiędzy zgłaszającym a Bonnier Business (Polska) Sp. z o.o.. Link do faktury pro forma jest standardowo wystawiany i wysyłany automatycznie na adres mailowy zgłaszającego po wypełnieniu formularza zgłoszeniowego.</p>
+<p>3. Prosimy o dokonanie wpłaty w terminie 14 dni od momentu wysłania zgłoszenia, ale nie później niż 2 dni przed rozpoczęciem Wydarzenia.</p>
+<p>4. Wpłaty należy dokonać na konto:<br />
+<b>
+Bonnier Business (Polska) Sp. z o.o.<br />
+Kijowska 1<br />
+03-738 Warszawa<br />
+Svenska Handelsbanken AB Spółka Akcyjna Oddział w Polsce<br />
+PL 54 2250 0001 0000 0040 0005 1253. <br />
+</b></p>
+<p>Jako tytuł przelewu prosimy podać 
+<br /><b>Prawo własności intelektualnej    a zamówienia publiczne w farmacji</b> 
+<br />oraz numer zgłoszenia. </p>
+
+<p>5. W przypadku rezygnacji nie później niż 21 dni przed rozpoczęciem Wydarzenia obciążymy Państwa opłatą administracyjną w wysokości 20% opłaty za udział.</p>
+
+<p>6. W przypadku rezygnacji w terminie późniejszym niż 21 dni przed rozpoczęciem Wydarzenia pobierane jest 100% opłaty za udział.</p>
+
+<p>7. Rezygnację z udziału należy przesyłać listem poleconym na adres Organizatora.</p>
+
+<p>8. Nieodwołanie zgłoszenia i niewzięcie udziału w Wydarzeniu powoduje obciążenie pełnymi kosztami udziału.</p>
+
+<p>9. Niedokonanie wpłaty nie jest jednoznaczne z rezygnacją z udziału.</p>
+
+<p>10. Zamiast zgłoszonej osoby w Wydarzeniu może wziąć udział inny pracownik firmy.</p>
+
+<p>11. Organizator zastrzega sobie prawo do zmian w programie oraz do odwołania Wydarzenia.</p>
+
+<h4>C. Konferencje bezpłatne</h4>
+<p>1. Uczestnictwo w Wydarzeniu jest bezpłatne.</p>
+
+<p>2. Bezpłatne uczestnictwo obejmuje prelekcje, materiały informacyjne, przerwy kawowe, lunch (jeśli jest zaplanowany).</p>
+
+<p>3. Celem zgłoszenia swojego uczestnictwa w Wydarzeniu, Uczestnik proszony jest o kompletne wypełnienie formularza on-line na stronie konferencje.pb.pl. Akceptacja zgłoszenia następuje poprzez wysłanie maila zwrotnego z linkiem aktywacyjnym.</p>
+
+<p>4. Zamiast zgłoszonej osoby w Wydarzeniu może wziąć udział inny pracownik firmy.</p>
+
+<p>5. Istnieje możliwość uczestnictwa w Wydarzeniu maksymalnie dwóch osób z jednej firmy.</p>
+
+<p>6. Ilość miejsc jest ograniczona, o uczestnictwie decyduje kolejność zgłoszeń.</p>
+
+<p>7. Organizator zastrzega sobie prawo do odmówienia przyjęcia zgłoszenia bez podania przyczyny.</p>
+
+<p>8. Organizator zastrzega sobie prawo do zmian w programie oraz do odwołania Wydarzenia bez podania przyczyny.</p>
+
+<p>9. Nieodwołanie zgłoszenia na najpóźniej 2 dni wcześniej i niewzięcie udziału w Wydarzeniu powoduje obciążenie kosztem w wysokości 100 zł brutto.</p>
+
+<h4>D. Ochrona danych osobowych</h4>
+<p>1. Bonnier Business Polska Sp. z o.o. zapewnia poufność dotyczącą wszystkich danych przekazywanych w procesie rejestracji. </p>
+<p>2. Bonnier Business Polska Sp. z o.o. pozyskuje dane osobowe do celów marketingowych.</p>
+<p>3. Przetwarzanie danych będzie zgodne z Ustawą o Ochronie Danych Osobowych z dnia 29.08.1997 roku.</p>
+<p>4. Administratorem danych osobowych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (tj. Dz.U. z 2002 roku, nr 101, poz. 926 z późn. zm.) jest Bonnier Business Polska Sp. z o.o. Państwa dane osobowe będą przetwarzane przez Bonnier Business Polska Sp. z o.o. , w celu świadczenia usług, w celu archiwizacji, a także sprzedaży produktów i usług oferowanych przez Bonnier Business Polska Sp. z o.o. oraz dla potrzeb działań marketingowych podejmowanych przez Bonnier Business Polska Sp. z o.o. samodzielnie lub we współpracy z innymi podmiotami. Dane osobowe mogą być udostępniane podmiotom współpracującym lub uprawnionym organom. Bonnier Business Polska Sp. z o.o. zapewniają realizację uprawnień wynikających z ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (tj. Dz.U. z 2002 roku, nr 101, poz. 926 z późn. zm.), w szczególności umożliwiają ich poprawianie, jak i uzyskanie informacji odnośnie przetwarzania danych osobowych.</p>
+<p>5. Wszelką korespondencję w sprawach związanych z przetwarzaniem danych osobowych Klient/Abonent powinien kierować na adres: Bonnier Business Polska Sp. z o.o. 03-738 Warszawa, z dopiskiem "Dane Osobowe".</p>
+<p>6. Regulamin niniejszy obowiązuje od momentu jego opublikowania na stronie konferencje.pb.pl. Bonnier Business Polska Sp. z o.o. zastrzega sobie prawo do wprowadzania zmian w niniejszym regulaminie. Wszelkie zmiany stają się obowiązujące w momencie ich opublikowania.</p>
+<p>7. Użytkownikowi przysługuje w każdej chwili prawo wycofania zgody (sprzeciwu) na przetwarzanie jego danych osobowych. Jeśli nie chcesz abyśmy przetwarzali twoje dane osobowe wyślij mail na adres sprzeciw@pb.pl albo pismo na adres Bonnier Business Polska Sp. z o.o. 03-738 Warszawa, z dopiskiem "Dane Osobowe".</p>
+
+
+
+
+
+        <p class="register_button"><a class="red" href="#event_register" onclick="rejestracja();">Zarejestruj się</a></p>
+
+        </div><!-- /#event_conditions -->
+        
+ 
+ 
+
+
+
+        <div id="event_register" class="event">
+        <h3>Zarejestruj się</h3>
+        <p>Prosimy o wypełnienie poniższej tabelki wpisując dane uczestników Wydarzenia. W przypadku wydarzeń płatnych koszt uczestnictwa naliczany jest automatycznie.</p>
+        <form action="/rejestracja" method="post" id="event_form">
+        <input type="hidden" name="event_id" value="654" />
+        <input type="hidden" name="cc" value="" />
+        <input type="hidden" name="event_price_id" value="1099" />
+        <input type="hidden" name="ea" value="166878" />
+        <input type="hidden" name="eb" value="81153" />
+        <input type="hidden" name="ec" value="0" />
+
+        <table class="event_register_grid" cellspacing="0" cellpadding="0">
+        <tr><th colspan="7">Wypełnij listę uczestników...</th></tr>
+        <tr>
+        <th>Lp</th>
+        <th>Imię</th>
+        <th>Nazwisko</th>
+        <th>Stanowisko</th>
+        <th>Dział</th>
+        <th>Email</th>
+        <th>Cena netto</th>
+        </tr>
+
+        <tr>
+        <td class="r">1</td>
+        <td><input id="participant_firstname_1" name="participant_firstname" class="required" /></td>
+        <td><input id="participant_lastname_1" name="participant_lastname" class="required" /></td>
+        <td><input id="participant_position_1" name="participant_position" class="required" /></td>
+        <td><input id="participant_department_1" name="participant_department" class="required" /></td>
+        <td><input id="participant_email_1" name="participant_email" class="required" /></td>
+        <td style="width: 70px; ">
+        
+        <input type="hidden" id="participant_price_id_1" name="participant_price_id" value="1099" />2495 PLN
+
+        </td>
+        </tr>
+        <tr>
+        <td class="r">2</td>
+        <td><input id="participant_firstname_2" name="participant_firstname"  /></td>
+        <td><input id="participant_lastname_2" name="participant_lastname"  /></td>
+        <td><input id="participant_position_2" name="participant_position"  /></td>
+        <td><input id="participant_department_2" name="participant_department"  /></td>
+        <td><input id="participant_email_2" name="participant_email"  /></td>
+        <td style="width: 70px; ">
+        
+        <input type="hidden" id="participant_price_id_2" name="participant_price_id" value="1099" />2495 PLN
+
+        </td>
+        </tr>
+        <tr>
+        <td class="r">3</td>
+        <td><input id="participant_firstname_3" name="participant_firstname"  /></td>
+        <td><input id="participant_lastname_3" name="participant_lastname"  /></td>
+        <td><input id="participant_position_3" name="participant_position"  /></td>
+        <td><input id="participant_department_3" name="participant_department"  /></td>
+        <td><input id="participant_email_3" name="participant_email"  /></td>
+        <td style="width: 70px; ">
+        
+        <input type="hidden" id="participant_price_id_3" name="participant_price_id" value="1099" />2495 PLN
+
+        </td>
+        </tr>
+        <tr>
+        <td class="r">4</td>
+        <td><input id="participant_firstname_4" name="participant_firstname"  /></td>
+        <td><input id="participant_lastname_4" name="participant_lastname"  /></td>
+        <td><input id="participant_position_4" name="participant_position"  /></td>
+        <td><input id="participant_department_4" name="participant_department"  /></td>
+        <td><input id="participant_email_4" name="participant_email"  /></td>
+        <td style="width: 70px; ">
+        
+        <input type="hidden" id="participant_price_id_4" name="participant_price_id" value="1099" />2495 PLN
+
+        </td>
+        </tr>
+        <tr>
+        <td class="r">5</td>
+        <td><input id="participant_firstname_5" name="participant_firstname"  /></td>
+        <td><input id="participant_lastname_5" name="participant_lastname"  /></td>
+        <td><input id="participant_position_5" name="participant_position"  /></td>
+        <td><input id="participant_department_5" name="participant_department"  /></td>
+        <td><input id="participant_email_5" name="participant_email"  /></td>
+        <td style="width: 70px; ">
+        
+        <input type="hidden" id="participant_price_id_5" name="participant_price_id" value="1099" />2495 PLN
+
+        </td>
+        </tr>
+
+        <tr>
+        <td colspan="7">
+        <p style="font-weight: bold; color: #900; padding: 10px; font-size: 12px; " id="event_register_total">???
+        </p>
+        </td>
+        </table>
+        <p style="font-size: 10px; ">W przypadku jednorazowego zgłoszenia powyżej 5 osób, prosimy o ponowne uzupełnienie poniższego formularza lub kontakt z działem obsługi klienta.</p>
+
+
+
+        <table>
+        <tr>
+        <th colspan="2"><h4>Osoba zgłaszająca</h4></th>
+        </tr>
+        <tr><td colspan="2">Osoba zgłaszająca jest reprezentantem firmy, który zgłasza uczestników i z którym możemy się skontaktować w razie wątpliwości dotyczących zgłoszenia. Osoba zgłaszająca <b>nie musi</b> być uczestnikiem.</td></tr>
+
+        <tr>
+        <td style="width: 200px; "></td>
+        <td>
+        Czy osoba zgłaszająca jest uprawniona do zaciągania zobowiązań firmy?<br />
+        <input name="approved" type="radio" value="1" />Tak
+        <input name="approved" type="radio" value="0" />Nie
+
+        </td>
+        <tr>
+        <td class="r"><label for="contact_firstname">Imię*</label></td>
+        <td><input name="contact_firstname" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Nazwisko*</td>
+        <td><input name="contact_lastname" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Stanowisko*</td>
+        <td><input name="contact_position" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Dział*</td>
+        <td><input name="contact_department" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Telefon*</td>
+        <td><input name="contact_phone" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Faks</td>
+        <td><input name="contact_fax" value="" /></td>
+        </tr>
+        <tr style="display: none; ">
+        <td class="r">Email</td>
+        <td><input name="contact_email" value="" /></td>
+        </tr>
+        <tr>
+        <th colspan="2"><h4>Kontakt potwierdzający</h4></th>
+        </tr>
+        <tr>
+        <td class="r"><b>Email*</b> <br />pod ten adres zostanie wysłany <br />link potwierdzający</td>
+        <td><input name="email" class="email required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r"><b>Email księgowości</b><br />pod ten adres zostaną wysłane <br />informacje o fakturze proforma</td>
+        <td><input name="accounting_email" class="email" value="" /></td>
+        </tr>
+
+        <tr>
+        <th colspan="2"><h4>Dane firmy</h4></th>
+        <tr><td colspan="2">W przypadku wydarzeń płatnych faktura zostanie wystawiona na podstawie poniższych danych.</td></tr>
+        </tr>
+        <tr>
+        <td class="r">Nazwa firmy*</td>
+        <td><input name="company_name" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">NIP*</td>
+        <td><input name="company_nip" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Miejscowość*</td>
+        <td><input name="company_city" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Kod pocztowy*</td>
+        <td><input name="company_zip" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Ulica i numer*</td>
+        <td><input name="company_street" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Kraj siedziby</td>
+        <td>
+        <select name="company_country_code">
+        <option value="AF">Afganistan</option>
+<option value="AL">Albania</option>
+<option value="DZ">Algieria</option>
+<option value="AD">Andora</option>
+<option value="AO">Angola</option>
+<option value="AG">Antigua i Barbuda</option>
+<option value="SA">Arabia Saudyjska</option>
+<option value="AR">Argentyna</option>
+<option value="AM">Armenia</option>
+<option value="AU">Australia</option>
+<option value="AT">Austria</option>
+<option value="AZ">Azerbejdżan</option>
+<option value="BS">Bahamy</option>
+<option value="BH">Bahrajn</option>
+<option value="BD">Bangladesz</option>
+<option value="BB">Barbados</option>
+<option value="BE">Belgia</option>
+<option value="BZ">Belize</option>
+<option value="BJ">Benin</option>
+<option value="BT">Bhutan</option>
+<option value="BY">Białoruś</option>
+<option value="MM">Birma</option>
+<option value="BO">Boliwia</option>
+<option value="BA">Bośnia i Hercegowina</option>
+<option value="BW">Botswana</option>
+<option value="BR">Brazylia</option>
+<option value="BN">Brunei</option>
+<option value="BG">Bułgaria</option>
+<option value="BF">Burkina Faso</option>
+<option value="BI">Burundi</option>
+<option value="CL">Chile</option>
+<option value="CN">Chiny</option>
+<option value="HR">Chorwacja</option>
+<option value="CY">Cypr</option>
+<option value="TD">Czad</option>
+<option value="CZ">Czechy</option>
+<option value="DK">Dania</option>
+<option value="DM">Dominika</option>
+<option value="DO">Dominikana</option>
+<option value="DJ">Dżibuti</option>
+<option value="EG">Egipt</option>
+<option value="EC">Ekwador</option>
+<option value="ER">Erytrea</option>
+<option value="EE">Estonia</option>
+<option value="ET">Etiopia</option>
+<option value="FJ">Fidżi</option>
+<option value="PH">Filipiny</option>
+<option value="FI">Finlandia</option>
+<option value="FR">Francja</option>
+<option value="GA">Gabon</option>
+<option value="GM">Gambia</option>
+<option value="GH">Ghana</option>
+<option value="GR">Grecja</option>
+<option value="GD">Grenada</option>
+<option value="GE">Gruzja</option>
+<option value="GY">Gujana</option>
+<option value="GT">Gwatemala</option>
+<option value="GN">Gwinea</option>
+<option value="GW">Gwinea Bissau</option>
+<option value="GQ">Gwinea Równikowa</option>
+<option value="HT">Haiti</option>
+<option value="ES">Hiszpania</option>
+<option value="NL">Holandia</option>
+<option value="HN">Honduras</option>
+<option value="IN">Indie</option>
+<option value="ID">Indonezja</option>
+<option value="IQ">Irak</option>
+<option value="IR">Iran</option>
+<option value="IE">Irlandia</option>
+<option value="IS">Islandia</option>
+<option value="IL">Izrael</option>
+<option value="JM">Jamajka</option>
+<option value="JP">Japonia</option>
+<option value="YE">Jemen</option>
+<option value="JO">Jordania</option>
+<option value="KH">Kambodża</option>
+<option value="CM">Kamerun</option>
+<option value="CA">Kanada</option>
+<option value="QA">Katar</option>
+<option value="KZ">Kazachstan</option>
+<option value="KE">Kenia</option>
+<option value="KG">Kirgistan</option>
+<option value="KI">Kiribati</option>
+<option value="CO">Kolumbia</option>
+<option value="KM">Komory</option>
+<option value="CD">Kongo</option>
+<option value="CG">Kongo</option>
+<option value="KR">Korea Południowa</option>
+<option value="KP">Korea Północna</option>
+<option value="CR">Kostaryka</option>
+<option value="CU">Kuba</option>
+<option value="KW">Kuwejt</option>
+<option value="LA">Laos</option>
+<option value="LS">Lesotho</option>
+<option value="LB">Liban</option>
+<option value="LR">Liberia</option>
+<option value="LY">Libia</option>
+<option value="LI">Liechtenstein</option>
+<option value="LT">Litwa</option>
+<option value="LU">Luksemburg</option>
+<option value="LV">Łotwa</option>
+<option value="MK">Macedonia</option>
+<option value="MG">Madagaskar</option>
+<option value="MW">Malawi</option>
+<option value="MV">Malediwy</option>
+<option value="MY">Malezja</option>
+<option value="ML">Mali</option>
+<option value="MT">Malta</option>
+<option value="MA">Maroko</option>
+<option value="MR">Mauretania</option>
+<option value="MU">Mauritius</option>
+<option value="MX">Meksyk</option>
+<option value="FM">Mikronezja</option>
+<option value="MD">Mołdawia</option>
+<option value="MC">Monako</option>
+<option value="MN">Mongolia</option>
+<option value="MZ">Mozambik</option>
+<option value="NA">Namibia</option>
+<option value="NR">Nauru</option>
+<option value="NP">Nepal</option>
+<option value="DE">Niemcy</option>
+<option value="NE">Niger</option>
+<option value="NG">Nigeria</option>
+<option value="NI">Nikaragua</option>
+<option value="NO">Norwegia</option>
+<option value="NZ">Nowa Zelandia</option>
+<option value="OM">Oman</option>
+<option value="PK">Pakistan</option>
+<option value="PW">Palau</option>
+<option value="PA">Panama</option>
+<option value="PG">Papua-Nowa Gwinea</option>
+<option value="PY">Paragwaj</option>
+<option value="PE">Peru</option>
+<option value="PL" selected = "selected">Polska</option>
+<option value="PT">Portugalia</option>
+<option value="ZA">Republika Południowej Afryki</option>
+<option value="CF">Republika Środkowoafrykańska</option>
+<option value="CV">Republika Zielonego Przylądka</option>
+<option value="RU">Rosja</option>
+<option value="RO">Rumunia</option>
+<option value="RW">Rwanda</option>
+<option value="KN">Saint Kitts i Nevis</option>
+<option value="LC">Saint Lucia</option>
+<option value="VC">Saint Vincent i Grenadyny</option>
+<option value="SV">Salwador</option>
+<option value="WS">Samoa</option>
+<option value="SM">San Marino</option>
+<option value="SN">Senegal</option>
+<option value="CS">Serbia i Czarnogóra</option>
+<option value="SC">Seszele</option>
+<option value="SL">Sierra Leone</option>
+<option value="SG">Singapur</option>
+<option value="SK">Słowacja</option>
+<option value="SI">Słowenia</option>
+<option value="SO">Somalia</option>
+<option value="LK">Sri Lanka</option>
+<option value="US">Stany Zjednoczone</option>
+<option value="SZ">Suazi</option>
+<option value="SD">Sudan</option>
+<option value="SR">Surinam</option>
+<option value="SY">Syria</option>
+<option value="CH">Szwajcaria</option>
+<option value="SE">Szwecja</option>
+<option value="TJ">Tadżykistan</option>
+<option value="TH">Tajlandia</option>
+<option value="TZ">Tanzania</option>
+<option value="TL">Timor Wschodni</option>
+<option value="TG">Togo</option>
+<option value="TO">Tonga</option>
+<option value="TT">Trynidad i Tobago</option>
+<option value="TN">Tunezja</option>
+<option value="TR">Turcja</option>
+<option value="TM">Turkmenistan</option>
+<option value="TV">Tuvalu</option>
+<option value="UG">Uganda</option>
+<option value="UA">Ukraina</option>
+<option value="UY">Urugwaj</option>
+<option value="UZ">Uzbekistan</option>
+<option value="VU">Vanuatu</option>
+<option value="VA">Watykan</option>
+<option value="VE">Wenezuela</option>
+<option value="HU">Węgry</option>
+<option value="GB">Wielka Brytania</option>
+<option value="VN">Wietnam</option>
+<option value="IT">Włochy</option>
+<option value="CI">Wybrzeże Kości Słoniowej</option>
+<option value="MH">Wyspy Marshalla</option>
+<option value="SB">Wyspy Salomona</option>
+<option value="ST">Wyspy Świętego Tomasza i Książęca </option>
+<option value="ZM">Zambia</option>
+<option value="ZW">Zimbabwe</option>
+<option value="AE">Zjednoczone Emiraty Arabskie</option>
+        </select>
+        </td>
+        </tr>
+        <tr>
+        <td class="r">E-mail firmy*</td>
+        <td><input name="company_email" class="email required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Telefon*</td>
+        <td><input name="company_phone" class="required" value="" /></td>
+        </tr>
+        <tr>
+        <td class="r">Faks</td>
+        <td><input name="company_fax" value="" /></td>
+        </tr>
+        <tr>
+        <th colspan="2"><h4>Uwagi</h4></th>
+        </tr>
+        <tr>
+        <td class="r">Uwagi</td>
+        <td><textarea name="user_comment"></textarea></td>
+        </tr>
+        <tr>
+        <td class="r">*<input type="checkbox" class="required" name="accept" value="1" /></td>
+        <td>Oświadczam, że zapoznałem się z warunkami uczestnictwa oraz (w przypadku wydarzeń płatnych) zobowiązuję się do zapłaty całości kwot wynikających z niniejszego zgłoszenia</td>
+        </tr>
+        <tr>
+        <td class="r">*<input type="checkbox" class="required" name="privacy" value="1" /></td>
+        <td>Wyrażam zgodę na otrzymywanie informacji handlowych za pomocą środków komunikacji elektronicznej od Bonnier Business (Polska) Sp. z o.o., oraz partnerów handlowych. Oświadczenie jest niezależne od czasu korzystania z usług świadczonych przez Bonnier Business (Polska) Sp. z o.o. </td>
+        </tr>
+         <tr>
+         <td>* gwiazdką oznaczono pola obowiązkowe</td>
+         <td><button type="submit"/ ><!--Zarejestruj</button>--></td>
+        </tr>
+
+        </table>
+        </form>
+        
+        <script type="text/javascript">
+
+
+        var participants_grid_size = 5;
+        var event_prices = {
+1099: 2495        
+        }
+
+        function grid_update()
+        {
+            // var participants = 0;
+            var total = 0
+            for(var i = 1; i <= participants_grid_size; i++)
+            {
+                if(i == 1 || document.getElementById('participant_firstname_' + i).value.length > 0)
+                {
+                    total += event_prices[parseInt(document.getElementById('participant_price_id_'+ i).value)];
+                }
+            }
+            // var price = 2495;
+            // if (participants <= 0) participants = 1;
+            // document.getElementById('event_register_participant_number').innerHTML = participants;
+            if (document.getElementById('participant_firstname_1').value.length > 0)
+            {
+                document.getElementById('event_register_total').innerHTML = 'Koszt udziału: ' + total + ' zł + VAT';
+            }
+            else
+            {
+                document.getElementById('event_register_total').innerHTML = 'PROSZĘ WPISAĆ UCZESTNIKÓW!';
+            }
+
+        }
+
+        grid_updater = window.setInterval(grid_update, 500);
+
+        f = document.getElementById('event_form');
+        f.ec.value = (parseInt(f.eb.value) + parseInt(f.ea.value)) % 2010;
+
+        </script>
+
+
+        </div><!-- /#event_register -->
+
+
+ 
+        
+
+            
+
+<script type="text/javascript" src="/js/jquery.validate.js"></script>   
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('#event_form').validate();
+  });
+
+  </script>
+
+</div><!-- / #event_detail_body -->
+
+
+</div><!-- / #event_col1 -->
+
+<div id="event_col2">
+
+<div class="event_box">
+<h2>Informacje</h2>
+<p>Tomasz Jakubiak</p>
+<p>T 22 333 97 77</p>
+<p>F 22 333 97 78</p>
+<p><a href="mailto:konferencje@pb.pl">konferencje@pb.pl</a></p>
+<p class="register_button" style="margin-left: 3px; "><a class="red" href="#event_register" onclick="rejestracja();">Zarejestruj się</a></p>
+</div>
+
+
+<div class="event_ledge">szukaj</div>
+<div class="search_right_box">
+    <form action="/">
+    <input name="q" type="text" /><br />
+    <button type="submit"></button>
+    </form>
+</div>
+<br /><br />
+ <!-- 0.000 % -->
+
+<div class="event_box">
+<h2>Kontakt</h2>
+<p>Jeśli chcesz dowiedzieć się więcej, zorganizować wspólnie z&nbsp;nami wydarzenie, zostać sponsorem, zamówić materiały konferencyjne, prosimy o&nbsp;kontakt:</p>
+<p style="font-size: 20px; font-weight: bold;  ">22 333 97 77</p>
+<p><a href="mailto:konferencje@pb.pl">konferencje@pb.pl</a></p>
+</div>
+ <!-- 0.000 % -->
+
+
+<div class="event_box">
+<h2>Najczęściej oglądane</h2>
+<p><a href="/konferencja/653,znaki-towa-owe-wlasnosc-intelektualna-skuteczne-narzedzie-gry-rynkowej"><strong>1.</strong> ZNAKI TOWA®OWE. Własność intelektualna – skuteczne narzędzie gry rynkowej</a></p>
+<p><a href="/konferencja/652,5th-interactive-marketing-meeting"><strong>2.</strong> 5th Interactive Marketing Meeting</a></p>
+</div>
+ <!-- 0.006 % -->
+
+<div class="event_box">
+<h2>Newsletter</h2>
+<p>Zapisz się do newslettera konferencji. Podaj swój email.</p>
+<form method="post" action="/newsletter_subscribe"><div class="c" style="padding-top: 8px;">
+<input type="text" name="nlemail" id="nlemail" value="" class="text-input email" /><br />
+<div style="text-align: center; padding-top: 8px;"><input type="hidden" name="action" value="addnl" /><input type="image" src="/img/sklep/ok.png" alt="OK" style="width: auto;" /></div>
+</div></form>
+</div>
+ <!-- 0.000 % -->
+<div><p><a href="http://adocean-pl.hit.gemius.pl/hitredir/id=AkVFzSeJ2QCBLsfGeeDWFsSsXoy_6DrAWmD_QQQ0PSz.V7/stparam=zmrqevqjjl/fastid=1297036692683948528/sarg=0000000C7D211030/url=http%3A%2F%2Fsklep.pb.pl%2Foffer%2Feprenumerator-12m%2Btab" target="_blank"><img src="http://myao.adocean.pl/files/oeppmwmktc/sgkhmrrjlu/prestigo-dual-200x2002.gif" border="0" alt="" width="200" height="200" /></a></p></div>
+ <!-- 0.005 % -->
+
+
+<div class="event_box">
+<h2><a href="/">Wideo <span class="arrow">&raquo; </span></a></h2>
+
+<div class="event_player_content">
+<div>
+<a href="/2903882,61419,grand-prix-w-biznesie-2012"><img src="http://static.pb.pl/picture/57107,77571/194" alt="Grand Prix w biznesie 2012" /></a>
+</div>
+<h3><a href="/2903882,61419,grand-prix-w-biznesie-2012">Grand Prix w biznesie 2012</a></h3>
+
+</div>
+
+<div class="event_player_content">
+<div>
+<a href="/2903648,50442,kongres-flotowy-i-v-gala-nagrod-polskiego-zwiazku-wynajmu-i-leasingu-pojazdow-29-11-2012"><img src="http://static.pb.pl/picture/57105,88531/194" alt="Kongres Flotowy i V Gala Nagród Polskiego Związku Wynajmu i Leasingu Pojazdów 29.11.2012" /></a>
+</div>
+<h3><a href="/2903648,50442,kongres-flotowy-i-v-gala-nagrod-polskiego-zwiazku-wynajmu-i-leasingu-pojazdow-29-11-2012">Kongres Flotowy i V Gala Nagród Polskiego Związku Wynajmu i Leasingu Pojazdów 29.11.2012</a></h3>
+
+</div>
+
+<div class="event_player_content">
+<div>
+<a href="/2904012,29546,warsztaty-przedsiebiorczosci"><img src="http://static.pb.pl/picture/57108,78633/194" alt="Warsztaty Przedsiębiorczości" /></a>
+</div>
+<h3><a href="/2904012,29546,warsztaty-przedsiebiorczosci">Warsztaty Przedsiębiorczości</a></h3>
+
+</div>
+
+<div class="event_player_content">
+<div>
+<a href="/2587221,71759,wideorelacja-z-konferencji-360-stopni-widoku-na-klienta-oraz-efektywna-sprzedaz"><img src="http://static.pb.pl/picture/39919,13672/194" alt="Wideorelacja z konferencji ,,360 Stopni Widoku Na Klienta&#34; oraz ,,Efektywna Sprzedaż&#34; " /></a>
+</div>
+<h3><a href="/2587221,71759,wideorelacja-z-konferencji-360-stopni-widoku-na-klienta-oraz-efektywna-sprzedaz">Wideorelacja z konferencji ,,360 Stopni Widoku Na Klienta" oraz ,,Efektywna Sprzedaż" </a></h3>
+
+</div>
+</div><!-- /#box -->
+ <!-- 0.000 . -->
+</div><!-- / #event_col2 -->
+
+
+
+</div><!-- /#superwidecol -->
+<div id="maincol">
+
+</div><!-- /#maincol -->
+<div id="col3">
+
+</div><!--/#col3 -->
+</div><!--/#content -->
+
+
+
+
+<script type="text/javascript">
+linker.go();
+</script>
+
+		
+
+<div style="clear: both;"></div>
+
+		
+	</div><!--/#site -->
+	
+	<div id="footer">
+<div id="footer-inner">
+		<div class="overview">
+			<img src="/img/bonnier.png" alt="Bonnier" />
+		</div>
+		<div class="overview">
+		<h4>BBP</h4>
+		<ul>
+			<li><a href="http://bonnier.pl/2465958,45854,kim-jestesmy" title="O nas" target="_blank">O nas</a></li>
+			<li><a href="http://bonnier.pl/praca" title="Pracuj u nas" target="_blank">Pracuj u nas</a></li>
+			<li><a href="http://bonnier.pl/2473420,36950,spoleczna-odpowiedzialnosc-biznesu" title="CSR" target="_blank">CSR</a></li>
+			<li><a href="http://bonnier.pl/kontakt" title="Kontakt" target="_blank">Kontakt</a></li>
+		</ul>
+		</div>
+		
+		<div class="overview">
+		<h4>Sklep</h4>
+		<ul>
+			<li><a href="http://sklep.pb.pl/bygroup/eprenumerator" title="Prenumerata" target="_blank">Prenumerata</a></li>
+			<li><a href="http://sklep.pb.pl/bytype/ksiazki" title="Publikacje" target="_blank">Publikacje</a></li>
+			<li><a href="http://sklep.pb.pl/bygroup/pakiet-inwestor" title="Pakiety specjalne" target="_blank">Pakiety specjalne</a></li>
+			<li><a href="http://sklep.pb.pl/bytype/raporty" title="Raporty" target="_blank">Raporty</a></li>
+			<li><a href="http://konferencje.pb.pl" title="Konferencje" target="_blank">Konferencje</a></li>
+		</ul>
+		</div>
+		
+		<div class="overview">
+		<h4>Puls Biznesu</h4>
+		<ul>
+			<li><a href="http://archiwum.pb.pl" title="Archiwum" target="_blank">Archiwum</a></li>
+			<li><a href="http://e.pb.pl" title="E-wydanie" target="_blank">E-wydanie</a></li>
+			<li><a href="http://bonnier.pl/reklama" title="Reklama" target="_blank">Reklama</a></li>
+		</ul>
+		</div>
+		
+		<div class="overview">
+		<h4>Pb.pl</h4>
+		<ul>
+			<li><a href="http://www.pb.pl/img/regulamin.pdf" title="Regulamin" target="_blank">Regulamin</a></li>
+			<li><a href="http://newsletter.pb.pl" title="Newsletter" target="_blank">Newsletter</a></li>
+			<li><a href="http://widgety.pb.pl" title="Widgety" target="_blank">Widgety</a></li>
+			<li><a href="http://bonnier.pl/reklama" title="Reklama" target="_blank">Reklama</a></li>
+		</ul>
+		</div>
+		
+		</div><!--/#footer-inner -->
+	</div><!--/#footer -->
+
+
+<!-- (C)2000-2012 Gemius SA - gemiusTraffic / ver 11.1 / konferencje.pb.pl+informedia.pb.pl --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Arrq3wrLImaRqUIf.qGC8cQHUxYkzsajWvkim8wdPj.37');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1121769-44']);
+  _gaq.push(['_setDomainName', 'pb.pl']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- HowTo: All the ad codes must be above this code! -->
+<!-- BBelements one2many code -->
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<script type='text/javascript' charset='iso-8859-2' src='http://go.arbopl.bbelements.com/bb/bb_one2n.js?1249975097'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+bmone2n.addPosition('2610.1.2.30','');
+bmone2n.getAd('go.arbopl.bbelements.com','',''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'iso-8859-2');
+/* ]]> */</script>
+<div id='bmone2t-2610.1.2.30' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2610.1.2.30'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */
+bm12n_orig_onload = (window.onload) ? window.onload : null;
+function bm12n_onLoad() { bmone2n.moveAd();  if (bm12n_orig_onload) {bm12n_orig_onload();} }
+window.onload = bm12n_onLoad;
+/* ]]> */</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+{document.write('<script type="text/javascript" id="cafenews.pl#7648bfca304b70cf5006abd38e8fc43f"></'+'script><div id="cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6"></div>');setTimeout(function(){var d=new Date();document.getElementById("cafenews.pl#7648bfca304b70cf5006abd38e8fc43f").src='http://webservices.cafenews.pl/mpl/Static/Static.js?id=cafenews.pl#cvb64mnc8vg4jd8gksd653jkadg7j6&d='+d.getFullYear()+d.getMonth()+d.getDate();},250);}
+/* ]]> */</script>
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
+<script type="text/javascript">
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+
+
+
+
+</body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2433 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Twoja kariera: Księgarnia Bankier.pl</title>
+	<meta name="description" content="Księgarnia bankier.pl - książki dla biznesu i nie tylko."/>
+	<link rel="shortcut icon" href="http://www.bankier.pl/favicon.ico" type="image/x-icon"/>
+	<link href="/s/style.css?v=7" rel="stylesheet" type="text/css" media="screen"/>
+    <script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+    <noscript>
+        <div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+            text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+            text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+            <div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+                Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+                z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+                Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+            </div>
+        </div>
+    </noscript>
+
+
+
+	
+	
+	<!-- (C)2000-2009 Gemius SA - gemiusTraffic / ver 11.1 / ksiegarnia_pozostale --> 
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var gemius_identifier = new String('AkTrsutX7HoCGwslBuULPsRpLVVKKmbNbDo489YWyfv.k7');
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://www.bankier.pl/inc/js/gemius.js"></script>
+	
+	
+	
+	<!-- (C) 2000-2009 Gemius SA - gemiusAudience / ver 11.1 / adnet.bankier / Ksiegarnia-->
+	<script type="text/javascript">
+	 <!--//--><![CDATA[//><!--
+	var pp_gemius_identifier ='za01ZONWwSNq9wS8lPPx4reOLd_kNOcSlGWIIc19ul7.F7';
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://arbo.hit.gemius.pl/xgemius.js"></script>
+
+
+</head>
+<body id="bn_lifestyle">
+
+<link href="http://s01.bankier.pl/s/ksiegarnia.css" rel="stylesheet" type="text/css" />
+
+<div id="bn_header" style="position: relative; z-index: 100; height:120px;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Fcontent%2Fksiegarnia%2Fheader_new.html" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/bankiertv-index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li class="selected"><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+
+
+
+<div id="ksiegarnia">
+	<div id="content">
+		<div id="search">
+			<div class="top"></div>
+			<form action="/szukaj/">
+				<div>
+					Szukaj:
+					<input name="q" size="30"/>
+					<input type="submit" value="szukaj" />
+				</div>
+			</form>
+			<div class="bottom"></div>
+		</div>
+		
+
+
+
+
+
+
+<p class="lead">Wiosenne porządki na Onepress.pl [20% rabatu na całą ofertę]</p>
+
+
+
+
+<div class="box">
+	<div class="pre-title"></div><div class="box-title">Twoja kariera</div><div class="post-title"></div>
+	<div class="content">
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1366/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<img class="cover" src="/s/cover/small/1366.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego"/>
+		</a>
+		<a class="boo " href="/ksiazka1366/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka27/grzeczne-dziewczynki-sie-nie-bogaca-75-bledow-ktore-utrudniaja-kobietom-osiagniecie-niezaleznosci-finansowej.html">
+			<img class="cover" src="/s/cover/small/27.jpg" alt="Grzeczne dziewczynki się nie bogacą. 75 błędów, które utrudniają kobietom osiągnięcie niezależności finansowej"/>
+		</a>
+		<a class="boo " href="/ksiazka27/grzeczne-dziewczynki-sie-nie-bogaca-75-bledow-ktore-utrudniaja-kobietom-osiagniecie-niezaleznosci-finansowej.html">
+			<span class="title">Grzeczne dziewczynki się nie bogacą. 75 błędów, które utrudniają kobietom osiągnięcie niezależności finansowej</span>
+		</a>
+			<span class="author">Lois P. Frankel</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1071/czas-52-sposoby-na-to-by-zaczal-pracowac-dla-ciebie.html">
+			<img class="cover" src="/s/cover/small/1071.jpg" alt="Czas. 52 sposoby na to, by zaczął pracować dla Ciebie"/>
+		</a>
+		<a class="boo " href="/ksiazka1071/czas-52-sposoby-na-to-by-zaczal-pracowac-dla-ciebie.html">
+			<span class="title">Czas. 52 sposoby na to, by zaczął pracować dla Ciebie</span>
+		</a>
+			<span class="author">David Allen</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1072/sztuka-wojny-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1072.jpg" alt="Sztuka Wojny. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1072/sztuka-wojny-wydanie-ii.html">
+			<span class="title">Sztuka Wojny. Wydanie II</span>
+		</a>
+			<span class="author">Sun Pin, Sun Tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka966/pozytywne-nastawienie-jak-uzyskac-utrzymac-lub-odzyskac-swoje-mojo.html">
+			<img class="cover" src="/s/cover/small/966.jpg" alt="Pozytywne nastawienie. Jak uzyskać, utrzymać lub odzyskać swoje mojo"/>
+		</a>
+		<a class="boo " href="/ksiazka966/pozytywne-nastawienie-jak-uzyskac-utrzymac-lub-odzyskac-swoje-mojo.html">
+			<span class="title">Pozytywne nastawienie. Jak uzyskać, utrzymać lub odzyskać swoje mojo</span>
+		</a>
+			<span class="author">Marshall Goldsmith</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1101/prawa-sukcesu-wedlug-napoleona-hilla-zasady-samodoskonalenia.html">
+			<img class="cover" src="/s/cover/small/1101.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady samodoskonalenia"/>
+		</a>
+		<a class="boo " href="/ksiazka1101/prawa-sukcesu-wedlug-napoleona-hilla-zasady-samodoskonalenia.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady samodoskonalenia</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka699/grzeczne-dziewczynki-marza-o-karierze-a-niegrzeczne-ja-planuja.html">
+			<img class="cover" src="/s/cover/small/699.jpg" alt="Grzeczne dziewczynki marzą o karierze, a niegrzeczne ją planują "/>
+		</a>
+		<a class="boo " href="/ksiazka699/grzeczne-dziewczynki-marza-o-karierze-a-niegrzeczne-ja-planuja.html">
+			<span class="title">Grzeczne dziewczynki marzą o karierze, a niegrzeczne ją planują </span>
+		</a>
+			<span class="author">Caitlin Friedman, Kimberly Yorio</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka838/rozmowa-kwalifikacyjna-o-czym-nie-wiedza-kandydaci-do-pracy-czyli-sekrety-rekrutujacych.html">
+			<img class="cover" src="/s/cover/small/838.jpg" alt="Rozmowa kwalifikacyjna. O czym nie wiedza kandydaci do pracy, czyli sekrety rekrutujacych"/>
+		</a>
+		<a class="boo " href="/ksiazka838/rozmowa-kwalifikacyjna-o-czym-nie-wiedza-kandydaci-do-pracy-czyli-sekrety-rekrutujacych.html">
+			<span class="title">Rozmowa kwalifikacyjna. O czym nie wiedza kandydaci do pracy, czyli sekrety rekrutujacych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					27&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka266/sztuka-wojny-wydanie-ekskluzywne.html">
+			<img class="cover" src="/s/cover/small/266.jpg" alt="Sztuka wojny (wydanie ekskluzywne)"/>
+		</a>
+		<a class="boo " href="/ksiazka266/sztuka-wojny-wydanie-ekskluzywne.html">
+			<span class="title">Sztuka wojny (wydanie ekskluzywne)</span>
+		</a>
+			<span class="author">Sun Pin, Sun Tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">79&nbsp;zł</span>
+					<span class="promo">63,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka529/wstretni-szefowie-jak-nie-pozwolic-im-sie-dluzej-ranic-bez-znizania-sie-do-ich-poziomu.html">
+			<img class="cover" src="/s/cover/small/529.jpg" alt="Wstrętni szefowie. Jak nie pozwolić im się dłużej ranić bez zniżania się do ich poziomu"/>
+		</a>
+		<a class="boo " href="/ksiazka529/wstretni-szefowie-jak-nie-pozwolic-im-sie-dluzej-ranic-bez-znizania-sie-do-ich-poziomu.html">
+			<span class="title">Wstrętni szefowie. Jak nie pozwolić im się dłużej ranić bez zniżania się do ich poziomu</span>
+		</a>
+			<span class="author">Jay Carter</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24&nbsp;zł</span>
+					<span class="promo">19,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka688/diablica-w-pracy-grzeczne-dziewczynki-chca-miec-dobrego-szefa-niegrzeczne-sa-szefami.html">
+			<img class="cover" src="/s/cover/small/688.jpg" alt="Diablica w pracy. Grzeczne dziewczynki chcą mieć dobrego szefa, niegrzeczne są szefami"/>
+		</a>
+		<a class="boo " href="/ksiazka688/diablica-w-pracy-grzeczne-dziewczynki-chca-miec-dobrego-szefa-niegrzeczne-sa-szefami.html">
+			<span class="title">Diablica w pracy. Grzeczne dziewczynki chcą mieć dobrego szefa, niegrzeczne są szefami</span>
+		</a>
+			<span class="author">Elizabeth Hilts</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24&nbsp;zł</span>
+					<span class="promo">19,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka920/mount-everest-biznesu.html">
+			<img class="cover" src="/s/cover/small/920.jpg" alt="Mount Everest biznesu"/>
+		</a>
+		<a class="boo " href="/ksiazka920/mount-everest-biznesu.html">
+			<span class="title">Mount Everest biznesu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					39&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka980/musimy-pogadac-trudne-rozmowy-z-szefem.html">
+			<img class="cover" src="/s/cover/small/980.jpg" alt="Musimy pogadać. Trudne rozmowy z szefem"/>
+		</a>
+		<a class="boo " href="/ksiazka980/musimy-pogadac-trudne-rozmowy-z-szefem.html">
+			<span class="title">Musimy pogadać. Trudne rozmowy z szefem</span>
+		</a>
+			<span class="author">Lynne Eisaguirre</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka100/harvard-business-review-kobiety-i-biznes.html">
+			<img class="cover" src="/s/cover/small/100.jpg" alt="Harvard Business Review. Kobiety i biznes"/>
+		</a>
+		<a class="boo " href="/ksiazka100/harvard-business-review-kobiety-i-biznes.html">
+			<span class="title">Harvard Business Review. Kobiety i biznes</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka406/grzeczne-dziewczynki-nie-kreca-interesem-szczere-rady-otwarte-rozmowy-i-prawdziwe-historie-dla-zaradnych-bizneswomen.html">
+			<img class="cover" src="/s/cover/small/406.jpg" alt="Grzeczne dziewczynki nie kręcą interesem. Szczere rady, otwarte rozmowy i prawdziwe historie dla zaradnych bizneswomen"/>
+		</a>
+		<a class="boo " href="/ksiazka406/grzeczne-dziewczynki-nie-kreca-interesem-szczere-rady-otwarte-rozmowy-i-prawdziwe-historie-dla-zaradnych-bizneswomen.html">
+			<span class="title">Grzeczne dziewczynki nie kręcą interesem. Szczere rady, otwarte rozmowy i prawdziwe historie dla zaradnych bizneswomen</span>
+		</a>
+			<span class="author">Caitlin Friedman, Kimberly Yorio</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka248/poradnik-korporacyjnego-szczura.html">
+			<img class="cover" src="/s/cover/small/248.jpg" alt="Poradnik korporacyjnego szczura"/>
+		</a>
+		<a class="boo " href="/ksiazka248/poradnik-korporacyjnego-szczura.html">
+			<span class="title">Poradnik korporacyjnego szczura</span>
+		</a>
+			<span class="author">Joep P. M. Schrijvers</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1969/sztuka-wojny-wydanie-iii.html">
+			<img class="cover" src="/s/cover/small/1969.jpg" alt="Sztuka wojny. Wydanie III"/>
+		</a>
+		<a class="boo " href="/ksiazka1969/sztuka-wojny-wydanie-iii.html">
+			<span class="title">Sztuka wojny. Wydanie III</span>
+		</a>
+			<span class="author">Sun-tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1382/tajniki-wystapien-publicznych-101-porad-dla-prezenterow.html">
+			<img class="cover" src="/s/cover/small/1382.jpg" alt="Tajniki wystąpień publicznych. 101 porad dla prezenterów"/>
+		</a>
+		<a class="boo " href="/ksiazka1382/tajniki-wystapien-publicznych-101-porad-dla-prezenterow.html">
+			<span class="title">Tajniki wystąpień publicznych. 101 porad dla prezenterów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka407/grzeczne-dziewczynki-nie-siedza-w-fotelu-prezesa-jak-zarzadzac-firma-kobieca-reka.html">
+			<img class="cover" src="/s/cover/small/407.jpg" alt="Grzeczne dziewczynki nie siedzą w fotelu prezesa. Jak zarządzać firmą kobiecą ręką?"/>
+		</a>
+		<a class="boo " href="/ksiazka407/grzeczne-dziewczynki-nie-siedza-w-fotelu-prezesa-jak-zarzadzac-firma-kobieca-reka.html">
+			<span class="title">Grzeczne dziewczynki nie siedzą w fotelu prezesa. Jak zarządzać firmą kobiecą ręką?</span>
+		</a>
+			<span class="author">Caitlin Friedman, Kimberly Yorio</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka479/zmiana-pracy-jak-wykorzystac-szanse-i-uniknac-bledow.html">
+			<img class="cover" src="/s/cover/small/479.jpg" alt="Zmiana pracy. Jak wykorzystać szanse i uniknąć błędów"/>
+		</a>
+		<a class="boo " href="/ksiazka479/zmiana-pracy-jak-wykorzystac-szanse-i-uniknac-bledow.html">
+			<span class="title">Zmiana pracy. Jak wykorzystać szanse i uniknąć błędów</span>
+		</a>
+			<span class="author">Petra Begemann</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka644/autopromocja-i-awans.html">
+			<img class="cover" src="/s/cover/small/644.jpg" alt="Autopromocja i awans"/>
+		</a>
+		<a class="boo " href="/ksiazka644/autopromocja-i-awans.html">
+			<span class="title">Autopromocja i awans</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka926/sztuka-podejmowania-decyzji-dlaczego-madrzy-ludzie-dokonuja-zlych-wyborow.html">
+			<img class="cover" src="/s/cover/small/926.jpg" alt="Sztuka podejmowania decyzji. Dlaczego mądrzy ludzie dokonują złych wyborów"/>
+		</a>
+		<a class="boo " href="/ksiazka926/sztuka-podejmowania-decyzji-dlaczego-madrzy-ludzie-dokonuja-zlych-wyborow.html">
+			<span class="title">Sztuka podejmowania decyzji. Dlaczego mądrzy ludzie dokonują złych wyborów</span>
+		</a>
+			<span class="author">Gary Klein</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka607/wewnetrzna-blokada-uwolnij-sie-od-zachowan-ktore-cie-ograniczaja.html">
+			<img class="cover" src="/s/cover/small/607.jpg" alt="Wewnętrzna blokada. Uwolnij się od zachowań, które Cię ograniczają"/>
+		</a>
+		<a class="boo " href="/ksiazka607/wewnetrzna-blokada-uwolnij-sie-od-zachowan-ktore-cie-ograniczaja.html">
+			<span class="title">Wewnętrzna blokada. Uwolnij się od zachowań, które Cię ograniczają</span>
+		</a>
+			<span class="author">Flip Flippen</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka972/najmocniejsze-ogniwo-jak-stac-sie-niezastapionym-zawsze-i-wszedzie.html">
+			<img class="cover" src="/s/cover/small/972.jpg" alt="Najmocniejsze ogniwo. Jak stać się niezastąpionym zawsze i wszędzie"/>
+		</a>
+		<a class="boo " href="/ksiazka972/najmocniejsze-ogniwo-jak-stac-sie-niezastapionym-zawsze-i-wszedzie.html">
+			<span class="title">Najmocniejsze ogniwo. Jak stać się niezastąpionym zawsze i wszędzie</span>
+		</a>
+			<span class="author">Seth Godin</span>
+			
+			<span class="price">
+				Cena:
+				
+					37,89&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1092/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie.html">
+			<img class="cover" src="/s/cover/small/1092.jpg" alt="Filozofia Kaizen. Jak mały krok może zmienić Twoje życie"/>
+		</a>
+		<a class="boo " href="/ksiazka1092/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie.html">
+			<span class="title">Filozofia Kaizen. Jak mały krok może zmienić Twoje życie</span>
+		</a>
+			<span class="author">Robert Maurer</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka101/harvard-business-review-zarzadzanie-samym-soba.html">
+			<img class="cover" src="/s/cover/small/101.jpg" alt="Harvard Business Review. Zarządzanie samym sobą"/>
+		</a>
+		<a class="boo " href="/ksiazka101/harvard-business-review-zarzadzanie-samym-soba.html">
+			<span class="title">Harvard Business Review. Zarządzanie samym sobą</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1364/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-wideowyklad.html">
+			<img class="cover" src="/s/cover/small/1364.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Wideowykład"/>
+		</a>
+		<a class="boo " href="/ksiazka1364/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-wideowyklad.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Wideowykład</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka875/syndrom-milego-czlowieka-jak-osiagnac-sukces-pozostajac-soba.html">
+			<img class="cover" src="/s/cover/small/875.jpg" alt="Syndrom miłego człowieka. Jak osiągnąć sukces pozostając sobą"/>
+		</a>
+		<a class="boo " href="/ksiazka875/syndrom-milego-czlowieka-jak-osiagnac-sukces-pozostajac-soba.html">
+			<span class="title">Syndrom miłego człowieka. Jak osiągnąć sukces pozostając sobą</span>
+		</a>
+			<span class="author">Charles C. Manz, Russ C. Edelman, Timothy R. Hiltabiddle</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1962/sztuka-wojny-wydanie-iii-twarda-oprawa.html">
+			<img class="cover" src="/s/cover/small/1962.jpg" alt="Sztuka wojny. Wydanie III (twarda oprawa)"/>
+		</a>
+		<a class="boo " href="/ksiazka1962/sztuka-wojny-wydanie-iii-twarda-oprawa.html">
+			<span class="title">Sztuka wojny. Wydanie III (twarda oprawa)</span>
+		</a>
+			<span class="author">Sun-tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka495/sila-grupy-wykorzystaj-wsparcie-otoczenia-i-odnies-sukces.html">
+			<img class="cover" src="/s/cover/small/495.jpg" alt="Siła grupy. Wykorzystaj wsparcie otoczenia i odnieś sukces "/>
+		</a>
+		<a class="boo " href="/ksiazka495/sila-grupy-wykorzystaj-wsparcie-otoczenia-i-odnies-sukces.html">
+			<span class="title">Siła grupy. Wykorzystaj wsparcie otoczenia i odnieś sukces </span>
+		</a>
+			<span class="author">Bill Hibbler, Joe Vitale</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka549/zarzadzanie-projektem-szkoleniowym.html">
+			<img class="cover" src="/s/cover/small/549.jpg" alt="Zarządzanie projektem szkoleniowym"/>
+		</a>
+		<a class="boo " href="/ksiazka549/zarzadzanie-projektem-szkoleniowym.html">
+			<span class="title">Zarządzanie projektem szkoleniowym</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka383/czas-rekinow-liderzy-amerykanskiego-biznesu-xx-wieku.html">
+			<img class="cover" src="/s/cover/small/383.jpg" alt="Czas rekinów. Liderzy amerykańskiego biznesu XX wieku"/>
+		</a>
+		<a class="boo " href="/ksiazka383/czas-rekinow-liderzy-amerykanskiego-biznesu-xx-wieku.html">
+			<span class="title">Czas rekinów. Liderzy amerykańskiego biznesu XX wieku</span>
+		</a>
+			<span class="author">Anthony J. Mayo, Nitin Nohria</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka119/nauki-barona.html">
+			<img class="cover" src="/s/cover/small/119.jpg" alt="Nauki Barona"/>
+		</a>
+		<a class="boo " href="/ksiazka119/nauki-barona.html">
+			<span class="title">Nauki Barona</span>
+		</a>
+			<span class="author">D. Marques Patton, Vicky Therese Davis, William R. Patterson</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">33&nbsp;zł</span>
+					<span class="promo">26,40&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1963/rozmowa-kwalifikacyjna-o-czym-nie-wiedza-kandydaci-do-pracy-czyli-sekrety-rekrutujacych-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1963.jpg" alt="Rozmowa kwalifikacyjna. O czym nie wiedza kandydaci do pracy, czyli sekrety rekrutujących. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1963/rozmowa-kwalifikacyjna-o-czym-nie-wiedza-kandydaci-do-pracy-czyli-sekrety-rekrutujacych-wydanie-ii-rozszerzone.html">
+			<span class="title">Rozmowa kwalifikacyjna. O czym nie wiedza kandydaci do pracy, czyli sekrety rekrutujących. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka521/kobiety-przejmuja-ster-99-sposobow-na-sukces-zawodowy-i-osobisty.html">
+			<img class="cover" src="/s/cover/small/521.jpg" alt="Kobiety przejmują ster: 99 sposobów na sukces zawodowy i osobisty"/>
+		</a>
+		<a class="boo " href="/ksiazka521/kobiety-przejmuja-ster-99-sposobow-na-sukces-zawodowy-i-osobisty.html">
+			<span class="title">Kobiety przejmują ster: 99 sposobów na sukces zawodowy i osobisty</span>
+		</a>
+			<span class="author">Lois P. Frankel</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka165/praca-z-toba-mnie-niszczy-jak-wyzwolic-sie-z-emocjonalnych-pulapek-w-miejscu-pracy.html">
+			<img class="cover" src="/s/cover/small/165.jpg" alt="Praca z Tobą mnie niszczy. Jak wyzwolić się z emocjonalnych pułapek w miejscu pracy"/>
+		</a>
+		<a class="boo " href="/ksiazka165/praca-z-toba-mnie-niszczy-jak-wyzwolic-sie-z-emocjonalnych-pulapek-w-miejscu-pracy.html">
+			<span class="title">Praca z Tobą mnie niszczy. Jak wyzwolić się z emocjonalnych pułapek w miejscu pracy</span>
+		</a>
+			<span class="author">Katherine Crowley, Kathi Elster</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1890/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<img class="cover" src="/s/cover/small/1890.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego"/>
+		</a>
+		<a class="boo " href="/ksiazka1890/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2073/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie.html">
+			<img class="cover" src="/s/cover/small/2073.jpg" alt="Filozofia Kaizen. Jak mały krok może zmienić Twoje życie"/>
+		</a>
+		<a class="boo " href="/ksiazka2073/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie.html">
+			<span class="title">Filozofia Kaizen. Jak mały krok może zmienić Twoje życie</span>
+		</a>
+			<span class="author">Robert Maurer</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka562/nawyk-samodyscypliny-zaprogramuj-wewnetrznego-stroza.html">
+			<img class="cover" src="/s/cover/small/562.jpg" alt="Nawyk samodyscypliny. Zaprogramuj wewnętrznego stróża"/>
+		</a>
+		<a class="boo " href="/ksiazka562/nawyk-samodyscypliny-zaprogramuj-wewnetrznego-stroza.html">
+			<span class="title">Nawyk samodyscypliny. Zaprogramuj wewnętrznego stróża</span>
+		</a>
+			<span class="author">Neil Fiore</span>
+			
+			<span class="price">
+				Cena:
+				
+					39,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka473/psychologia-sukcesu-sekrety-duchowego-bogactwa.html">
+			<img class="cover" src="/s/cover/small/473.jpg" alt="Psychologia sukcesu. Sekrety duchowego bogactwa"/>
+		</a>
+		<a class="boo " href="/ksiazka473/psychologia-sukcesu-sekrety-duchowego-bogactwa.html">
+			<span class="title">Psychologia sukcesu. Sekrety duchowego bogactwa</span>
+		</a>
+			<span class="author">J. Martin Kohe, Judith Williamson</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1090/najmocniejsze-ogniwo-jak-stac-sie-niezastapionym-zawsze-i-wszedzie.html">
+			<img class="cover" src="/s/cover/small/1090.jpg" alt="Najmocniejsze ogniwo. Jak stać się niezastąpionym zawsze i wszędzie"/>
+		</a>
+		<a class="boo " href="/ksiazka1090/najmocniejsze-ogniwo-jak-stac-sie-niezastapionym-zawsze-i-wszedzie.html">
+			<span class="title">Najmocniejsze ogniwo. Jak stać się niezastąpionym zawsze i wszędzie</span>
+		</a>
+			<span class="author">Seth Godin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka509/niezbednik-kobiety-sukcesu-jak-skutecznie-walczyc-o-awans-i-pieniadze.html">
+			<img class="cover" src="/s/cover/small/509.jpg" alt="Niezbędnik kobiety sukcesu. Jak skutecznie walczyć o awans i pieniądze"/>
+		</a>
+		<a class="boo " href="/ksiazka509/niezbednik-kobiety-sukcesu-jak-skutecznie-walczyc-o-awans-i-pieniadze.html">
+			<span class="title">Niezbędnik kobiety sukcesu. Jak skutecznie walczyć o awans i pieniądze</span>
+		</a>
+			<span class="author">Robyn Spizman, Tory Johnson</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1690/kim-chcesz-byc-wybierz-zawod-najlepszy-dla-ciebie.html">
+			<img class="cover" src="/s/cover/small/1690.jpg" alt="Kim chcesz być? Wybierz zawód najlepszy dla Ciebie"/>
+		</a>
+		<a class="boo " href="/ksiazka1690/kim-chcesz-byc-wybierz-zawod-najlepszy-dla-ciebie.html">
+			<span class="title">Kim chcesz być? Wybierz zawód najlepszy dla Ciebie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka343/emigracja-do-usa-wydanie-viii.html">
+			<img class="cover" src="/s/cover/small/343.jpg" alt="Emigracja do USA. Wydanie VIII"/>
+		</a>
+		<a class="boo " href="/ksiazka343/emigracja-do-usa-wydanie-viii.html">
+			<span class="title">Emigracja do USA. Wydanie VIII</span>
+		</a>
+			<span class="author">Dan P. Danilov</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1038/tajemnica-fal-mozgowych-przywroc-rytm-szczesliwego-i-zdrowego-zycia.html">
+			<img class="cover" src="/s/cover/small/1038.jpg" alt="Tajemnica fal mózgowych. Przywróć rytm szczęśliwego i zdrowego życia"/>
+		</a>
+		<a class="boo " href="/ksiazka1038/tajemnica-fal-mozgowych-przywroc-rytm-szczesliwego-i-zdrowego-zycia.html">
+			<span class="title">Tajemnica fal mózgowych. Przywróć rytm szczęśliwego i zdrowego życia</span>
+		</a>
+			<span class="author">Ilchi Lee</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka664/sukces-i-co-dalej.html">
+			<img class="cover" src="/s/cover/small/664.jpg" alt="SUKCES ...i co dalej?"/>
+		</a>
+		<a class="boo " href="/ksiazka664/sukces-i-co-dalej.html">
+			<span class="title">SUKCES ...i co dalej?</span>
+		</a>
+			<span class="author">Mark Reiter, Marshall Goldsmith</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka481/okres-probny-jak-przekonac-do-siebie-pracodawce.html">
+			<img class="cover" src="/s/cover/small/481.jpg" alt="Okres próbny. Jak przekonać do siebie pracodawcę"/>
+		</a>
+		<a class="boo " href="/ksiazka481/okres-probny-jak-przekonac-do-siebie-pracodawce.html">
+			<span class="title">Okres próbny. Jak przekonać do siebie pracodawcę</span>
+		</a>
+			<span class="author">Petra Begemann</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">14,90&nbsp;zł</span>
+					<span class="promo">11,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka413/inteligencja-spoleczna-nowa-nauka-sukcesu.html">
+			<img class="cover" src="/s/cover/small/413.jpg" alt="Inteligencja społeczna. Nowa nauka sukcesu"/>
+		</a>
+		<a class="boo " href="/ksiazka413/inteligencja-spoleczna-nowa-nauka-sukcesu.html">
+			<span class="title">Inteligencja społeczna. Nowa nauka sukcesu</span>
+		</a>
+			<span class="author">Karl Albrecht</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka590/przedstawiciel-superja.html">
+			<img class="cover" src="/s/cover/small/590.jpg" alt="Przedstawiciel SuperJa"/>
+		</a>
+		<a class="boo " href="/ksiazka590/przedstawiciel-superja.html">
+			<span class="title">Przedstawiciel SuperJa</span>
+		</a>
+			<span class="author">Richard Israel, Tony Buzan</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka431/prawdziwa-moc-tkwi-w-tobie-jak-zapewnic-sobie-szczescie-rownowage-i-dobrobyt.html">
+			<img class="cover" src="/s/cover/small/431.jpg" alt="Prawdziwa moc tkwi w Tobie! Jak zapewnić sobie szczęście, równowagę i dobrobyt"/>
+		</a>
+		<a class="boo " href="/ksiazka431/prawdziwa-moc-tkwi-w-tobie-jak-zapewnic-sobie-szczescie-rownowage-i-dobrobyt.html">
+			<span class="title">Prawdziwa moc tkwi w Tobie! Jak zapewnić sobie szczęście, równowagę i dobrobyt</span>
+		</a>
+			<span class="author">Scott Martineau</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka929/ty-marka-inna-niz-wszystkie-sztuka-autentycznego-brandingu-osobistego.html">
+			<img class="cover" src="/s/cover/small/929.jpg" alt="TY - marka inna niż wszystkie. Sztuka autentycznego brandingu osobistego"/>
+		</a>
+		<a class="boo " href="/ksiazka929/ty-marka-inna-niz-wszystkie-sztuka-autentycznego-brandingu-osobistego.html">
+			<span class="title">TY - marka inna niż wszystkie. Sztuka autentycznego brandingu osobistego</span>
+		</a>
+			<span class="author">Hubert K Rampersad</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka382/dlaczego-mezczyzni-zarabiaja-wiecej-prawda-o-przepasci-plac-i-co-kobiety-moga-na-to-poradzic.html">
+			<img class="cover" src="/s/cover/small/382.jpg" alt="Dlaczego mężczyźni zarabiają więcej. Prawda o przepaści płac i co kobiety mogą na to poradzić"/>
+		</a>
+		<a class="boo " href="/ksiazka382/dlaczego-mezczyzni-zarabiaja-wiecej-prawda-o-przepasci-plac-i-co-kobiety-moga-na-to-poradzic.html">
+			<span class="title">Dlaczego mężczyźni zarabiają więcej. Prawda o przepaści płac i co kobiety mogą na to poradzić</span>
+		</a>
+			<span class="author">Warren Farrell</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka924/odkryj-swoj-potencjal-21-sposobow-na-przescigniecie-konkurencji-w-mysleniu-dzialaniu-i-zarabianiu-pieniedzy.html">
+			<img class="cover" src="/s/cover/small/924.jpg" alt="Odkryj swój potencjał. 21 sposobów na prześcignięcie konkurencji w myśleniu, działaniu i zarabianiu pieniędzy"/>
+		</a>
+		<a class="boo " href="/ksiazka924/odkryj-swoj-potencjal-21-sposobow-na-przescigniecie-konkurencji-w-mysleniu-dzialaniu-i-zarabianiu-pieniedzy.html">
+			<span class="title">Odkryj swój potencjał. 21 sposobów na prześcignięcie konkurencji w myśleniu, działaniu i zarabianiu pieniędzy</span>
+		</a>
+			<span class="author">Jay Abraham</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka470/niepewnosc-w-pracy-jak-spokojnie-przezyc-osiem-godzin.html">
+			<img class="cover" src="/s/cover/small/470.jpg" alt="Niepewność w pracy. Jak spokojnie przeżyć osiem godzin"/>
+		</a>
+		<a class="boo " href="/ksiazka470/niepewnosc-w-pracy-jak-spokojnie-przezyc-osiem-godzin.html">
+			<span class="title">Niepewność w pracy. Jak spokojnie przeżyć osiem godzin</span>
+		</a>
+			<span class="author">Larina Kase</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34&nbsp;zł</span>
+					<span class="promo">27,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka41/1001-sposobow-na-przejmowanie-inicjatywy-w-pracy.html">
+			<img class="cover" src="/s/cover/small/41.jpg" alt="1001 sposobów na przejmowanie inicjatywy w pracy"/>
+		</a>
+		<a class="boo " href="/ksiazka41/1001-sposobow-na-przejmowanie-inicjatywy-w-pracy.html">
+			<span class="title">1001 sposobów na przejmowanie inicjatywy w pracy</span>
+		</a>
+			<span class="author">Bob Nelson</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1398/kariera-na-wysokich-obcasach-jak-z-wdziekiem-i-klasa-osiagnac-sukces-zawodowy.html">
+			<img class="cover" src="/s/cover/small/1398.jpg" alt="Kariera na wysokich obcasach. Jak z wdziękiem i klasą osiągnąć sukces zawodowy"/>
+		</a>
+		<a class="boo " href="/ksiazka1398/kariera-na-wysokich-obcasach-jak-z-wdziekiem-i-klasa-osiagnac-sukces-zawodowy.html">
+			<span class="title">Kariera na wysokich obcasach. Jak z wdziękiem i klasą osiągnąć sukces zawodowy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1335/successful-interview-jak-odniesc-sukces-podczas-rozmowy-kwalifikacyjnej-w-jezyku-polskim-i-angielskim.html">
+			<img class="cover" src="/s/cover/small/1335.jpg" alt="Successful interview. Jak odnieść sukces podczas rozmowy kwalifikacyjnej w języku polskim i angielskim"/>
+		</a>
+		<a class="boo " href="/ksiazka1335/successful-interview-jak-odniesc-sukces-podczas-rozmowy-kwalifikacyjnej-w-jezyku-polskim-i-angielskim.html">
+			<span class="title">Successful interview. Jak odnieść sukces podczas rozmowy kwalifikacyjnej w języku polskim i angielskim</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1077/szkola-tworczego-pisania-jak-zostac-autorem-bestsellerowych-powiesci.html">
+			<img class="cover" src="/s/cover/small/1077.jpg" alt="Szkoła twórczego pisania. Jak zostać autorem bestsellerowych powieści"/>
+		</a>
+		<a class="boo " href="/ksiazka1077/szkola-tworczego-pisania-jak-zostac-autorem-bestsellerowych-powiesci.html">
+			<span class="title">Szkoła twórczego pisania. Jak zostać autorem bestsellerowych powieści</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1592/sztuka-pokoju.html">
+			<img class="cover" src="/s/cover/small/1592.jpg" alt="Sztuka pokoju"/>
+		</a>
+		<a class="boo " href="/ksiazka1592/sztuka-pokoju.html">
+			<span class="title">Sztuka pokoju</span>
+		</a>
+			<span class="author">Morihei Ueshiba</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19&nbsp;zł</span>
+					<span class="promo">15,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1952/tajniki-wystapien-publicznych-101-porad-dla-prezenterow.html">
+			<img class="cover" src="/s/cover/small/1952.jpg" alt="Tajniki wystąpień publicznych. 101 porad dla prezenterów"/>
+		</a>
+		<a class="boo " href="/ksiazka1952/tajniki-wystapien-publicznych-101-porad-dla-prezenterow.html">
+			<span class="title">Tajniki wystąpień publicznych. 101 porad dla prezenterów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka643/skuteczny-networking.html">
+			<img class="cover" src="/s/cover/small/643.jpg" alt="Skuteczny networking"/>
+		</a>
+		<a class="boo " href="/ksiazka643/skuteczny-networking.html">
+			<span class="title">Skuteczny networking</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka69/na-szczycie-opowiesc-o-wladzy-i-pieniadzach.html">
+			<img class="cover" src="/s/cover/small/69.jpg" alt="Na szczycie. Opowieść o władzy i pieniądzach"/>
+		</a>
+		<a class="boo " href="/ksiazka69/na-szczycie-opowiesc-o-wladzy-i-pieniadzach.html">
+			<span class="title">Na szczycie. Opowieść o władzy i pieniądzach</span>
+		</a>
+			<span class="author">Duff McDonald, Owen Burke, Sam Bassett</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka593/grzeczna-dziewczynka-idzie-do-pracy-czyli-jak-przetrwac-trudne-poczatki.html">
+			<img class="cover" src="/s/cover/small/593.jpg" alt="Grzeczna dziewczynka idzie do pracy czyli jak przetrwać trudne początki"/>
+		</a>
+		<a class="boo " href="/ksiazka593/grzeczna-dziewczynka-idzie-do-pracy-czyli-jak-przetrwac-trudne-poczatki.html">
+			<span class="title">Grzeczna dziewczynka idzie do pracy czyli jak przetrwać trudne początki</span>
+		</a>
+			<span class="author">Hannah Seligson</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1361/kreatywna-praca-dyplomowa-jak-stworzyc-fascynujacy-tekst-naukowy.html">
+			<img class="cover" src="/s/cover/small/1361.jpg" alt="Kreatywna praca dyplomowa. Jak stworzyć fascynujący tekst naukowy"/>
+		</a>
+		<a class="boo " href="/ksiazka1361/kreatywna-praca-dyplomowa-jak-stworzyc-fascynujacy-tekst-naukowy.html">
+			<span class="title">Kreatywna praca dyplomowa. Jak stworzyć fascynujący tekst naukowy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka371/genotyp-przedsiebiorcy-czyli-dna-sukcesu.html">
+			<img class="cover" src="/s/cover/small/371.jpg" alt="Genotyp przedsiębiorcy, czyli DNA sukcesu"/>
+		</a>
+		<a class="boo " href="/ksiazka371/genotyp-przedsiebiorcy-czyli-dna-sukcesu.html">
+			<span class="title">Genotyp przedsiębiorcy, czyli DNA sukcesu</span>
+		</a>
+			<span class="author">Mary H. Frakes, Thomas L. Harrison</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka173/wylej-wlasnego-szefa-jak-rzucic-prace-i-zmienic-pasje-w-profesje.html">
+			<img class="cover" src="/s/cover/small/173.jpg" alt="Wylej własnego szefa. Jak rzucić pracę i zmienić pasję w profesję"/>
+		</a>
+		<a class="boo " href="/ksiazka173/wylej-wlasnego-szefa-jak-rzucic-prace-i-zmienic-pasje-w-profesje.html">
+			<span class="title">Wylej własnego szefa. Jak rzucić pracę i zmienić pasję w profesję</span>
+		</a>
+			<span class="author">Jonathan Jay</span>
+			
+			<span class="price">
+				Cena:
+				
+					29&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka328/przewodnik-podyplomowy-2006.html">
+			<img class="cover" src="/s/cover/small/328.jpg" alt="Przewodnik Podyplomowy 2006"/>
+		</a>
+		<a class="boo " href="/ksiazka328/przewodnik-podyplomowy-2006.html">
+			<span class="title">Przewodnik Podyplomowy 2006</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">25,50&nbsp;zł</span>
+					<span class="promo">20,40&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1399/od-przedstawiciela-handlowego-do-prezesa-spolki-gieldowej-czyli-co-robic-i-czego-unikac-aby-osiagnac-zawodowy-sukces.html">
+			<img class="cover" src="/s/cover/small/1399.jpg" alt="Od przedstawiciela handlowego do prezesa spółki giełdowej, czyli co robić i czego unikać, aby osiągnąć zawodowy sukces"/>
+		</a>
+		<a class="boo " href="/ksiazka1399/od-przedstawiciela-handlowego-do-prezesa-spolki-gieldowej-czyli-co-robic-i-czego-unikac-aby-osiagnac-zawodowy-sukces.html">
+			<span class="title">Od przedstawiciela handlowego do prezesa spółki giełdowej, czyli co robić i czego unikać, aby osiągnąć zawodowy sukces</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1678/szkola-tworczego-pisania-jak-zostac-autorem-bestsellerowych-powiesci.html">
+			<img class="cover" src="/s/cover/small/1678.jpg" alt="Szkoła twórczego pisania. Jak zostać autorem bestsellerowych powieści"/>
+		</a>
+		<a class="boo " href="/ksiazka1678/szkola-tworczego-pisania-jak-zostac-autorem-bestsellerowych-powiesci.html">
+			<span class="title">Szkoła twórczego pisania. Jak zostać autorem bestsellerowych powieści</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">26,90&nbsp;zł</span>
+					<span class="promo">21,52&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1553/nadgodziny-sa-do-bani-pracuj-dla-efektu-a-nie-dla-idei.html">
+			<img class="cover" src="/s/cover/small/1553.jpg" alt="Nadgodziny są do bani! Pracuj dla efektu, a nie dla idei"/>
+		</a>
+		<a class="boo " href="/ksiazka1553/nadgodziny-sa-do-bani-pracuj-dla-efektu-a-nie-dla-idei.html">
+			<span class="title">Nadgodziny są do bani! Pracuj dla efektu, a nie dla idei</span>
+		</a>
+			<span class="author">Cali Ressler, Jody Thompson</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1964/nadgodziny-sa-do-bani-pracuj-dla-efektu-a-nie-dla-idei.html">
+			<img class="cover" src="/s/cover/small/1964.jpg" alt="Nadgodziny są do bani! Pracuj dla efektu, a nie dla idei"/>
+		</a>
+		<a class="boo " href="/ksiazka1964/nadgodziny-sa-do-bani-pracuj-dla-efektu-a-nie-dla-idei.html">
+			<span class="title">Nadgodziny są do bani! Pracuj dla efektu, a nie dla idei</span>
+		</a>
+			<span class="author">Cali Ressler, Jody Thompson</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1550/pracuj-z-glowa-spraw-by-twoja-praca-stala-sie-latwa-lekka-i-przyjemna.html">
+			<img class="cover" src="/s/cover/small/1550.jpg" alt="Pracuj z głową! Spraw, by Twoja praca stała się łatwa, lekka i przyjemna"/>
+		</a>
+		<a class="boo " href="/ksiazka1550/pracuj-z-glowa-spraw-by-twoja-praca-stala-sie-latwa-lekka-i-przyjemna.html">
+			<span class="title">Pracuj z głową! Spraw, by Twoja praca stała się łatwa, lekka i przyjemna</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka475/wielkie-muuu-nie-musisz-byc-perfekcyjny-masz-byc-nadzwyczajny.html">
+			<img class="cover" src="/s/cover/small/475.jpg" alt="Wielkie muuu. Nie musisz być perfekcyjny - masz być nadzwyczajny"/>
+		</a>
+		<a class="boo " href="/ksiazka475/wielkie-muuu-nie-musisz-byc-perfekcyjny-masz-byc-nadzwyczajny.html">
+			<span class="title">Wielkie muuu. Nie musisz być perfekcyjny - masz być nadzwyczajny</span>
+		</a>
+			<span class="author">Seth Godin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka349/avon-najbardziej-kobieca-z-firm.html">
+			<img class="cover" src="/s/cover/small/349.jpg" alt="Avon. Najbardziej kobieca z firm"/>
+		</a>
+		<a class="boo " href="/ksiazka349/avon-najbardziej-kobieca-z-firm.html">
+			<span class="title">Avon. Najbardziej kobieca z firm</span>
+		</a>
+			<span class="author">Laura Klepacki</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1277/rozmowa-kwalifikacyjna-dla-bystrzakow-wydanie-iii.html">
+			<img class="cover" src="/s/cover/small/1277.jpg" alt="Rozmowa kwalifikacyjna dla bystrzaków. Wydanie III"/>
+		</a>
+		<a class="boo " href="/ksiazka1277/rozmowa-kwalifikacyjna-dla-bystrzakow-wydanie-iii.html">
+			<span class="title">Rozmowa kwalifikacyjna dla bystrzaków. Wydanie III</span>
+		</a>
+			<span class="author">Joyce Lain Kennedy</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1728/niezbednik-karierowicza-czyli-jak-zrobic-blyskotliwa-kariere-w-wielkim-miescie.html">
+			<img class="cover" src="/s/cover/small/1728.jpg" alt="Niezbędnik karierowicza, czyli jak zrobić błyskotliwą karierę w wielkim mieście"/>
+		</a>
+		<a class="boo " href="/ksiazka1728/niezbednik-karierowicza-czyli-jak-zrobic-blyskotliwa-kariere-w-wielkim-miescie.html">
+			<span class="title">Niezbędnik karierowicza, czyli jak zrobić błyskotliwą karierę w wielkim mieście</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1658/pracuj-z-pasja-znajdz-posade-ktora-da-ci-satysfakcje-radosc-i-pieniadze.html">
+			<img class="cover" src="/s/cover/small/1658.jpg" alt="Pracuj z pasją! Znajdź posadę, która da Ci satysfakcję, radość i pieniądze"/>
+		</a>
+		<a class="boo " href="/ksiazka1658/pracuj-z-pasja-znajdz-posade-ktora-da-ci-satysfakcje-radosc-i-pieniadze.html">
+			<span class="title">Pracuj z pasją! Znajdź posadę, która da Ci satysfakcję, radość i pieniądze</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">21,99&nbsp;zł</span>
+					<span class="promo">17,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1288/geek-w-swiecie-korporacji-podrecznik-kariery-programisty.html">
+			<img class="cover" src="/s/cover/small/1288.jpg" alt="Geek w świecie korporacji. Podręcznik kariery programisty"/>
+		</a>
+		<a class="boo " href="/ksiazka1288/geek-w-swiecie-korporacji-podrecznik-kariery-programisty.html">
+			<span class="title">Geek w świecie korporacji. Podręcznik kariery programisty</span>
+		</a>
+			<span class="author">Michael Lopp</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1665/rozmowa-kwalifikacyjna-o-czym-nie-wiedza-kandydaci-do-pracy-czyli-sekrety-rekrutujacych.html">
+			<img class="cover" src="/s/cover/small/1665.jpg" alt="Rozmowa kwalifikacyjna. O czym nie wiedzą kandydaci do pracy, czyli sekrety rekrutujących"/>
+		</a>
+		<a class="boo " href="/ksiazka1665/rozmowa-kwalifikacyjna-o-czym-nie-wiedza-kandydaci-do-pracy-czyli-sekrety-rekrutujacych.html">
+			<span class="title">Rozmowa kwalifikacyjna. O czym nie wiedzą kandydaci do pracy, czyli sekrety rekrutujących</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">21,99&nbsp;zł</span>
+					<span class="promo">17,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka959/mierz-wysoko-manifest.html">
+			<img class="cover" src="/s/cover/small/959.jpg" alt="Mierz wysoko. Manifest"/>
+		</a>
+		<a class="boo " href="/ksiazka959/mierz-wysoko-manifest.html">
+			<span class="title">Mierz wysoko. Manifest</span>
+		</a>
+			<span class="author">Michael Port, Mina Samuels</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka140/niespokojna-organizacja-dlaczego-inteligentne-firmy-robia-glupie-rzeczy.html">
+			<img class="cover" src="/s/cover/small/140.jpg" alt="Niespokojna organizacja. Dlaczego inteligentne firmy robią głupie rzeczy"/>
+		</a>
+		<a class="boo " href="/ksiazka140/niespokojna-organizacja-dlaczego-inteligentne-firmy-robia-glupie-rzeczy.html">
+			<span class="title">Niespokojna organizacja. Dlaczego inteligentne firmy robią głupie rzeczy</span>
+		</a>
+			<span class="author">Jeffrey A. Miller</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka493/dziedzictwo-lidera-filozofia-zycia-przywodcy.html">
+			<img class="cover" src="/s/cover/small/493.jpg" alt="Dziedzictwo lidera. Filozofia życia przywódcy"/>
+		</a>
+		<a class="boo " href="/ksiazka493/dziedzictwo-lidera-filozofia-zycia-przywodcy.html">
+			<span class="title">Dziedzictwo lidera. Filozofia życia przywódcy</span>
+		</a>
+			<span class="author">Barry Z. Posner, James M. Kouzes</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1365/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-audiotrening.html">
+			<img class="cover" src="/s/cover/small/1365.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Audiotrening"/>
+		</a>
+		<a class="boo " href="/ksiazka1365/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-audiotrening.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Audiotrening</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					21,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1097/niezbednik-karierowicza-czyli-jak-zrobic-blyskotliwa-kariere-w-wielkim-miescie.html">
+			<img class="cover" src="/s/cover/small/1097.jpg" alt="Niezbędnik karierowicza, czyli jak zrobić błyskotliwą karierę w wielkim mieście"/>
+		</a>
+		<a class="boo " href="/ksiazka1097/niezbednik-karierowicza-czyli-jak-zrobic-blyskotliwa-kariere-w-wielkim-miescie.html">
+			<span class="title">Niezbędnik karierowicza, czyli jak zrobić błyskotliwą karierę w wielkim mieście</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1400/kim-chcesz-byc-wybierz-zawod-najlepszy-dla-ciebie.html">
+			<img class="cover" src="/s/cover/small/1400.jpg" alt="Kim chcesz być? Wybierz zawód najlepszy dla Ciebie"/>
+		</a>
+		<a class="boo " href="/ksiazka1400/kim-chcesz-byc-wybierz-zawod-najlepszy-dla-ciebie.html">
+			<span class="title">Kim chcesz być? Wybierz zawód najlepszy dla Ciebie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1813/doskonala-prezentacja-sztuka-skutecznego-przekazu.html">
+			<img class="cover" src="/s/cover/small/1813.jpg" alt="Doskonała prezentacja. Sztuka skutecznego przekazu"/>
+		</a>
+		<a class="boo " href="/ksiazka1813/doskonala-prezentacja-sztuka-skutecznego-przekazu.html">
+			<span class="title">Doskonała prezentacja. Sztuka skutecznego przekazu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">17,90&nbsp;zł</span>
+					<span class="promo">14,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka335/jak-lepiej-zarabiac-metody-milionera.html">
+			<img class="cover" src="/s/cover/small/335.jpg" alt="Jak lepiej zarabiać. Metody milionera"/>
+		</a>
+		<a class="boo " href="/ksiazka335/jak-lepiej-zarabiac-metody-milionera.html">
+			<span class="title">Jak lepiej zarabiać. Metody milionera</span>
+		</a>
+			<span class="author">Steven K. Scott</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1302/kariera-pod-kontrola-jak-zmienic-swoje-zycie-zawodowe-na-lepsze.html">
+			<img class="cover" src="/s/cover/small/1302.jpg" alt="Kariera pod kontrolą. Jak zmienić swoje życie zawodowe na lepsze"/>
+		</a>
+		<a class="boo " href="/ksiazka1302/kariera-pod-kontrola-jak-zmienic-swoje-zycie-zawodowe-na-lepsze.html">
+			<span class="title">Kariera pod kontrolą. Jak zmienić swoje życie zawodowe na lepsze</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1611/filozofia-sukcesu-zycie-szczesliwe-i-dostatnie-wedlug-napoleona-hilla.html">
+			<img class="cover" src="/s/cover/small/1611.jpg" alt="Filozofia sukcesu. Życie szczęśliwe i dostatnie według Napoleona Hilla"/>
+		</a>
+		<a class="boo " href="/ksiazka1611/filozofia-sukcesu-zycie-szczesliwe-i-dostatnie-wedlug-napoleona-hilla.html">
+			<span class="title">Filozofia sukcesu. Życie szczęśliwe i dostatnie według Napoleona Hilla</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1371/autopromocja-pokaz-na-co-cie-stac-szefowi-podwladnym-i-klientom.html">
+			<img class="cover" src="/s/cover/small/1371.jpg" alt="Autopromocja. Pokaż, na co Cię stać - szefowi, podwładnym i klientom"/>
+		</a>
+		<a class="boo " href="/ksiazka1371/autopromocja-pokaz-na-co-cie-stac-szefowi-podwladnym-i-klientom.html">
+			<span class="title">Autopromocja. Pokaż, na co Cię stać - szefowi, podwładnym i klientom</span>
+		</a>
+			<span class="author">Jessica Kleiman, Meryl Weinsaft Cooper</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka508/jedenasty-element-klucz-do-sukcesu-w-biznesie.html">
+			<img class="cover" src="/s/cover/small/508.jpg" alt="Jedenasty element. Klucz do sukcesu w biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka508/jedenasty-element-klucz-do-sukcesu-w-biznesie.html">
+			<span class="title">Jedenasty element. Klucz do sukcesu w biznesie</span>
+		</a>
+			<span class="author">Robert G. Allen, Robert Scheinfeld</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka429/10-zalozen-networkingu-jak-w-pelni-wykorzystywac-swoje-znajomosci.html">
+			<img class="cover" src="/s/cover/small/429.jpg" alt="10 założeń networkingu. Jak w pełni wykorzystywać swoje znajomości"/>
+		</a>
+		<a class="boo " href="/ksiazka429/10-zalozen-networkingu-jak-w-pelni-wykorzystywac-swoje-znajomosci.html">
+			<span class="title">10 założeń networkingu. Jak w pełni wykorzystywać swoje znajomości</span>
+		</a>
+			<span class="author">Larry James</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1595/psychologia-sukcesu-sekrety-duchowego-bogactwa.html">
+			<img class="cover" src="/s/cover/small/1595.jpg" alt="Psychologia sukcesu. Sekrety duchowego bogactwa"/>
+		</a>
+		<a class="boo " href="/ksiazka1595/psychologia-sukcesu-sekrety-duchowego-bogactwa.html">
+			<span class="title">Psychologia sukcesu. Sekrety duchowego bogactwa</span>
+		</a>
+			<span class="author">J. Martin Kohe, Judith Williamson</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1777/empowerment-odkryj-ukryta-moc-twoich-pracownikow.html">
+			<img class="cover" src="/s/cover/small/1777.jpg" alt="Empowerment. Odkryj ukrytą moc Twoich pracowników!"/>
+		</a>
+		<a class="boo " href="/ksiazka1777/empowerment-odkryj-ukryta-moc-twoich-pracownikow.html">
+			<span class="title">Empowerment. Odkryj ukrytą moc Twoich pracowników!</span>
+		</a>
+			<span class="author">Alan Randolph, John P Carlos, Ken Blanchard</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1119/programista-poszukiwany-znajdz-i-zatrudnij-najlepszego.html">
+			<img class="cover" src="/s/cover/small/1119.jpg" alt="Programista poszukiwany. Znajdź i zatrudnij najlepszego!"/>
+		</a>
+		<a class="boo " href="/ksiazka1119/programista-poszukiwany-znajdz-i-zatrudnij-najlepszego.html">
+			<span class="title">Programista poszukiwany. Znajdź i zatrudnij najlepszego!</span>
+		</a>
+			<span class="author">Joel Spolsky</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1341/zostan-swoja-szefowa-czyli-jak-stworzyc-i-prowadzic-wlasna-firme.html">
+			<img class="cover" src="/s/cover/small/1341.jpg" alt="Zostań swoją szefową, czyli jak stworzyć i prowadzić własną firmę"/>
+		</a>
+		<a class="boo " href="/ksiazka1341/zostan-swoja-szefowa-czyli-jak-stworzyc-i-prowadzic-wlasna-firme.html">
+			<span class="title">Zostań swoją szefową, czyli jak stworzyć i prowadzić własną firmę</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2022/sztuka-wojny-wydanie-iii.html">
+			<img class="cover" src="/s/cover/small/2022.jpg" alt="Sztuka wojny. Wydanie III"/>
+		</a>
+		<a class="boo " href="/ksiazka2022/sztuka-wojny-wydanie-iii.html">
+			<span class="title">Sztuka wojny. Wydanie III</span>
+		</a>
+			<span class="author">Sun-tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1746/autopromocja-pokaz-na-co-cie-stac-szefowi-podwladnym-i-klientom.html">
+			<img class="cover" src="/s/cover/small/1746.jpg" alt="Autopromocja. Pokaż, na co Cię stać - szefowi, podwładnym i klientom"/>
+		</a>
+		<a class="boo " href="/ksiazka1746/autopromocja-pokaz-na-co-cie-stac-szefowi-podwladnym-i-klientom.html">
+			<span class="title">Autopromocja. Pokaż, na co Cię stać - szefowi, podwładnym i klientom</span>
+		</a>
+			<span class="author">Jessica Kleiman, Meryl Weinsaft Cooper</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1933/empowerment-odkryj-ukryta-moc-twoich-pracownikow.html">
+			<img class="cover" src="/s/cover/small/1933.jpg" alt="Empowerment. Odkryj ukrytą moc Twoich pracowników!"/>
+		</a>
+		<a class="boo " href="/ksiazka1933/empowerment-odkryj-ukryta-moc-twoich-pracownikow.html">
+			<span class="title">Empowerment. Odkryj ukrytą moc Twoich pracowników!</span>
+		</a>
+			<span class="author">Alan Randolph, John P Carlos, Ken Blanchard</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1744/geek-w-swiecie-korporacji-podrecznik-kariery-programisty.html">
+			<img class="cover" src="/s/cover/small/1744.jpg" alt="Geek w świecie korporacji. Podręcznik kariery programisty"/>
+		</a>
+		<a class="boo " href="/ksiazka1744/geek-w-swiecie-korporacji-podrecznik-kariery-programisty.html">
+			<span class="title">Geek w świecie korporacji. Podręcznik kariery programisty</span>
+		</a>
+			<span class="author">Michael Lopp</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1705/kariera-na-wysokich-obcasach-jak-z-wdziekiem-i-klasa-osiagnac-sukces-zawodowy.html">
+			<img class="cover" src="/s/cover/small/1705.jpg" alt="Kariera na wysokich obcasach. Jak z wdziękiem i klasą osiągnąć sukces zawodowy"/>
+		</a>
+		<a class="boo " href="/ksiazka1705/kariera-na-wysokich-obcasach-jak-z-wdziekiem-i-klasa-osiagnac-sukces-zawodowy.html">
+			<span class="title">Kariera na wysokich obcasach. Jak z wdziękiem i klasą osiągnąć sukces zawodowy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">22,90&nbsp;zł</span>
+					<span class="promo">18,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1623/kariera-pod-kontrola-jak-zmienic-swoje-zycie-zawodowe-na-lepsze.html">
+			<img class="cover" src="/s/cover/small/1623.jpg" alt="Kariera pod kontrolą. Jak zmienić swoje życie zawodowe na lepsze"/>
+		</a>
+		<a class="boo " href="/ksiazka1623/kariera-pod-kontrola-jak-zmienic-swoje-zycie-zawodowe-na-lepsze.html">
+			<span class="title">Kariera pod kontrolą. Jak zmienić swoje życie zawodowe na lepsze</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">21,99&nbsp;zł</span>
+					<span class="promo">17,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1635/pozytywne-nastawienie-jak-uzyskac-utrzymac-lub-odzyskac-swoje-mojo.html">
+			<img class="cover" src="/s/cover/small/1635.jpg" alt="Pozytywne nastawienie. Jak uzyskać, utrzymać lub odzyskać swoje mojo"/>
+		</a>
+		<a class="boo " href="/ksiazka1635/pozytywne-nastawienie-jak-uzyskac-utrzymac-lub-odzyskac-swoje-mojo.html">
+			<span class="title">Pozytywne nastawienie. Jak uzyskać, utrzymać lub odzyskać swoje mojo</span>
+		</a>
+			<span class="author">Marshall Goldsmith</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1936/mount-everest-biznesu.html">
+			<img class="cover" src="/s/cover/small/1936.jpg" alt="Mount Everest biznesu"/>
+		</a>
+		<a class="boo " href="/ksiazka1936/mount-everest-biznesu.html">
+			<span class="title">Mount Everest biznesu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1638/napoleon-hill-poczatek-wielkiej-kariery.html">
+			<img class="cover" src="/s/cover/small/1638.jpg" alt="Napoleon Hill. Początek wielkiej kariery"/>
+		</a>
+		<a class="boo " href="/ksiazka1638/napoleon-hill-poczatek-wielkiej-kariery.html">
+			<span class="title">Napoleon Hill. Początek wielkiej kariery</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1646/od-przedstawiciela-handlowego-do-prezesa-spolki-gieldowej-czyli-co-robic-i-czego-unikac-aby-osiagnac-zawodowy-sukces.html">
+			<img class="cover" src="/s/cover/small/1646.jpg" alt="Od przedstawiciela handlowego do prezesa spółki giełdowej, czyli co robić i czego unikać, aby osiągnąć zawodowy sukces"/>
+		</a>
+		<a class="boo " href="/ksiazka1646/od-przedstawiciela-handlowego-do-prezesa-spolki-gieldowej-czyli-co-robic-i-czego-unikac-aby-osiagnac-zawodowy-sukces.html">
+			<span class="title">Od przedstawiciela handlowego do prezesa spółki giełdowej, czyli co robić i czego unikać, aby osiągnąć zawodowy sukces</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1659/programista-poszukiwany-znajdz-i-zatrudnij-najlepszego.html">
+			<img class="cover" src="/s/cover/small/1659.jpg" alt="Programista poszukiwany. Znajdź i zatrudnij najlepszego!"/>
+		</a>
+		<a class="boo " href="/ksiazka1659/programista-poszukiwany-znajdz-i-zatrudnij-najlepszego.html">
+			<span class="title">Programista poszukiwany. Znajdź i zatrudnij najlepszego!</span>
+		</a>
+			<span class="author">Joel Spolsky</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1663/prawa-sukcesu-wedlug-napoleona-hilla-zasady-samodoskonalenia.html">
+			<img class="cover" src="/s/cover/small/1663.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady samodoskonalenia"/>
+		</a>
+		<a class="boo " href="/ksiazka1663/prawa-sukcesu-wedlug-napoleona-hilla-zasady-samodoskonalenia.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady samodoskonalenia</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1673/successful-interview-jak-odniesc-sukces-podczas-rozmowy-kwalifikacyjnej-w-jezyku-polskim-i-angielskim.html">
+			<img class="cover" src="/s/cover/small/1673.jpg" alt="Successful interview. Jak odnieść sukces podczas rozmowy kwalifikacyjnej w języku polskim i angielskim"/>
+		</a>
+		<a class="boo " href="/ksiazka1673/successful-interview-jak-odniesc-sukces-podczas-rozmowy-kwalifikacyjnej-w-jezyku-polskim-i-angielskim.html">
+			<span class="title">Successful interview. Jak odnieść sukces podczas rozmowy kwalifikacyjnej w języku polskim i angielskim</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">26,90&nbsp;zł</span>
+					<span class="promo">21,52&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1682/kreatywna-praca-dyplomowa-jak-stworzyc-fascynujacy-tekst-naukowy.html">
+			<img class="cover" src="/s/cover/small/1682.jpg" alt="Kreatywna praca dyplomowa. Jak stworzyć fascynujący tekst naukowy"/>
+		</a>
+		<a class="boo " href="/ksiazka1682/kreatywna-praca-dyplomowa-jak-stworzyc-fascynujacy-tekst-naukowy.html">
+			<span class="title">Kreatywna praca dyplomowa. Jak stworzyć fascynujący tekst naukowy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1921/zostan-swoja-szefowa-czyli-jak-stworzyc-i-prowadzic-wlasna-firme.html">
+			<img class="cover" src="/s/cover/small/1921.jpg" alt="Zostań swoją szefową, czyli jak stworzyć i prowadzić własną firmę"/>
+		</a>
+		<a class="boo " href="/ksiazka1921/zostan-swoja-szefowa-czyli-jak-stworzyc-i-prowadzic-wlasna-firme.html">
+			<span class="title">Zostań swoją szefową, czyli jak stworzyć i prowadzić własną firmę</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2078/nawyk-samodyscypliny-zaprogramuj-wewnetrznego-stroza.html">
+			<img class="cover" src="/s/cover/small/2078.jpg" alt="Nawyk samodyscypliny. Zaprogramuj wewnętrznego stróża"/>
+		</a>
+		<a class="boo " href="/ksiazka2078/nawyk-samodyscypliny-zaprogramuj-wewnetrznego-stroza.html">
+			<span class="title">Nawyk samodyscypliny. Zaprogramuj wewnętrznego stróża</span>
+		</a>
+			<span class="author">Neil Fiore</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka2055/jednominutowy-menedzer-oraz-zarzadzanie-samym-soba.html">
+			<img class="cover" src="/s/cover/small/2055.jpg" alt="Jednominutowy Menedżer oraz zarządzanie samym sobą"/>
+		</a>
+		<a class="boo last" href="/ksiazka2055/jednominutowy-menedzer-oraz-zarzadzanie-samym-soba.html">
+			<span class="title">Jednominutowy Menedżer oraz zarządzanie samym sobą</span>
+		</a>
+			<span class="author">Ken Blanchard, Laurence Hawkins, Susan Fowler</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">18,95&nbsp;zł</span>
+					<span class="promo">15,16&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka2074/rozmowa-kwalifikacyjna-o-czym-nie-wiedza-kandydaci-do-pracy-czyli-sekrety-rekrutujacych-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/2074.jpg" alt="Rozmowa kwalifikacyjna. O czym nie wiedza kandydaci do pracy, czyli sekrety rekrutujących. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo last" href="/ksiazka2074/rozmowa-kwalifikacyjna-o-czym-nie-wiedza-kandydaci-do-pracy-czyli-sekrety-rekrutujacych-wydanie-ii-rozszerzone.html">
+			<span class="title">Rozmowa kwalifikacyjna. O czym nie wiedza kandydaci do pracy, czyli sekrety rekrutujących. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+	</div>
+</div>
+
+
+	</div>
+	<div id="menu">
+		<div class="top"></div>
+			
+			
+			<a href="/promocje/">Promocje</a>
+			
+			<a href="/nowosci/">Nowości</a>
+			
+			<a href="/bestsellery/">Bestsellery</a>
+			
+			<a href="/przedsprzedaz/">Przedsprzedaż</a>
+		
+			
+			<a href="/temat12/bizneswoman.html">Bizneswoman</a>
+		
+			
+			<a href="/temat18/controlling.html">Controlling</a>
+		
+			
+			<a href="/temat15/e-biznes.html">E-biznes</a>
+		
+			
+			<a href="/temat22/ebooki.html">eBooki</a>
+		
+			
+			<a href="/temat17/ekonomia.html">Ekonomia</a>
+		
+			
+			<a href="/temat13/finanse.html">Finanse</a>
+		
+			
+			<a href="/temat16/gielda-i-inwestycje.html">Giełda i inwestycje</a>
+		
+			
+			<a href="/temat8/kompetencje-osobiste.html">Kompetencje osobiste</a>
+		
+			
+			<a href="/temat4/komputer-w-biurze.html">Komputer w biurze</a>
+		
+			
+			<a href="/temat2/komunikacja-i-negocjacje.html">Komunikacja i negocjacje</a>
+		
+			
+			<a href="/temat7/mala-firma.html">Mała firma</a>
+		
+			
+			<a href="/temat6/marketing.html">Marketing</a>
+		
+			
+			<a href="/temat19/multimedialne-szkolenia.html">Multimedialne szkolenia</a>
+		
+			
+			<a href="/temat11/obsluga-klienta.html">Obsługa klienta</a>
+		
+			
+			<a href="/temat20/perswazja-i-nlp.html">Perswazja i NLP</a>
+		
+			
+			<a href="/temat10/przywodztwo.html">Przywództwo</a>
+		
+			
+			<a href="/temat21/public-relations.html">Public Relations</a>
+		
+			
+			<a href="/temat24/sekret.html">Sekret</a>
+		
+			
+			<a href="/temat28/social-media.html">Social Media</a>
+		
+			
+			<a href="/temat1/sprzedaz.html">Sprzedaż</a>
+		
+			
+			<a href="/temat9/twoja-kariera.html" class="active">Twoja kariera</a>
+		
+			
+			<a href="/temat5/zarzadzanie.html">Zarządzanie</a>
+		
+			
+			<a href="/temat14/zarzadzanie-projektami.html">Zarządzanie projektami</a>
+		
+			
+			<a href="/temat3/zasoby-ludzkie-hr.html">Zasoby ludzkie (HR)</a>
+		
+		<div class="bottom"></div>
+	</div>
+</div>
+
+
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-325086-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+

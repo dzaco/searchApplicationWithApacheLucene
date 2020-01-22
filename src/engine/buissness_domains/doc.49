@@ -1,0 +1,1945 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>akcja, indeks, kapitalizacja, WIG20, obrót, beta </title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class="selected"><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+
+<div id="bigbox">
+<div class="left">
+<ul>
+
+
+
+
+
+<li id="_bigbox_PL9999999995" class="down c">
+<a href="/instrument/PL9999999995/wig" class="down" onmouseover="bfl('PL9999999995', '/chart_hourly/MediumChart/PL9999999995/270/200', 'bigbox');" id="bigbox_PL9999999995">
+			<span class="c1"><b>WIG </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">45066.18</span>
+	
+			<span class="number c3">-1.13%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PL9999999987" class="down c">
+<a href="/instrument/PL9999999987/wig20" class="down" onmouseover="bfl('PL9999999987', '/chart_hourly/MediumChart/PL9999999987/270/200', 'bigbox');" id="bigbox_PL9999999987">
+			<span class="c1"><b>WIG20 </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">2370.02</span>
+	
+			<span class="number c3">-1.08%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PL9999999912" class="down c">
+<a href="/instrument/PL9999999912/mwig40" class="down" onmouseover="bfl('PL9999999912', '/chart_hourly/MediumChart/PL9999999912/270/200', 'bigbox');" id="bigbox_PL9999999912">
+			<span class="c1"><b>mWIG40 </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">2596.69</span>
+	
+			<span class="number c3">-1.47%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PL9999999979" class="down c">
+<a href="/instrument/PL9999999979/swig80" class="down" onmouseover="bfl('PL9999999979', '/chart_hourly/MediumChart/PL9999999979/270/200', 'bigbox');" id="bigbox_PL9999999979">
+			<span class="c1"><b>sWIG80 </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">10908.77</span>
+	
+			<span class="number c3">-1.45%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_Solorz" class="down c">
+<a href="/instrument/Solorz/pb-solorz" class="down" onmouseover="bfl('Solorz', '/chart_hourly/MediumChart/Solorz/270/200', 'bigbox');" id="bigbox_Solorz">
+			<span class="c1"><b>PB Solorz </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">73.31</span>
+	
+			<span class="number c3">-4.45%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_Czarnecki" class="down c">
+<a href="/instrument/Czarnecki/pb-czarnecki" class="down" onmouseover="bfl('Czarnecki', '/chart_hourly/MediumChart/Czarnecki/270/200', 'bigbox');" id="bigbox_Czarnecki">
+			<span class="c1"><b>PB Czarnecki </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">125.19</span>
+	
+			<span class="number c3">-0.66%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_Krauze" class="down c">
+<a href="/instrument/Krauze/pb-krauze" class="down" onmouseover="bfl('Krauze', '/chart_hourly/MediumChart/Krauze/270/200', 'bigbox');" id="bigbox_Krauze">
+			<span class="c1"><b>PB Krauze </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">21.25</span>
+	
+			<span class="number c3">-1.44%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_Solowow" class="down c">
+<a href="/instrument/Solowow/pb-solowow" class="down" onmouseover="bfl('Solowow', '/chart_hourly/MediumChart/Solowow/270/200', 'bigbox');" id="bigbox_Solowow">
+			<span class="c1"><b>PB Sołowow </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">299.67</span>
+	
+			<span class="number c3">-3.42%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_Karkosik" class="down c">
+<a href="/instrument/Karkosik/pb-karkosik" class="down" onmouseover="bfl('Karkosik', '/chart_hourly/MediumChart/Karkosik/270/200', 'bigbox');" id="bigbox_Karkosik">
+			<span class="c1"><b>PB Karkosik </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">226.06</span>
+	
+			<span class="number c3">-2.23%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PL9999999565" class="down c">
+<a href="/instrument/PL9999999565/ncindex" class="down" onmouseover="bfl('PL9999999565', '/chart_hourly/MediumChart/PL9999999565/270/200', 'bigbox');" id="bigbox_PL9999999565">
+			<span class="c1"><b>NCIndex </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">32.54</span>
+	
+			<span class="number c3">-0.21%</span>
+	
+</a></li>
+
+</ul>
+<br />
+<p class="bigbox_description"></p>
+</div>
+
+<div class="right">
+<a id="bigbox_chart_link" href="/instrument/PL9999999995/wig"><img src="/chart_hourly/MediumChart/PL9999999995/270/200" id="bigbox_chart" alt="wykres" /></a>
+</div>
+</div><!-- / #bigbox -->
+<script type="text/javascript">
+pbtools.apreload("/chart_hourly/MediumChart/PL9999999995/270/200,/chart_hourly/MediumChart/PL9999999987/270/200,/chart_hourly/MediumChart/PL9999999912/270/200,/chart_hourly/MediumChart/PL9999999979/270/200,/chart_hourly/MediumChart/Solorz/270/200,/chart_hourly/MediumChart/Czarnecki/270/200,/chart_hourly/MediumChart/Krauze/270/200,/chart_hourly/MediumChart/Solowow/270/200,/chart_hourly/MediumChart/Karkosik/270/200,/chart_hourly/MediumChart/PL9999999565/270/200".split(','));
+</script>
+
+<div class="spacer">&nbsp;</div>
+
+<div>
+<div id="ado-rxD8ThjsjXbiGrlzkE4cybDpDqSnWdsMiZbr6sa6t4n.Z7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.Pod boksem GPW */
+ado.placement({id: 'ado-rxD8ThjsjXbiGrlzkE4cybDpDqSnWdsMiZbr6sa6t4n.Z7', server: 'myao.adocean.pl' });
+</script>
+</div>
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+
+<!-- news1 -->
+<div id="news1">
+<div class="content">
+<h2>Wiadomości</h2>
+
+
+<div id="ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.1 kolumna news GPW */
+ado.placement({id: 'ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7', server: 'myao.adocean.pl' });
+</script>
+    <p class="first"><a href="http://www.pb.pl/3054193,99646" target="_blank"><span class="dt">21:53</span> Prezydent Cypru ostrzegał przyjaciół?</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054185,31302" target="_blank"><span class="dt">21:51</span> Rosyjski biznesmen Borys Bieriezowski nie żyje</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054190,81103" target="_blank"><span class="dt">21:17</span> 10 biznesowych wojen wszech czasów</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054191,30161" target="_blank"><span class="dt">21:10</span> Komisarz Rehn: nie ma optymalnego rozwiązania dla Cypru </a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054188,90381" target="_blank"><span class="dt">20:55</span> Trojka i Cypr zawarły porozumienie</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054189,17675" target="_blank"><span class="dt">19:48</span> Cypryjczycy dyskutują i wciąż kupują dużo żywności</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054187,18560" target="_blank"><span class="dt">18:58</span> Pracownicy cypryjskich banków demonstrują</a></p>
+    
+</div><!--  /.content -->
+<div id="ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.1 kolumna news przeglad dol */
+ado.placement({id: 'ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7', server: 'myao.adocean.pl' });
+</script>
+<a href="http://www.pb.pl/" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie wiadomości</a>
+
+</div><!-- /news1 -->
+
+
+<!--  news2 -->
+<div id="news2" class="espi">
+<div class="content">
+<h2><a href="/espis/">ESPI / Emitent</a></h2>
+<div class="box">
+    
+    <p class="pointer"><a href="/espi/3054195/estar-supplement-to-the-notice-of-the-general-meeting" target="_blank"><span class="espi_name">ESTAR</span> Supplement to the notice of the general meeting</a></p>
+    
+    <p class="pointer"><a href="/espi/3054180/estar-bancruptcy" target="_blank"><span class="espi_name">ESTAR</span> Bancruptcy</a></p>
+    
+    <p class="pointer"><a href="/espi/3054174/cedc-raport-biezacy-cedc-central-european-distribution-corporation-informuje-o-zlozeniu-raportu-na-formularzu-8-k-w-amerykanskiej-komisji-papierow-wartosciowych-i-gield-ang-u-s-securities-and-exchange-commission-w-sprawie-otrzymania-pisma-od-the-nasdaq-stock-market-llc" target="_blank"><span class="espi_name">CEDC</span> Raport bieżący CEDC: Central European Distribution Corporation informuje o złożeniu raportu na Formularzu 8-K w Amerykańskiej Komisji Papierów Wartościowych i Giełd (ang. U.S. Securities and Exchange Commission) w sprawie otrzymania pisma od The NASDAQ Stock Market LLC</a></p>
+    
+    <p class="pointer"><a href="/espi/3054170/nowagala-informacja-o-transakcjach-dokonanych-w-ramach-nabycia-akcji-wlasnych-w-celu-ich-umorzenia" target="_blank"><span class="espi_name">NOWAGALA</span> Informacja o transakcjach dokonanych w ramach nabycia akcji własnych w celu ich umorzenia</a></p>
+</div>
+</div><!-- /.content -->
+<a href="/espis/" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />więcej komunikatów</a>
+</div><!-- /news2 -->
+
+<!--  news3 -->
+<div id="news3">
+<div class="content">
+<h2>Forum</h2>
+<h3><a href="http://www.pb.pl/3053946," >Polimex bez prezesa</a></h3>
+<p style="font-weight: bold; color: #816F43; margin: 6px 0 6px 5px;">komentarze:</p> 
+<div class="box">
+<p class="comment pointer">Niedobrze, wielu pozytywnie oceniało jego ostatnie działania.</p>
+<p class="author">Michal</p>
+</div>
+</div><!--  /.content -->
+<a href="http://www.pb.pl/3053946,&amp;readcomment=1#comment" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news3 -->
+
+
+<!--  news4 -->
+<div id="news4">
+<div class="content">
+<h2>Komentarze</h2>
+
+    <div class="box">
+		<p class="head"><a href="http://www.pb.pl/3053926," target="_blank">W piątek na warszawskiej giełdzie nadal trwała wyprzedaż akcji. Tym razem największej presji...</a></p>
+    </div>
+    <div class="box">
+
+    <p class="pointer"><a href="http://www.pb.pl/3052263," target="_blank">Wszystko sprzyja niedźwiedziom</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3051790," target="_blank">Lepiej w Chinach, gorzej w Niemczech, na giełdach niewesoło
+</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3051788," target="_blank">Inwestorzy czekają na cypryjski "plan B"</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3049734," target="_blank">GPW słabnie</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3048236," target="_blank">Cypr coraz bliżej bankructwa</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3046178," target="_blank">Koniec raju podatkowego na Cyprze</a></p>
+
+</div>
+</div><!-- /.content -->
+<a href="http://www.pb.pl/forum" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news4 -->
+
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+<div class="market_state">
+
+<table><tr>
+<td class="up" style="width: 37px;">
+<img src="/img/up.gif" alt="up">&nbsp;152
+<div class="vcol up" ></div>
+</td>
+<td style="width: 120px; text-align: center; ">
+487
+<div class="vcol"></div>
+</td>
+<td class="down" style="width: 81px;">
+328&nbsp;<img src="/img/down.gif" alt="down">
+<div class="vcol down"></div>
+</td>
+</table>
+
+</div><!--  /.market_state -->
+<h1 class="first">Stan rynku:</h1>
+
+<div id="stockbrowser">
+<div style="float: left; width: 49%; ">
+Indeks:
+<select onchange="if (this.value != '') document.location = '/stocktable/' + this.value; ">
+<option value="">(wybierz)</option>
+<option>pełna tabela</option>
+<option value="WIG">WIG</option>
+<option value="WIG20">WIG20</option>
+<option value="mWIG40">mWIG40</option>
+<option value="sWIG80">sWIG80</option>
+<option value="NCIndex">NCIndex</option>
+</select>
+</div>
+<div style="float: right; width: 49%; text-align: right; ">
+Spółka 
+<select onchange="if (this.value != '') document.location = '/instrument/' + this.value; ">
+<option>(wybierz)</option>
+<option value="PLNFI0600010/06magna">06MAGNA</option>
+<option value="PLNFI0800016/08octava">08OCTAVA</option>
+<option value="PL4FNMD00013/4funmedia">4FUNMEDIA</option>
+<option value="PLABCDT00014/abcdata">ABCDATA</option>
+<option value="PLAB00000019/abpl">ABPL</option>
+<option value="PLACSA000014/acautogaz">ACAUTOGAZ</option>
+<option value="LU0299378421/ace">ACE</option>
+<option value="PLACTIN00018/action">ACTION</option>
+<option value="PLAGORA00067/agora">AGORA</option>
+<option value="CY0101062111/agroton">AGROTON</option>
+<option value="LT0000127466/agrowill">AGROWILL</option>
+<option value="PLGRBRN00012/alchemia">ALCHEMIA</option>
+<option value="PLALIOR00045/alior">ALIOR</option>
+<option value="PLKRCHM00015/alma">ALMA</option>
+<option value="PLAMBRA00013/ambra">AMBRA</option>
+<option value="PLAMICA00010/amica">AMICA</option>
+<option value="NL0000474351/amrest">AMREST</option>
+<option value="PLAPATR00018/apator">APATOR</option>
+<option value="PLAPLS000016/aplisens">APLISENS</option>
+<option value="PLARTPR00012/arctic">ARCTIC</option>
+<option value="PLARCUS00040/arcus">ARCUS</option>
+<option value="PLKFARM00013/armatura">ARMATURA</option>
+<option value="PLARTER00016/arteria">ARTERIA</option>
+<option value="CY1000031710/asbis">ASBIS</option>
+<option value="PLABS0000018/assecobs">ASSECOBS</option>
+<option value="PLSOFTB00016/assecopol">ASSECOPOL</option>
+<option value="PLASSEE00014/assecosee">ASSECOSEE</option>
+<option value="NL0000686509/astarta">ASTARTA</option>
+<option value="PLATLPL00018/atlantapl">ATLANTAPL</option>
+<option value="PLATLNT00016/atlantis">ATLANTIS</option>
+<option value="PLATMSA00013/atm">ATM</option>
+<option value="PLATM0000021/atmgrupa">ATMGRUPA</option>
+<option value="PLATMSI00016/atmsi">ATMSI</option>
+<option value="PLATREM00017/atrem">ATREM</option>
+<option value="LT0000128381/aviasg">AVIASG</option>
+<option value="PLINSTL00011/awbud">AWBUD</option>
+<option value="PLZATRM00012/azotytarnow">AZOTYTARNOW</option>
+<option value="PLBKLND00017/bakalland">BAKALLAND</option>
+<option value="PLBALTN00014/baltona">BALTONA</option>
+<option value="PLBPH0000019/bankbph">BANKBPH</option>
+<option value="PLBRLNK00017/barlinek">BARLINEK</option>
+<option value="PLNFI1200018/bbidevnfi">BBIDEVNFI</option>
+<option value="PLNFI1000012/bbizennfi">BBIZENNFI</option>
+<option value="PLBNFTS00018/benefit">BENEFIT</option>
+<option value="PLBRLNG00015/berling">BERLING</option>
+<option value="PLBIOTN00029/bioton">BIOTON</option>
+<option value="PLBPRMT00011/bipromet">BIPROMET</option>
+<option value="PLNFI0400015/blacklion">BLACKLION</option>
+<option value="DE0003304200/bmpag">BMPAG</option>
+<option value="PLLWBGD00016/bogdanka">BOGDANKA</option>
+<option value="PLBRSZW00011/boryszew">BORYSZEW</option>
+<option value="PLBOS0000019/bos">BOS</option>
+<option value="PLBOWM000019/bowim">BOWIM</option>
+<option value="PLBRE0000012/bre">BRE</option>
+<option value="PLBSCDO00017/bscdruk">BSCDRUK</option>
+<option value="PLBUDMX00013/budimex">BUDIMEX</option>
+<option value="PLBMECH00012/bumech">BUMECH</option>
+<option value="PLBYTOM00010/bytom">BYTOM</option>
+<option value="PLBRSTM00015/calatrava">CALATRAVA</option>
+<option value="PLCAMMD00032/cammedia">CAMMEDIA</option>
+<option value="PLCPTLP00015/capital">CAPITAL</option>
+<option value="PLCASHF00018/cashflow">CASHFLOW</option>
+<option value="PLCCC0000016/ccc">CCC</option>
+<option value="PLKAREN00014/ccenergy">CCENERGY</option>
+<option value="NL0000687309/cciint">CCIINT</option>
+<option value="PLOPTTC00011/cdprojekt">CDPROJEKT</option>
+<option value="US1534351028/cedc">CEDC</option>
+<option value="PLCELPD00013/celtic">CELTIC</option>
+<option value="CZ0005112300/cez">CEZ</option>
+<option value="PLCHMDW00010/chemos">CHEMOS</option>
+<option value="PLCIECH00018/ciech">CIECH</option>
+<option value="PLCTINT00018/cityinter">CITYINTER</option>
+<option value="PLERGPL00014/cnt">CNT</option>
+<option value="LU0646112838/coalenerg">COALENERG</option>
+<option value="PLCNTSL00014/cognor">COGNOR</option>
+<option value="PLJTRZN00011/colian">COLIAN</option>
+<option value="PLCOMAR00012/comarch">COMARCH</option>
+<option value="PLCMP0000017/comp">COMP</option>
+<option value="PLCMRAY00029/cormay">CORMAY</option>
+<option value="PLCFRPT00013/cyfrplsat">CYFRPLSAT</option>
+<option value="PLDEBCA00016/debica">DEBICA</option>
+<option value="PLDECOR00013/decora">DECORA</option>
+<option value="PLWDM0000029/dmwdm">DMWDM</option>
+<option value="PLDMDVL00012/domdev">DOMDEV</option>
+<option value="PLDROP000011/drop">DROP</option>
+<option value="PLDRZPL00032/drozapol">DROZAPOL</option>
+<option value="PL0000102836/ds1013">DS1013</option>
+<option value="PL0000103602/ds1015">DS1015</option>
+<option value="PL0000104543/ds1017">DS1017</option>
+<option value="PL0000105441/ds1019">DS1019</option>
+<option value="PL0000106126/ds1020">DS1020</option>
+<option value="PL0000106670/ds1021">DS1021</option>
+<option value="PL0000107264/ds1023">DS1023</option>
+<option value="PLDUDA000016/duda">DUDA</option>
+<option value="PLCPENR00035/duon">DUON</option>
+<option value="PLECHPS00019/echo">ECHO</option>
+<option value="PLEDINV00014/edinvest">EDINVEST</option>
+<option value="PLEFH0000022/efh">EFH</option>
+<option value="PLEKEP000019/ekoexport">EKOEXPORT</option>
+<option value="PLELTBD00017/elbudowa">ELBUDOWA</option>
+<option value="PLELEKT00016/elektroti">ELEKTROTI</option>
+<option value="PLELKOP00013/elkop">ELKOP</option>
+<option value="PLEMCIM00017/emcinsmed">EMCINSMED</option>
+<option value="PLELDRD00017/emperia">EMPERIA</option>
+<option value="PLENEA000013/enea">ENEA</option>
+<option value="PLENLMD00017/enelmed">ENELMED</option>
+<option value="PLERGIN00015/energoins">ENERGOINS</option>
+<option value="PLERBUD00012/erbud">ERBUD</option>
+<option value="PLEUFLM00017/ergis">ERGIS</option>
+<option value="PLESSYS00030/essystem">ESSYSTEM</option>
+<option value="PLERPCO00017/euco">EUCO</option>
+<option value="PLEURCH00011/eurocash">EUROCASH</option>
+<option value="BG1100114062/eurohold">EUROHOLD</option>
+<option value="PLERTEL00011/eurotel">EUROTEL</option>
+<option value="IM00B58FMW76/exillon">EXILLON</option>
+<option value="PLFAM0000012/fam">FAM</option>
+<option value="PLFAMUR00012/famur">FAMUR</option>
+<option value="PLFRMCL00066/farmacol">FARMACOL</option>
+<option value="PLFSING00010/fasing">FASING</option>
+<option value="PLFSTFC00012/fastfin">FASTFIN</option>
+<option value="PLFERRO00016/ferro">FERRO</option>
+<option value="PLFERUM00014/ferrum">FERRUM</option>
+<option value="PLCASPL00019/fon">FON</option>
+<option value="PLFORTE00012/forte">FORTE</option>
+<option value="NL0009604859/fortuna">FORTUNA</option>
+<option value="PLFOTA000014/fota">FOTA</option>
+<option value="PLGANT000014/gant">GANT</option>
+<option value="PLGSPR000014/getin">GETIN</option>
+<option value="PLGETBK00012/getinoble">GETINOBLE</option>
+<option value="PLGNRSI00015/ginorossi">GINOROSSI</option>
+<option value="PLGPW0000017/gpw">GPW</option>
+<option value="PLGRAAL00022/graal">GRAAL</option>
+<option value="PLZPW0000017/grajewo">GRAJEWO</option>
+<option value="PLANTI000012/greeneco">GREENECO</option>
+<option value="PLINTGR00013/groclin">GROCLIN</option>
+<option value="PLGTC0000037/gtc">GTC</option>
+<option value="PLBH00000012/handlowy">HANDLOWY</option>
+<option value="PLHRPHG00023/harper">HARPER</option>
+<option value="PLVENTS00019/hawe">HAWE</option>
+<option value="PLHELIO00014/helio">HELIO</option>
+<option value="PLZRWZW00012/herkules">HERKULES</option>
+<option value="PLHUTMN00017/hutmen">HUTMEN</option>
+<option value="PLHDRTR00013/hydrotor">HYDROTOR</option>
+<option value="PLHGNKA00028/hygienika">HYGIENIKA</option>
+<option value="PLHPRON00017/hyperion">HYPERION</option>
+<option value="PLIDATF00012/ideatfi">IDEATFI</option>
+<option value="PLCNTZP00010/ideon">IDEON</option>
+<option value="PLIDMSA00044/idmsa">IDMSA</option>
+<option value="LU0607203980/imcompany">IMCOMPANY</option>
+<option value="PLIMPEL00011/impel">IMPEL</option>
+<option value="PLNFI0700018/impera">IMPERA</option>
+<option value="PLIMPXM00019/impexmet">IMPEXMET</option>
+<option value="PLINDKP00013/indykpol">INDYKPOL</option>
+<option value="PLBSK0000017/ingbsk">INGBSK</option>
+<option value="PLINPRO00015/inpro">INPRO</option>
+<option value="PLINSTK00013/instalkrk">INSTALKRK</option>
+<option value="PLINTEG00011/integerpl">INTEGERPL</option>
+<option value="LT0000128621/interaolt">INTERAOLT</option>
+<option value="PLINTBD00014/interbud">INTERBUD</option>
+<option value="PLINTCS00010/intercars">INTERCARS</option>
+<option value="PLINTFR00023/interferi">INTERFERI</option>
+<option value="PLINTSP00038/intersppl">INTERSPPL</option>
+<option value="PLINTRL00013/introl">INTROL</option>
+<option value="PLINCLT00015/investcon">INVESTCON</option>
+<option value="PLIPOPM00011/ipopema">IPOPEMA</option>
+<option value="PLIQPRT00017/iqp">IQP</option>
+<option value="PLMATRX00017/ivmx">IVMX</option>
+<option value="PLIZSTL00015/izostal">IZOSTAL</option>
+<option value="PLJHMDL00018/jhmdev">JHMDEV</option>
+<option value="PLJSW0000015/jsw">JSW</option>
+<option value="PLNFI0300017/jupiter">JUPITER</option>
+<option value="PLJWC0000019/jwconstr">JWCONSTR</option>
+<option value="PLK2ITR00010/k2internt">K2INTERNT</option>
+<option value="PLIZNS000022/kania">KANIA</option>
+<option value="PLTRAST00020/kbdom">KBDOM</option>
+<option value="CY0102492119/kdmshipng">KDMSHIPNG</option>
+<option value="LU0327357389/kernel">KERNEL</option>
+<option value="PLKETY000011/kety">KETY</option>
+<option value="PLKGHM000017/kghm">KGHM</option>
+<option value="PLKNOPL00014/kinopol">KINOPOL</option>
+<option value="PLKLNR000017/koelner">KOELNER</option>
+<option value="PLHOOP000010/kofola">KOFOLA</option>
+<option value="PLKGNRC00015/kogenera">KOGENERA</option>
+<option value="PLKMPTR00012/komputron">KOMPUTRON</option>
+<option value="PLKCSTL00010/konsstali">KONSSTALI</option>
+<option value="PLKOPEX00018/kopex">KOPEX</option>
+<option value="CA5012401058/kov">KOV</option>
+<option value="PLKPPD000017/kppd">KPPD</option>
+<option value="PLKRKCH00019/krakchem">KRAKCHEM</option>
+<option value="PLKRNRC00012/krec">KREC</option>
+<option value="PLKRINK00014/kredytin">KREDYTIN</option>
+<option value="PLNFI0200019/krezus">KREZUS</option>
+<option value="SI0031102120/krka">KRKA</option>
+<option value="PLKRK0000010/kruk">KRUK</option>
+<option value="PLKRUSZ00016/kruszwica">KRUSZWICA</option>
+<option value="LU0611262873/ksgagro">KSGAGRO</option>
+<option value="PLLCCRP00017/lccorp">LCCORP</option>
+<option value="PLLENAL00015/lena">LENA</option>
+<option value="PLLENTX00010/lentex">LENTEX</option>
+<option value="PLLBT0000013/libet">LIBET</option>
+<option value="PLLOTOS00025/lotos">LOTOS</option>
+<option value="PLLPP0000011/lpp">LPP</option>
+<option value="PLLSTIA00018/lstcapita">LSTCAPITA</option>
+<option value="PLLUBAW00013/lubawa">LUBAWA</option>
+<option value="PLMGLAN00018/magellan">MAGELLAN</option>
+<option value="PLMAKRM00019/makrum">MAKRUM</option>
+<option value="PLMCIMG00012/mci">MCI</option>
+<option value="PLMCSFT00018/mclogic">MCLOGIC</option>
+<option value="PLMNNCP00011/mennica">MENNICA</option>
+<option value="PLMRCOR00016/mercor">MERCOR</option>
+<option value="PLNFI0900014/midas">MIDAS</option>
+<option value="PLMSZKO00010/mieszko">MIESZKO</option>
+<option value="NL0009508712/milkiland">MILKILAND</option>
+<option value="PLBIG0000016/millennium">MILLENNIUM</option>
+<option value="PLKLSTN00017/miraculum">MIRACULUM</option>
+<option value="PLMRBUD00015/mirbud">MIRBUD</option>
+<option value="PLPPWK000014/mit">MIT</option>
+<option value="PLSZPTL00010/mni">MNI</option>
+<option value="PLMOBRK00013/mobruk">MOBRUK</option>
+<option value="HU0000068952/mol">MOL</option>
+<option value="PLMNRTR00012/monnari">MONNARI</option>
+<option value="PLMSTEX00017/mostalexp">MOSTALEXP</option>
+<option value="PLMSTPL00018/mostalplc">MOSTALPLC</option>
+<option value="PLMSTWS00019/mostalwar">MOSTALWAR</option>
+<option value="PLMSTZB00018/mostalzab">MOSTALZAB</option>
+<option value="PLMWTRD00013/mwtrade">MWTRADE</option>
+<option value="PLNETIA00014/netia">NETIA</option>
+<option value="PLNTMDA00018/netmedia">NETMEDIA</option>
+<option value="PLTRFRM00018/neuca">NEUCA</option>
+<option value="GB00B42CTW68/newworldr">NEWWORLDR</option>
+<option value="PLNFI1500011/nfiemf">NFIEMF</option>
+<option value="PLGRNKT00019/nokaut">NOKAUT</option>
+<option value="SI0021104052/novakbm">NOVAKBM</option>
+<option value="PLNVITA00018/novita">NOVITA</option>
+<option value="PLCRMNG00029/nowagala">NOWAGALA</option>
+<option value="PLNTSYS00013/nttsystem">NTTSYSTEM</option>
+<option value="PLODLPL00013/odlewnie">ODLEWNIE</option>
+<option value="PL0000106712/ok0114">OK0114</option>
+<option value="PL0000107009/ok0714">OK0714</option>
+<option value="EE3100084021/olympic">OLYMPIC</option>
+<option value="PLOPNFN00010/openfin">OPENFIN</option>
+<option value="PLOPNPL00013/oponeo-pl">OPONEO.PL</option>
+<option value="PLOPTEM00012/opteam">OPTEAM</option>
+<option value="PLORBIS00014/orbis">ORBIS</option>
+<option value="LU0122624777/orcogroup">ORCOGROUP</option>
+<option value="PLORZBL00013/orzbialy">ORZBIALY</option>
+<option value="PLZPCOT00018/otmuchow">OTMUCHOW</option>
+<option value="NL0009805613/ovostar">OVOSTAR</option>
+<option value="PLPAGED00017/paged">PAGED</option>
+<option value="PLPMPOL00031/pamapol">PAMAPOL</option>
+<option value="PLPANVA00013/panova">PANOVA</option>
+<option value="PLPTNTS00019/patentus">PATENTUS</option>
+<option value="PLBEFSN00010/pbsfinanse">PBSFINANSE</option>
+<option value="PLPCCIM00014/pccinter">PCCINTER</option>
+<option value="PLGUARD00019/pcguard">PCGUARD</option>
+<option value="LU0275164910/pegas">PEGAS</option>
+<option value="PLPEKAS00017/pekaes">PEKAES</option>
+<option value="PLPEKAO00016/pekao">PEKAO</option>
+<option value="PLMEDCS00015/pelion">PELION</option>
+<option value="PLPLSEP00013/pep">PEP</option>
+<option value="PLPEPES00018/pepees">PEPEES</option>
+<option value="PLPTRLI00018/petrolinv">PETROLINV</option>
+<option value="PLPGER000010/pge">PGE</option>
+<option value="PLPGNIG00014/pgnig">PGNIG</option>
+<option value="PLPGO0000014/pgodlew">PGODLEW</option>
+<option value="PLPHN0000014/phn">PHN</option>
+<option value="PLPKN0000018/pknorlen">PKNORLEN</option>
+<option value="PLPKO0000016/pkobp">PKOBP</option>
+<option value="PLPSTBX00016/plastbox">PLASTBOX</option>
+<option value="NL0000686772/plazacntr">PLAZACNTR</option>
+<option value="PLPEKPL00010/pointgroup">POINTGROUP</option>
+<option value="PLZCPLC00036/police">POLICE</option>
+<option value="PLMSTSD00019/polimexms">POLIMEXMS</option>
+<option value="PLPOLNA00015/polna">POLNA</option>
+<option value="PLPOLND00019/polnord">POLNORD</option>
+<option value="PLPZBDT00013/pozbud">POZBUD</option>
+<option value="PLGFPRE00040/pragmafa">PRAGMAFA</option>
+<option value="PLPRGNK00017/pragmaink">PRAGMAINK</option>
+<option value="PLPRESC00018/presco">PRESCO</option>
+<option value="PLPRCHM00014/prochem">PROCHEM</option>
+<option value="PLPRCHK00018/prochnik">PROCHNIK</option>
+<option value="PLPROJP00018/projprzem">PROJPRZEM</option>
+<option value="PLLZPSK00019/protektor">PROTEKTOR</option>
+<option value="PL0000105433/ps0414">PS0414</option>
+<option value="PL0000105953/ps0415">PS0415</option>
+<option value="PL0000106340/ps0416">PS0416</option>
+<option value="PL0000107058/ps0417">PS0417</option>
+<option value="PL0000107314/ps0418">PS0418</option>
+<option value="PL0000106795/ps1016">PS1016</option>
+<option value="PLPTIW000014/pti">PTI</option>
+<option value="PLZAPUL00057/pulawy">PULAWY</option>
+<option value="PLPZU0000011/pzu">PZU</option>
+<option value="PLQRCUS00012/quercus">QUERCUS</option>
+<option value="PLQMKSK00017/qumak">QUMAK</option>
+<option value="PLRDPOL00010/radpol">RADPOL</option>
+<option value="PLRAFAK00018/rafako">RAFAKO</option>
+<option value="PLRFMET00016/rafamet">RAFAMET</option>
+<option value="PLRNBWT00031/rainbow">RAINBOW</option>
+<option value="PLRNKPR00014/rankprogr">RANKPROGR</option>
+<option value="PLREDAN00019/redan">REDAN</option>
+<option value="PLRELPL00014/relpol">RELPOL</option>
+<option value="PLREMAK00016/remak">REMAK</option>
+<option value="PLROBYG00016/robyg">ROBYG</option>
+<option value="NL0006106007/ronson">RONSON</option>
+<option value="PLROPCE00017/ropczyce">ROPCZYCE</option>
+<option value="PLCRSNT00011/rovese">ROVESE</option>
+<option value="PLNFI0500012/rubicon">RUBICON</option>
+<option value="LU0564351582/sadovaya">SADOVAYA</option>
+<option value="PLSTLSK00016/sanok">SANOK</option>
+<option value="PLWRWCK00013/secogroup">SECOGROUP</option>
+<option value="PLSEKO000014/seko">SEKO</option>
+<option value="PLSELNA00010/selenafm">SELENAFM</option>
+<option value="PLSFNKS00011/sfinks">SFINKS</option>
+<option value="EE3100001751/silvano">SILVANO</option>
+<option value="PLSIMPL00011/simple">SIMPLE</option>
+<option value="PLSKTAN00010/skotan">SKOTAN</option>
+<option value="PLADVPL00029/smt">SMT</option>
+<option value="PLSNZKA00033/sniezka">SNIEZKA</option>
+<option value="FR0000060873/sobieski">SOBIESKI</option>
+<option value="PLSLRCP00021/solar">SOLAR</option>
+<option value="PLSONEL00011/sonel">SONEL</option>
+<option value="BG11SOSOBT18/sopharma">SOPHARMA</option>
+<option value="PLSTLEX00019/stalexp">STALEXP</option>
+<option value="PLSTLPD00017/stalprod">STALPROD</option>
+<option value="PLSTLPF00012/stalprofi">STALPROFI</option>
+<option value="PLSTPRK00019/staporkow">STAPORKOW</option>
+<option value="PLSUWAR00014/suwary">SUWARY</option>
+<option value="PLSWMED00013/swissmed">SWISSMED</option>
+<option value="PLCMPLD00016/sygnity">SYGNITY</option>
+<option value="PLDWORY00019/synthos">SYNTHOS</option>
+<option value="SK1120010287/tatry">TATRY</option>
+<option value="PLTAURN00011/tauronpe">TAURONPE</option>
+<option value="PLTELL000023/tell">TELL</option>
+<option value="PLPTMED00015/teresa">TERESA</option>
+<option value="PLTSGS000019/tesgas">TESGAS</option>
+<option value="PLTIM0000016/tim">TIM</option>
+<option value="PLTOYA000011/toya">TOYA</option>
+<option value="PLTLKPL00017/tpsa">TPSA</option>
+<option value="PLTRKPL00014/trakcja">TRAKCJA</option>
+<option value="PLTRNSP00013/transpol">TRANSPOL</option>
+<option value="PLASMOT00030/triton">TRITON</option>
+<option value="PLTRNSU00013/tup">TUP</option>
+<option value="PLTVN0000017/tvn">TVN</option>
+<option value="PLBAUMA00017/ulma">ULMA</option>
+<option value="PLUNBEP00015/unibep">UNIBEP</option>
+<option value="IT0004781412/unicredit">UNICREDIT</option>
+<option value="PLPMWRM00012/ursus">URSUS</option>
+<option value="PLVTGDL00010/vantage">VANTAGE</option>
+<option value="PLVNDEX00013/vindexus">VINDEXUS</option>
+<option value="PLVSTLA00011/vistula">VISTULA</option>
+<option value="PLVOTUM00016/votum">VOTUM</option>
+<option value="PLVOXEL00014/voxel">VOXEL</option>
+<option value="PLWADEX00018/wadex">WADEX</option>
+<option value="AT0000827209/warimpex">WARIMPEX</option>
+<option value="PLHOGA000041/wasko">WASKO</option>
+<option value="PLWAWEL00013/wawel">WAWEL</option>
+<option value="LU0627170920/westaisic">WESTAISIC</option>
+<option value="PLWELTN00012/wielton">WIELTON</option>
+<option value="PLELPO000016/wikana">WIKANA</option>
+<option value="PLWOJAS00014/wojas">WOJAS</option>
+<option value="PLWRKSR00019/workserv">WORKSERV</option>
+<option value="PL0000105391/ws0429">WS0429</option>
+<option value="PL0000102646/ws0922">WS0922</option>
+<option value="PLYAWAL00058/yawal">YAWAL</option>
+<option value="PLZAMET00010/zamet">ZAMET</option>
+<option value="PLZSTAL00012/zastal">ZASTAL</option>
+<option value="PLZELMR00011/zelmer">ZELMER</option>
+<option value="PLZEPAK00012/zepak">ZEPAK</option>
+<option value="PLZTKMA00017/zetkama">ZETKAMA</option>
+<option value="PLZPUE000012/zpue">ZPUE</option>
+<option value="PLZUE0000015/zue">ZUE</option>
+</select>
+</div>
+</div>
+
+
+
+
+
+
+<div class="charter">
+<div class="head">
+<h1><a href="/stocktable/WIG?sort=[3,1]">Wzrosty</a> <small></small></h1>
+<ul class="tabs">
+	<li><a href="#win_wig" onclick="pbtools.apreload(images_cache['win_wig']);"><span>WIG</span></a></li>
+	
+	
+	<li><a href="#win_wig20" onclick="pbtools.apreload(images_cache['win_wig20']);"><span>WIG20</span></a></li>
+	
+	
+	<li><a href="#win_mwig" onclick="pbtools.apreload(images_cache['win_mwig']);"><span>mWIG40</span></a></li>
+	
+	
+	<li><a href="#win_swig" onclick="pbtools.apreload(images_cache['win_swig']);"><span>sWIG80</span></a></li>
+	
+	
+</ul>
+</div><!-- /.head -->
+<div class="body">
+
+	
+	<div id="win_wig" class="box" >
+	<ul class="left">
+		
+		<li	id="_win_wig_PLTRAST00020">
+		<a id="win_wig_PLTRAST00020" href="/instrument/PLTRAST00020/kbdom" onmouseover="bfl('PLTRAST00020','/chart_hourly/SmallChart/PLTRAST00020/110/90','win_wig')" class="up hover"
+		>
+		<span class="c1"><b>KBDOM</b></span>
+		<span class="number c2">0.07</span>
+		<span class="number c3">+16.67%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_wig_FR0000060873">
+		<a id="win_wig_FR0000060873" href="/instrument/FR0000060873/sobieski" onmouseover="bfl('FR0000060873','/chart_hourly/SmallChart/FR0000060873/110/90','win_wig')" class="up "
+		>
+		<span class="c1"><b>SOBIESKI</b></span>
+		<span class="number c2">99.90</span>
+		<span class="number c3">+13.52%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_wig_PLNFI0700018">
+		<a id="win_wig_PLNFI0700018" href="/instrument/PLNFI0700018/impera" onmouseover="bfl('PLNFI0700018','/chart_hourly/SmallChart/PLNFI0700018/110/90','win_wig')" class="up "
+		>
+		<span class="c1"><b>IMPERA</b></span>
+		<span class="number c2">0.44</span>
+		<span class="number c3">+10.00%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_wig_PLYAWAL00058">
+		<a id="win_wig_PLYAWAL00058" href="/instrument/PLYAWAL00058/yawal" onmouseover="bfl('PLYAWAL00058','/chart_hourly/SmallChart/PLYAWAL00058/110/90','win_wig')" class="up "
+		>
+		<span class="c1"><b>YAWAL</b></span>
+		<span class="number c2">5.97</span>
+		<span class="number c3">+9.54%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_wig_LU0275164910">
+		<a id="win_wig_LU0275164910" href="/instrument/LU0275164910/pegas" onmouseover="bfl('LU0275164910','/chart_hourly/SmallChart/LU0275164910/110/90','win_wig')" class="up "
+		>
+		<span class="c1"><b>PEGAS</b></span>
+		<span class="number c2">89.00</span>
+		<span class="number c3">+9.34%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/WIG?sort=[3,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/LU0275164910/pegas" id="win_wig_chart_link" ><img id="win_wig_chart" src="/chart_hourly/SmallChart/LU0275164910/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="win_wig20" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_win_wig20_LU0327357389">
+		<a id="win_wig20_LU0327357389" href="/instrument/LU0327357389/kernel" onmouseover="bfl('LU0327357389','/chart_hourly/SmallChart/LU0327357389/110/90','win_wig20')" class="up hover"
+		>
+		<span class="c1"><b>KERNEL</b></span>
+		<span class="number c2">55.50</span>
+		<span class="number c3">+1.83%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_wig20_PLLWBGD00016">
+		<a id="win_wig20_PLLWBGD00016" href="/instrument/PLLWBGD00016/bogdanka" onmouseover="bfl('PLLWBGD00016','/chart_hourly/SmallChart/PLLWBGD00016/110/90','win_wig20')" class="up "
+		>
+		<span class="c1"><b>BOGDANKA</b></span>
+		<span class="number c2">124.10</span>
+		<span class="number c3">+0.08%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_wig20_PLEURCH00011">
+		<a id="win_wig20_PLEURCH00011" href="/instrument/PLEURCH00011/eurocash" onmouseover="bfl('PLEURCH00011','/chart_hourly/SmallChart/PLEURCH00011/110/90','win_wig20')" class="down "
+		>
+		<span class="c1"><b>EUROCASH</b></span>
+		<span class="number c2">53.15</span>
+		<span class="number c3">-0.09%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_wig20_PLKGHM000017">
+		<a id="win_wig20_PLKGHM000017" href="/instrument/PLKGHM000017/kghm" onmouseover="bfl('PLKGHM000017','/chart_hourly/SmallChart/PLKGHM000017/110/90','win_wig20')" class="down "
+		>
+		<span class="c1"><b>KGHM</b></span>
+		<span class="number c2">158.60</span>
+		<span class="number c3">-0.25%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_wig20_PLBH00000012">
+		<a id="win_wig20_PLBH00000012" href="/instrument/PLBH00000012/handlowy" onmouseover="bfl('PLBH00000012','/chart_hourly/SmallChart/PLBH00000012/110/90','win_wig20')" class="down "
+		>
+		<span class="c1"><b>HANDLOWY</b></span>
+		<span class="number c2">92.25</span>
+		<span class="number c3">-0.27%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/WIG20?sort=[3,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLBH00000012/handlowy" id="win_wig20_chart_link" ><img id="win_wig20_chart" src="/chart_hourly/SmallChart/PLBH00000012/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="win_mwig" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_win_mwig_PLNETIA00014">
+		<a id="win_mwig_PLNETIA00014" href="/instrument/PLNETIA00014/netia" onmouseover="bfl('PLNETIA00014','/chart_hourly/SmallChart/PLNETIA00014/110/90','win_mwig')" class="up hover"
+		>
+		<span class="c1"><b>NETIA</b></span>
+		<span class="number c2">4.33</span>
+		<span class="number c3">+0.70%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_mwig_PLTVN0000017">
+		<a id="win_mwig_PLTVN0000017" href="/instrument/PLTVN0000017/tvn" onmouseover="bfl('PLTVN0000017','/chart_hourly/SmallChart/PLTVN0000017/110/90','win_mwig')" class="up "
+		>
+		<span class="c1"><b>TVN</b></span>
+		<span class="number c2">9.40</span>
+		<span class="number c3">+0.64%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_mwig_PLLPP0000011">
+		<a id="win_mwig_PLLPP0000011" href="/instrument/PLLPP0000011/lpp" onmouseover="bfl('PLLPP0000011','/chart_hourly/SmallChart/PLLPP0000011/110/90','win_mwig')" class="up "
+		>
+		<span class="c1"><b>LPP</b></span>
+		<span class="number c2">5560.00</span>
+		<span class="number c3">+0.18%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_mwig_PLZATRM00012">
+		<a id="win_mwig_PLZATRM00012" href="/instrument/PLZATRM00012/azotytarnow" onmouseover="bfl('PLZATRM00012','/chart_hourly/SmallChart/PLZATRM00012/110/90','win_mwig')" class="up "
+		>
+		<span class="c1"><b>AZOTYTARNOW</b></span>
+		<span class="number c2">55.25</span>
+		<span class="number c3">+0.09%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_mwig_PLBIOTN00029">
+		<a id="win_mwig_PLBIOTN00029" href="/instrument/PLBIOTN00029/bioton" onmouseover="bfl('PLBIOTN00029','/chart_hourly/SmallChart/PLBIOTN00029/110/90','win_mwig')" class=" "
+		>
+		<span class="c1"><b>BIOTON</b></span>
+		<span class="number c2">0.05</span>
+		<span class="number c3">+0.00%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/mWIG40?sort=[3,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLBIOTN00029/bioton" id="win_mwig_chart_link" ><img id="win_mwig_chart" src="/chart_hourly/SmallChart/PLBIOTN00029/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="win_swig" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_win_swig_PLMEDCS00015">
+		<a id="win_swig_PLMEDCS00015" href="/instrument/PLMEDCS00015/pelion" onmouseover="bfl('PLMEDCS00015','/chart_hourly/SmallChart/PLMEDCS00015/110/90','win_swig')" class="up hover"
+		>
+		<span class="c1"><b>PELION</b></span>
+		<span class="number c2">45.70</span>
+		<span class="number c3">+6.28%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_swig_PLFRMCL00066">
+		<a id="win_swig_PLFRMCL00066" href="/instrument/PLFRMCL00066/farmacol" onmouseover="bfl('PLFRMCL00066','/chart_hourly/SmallChart/PLFRMCL00066/110/90','win_swig')" class="up "
+		>
+		<span class="c1"><b>FARMACOL</b></span>
+		<span class="number c2">42.30</span>
+		<span class="number c3">+6.02%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_swig_PLPMWRM00012">
+		<a id="win_swig_PLPMWRM00012" href="/instrument/PLPMWRM00012/ursus" onmouseover="bfl('PLPMWRM00012','/chart_hourly/SmallChart/PLPMWRM00012/110/90','win_swig')" class="up "
+		>
+		<span class="c1"><b>URSUS</b></span>
+		<span class="number c2">3.37</span>
+		<span class="number c3">+3.37%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_swig_PLATMSA00013">
+		<a id="win_swig_PLATMSA00013" href="/instrument/PLATMSA00013/atm" onmouseover="bfl('PLATMSA00013','/chart_hourly/SmallChart/PLATMSA00013/110/90','win_swig')" class="up "
+		>
+		<span class="c1"><b>ATM</b></span>
+		<span class="number c2">11.66</span>
+		<span class="number c3">+2.37%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_win_swig_PLEKEP000019">
+		<a id="win_swig_PLEKEP000019" href="/instrument/PLEKEP000019/ekoexport" onmouseover="bfl('PLEKEP000019','/chart_hourly/SmallChart/PLEKEP000019/110/90','win_swig')" class="up "
+		>
+		<span class="c1"><b>EKOEXPORT</b></span>
+		<span class="number c2">17.40</span>
+		<span class="number c3">+1.75%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/sWIG80?sort=[3,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLEKEP000019/ekoexport" id="win_swig_chart_link" ><img id="win_swig_chart" src="/chart_hourly/SmallChart/PLEKEP000019/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+</div><!-- / .body -->
+</div><!-- / .charter -->
+<div id="rectangle" style="clear: both; /* width: 300px; height: 250px; border: 1px solid #aaa; */ margin: 10px 0; ">
+</div>
+
+
+
+<div class="charter">
+<div class="head">
+<h1><a href="/stocktable/WIG?sort=[3,0]">Spadki</a> <small></small></h1>
+<ul class="tabs">
+	<li><a href="#fal_wig" onclick="pbtools.apreload(images_cache['fal_wig']);"><span>WIG</span></a></li>
+	
+	
+	<li><a href="#fal_wig20" onclick="pbtools.apreload(images_cache['fal_wig20']);"><span>WIG20</span></a></li>
+	
+	
+	<li><a href="#fal_mwig" onclick="pbtools.apreload(images_cache['fal_mwig']);"><span>mWIG40</span></a></li>
+	
+	
+	<li><a href="#fal_swig" onclick="pbtools.apreload(images_cache['fal_swig']);"><span>sWIG80</span></a></li>
+	
+	
+</ul>
+</div><!-- /.head -->
+<div class="body">
+
+	
+	<div id="fal_wig" class="box" >
+	<ul class="left">
+		
+		<li	id="_fal_wig_PLMSTWS00019">
+		<a id="fal_wig_PLMSTWS00019" href="/instrument/PLMSTWS00019/mostalwar" onmouseover="bfl('PLMSTWS00019','/chart_hourly/SmallChart/PLMSTWS00019/110/90','fal_wig')" class="down hover"
+		>
+		<span class="c1"><b>MOSTALWAR</b></span>
+		<span class="number c2">8.00</span>
+		<span class="number c3">-32.32%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_wig_PLGANT000014">
+		<a id="fal_wig_PLGANT000014" href="/instrument/PLGANT000014/gant" onmouseover="bfl('PLGANT000014','/chart_hourly/SmallChart/PLGANT000014/110/90','fal_wig')" class="down "
+		>
+		<span class="c1"><b>GANT</b></span>
+		<span class="number c2">1.34</span>
+		<span class="number c3">-20.24%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_wig_PLRAFAK00018">
+		<a id="fal_wig_PLRAFAK00018" href="/instrument/PLRAFAK00018/rafako" onmouseover="bfl('PLRAFAK00018','/chart_hourly/SmallChart/PLRAFAK00018/110/90','fal_wig')" class="down "
+		>
+		<span class="c1"><b>RAFAKO</b></span>
+		<span class="number c2">5.75</span>
+		<span class="number c3">-20.14%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_wig_PLCNTZP00010">
+		<a id="fal_wig_PLCNTZP00010" href="/instrument/PLCNTZP00010/ideon" onmouseover="bfl('PLCNTZP00010','/chart_hourly/SmallChart/PLCNTZP00010/110/90','fal_wig')" class="down "
+		>
+		<span class="c1"><b>IDEON</b></span>
+		<span class="number c2">0.04</span>
+		<span class="number c3">-20.00%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_wig_PLEFH0000022">
+		<a id="fal_wig_PLEFH0000022" href="/instrument/PLEFH0000022/efh" onmouseover="bfl('PLEFH0000022','/chart_hourly/SmallChart/PLEFH0000022/110/90','fal_wig')" class="down "
+		>
+		<span class="c1"><b>EFH</b></span>
+		<span class="number c2">0.50</span>
+		<span class="number c3">-15.25%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/WIG?sort=[3,0]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLEFH0000022/efh" id="fal_wig_chart_link" ><img id="fal_wig_chart" src="/chart_hourly/SmallChart/PLEFH0000022/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="fal_wig20" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_fal_wig20_PLDWORY00019">
+		<a id="fal_wig20_PLDWORY00019" href="/instrument/PLDWORY00019/synthos" onmouseover="bfl('PLDWORY00019','/chart_hourly/SmallChart/PLDWORY00019/110/90','fal_wig20')" class="down hover"
+		>
+		<span class="c1"><b>SYNTHOS</b></span>
+		<span class="number c2">6.20</span>
+		<span class="number c3">-4.62%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_wig20_PLSOFTB00016">
+		<a id="fal_wig20_PLSOFTB00016" href="/instrument/PLSOFTB00016/assecopol" onmouseover="bfl('PLSOFTB00016','/chart_hourly/SmallChart/PLSOFTB00016/110/90','fal_wig20')" class="down "
+		>
+		<span class="c1"><b>ASSECOPOL</b></span>
+		<span class="number c2">41.10</span>
+		<span class="number c3">-2.14%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_wig20_PLBRSZW00011">
+		<a id="fal_wig20_PLBRSZW00011" href="/instrument/PLBRSZW00011/boryszew" onmouseover="bfl('PLBRSZW00011','/chart_hourly/SmallChart/PLBRSZW00011/110/90','fal_wig20')" class="down "
+		>
+		<span class="c1"><b>BORYSZEW</b></span>
+		<span class="number c2">0.47</span>
+		<span class="number c3">-2.08%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_wig20_PLPEKAO00016">
+		<a id="fal_wig20_PLPEKAO00016" href="/instrument/PLPEKAO00016/pekao" onmouseover="bfl('PLPEKAO00016','/chart_hourly/SmallChart/PLPEKAO00016/110/90','fal_wig20')" class="down "
+		>
+		<span class="c1"><b>PEKAO</b></span>
+		<span class="number c2">154.00</span>
+		<span class="number c3">-1.91%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_wig20_PLPKN0000018">
+		<a id="fal_wig20_PLPKN0000018" href="/instrument/PLPKN0000018/pknorlen" onmouseover="bfl('PLPKN0000018','/chart_hourly/SmallChart/PLPKN0000018/110/90','fal_wig20')" class="down "
+		>
+		<span class="c1"><b>PKNORLEN</b></span>
+		<span class="number c2">52.15</span>
+		<span class="number c3">-1.79%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/WIG20?sort=[3,0]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLPKN0000018/pknorlen" id="fal_wig20_chart_link" ><img id="fal_wig20_chart" src="/chart_hourly/SmallChart/PLPKN0000018/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="fal_mwig" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_fal_mwig_PLMSTSD00019">
+		<a id="fal_mwig_PLMSTSD00019" href="/instrument/PLMSTSD00019/polimexms" onmouseover="bfl('PLMSTSD00019','/chart_hourly/SmallChart/PLMSTSD00019/110/90','fal_mwig')" class="down hover"
+		>
+		<span class="c1"><b>POLIMEXMS</b></span>
+		<span class="number c2">0.41</span>
+		<span class="number c3">-10.87%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_mwig_US1534351028">
+		<a id="fal_mwig_US1534351028" href="/instrument/US1534351028/cedc" onmouseover="bfl('US1534351028','/chart_hourly/SmallChart/US1534351028/110/90','fal_mwig')" class="down "
+		>
+		<span class="c1"><b>CEDC</b></span>
+		<span class="number c2">1.01</span>
+		<span class="number c3">-7.34%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_mwig_PLAGORA00067">
+		<a id="fal_mwig_PLAGORA00067" href="/instrument/PLAGORA00067/agora" onmouseover="bfl('PLAGORA00067','/chart_hourly/SmallChart/PLAGORA00067/110/90','fal_mwig')" class="down "
+		>
+		<span class="c1"><b>AGORA</b></span>
+		<span class="number c2">8.15</span>
+		<span class="number c3">-6.96%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_mwig_PLVENTS00019">
+		<a id="fal_mwig_PLVENTS00019" href="/instrument/PLVENTS00019/hawe" onmouseover="bfl('PLVENTS00019','/chart_hourly/SmallChart/PLVENTS00019/110/90','fal_mwig')" class="down "
+		>
+		<span class="c1"><b>HAWE</b></span>
+		<span class="number c2">3.08</span>
+		<span class="number c3">-6.95%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_mwig_PLGRBRN00012">
+		<a id="fal_mwig_PLGRBRN00012" href="/instrument/PLGRBRN00012/alchemia" onmouseover="bfl('PLGRBRN00012','/chart_hourly/SmallChart/PLGRBRN00012/110/90','fal_mwig')" class="down "
+		>
+		<span class="c1"><b>ALCHEMIA</b></span>
+		<span class="number c2">4.10</span>
+		<span class="number c3">-6.82%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/mWIG40?sort=[3,0]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLGRBRN00012/alchemia" id="fal_mwig_chart_link" ><img id="fal_mwig_chart" src="/chart_hourly/SmallChart/PLGRBRN00012/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="fal_swig" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_fal_swig_PLMSTWS00019">
+		<a id="fal_swig_PLMSTWS00019" href="/instrument/PLMSTWS00019/mostalwar" onmouseover="bfl('PLMSTWS00019','/chart_hourly/SmallChart/PLMSTWS00019/110/90','fal_swig')" class="down hover"
+		>
+		<span class="c1"><b>MOSTALWAR</b></span>
+		<span class="number c2">8.00</span>
+		<span class="number c3">-32.32%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_swig_PLGANT000014">
+		<a id="fal_swig_PLGANT000014" href="/instrument/PLGANT000014/gant" onmouseover="bfl('PLGANT000014','/chart_hourly/SmallChart/PLGANT000014/110/90','fal_swig')" class="down "
+		>
+		<span class="c1"><b>GANT</b></span>
+		<span class="number c2">1.34</span>
+		<span class="number c3">-20.24%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_swig_PLRAFAK00018">
+		<a id="fal_swig_PLRAFAK00018" href="/instrument/PLRAFAK00018/rafako" onmouseover="bfl('PLRAFAK00018','/chart_hourly/SmallChart/PLRAFAK00018/110/90','fal_swig')" class="down "
+		>
+		<span class="c1"><b>RAFAKO</b></span>
+		<span class="number c2">5.75</span>
+		<span class="number c3">-20.14%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_swig_PLEFH0000022">
+		<a id="fal_swig_PLEFH0000022" href="/instrument/PLEFH0000022/efh" onmouseover="bfl('PLEFH0000022','/chart_hourly/SmallChart/PLEFH0000022/110/90','fal_swig')" class="down "
+		>
+		<span class="c1"><b>EFH</b></span>
+		<span class="number c2">0.50</span>
+		<span class="number c3">-15.25%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_swig_PLTRKPL00014">
+		<a id="fal_swig_PLTRKPL00014" href="/instrument/PLTRKPL00014/trakcja" onmouseover="bfl('PLTRKPL00014','/chart_hourly/SmallChart/PLTRKPL00014/110/90','fal_swig')" class="down "
+		>
+		<span class="c1"><b>TRAKCJA</b></span>
+		<span class="number c2">0.41</span>
+		<span class="number c3">-12.77%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/sWIG80?sort=[3,0]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLTRKPL00014/trakcja" id="fal_swig_chart_link" ><img id="fal_swig_chart" src="/chart_hourly/SmallChart/PLTRKPL00014/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+</div><!-- / .body -->
+</div><!-- / .charter -->
+
+
+
+<div class="charter">
+<div class="head">
+<h1><a href="/stocktable/WIG?sort=[10,1]">Obroty</a> <small>w złotych</small></h1>
+<ul class="tabs">
+	<li><a href="#tur_wig" onclick="pbtools.apreload(images_cache['tur_wig']);"><span>WIG</span></a></li>
+	
+	
+	<li><a href="#tur_wig20" onclick="pbtools.apreload(images_cache['tur_wig20']);"><span>WIG20</span></a></li>
+	
+	
+	<li><a href="#tur_mwig" onclick="pbtools.apreload(images_cache['tur_mwig']);"><span>mWIG40</span></a></li>
+	
+	
+	<li><a href="#tur_swig" onclick="pbtools.apreload(images_cache['tur_swig']);"><span>sWIG80</span></a></li>
+	
+	
+</ul>
+</div><!-- /.head -->
+<div class="body">
+
+	
+	<div id="tur_wig" class="box" >
+	<ul class="left">
+		
+		<li	id="_tur_wig_PLKGHM000017">
+		<a id="tur_wig_PLKGHM000017" href="/instrument/PLKGHM000017/kghm" onmouseover="bfl('PLKGHM000017','/chart_hourly/SmallChart/PLKGHM000017/110/90','tur_wig')" class="down hover"
+		>
+		<span class="c1"><b>KGHM</b></span>
+		<span class="number c2">-0.25%</span>
+		<span class="number c3">280.6&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_wig_PLPKO0000016">
+		<a id="tur_wig_PLPKO0000016" href="/instrument/PLPKO0000016/pkobp" onmouseover="bfl('PLPKO0000016','/chart_hourly/SmallChart/PLPKO0000016/110/90','tur_wig')" class="down "
+		>
+		<span class="c1"><b>PKOBP</b></span>
+		<span class="number c2">-1.32%</span>
+		<span class="number c3">190.7&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_wig_PLPEKAO00016">
+		<a id="tur_wig_PLPEKAO00016" href="/instrument/PLPEKAO00016/pekao" onmouseover="bfl('PLPEKAO00016','/chart_hourly/SmallChart/PLPEKAO00016/110/90','tur_wig')" class="down "
+		>
+		<span class="c1"><b>PEKAO</b></span>
+		<span class="number c2">-1.91%</span>
+		<span class="number c3">141.3&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_wig_PLPZU0000011">
+		<a id="tur_wig_PLPZU0000011" href="/instrument/PLPZU0000011/pzu" onmouseover="bfl('PLPZU0000011','/chart_hourly/SmallChart/PLPZU0000011/110/90','tur_wig')" class="down "
+		>
+		<span class="c1"><b>PZU</b></span>
+		<span class="number c2">-0.73%</span>
+		<span class="number c3">56.4&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_wig_PLPKN0000018">
+		<a id="tur_wig_PLPKN0000018" href="/instrument/PLPKN0000018/pknorlen" onmouseover="bfl('PLPKN0000018','/chart_hourly/SmallChart/PLPKN0000018/110/90','tur_wig')" class="down "
+		>
+		<span class="c1"><b>PKNORLEN</b></span>
+		<span class="number c2">-1.79%</span>
+		<span class="number c3">26.5&nbsp;mln</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/WIG?sort=[10,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLPKN0000018/pknorlen" id="tur_wig_chart_link" ><img id="tur_wig_chart" src="/chart_hourly/SmallChart/PLPKN0000018/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="tur_wig20" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_tur_wig20_PLKGHM000017">
+		<a id="tur_wig20_PLKGHM000017" href="/instrument/PLKGHM000017/kghm" onmouseover="bfl('PLKGHM000017','/chart_hourly/SmallChart/PLKGHM000017/110/90','tur_wig20')" class="down hover"
+		>
+		<span class="c1"><b>KGHM</b></span>
+		<span class="number c2">-0.25%</span>
+		<span class="number c3">280.6&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_wig20_PLPKO0000016">
+		<a id="tur_wig20_PLPKO0000016" href="/instrument/PLPKO0000016/pkobp" onmouseover="bfl('PLPKO0000016','/chart_hourly/SmallChart/PLPKO0000016/110/90','tur_wig20')" class="down "
+		>
+		<span class="c1"><b>PKOBP</b></span>
+		<span class="number c2">-1.32%</span>
+		<span class="number c3">190.7&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_wig20_PLPEKAO00016">
+		<a id="tur_wig20_PLPEKAO00016" href="/instrument/PLPEKAO00016/pekao" onmouseover="bfl('PLPEKAO00016','/chart_hourly/SmallChart/PLPEKAO00016/110/90','tur_wig20')" class="down "
+		>
+		<span class="c1"><b>PEKAO</b></span>
+		<span class="number c2">-1.91%</span>
+		<span class="number c3">141.3&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_wig20_PLPZU0000011">
+		<a id="tur_wig20_PLPZU0000011" href="/instrument/PLPZU0000011/pzu" onmouseover="bfl('PLPZU0000011','/chart_hourly/SmallChart/PLPZU0000011/110/90','tur_wig20')" class="down "
+		>
+		<span class="c1"><b>PZU</b></span>
+		<span class="number c2">-0.73%</span>
+		<span class="number c3">56.4&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_wig20_PLPKN0000018">
+		<a id="tur_wig20_PLPKN0000018" href="/instrument/PLPKN0000018/pknorlen" onmouseover="bfl('PLPKN0000018','/chart_hourly/SmallChart/PLPKN0000018/110/90','tur_wig20')" class="down "
+		>
+		<span class="c1"><b>PKNORLEN</b></span>
+		<span class="number c2">-1.79%</span>
+		<span class="number c3">26.5&nbsp;mln</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/WIG20?sort=[10,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLPKN0000018/pknorlen" id="tur_wig20_chart_link" ><img id="tur_wig20_chart" src="/chart_hourly/SmallChart/PLPKN0000018/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="tur_mwig" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_tur_mwig_PLVENTS00019">
+		<a id="tur_mwig_PLVENTS00019" href="/instrument/PLVENTS00019/hawe" onmouseover="bfl('PLVENTS00019','/chart_hourly/SmallChart/PLVENTS00019/110/90','tur_mwig')" class="down hover"
+		>
+		<span class="c1"><b>HAWE</b></span>
+		<span class="number c2">-6.95%</span>
+		<span class="number c3">8.6&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_mwig_PLNFI0900014">
+		<a id="tur_mwig_PLNFI0900014" href="/instrument/PLNFI0900014/midas" onmouseover="bfl('PLNFI0900014','/chart_hourly/SmallChart/PLNFI0900014/110/90','tur_mwig')" class="down "
+		>
+		<span class="c1"><b>MIDAS</b></span>
+		<span class="number c2">-2.44%</span>
+		<span class="number c3">6.4&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_mwig_PLALIOR00045">
+		<a id="tur_mwig_PLALIOR00045" href="/instrument/PLALIOR00045/alior" onmouseover="bfl('PLALIOR00045','/chart_hourly/SmallChart/PLALIOR00045/110/90','tur_mwig')" class="down "
+		>
+		<span class="c1"><b>ALIOR</b></span>
+		<span class="number c2">-1.33%</span>
+		<span class="number c3">5.8&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_mwig_PLLPP0000011">
+		<a id="tur_mwig_PLLPP0000011" href="/instrument/PLLPP0000011/lpp" onmouseover="bfl('PLLPP0000011','/chart_hourly/SmallChart/PLLPP0000011/110/90','tur_mwig')" class="up "
+		>
+		<span class="c1"><b>LPP</b></span>
+		<span class="number c2">+0.18%</span>
+		<span class="number c3">4.9&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_mwig_PLMSTSD00019">
+		<a id="tur_mwig_PLMSTSD00019" href="/instrument/PLMSTSD00019/polimexms" onmouseover="bfl('PLMSTSD00019','/chart_hourly/SmallChart/PLMSTSD00019/110/90','tur_mwig')" class="down "
+		>
+		<span class="c1"><b>POLIMEXMS</b></span>
+		<span class="number c2">-10.87%</span>
+		<span class="number c3">4.7&nbsp;mln</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/mWIG40?sort=[10,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLMSTSD00019/polimexms" id="tur_mwig_chart_link" ><img id="tur_mwig_chart" src="/chart_hourly/SmallChart/PLMSTSD00019/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="tur_swig" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_tur_swig_PLFRMCL00066">
+		<a id="tur_swig_PLFRMCL00066" href="/instrument/PLFRMCL00066/farmacol" onmouseover="bfl('PLFRMCL00066','/chart_hourly/SmallChart/PLFRMCL00066/110/90','tur_swig')" class="up hover"
+		>
+		<span class="c1"><b>FARMACOL</b></span>
+		<span class="number c2">+6.02%</span>
+		<span class="number c3">7.4&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_swig_PLGANT000014">
+		<a id="tur_swig_PLGANT000014" href="/instrument/PLGANT000014/gant" onmouseover="bfl('PLGANT000014','/chart_hourly/SmallChart/PLGANT000014/110/90','tur_swig')" class="down "
+		>
+		<span class="c1"><b>GANT</b></span>
+		<span class="number c2">-20.24%</span>
+		<span class="number c3">5.5&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_swig_PLMEDCS00015">
+		<a id="tur_swig_PLMEDCS00015" href="/instrument/PLMEDCS00015/pelion" onmouseover="bfl('PLMEDCS00015','/chart_hourly/SmallChart/PLMEDCS00015/110/90','tur_swig')" class="up "
+		>
+		<span class="c1"><b>PELION</b></span>
+		<span class="number c2">+6.28%</span>
+		<span class="number c3">3.4&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_swig_PLRAFAK00018">
+		<a id="tur_swig_PLRAFAK00018" href="/instrument/PLRAFAK00018/rafako" onmouseover="bfl('PLRAFAK00018','/chart_hourly/SmallChart/PLRAFAK00018/110/90','tur_swig')" class="down "
+		>
+		<span class="c1"><b>RAFAKO</b></span>
+		<span class="number c2">-20.14%</span>
+		<span class="number c3">2.8&nbsp;mln</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_swig_PLBRSTM00015">
+		<a id="tur_swig_PLBRSTM00015" href="/instrument/PLBRSTM00015/calatrava" onmouseover="bfl('PLBRSTM00015','/chart_hourly/SmallChart/PLBRSTM00015/110/90','tur_swig')" class="down "
+		>
+		<span class="c1"><b>CALATRAVA</b></span>
+		<span class="number c2">-6.25%</span>
+		<span class="number c3">2.6&nbsp;mln</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/sWIG80?sort=[10,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLBRSTM00015/calatrava" id="tur_swig_chart_link" ><img id="tur_swig_chart" src="/chart_hourly/SmallChart/PLBRSTM00015/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+</div><!-- / .body -->
+</div><!-- / .charter -->
+
+
+
+<div class="charter">
+<div class="head">
+<h1><a href="/stocktable/NCIndex">New Connect</a> <small></small></h1>
+<ul class="tabs">
+	<li><a href="#ris_nc" onclick="pbtools.apreload(images_cache['ris_nc']);"><span>wzrosty</span></a></li>
+	
+	
+	<li><a href="#fal_nc" onclick="pbtools.apreload(images_cache['fal_nc']);"><span>spadki</span></a></li>
+	
+	
+	<li><a href="#tur_nc" onclick="pbtools.apreload(images_cache['tur_nc']);"><span>obroty</span></a></li>
+	
+	
+</ul>
+</div><!-- /.head -->
+<div class="body">
+
+	
+	<div id="ris_nc" class="box" >
+	<ul class="left">
+		
+		<li	id="_ris_nc_PLHOTB000011">
+		<a id="ris_nc_PLHOTB000011" href="/instrument/PLHOTB000011/hotblok" onmouseover="bfl('PLHOTB000011','/chart_hourly/SmallChart/PLHOTB000011/110/90','ris_nc')" class="up hover"
+		>
+		<span class="c1"><b>HOTBLOK</b></span>
+		<span class="number c2">0.05</span>
+		<span class="number c3">+25.00%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_nc_PLINSAG00011">
+		<a id="ris_nc_PLINSAG00011" href="/instrument/PLINSAG00011/isiag" onmouseover="bfl('PLINSAG00011','/chart_hourly/SmallChart/PLINSAG00011/110/90','ris_nc')" class="up "
+		>
+		<span class="c1"><b>ISIAG</b></span>
+		<span class="number c2">1.20</span>
+		<span class="number c3">+20.00%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_nc_PLSFD0000013">
+		<a id="ris_nc_PLSFD0000013" href="/instrument/PLSFD0000013/sfd" onmouseover="bfl('PLSFD0000013','/chart_hourly/SmallChart/PLSFD0000013/110/90','ris_nc')" class="up "
+		>
+		<span class="c1"><b>SFD</b></span>
+		<span class="number c2">0.32</span>
+		<span class="number c3">+18.52%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_nc_PLEZOSA00018">
+		<a id="ris_nc_PLEZOSA00018" href="/instrument/PLEZOSA00018/ezo" onmouseover="bfl('PLEZOSA00018','/chart_hourly/SmallChart/PLEZOSA00018/110/90','ris_nc')" class="up "
+		>
+		<span class="c1"><b>EZO</b></span>
+		<span class="number c2">3.49</span>
+		<span class="number c3">+16.72%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_nc_PLIZBLK00010">
+		<a id="ris_nc_PLIZBLK00010" href="/instrument/PLIZBLK00010/izoblok" onmouseover="bfl('PLIZBLK00010','/chart_hourly/SmallChart/PLIZBLK00010/110/90','ris_nc')" class="up "
+		>
+		<span class="c1"><b>IZOBLOK</b></span>
+		<span class="number c2">27.70</span>
+		<span class="number c3">+14.94%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/NCIndex?sort=[3,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLIZBLK00010/izoblok" id="ris_nc_chart_link" ><img id="ris_nc_chart" src="/chart_hourly/SmallChart/PLIZBLK00010/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="fal_nc" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_fal_nc_PLCCS0000012">
+		<a id="fal_nc_PLCCS0000012" href="/instrument/PLCCS0000012/ccs" onmouseover="bfl('PLCCS0000012','/chart_hourly/SmallChart/PLCCS0000012/110/90','fal_nc')" class="down hover"
+		>
+		<span class="c1"><b>CCS</b></span>
+		<span class="number c2">1.00</span>
+		<span class="number c3">-19.35%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_nc_PLIAI0000014">
+		<a id="fal_nc_PLIAI0000014" href="/instrument/PLIAI0000014/iai" onmouseover="bfl('PLIAI0000014','/chart_hourly/SmallChart/PLIAI0000014/110/90','fal_nc')" class="down "
+		>
+		<span class="c1"><b>IAI</b></span>
+		<span class="number c2">1.80</span>
+		<span class="number c3">-18.55%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_nc_PLSMSKH00019">
+		<a id="fal_nc_PLSMSKH00019" href="/instrument/PLSMSKH00019/smskredyt" onmouseover="bfl('PLSMSKH00019','/chart_hourly/SmallChart/PLSMSKH00019/110/90','fal_nc')" class="down "
+		>
+		<span class="c1"><b>SMSKREDYT</b></span>
+		<span class="number c2">1.17</span>
+		<span class="number c3">-16.43%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_nc_PLORION00018">
+		<a id="fal_nc_PLORION00018" href="/instrument/PLORION00018/orioninv" onmouseover="bfl('PLORION00018','/chart_hourly/SmallChart/PLORION00018/110/90','fal_nc')" class="down "
+		>
+		<span class="c1"><b>ORIONINV</b></span>
+		<span class="number c2">14.35</span>
+		<span class="number c3">-15.59%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_nc_PLBGE0000015">
+		<a id="fal_nc_PLBGE0000015" href="/instrument/PLBGE0000015/bge" onmouseover="bfl('PLBGE0000015','/chart_hourly/SmallChart/PLBGE0000015/110/90','fal_nc')" class="down "
+		>
+		<span class="c1"><b>BGE</b></span>
+		<span class="number c2">0.55</span>
+		<span class="number c3">-15.38%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/NCIndex?sort=[3,0]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLBGE0000015/bge" id="fal_nc_chart_link" ><img id="fal_nc_chart" src="/chart_hourly/SmallChart/PLBGE0000015/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="tur_nc" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_tur_nc_PLDEPND00017">
+		<a id="tur_nc_PLDEPND00017" href="/instrument/PLDEPND00017/depend" onmouseover="bfl('PLDEPND00017','/chart_hourly/SmallChart/PLDEPND00017/110/90','tur_nc')" class="down hover"
+		>
+		<span class="c1"><b>DEPEND</b></span>
+		<span class="number c2">-11.76%</span>
+		<span class="number c3">182.6&nbsp;tys.</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_nc_PLZWG0000016">
+		<a id="tur_nc_PLZWG0000016" href="/instrument/PLZWG0000016/zwg" onmouseover="bfl('PLZWG0000016','/chart_hourly/SmallChart/PLZWG0000016/110/90','tur_nc')" class="down "
+		>
+		<span class="c1"><b>ZWG</b></span>
+		<span class="number c2">-2.08%</span>
+		<span class="number c3">169.7&nbsp;tys.</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_nc_PLLGLSR00013">
+		<a id="tur_nc_PLLGLSR00013" href="/instrument/PLLGLSR00013/premetinv" onmouseover="bfl('PLLGLSR00013','/chart_hourly/SmallChart/PLLGLSR00013/110/90','tur_nc')" class="down "
+		>
+		<span class="c1"><b>PREMETINV</b></span>
+		<span class="number c2">-4.84%</span>
+		<span class="number c3">123.9&nbsp;tys.</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_nc_PLVVDGM00014">
+		<a id="tur_nc_PLVVDGM00014" href="/instrument/PLVVDGM00014/vivid" onmouseover="bfl('PLVVDGM00014','/chart_hourly/SmallChart/PLVVDGM00014/110/90','tur_nc')" class="up "
+		>
+		<span class="c1"><b>VIVID</b></span>
+		<span class="number c2">+9.33%</span>
+		<span class="number c3">116.3&nbsp;tys.</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_nc_PLVEDIA00011">
+		<a id="tur_nc_PLVEDIA00011" href="/instrument/PLVEDIA00011/vedia" onmouseover="bfl('PLVEDIA00011','/chart_hourly/SmallChart/PLVEDIA00011/110/90','tur_nc')" class="up "
+		>
+		<span class="c1"><b>VEDIA</b></span>
+		<span class="number c2">+6.35%</span>
+		<span class="number c3">113.4&nbsp;tys.</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/NCIndex?sort=[10,1]"><img src="/img/nurse.gif" alt=""   /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PLVEDIA00011/vedia" id="tur_nc_chart_link" ><img id="tur_nc_chart" src="/chart_hourly/SmallChart/PLVEDIA00011/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+</div><!-- / .body -->
+</div><!-- / .charter -->
+
+<div style="width: 300px; margin: 20px auto;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0444287293673271";
+/* Notowania - główna */
+google_ad_slot = "4143574254";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+  $(".tabs").tabs({ fx: { opacity: 'toggle' } });
+});
+// IMAGES CACHE
+images_cache = {}
+images_cache['tur_nc'] = '/chart_hourly/SmallChart/PLDEPND00017/110/90,/chart_hourly/SmallChart/PLZWG0000016/110/90,/chart_hourly/SmallChart/PLLGLSR00013/110/90,/chart_hourly/SmallChart/PLVVDGM00014/110/90,/chart_hourly/SmallChart/PLVEDIA00011/110/90'.split(',');
+images_cache['fal_wig'] = '/chart_hourly/SmallChart/PLMSTWS00019/110/90,/chart_hourly/SmallChart/PLGANT000014/110/90,/chart_hourly/SmallChart/PLRAFAK00018/110/90,/chart_hourly/SmallChart/PLCNTZP00010/110/90,/chart_hourly/SmallChart/PLEFH0000022/110/90'.split(',');
+images_cache['ris_nc'] = '/chart_hourly/SmallChart/PLHOTB000011/110/90,/chart_hourly/SmallChart/PLINSAG00011/110/90,/chart_hourly/SmallChart/PLSFD0000013/110/90,/chart_hourly/SmallChart/PLEZOSA00018/110/90,/chart_hourly/SmallChart/PLIZBLK00010/110/90'.split(',');
+images_cache['fal_swig'] = '/chart_hourly/SmallChart/PLMSTWS00019/110/90,/chart_hourly/SmallChart/PLGANT000014/110/90,/chart_hourly/SmallChart/PLRAFAK00018/110/90,/chart_hourly/SmallChart/PLEFH0000022/110/90,/chart_hourly/SmallChart/PLTRKPL00014/110/90'.split(',');
+images_cache['fal_wig20'] = '/chart_hourly/SmallChart/PLDWORY00019/110/90,/chart_hourly/SmallChart/PLSOFTB00016/110/90,/chart_hourly/SmallChart/PLBRSZW00011/110/90,/chart_hourly/SmallChart/PLPEKAO00016/110/90,/chart_hourly/SmallChart/PLPKN0000018/110/90'.split(',');
+images_cache['tur_swig'] = '/chart_hourly/SmallChart/PLFRMCL00066/110/90,/chart_hourly/SmallChart/PLGANT000014/110/90,/chart_hourly/SmallChart/PLMEDCS00015/110/90,/chart_hourly/SmallChart/PLRAFAK00018/110/90,/chart_hourly/SmallChart/PLBRSTM00015/110/90'.split(',');
+images_cache['fal_nc'] = '/chart_hourly/SmallChart/PLCCS0000012/110/90,/chart_hourly/SmallChart/PLIAI0000014/110/90,/chart_hourly/SmallChart/PLSMSKH00019/110/90,/chart_hourly/SmallChart/PLORION00018/110/90,/chart_hourly/SmallChart/PLBGE0000015/110/90'.split(',');
+images_cache['tur_mwig'] = '/chart_hourly/SmallChart/PLVENTS00019/110/90,/chart_hourly/SmallChart/PLNFI0900014/110/90,/chart_hourly/SmallChart/PLALIOR00045/110/90,/chart_hourly/SmallChart/PLLPP0000011/110/90,/chart_hourly/SmallChart/PLMSTSD00019/110/90'.split(',');
+images_cache['tur_wig'] = '/chart_hourly/SmallChart/PLKGHM000017/110/90,/chart_hourly/SmallChart/PLPKO0000016/110/90,/chart_hourly/SmallChart/PLPEKAO00016/110/90,/chart_hourly/SmallChart/PLPZU0000011/110/90,/chart_hourly/SmallChart/PLPKN0000018/110/90'.split(',');
+images_cache['win_mwig'] = '/chart_hourly/SmallChart/PLNETIA00014/110/90,/chart_hourly/SmallChart/PLTVN0000017/110/90,/chart_hourly/SmallChart/PLLPP0000011/110/90,/chart_hourly/SmallChart/PLZATRM00012/110/90,/chart_hourly/SmallChart/PLBIOTN00029/110/90'.split(',');
+images_cache['tur_wig20'] = '/chart_hourly/SmallChart/PLKGHM000017/110/90,/chart_hourly/SmallChart/PLPKO0000016/110/90,/chart_hourly/SmallChart/PLPEKAO00016/110/90,/chart_hourly/SmallChart/PLPZU0000011/110/90,/chart_hourly/SmallChart/PLPKN0000018/110/90'.split(',');
+images_cache['win_wig20'] = '/chart_hourly/SmallChart/LU0327357389/110/90,/chart_hourly/SmallChart/PLLWBGD00016/110/90,/chart_hourly/SmallChart/PLEURCH00011/110/90,/chart_hourly/SmallChart/PLKGHM000017/110/90,/chart_hourly/SmallChart/PLBH00000012/110/90'.split(',');
+images_cache['fal_mwig'] = '/chart_hourly/SmallChart/PLMSTSD00019/110/90,/chart_hourly/SmallChart/US1534351028/110/90,/chart_hourly/SmallChart/PLAGORA00067/110/90,/chart_hourly/SmallChart/PLVENTS00019/110/90,/chart_hourly/SmallChart/PLGRBRN00012/110/90'.split(',');
+images_cache['win_swig'] = '/chart_hourly/SmallChart/PLMEDCS00015/110/90,/chart_hourly/SmallChart/PLFRMCL00066/110/90,/chart_hourly/SmallChart/PLPMWRM00012/110/90,/chart_hourly/SmallChart/PLATMSA00013/110/90,/chart_hourly/SmallChart/PLEKEP000019/110/90'.split(',');
+images_cache['win_wig'] = '/chart_hourly/SmallChart/PLTRAST00020/110/90,/chart_hourly/SmallChart/FR0000060873/110/90,/chart_hourly/SmallChart/PLNFI0700018/110/90,/chart_hourly/SmallChart/PLYAWAL00058/110/90,/chart_hourly/SmallChart/LU0275164910/110/90'.split(',');
+
+// preloading visible tabs
+pbtools.apreload(images_cache['win_wig']);
+pbtools.apreload(images_cache['fal_wig']);
+pbtools.apreload(images_cache['tur_wig']);
+pbtools.apreload(images_cache['ris_nc']);
+</script>
+
+<p>Notowania GPW dostarcza <a href="http://www.notoria.pl" target="_blank">Notoria</a></p>
+<p style="font-weight: bold; color: #50A8CE; clear: both; "><a href="/stocktable/01A,ND" style="color: inherit; ">Pełna tabela notowań GPW&raquo;</a></p>
+<script src="http://doradca.pb.pl/widget/?id_widget=172" frameborder="0"></script>
+
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

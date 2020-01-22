@@ -1,0 +1,1333 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Giełda i inwestycje: Księgarnia Bankier.pl</title>
+	<meta name="description" content="Księgarnia bankier.pl - książki dla biznesu i nie tylko."/>
+	<link rel="shortcut icon" href="http://www.bankier.pl/favicon.ico" type="image/x-icon"/>
+	<link href="/s/style.css?v=7" rel="stylesheet" type="text/css" media="screen"/>
+    <script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+    <noscript>
+        <div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+            text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+            text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+            <div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+                Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+                z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+                Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+            </div>
+        </div>
+    </noscript>
+
+
+
+	
+	
+	<!-- (C)2000-2009 Gemius SA - gemiusTraffic / ver 11.1 / ksiegarnia_pozostale --> 
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var gemius_identifier = new String('AkTrsutX7HoCGwslBuULPsRpLVVKKmbNbDo489YWyfv.k7');
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://www.bankier.pl/inc/js/gemius.js"></script>
+	
+	
+	
+	<!-- (C) 2000-2009 Gemius SA - gemiusAudience / ver 11.1 / adnet.bankier / Ksiegarnia-->
+	<script type="text/javascript">
+	 <!--//--><![CDATA[//><!--
+	var pp_gemius_identifier ='za01ZONWwSNq9wS8lPPx4reOLd_kNOcSlGWIIc19ul7.F7';
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://arbo.hit.gemius.pl/xgemius.js"></script>
+
+
+</head>
+<body id="bn_lifestyle">
+
+<link href="http://s01.bankier.pl/s/ksiegarnia.css" rel="stylesheet" type="text/css" />
+
+<div id="bn_header" style="position: relative; z-index: 100; height:120px;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Fcontent%2Fksiegarnia%2Fheader_new.html" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/bankiertv-index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li class="selected"><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+
+
+
+<div id="ksiegarnia">
+	<div id="content">
+		<div id="search">
+			<div class="top"></div>
+			<form action="/szukaj/">
+				<div>
+					Szukaj:
+					<input name="q" size="30"/>
+					<input type="submit" value="szukaj" />
+				</div>
+			</form>
+			<div class="bottom"></div>
+		</div>
+		
+
+
+
+
+
+
+<p class="lead">Wiosenne porządki na Onepress.pl [20% rabatu na całą ofertę]</p>
+
+
+
+
+<div class="box">
+	<div class="pre-title"></div><div class="box-title">Giełda i inwestycje</div><div class="post-title"></div>
+	<div class="content">
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1427/gielda-podstawy-inwestowania-wydanie-kieszonkowe.html">
+			<img class="cover" src="/s/cover/small/1427.jpg" alt="Giełda. Podstawy inwestowania. Wydanie kieszonkowe"/>
+		</a>
+		<a class="boo " href="/ksiazka1427/gielda-podstawy-inwestowania-wydanie-kieszonkowe.html">
+			<span class="title">Giełda. Podstawy inwestowania. Wydanie kieszonkowe</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1062/gielda-podstawy-inwestowania-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1062.jpg" alt="Giełda. Podstawy inwestowania. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1062/gielda-podstawy-inwestowania-wydanie-ii-rozszerzone.html">
+			<span class="title">Giełda. Podstawy inwestowania. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka434/z-kredytem-pod-sufitem-przewodnik-po-kredytach-hipotecznych.html">
+			<img class="cover" src="/s/cover/small/434.jpg" alt="Z kredytem pod sufitem. Przewodnik po kredytach hipotecznych"/>
+		</a>
+		<a class="boo " href="/ksiazka434/z-kredytem-pod-sufitem-przewodnik-po-kredytach-hipotecznych.html">
+			<span class="title">Z kredytem pod sufitem. Przewodnik po kredytach hipotecznych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">14,90&nbsp;zł</span>
+					<span class="promo">11,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka990/i-ty-mozesz-zostac-warrenem-buffettem-czyli-inwestowanie-skoncentrowane-na-gpw.html">
+			<img class="cover" src="/s/cover/small/990.jpg" alt="I Ty możesz zostać Warrenem Buffettem, czyli inwestowanie skoncentrowane na GPW"/>
+		</a>
+		<a class="boo " href="/ksiazka990/i-ty-mozesz-zostac-warrenem-buffettem-czyli-inwestowanie-skoncentrowane-na-gpw.html">
+			<span class="title">I Ty możesz zostać Warrenem Buffettem, czyli inwestowanie skoncentrowane na GPW</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka624/jak-zarobic-na-funduszach-praktyczny-przewodnik-dla-inwestujacych.html">
+			<img class="cover" src="/s/cover/small/624.jpg" alt="Jak zarobić na funduszach. Praktyczny przewodnik dla inwestujących"/>
+		</a>
+		<a class="boo " href="/ksiazka624/jak-zarobic-na-funduszach-praktyczny-przewodnik-dla-inwestujacych.html">
+			<span class="title">Jak zarobić na funduszach. Praktyczny przewodnik dla inwestujących</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34&nbsp;zł</span>
+					<span class="promo">27,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka89/dotacje-na-inwestycje.html">
+			<img class="cover" src="/s/cover/small/89.jpg" alt="Dotacje na inwestycje"/>
+		</a>
+		<a class="boo " href="/ksiazka89/dotacje-na-inwestycje.html">
+			<span class="title">Dotacje na inwestycje</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1821/wojny-walutowe-nadejscie-kolejnego-globalnego-kryzysu.html">
+			<img class="cover" src="/s/cover/small/1821.jpg" alt="Wojny walutowe. Nadejście kolejnego globalnego kryzysu"/>
+		</a>
+		<a class="boo " href="/ksiazka1821/wojny-walutowe-nadejscie-kolejnego-globalnego-kryzysu.html">
+			<span class="title">Wojny walutowe. Nadejście kolejnego globalnego kryzysu</span>
+		</a>
+			<span class="author">James Rickards</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1742/analiza-techniczna-dla-bystrzakow.html">
+			<img class="cover" src="/s/cover/small/1742.jpg" alt="Analiza techniczna dla bystrzaków"/>
+		</a>
+		<a class="boo " href="/ksiazka1742/analiza-techniczna-dla-bystrzakow.html">
+			<span class="title">Analiza techniczna dla bystrzaków</span>
+		</a>
+			<span class="author">Barbara Rockefeller</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka987/psychologia-inwestowania-wydanie-iv.html">
+			<img class="cover" src="/s/cover/small/987.jpg" alt="Psychologia inwestowania. Wydanie IV"/>
+		</a>
+		<a class="boo " href="/ksiazka987/psychologia-inwestowania-wydanie-iv.html">
+			<span class="title">Psychologia inwestowania. Wydanie IV</span>
+		</a>
+			<span class="author">John R. Nofsinger</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1347/strategie-inwestycyjne-jak-z-glowa-zarabiac-na-gieldzie.html">
+			<img class="cover" src="/s/cover/small/1347.jpg" alt="Strategie inwestycyjne. Jak z głową zarabiać na giełdzie"/>
+		</a>
+		<a class="boo " href="/ksiazka1347/strategie-inwestycyjne-jak-z-glowa-zarabiac-na-gieldzie.html">
+			<span class="title">Strategie inwestycyjne. Jak z głową zarabiać na giełdzie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka878/pieniadze-lubia-zarabiac-podrecznik-skutecznego-inwestora.html">
+			<img class="cover" src="/s/cover/small/878.jpg" alt="Pieniądze lubią zarabiać. Podręcznik skutecznego inwestora"/>
+		</a>
+		<a class="boo " href="/ksiazka878/pieniadze-lubia-zarabiac-podrecznik-skutecznego-inwestora.html">
+			<span class="title">Pieniądze lubią zarabiać. Podręcznik skutecznego inwestora</span>
+		</a>
+			<span class="author">Mark Shipman</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka865/gielda-papierow-wartosciowych-poradnik-bez-kantow.html">
+			<img class="cover" src="/s/cover/small/865.jpg" alt="Giełda papierów wartościowych. Poradnik bez kantów"/>
+		</a>
+		<a class="boo " href="/ksiazka865/gielda-papierow-wartosciowych-poradnik-bez-kantow.html">
+			<span class="title">Giełda papierów wartościowych. Poradnik bez kantów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1903/jak-zarobic-na-funduszach-praktyczny-przewodnik-dla-inwestujacych.html">
+			<img class="cover" src="/s/cover/small/1903.jpg" alt="Jak zarobić na funduszach. Praktyczny przewodnik dla inwestujących"/>
+		</a>
+		<a class="boo " href="/ksiazka1903/jak-zarobic-na-funduszach-praktyczny-przewodnik-dla-inwestujacych.html">
+			<span class="title">Jak zarobić na funduszach. Praktyczny przewodnik dla inwestujących</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka56/jak-zarobilem-2-000-000-na-gieldzie.html">
+			<img class="cover" src="/s/cover/small/56.jpg" alt="Jak zarobiłem 2 000 000 $ na giełdzie"/>
+		</a>
+		<a class="boo " href="/ksiazka56/jak-zarobilem-2-000-000-na-gieldzie.html">
+			<span class="title">Jak zarobiłem 2 000 000 $ na giełdzie</span>
+		</a>
+			<span class="author">Nicolas Darvas</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1378/pieniadze-leza-na-parkiecie-gielda-dla-niepokornych.html">
+			<img class="cover" src="/s/cover/small/1378.jpg" alt="Pieniądze leżą na parkiecie. Giełda dla niepokornych"/>
+		</a>
+		<a class="boo " href="/ksiazka1378/pieniadze-leza-na-parkiecie-gielda-dla-niepokornych.html">
+			<span class="title">Pieniądze leżą na parkiecie. Giełda dla niepokornych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka154/inwestycje-zagraniczne-jak-wejsc-na-polski-rynek-z-obcym-kapitalem.html">
+			<img class="cover" src="/s/cover/small/154.jpg" alt="Inwestycje zagraniczne. Jak wejść na polski rynek z obcym kapitałem"/>
+		</a>
+		<a class="boo " href="/ksiazka154/inwestycje-zagraniczne-jak-wejsc-na-polski-rynek-z-obcym-kapitalem.html">
+			<span class="title">Inwestycje zagraniczne. Jak wejść na polski rynek z obcym kapitałem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka737/produkty-strukturyzowane-inwestycje-nowych-czasow.html">
+			<img class="cover" src="/s/cover/small/737.jpg" alt="Produkty strukturyzowane - inwestycje nowych czasów"/>
+		</a>
+		<a class="boo " href="/ksiazka737/produkty-strukturyzowane-inwestycje-nowych-czasow.html">
+			<span class="title">Produkty strukturyzowane - inwestycje nowych czasów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka418/reguly-gieldy-zelazne-zasady-najwiekszych-inwestorow.html">
+			<img class="cover" src="/s/cover/small/418.jpg" alt="Reguły giełdy. Żelazne zasady największych inwestorów"/>
+		</a>
+		<a class="boo " href="/ksiazka418/reguly-gieldy-zelazne-zasady-najwiekszych-inwestorow.html">
+			<span class="title">Reguły giełdy. Żelazne zasady największych inwestorów</span>
+		</a>
+			<span class="author">John Mauldin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka978/inwestycje-alternatywne-pierwsze-kroki-na-rynku-pozagieldowym.html">
+			<img class="cover" src="/s/cover/small/978.jpg" alt="Inwestycje alternatywne. Pierwsze kroki na rynku pozagiełdowym"/>
+		</a>
+		<a class="boo " href="/ksiazka978/inwestycje-alternatywne-pierwsze-kroki-na-rynku-pozagieldowym.html">
+			<span class="title">Inwestycje alternatywne. Pierwsze kroki na rynku pozagiełdowym</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1565/wycena-minipodrecznik-dla-inwestorow-gieldowych.html">
+			<img class="cover" src="/s/cover/small/1565.jpg" alt="Wycena. Minipodręcznik dla inwestorów giełdowych"/>
+		</a>
+		<a class="boo " href="/ksiazka1565/wycena-minipodrecznik-dla-inwestorow-gieldowych.html">
+			<span class="title">Wycena. Minipodręcznik dla inwestorów giełdowych</span>
+		</a>
+			<span class="author">Aswath Damodaran</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1772/10-fundamentalnych-zasad-gry-na-rynku-forex-strategie-osiagania-zysku.html">
+			<img class="cover" src="/s/cover/small/1772.jpg" alt="10 fundamentalnych zasad gry na rynku Forex. Strategie osiągania zysku"/>
+		</a>
+		<a class="boo " href="/ksiazka1772/10-fundamentalnych-zasad-gry-na-rynku-forex-strategie-osiagania-zysku.html">
+			<span class="title">10 fundamentalnych zasad gry na rynku Forex. Strategie osiągania zysku</span>
+		</a>
+			<span class="author">Jared Martinez</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1336/swiadomy-inwestor-odkrywanie-ukrytego-potencjalu-spolki.html">
+			<img class="cover" src="/s/cover/small/1336.jpg" alt="Świadomy inwestor. Odkrywanie ukrytego potencjału spółki"/>
+		</a>
+		<a class="boo " href="/ksiazka1336/swiadomy-inwestor-odkrywanie-ukrytego-potencjalu-spolki.html">
+			<span class="title">Świadomy inwestor. Odkrywanie ukrytego potencjału spółki</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1613/forex-wylacz-emocje-wlacz-zyski-przewodnik-swiadomego-inwestora.html">
+			<img class="cover" src="/s/cover/small/1613.jpg" alt="FOREX - wyłącz emocje, włącz zyski. Przewodnik świadomego inwestora"/>
+		</a>
+		<a class="boo " href="/ksiazka1613/forex-wylacz-emocje-wlacz-zyski-przewodnik-swiadomego-inwestora.html">
+			<span class="title">FOREX - wyłącz emocje, włącz zyski. Przewodnik świadomego inwestora</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1271/forex-dla-bystrzakow.html">
+			<img class="cover" src="/s/cover/small/1271.jpg" alt="FOREX dla bystrzaków"/>
+		</a>
+		<a class="boo " href="/ksiazka1271/forex-dla-bystrzakow.html">
+			<span class="title">FOREX dla bystrzaków</span>
+		</a>
+			<span class="author">Brian Dolan, Mark Galant</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1911/forex-dla-bystrzakow-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1911.jpg" alt="FOREX dla bystrzaków. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1911/forex-dla-bystrzakow-wydanie-ii.html">
+			<span class="title">FOREX dla bystrzaków. Wydanie II</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1766/forex-w-praktyce-vademecum-inwestora-walutowego-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1766.jpg" alt="Forex w praktyce. Vademecum inwestora walutowego. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1766/forex-w-praktyce-vademecum-inwestora-walutowego-wydanie-ii-rozszerzone.html">
+			<span class="title">Forex w praktyce. Vademecum inwestora walutowego. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">77&nbsp;zł</span>
+					<span class="promo">61,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka809/forex-w-praktyce-vademecum-inwestora-walutowego-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/809.jpg" alt="Forex w praktyce. Vademecum inwestora walutowego. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka809/forex-w-praktyce-vademecum-inwestora-walutowego-wydanie-ii-rozszerzone.html">
+			<span class="title">Forex w praktyce. Vademecum inwestora walutowego. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					69&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1946/newconnect-nowa-szansa-na-duze-zyski-wydanie-ii-zaktualizowane.html">
+			<img class="cover" src="/s/cover/small/1946.jpg" alt="NewConnect - nowa szansa na duże zyski. Wydanie II zaktualizowane"/>
+		</a>
+		<a class="boo " href="/ksiazka1946/newconnect-nowa-szansa-na-duze-zyski-wydanie-ii-zaktualizowane.html">
+			<span class="title">NewConnect - nowa szansa na duże zyski. Wydanie II zaktualizowane</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1973/wojny-walutowe-nadejscie-kolejnego-globalnego-kryzysu.html">
+			<img class="cover" src="/s/cover/small/1973.jpg" alt="Wojny walutowe. Nadejście kolejnego globalnego kryzysu"/>
+		</a>
+		<a class="boo " href="/ksiazka1973/wojny-walutowe-nadejscie-kolejnego-globalnego-kryzysu.html">
+			<span class="title">Wojny walutowe. Nadejście kolejnego globalnego kryzysu</span>
+		</a>
+			<span class="author">James Rickards</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka651/inwestycje-gieldowe-szanse-i-pulapki-przewodnik-inwestora.html">
+			<img class="cover" src="/s/cover/small/651.jpg" alt="Inwestycje giełdowe. Szanse i pułapki. Przewodnik inwestora "/>
+		</a>
+		<a class="boo " href="/ksiazka651/inwestycje-gieldowe-szanse-i-pulapki-przewodnik-inwestora.html">
+			<span class="title">Inwestycje giełdowe. Szanse i pułapki. Przewodnik inwestora </span>
+		</a>
+			<span class="author">Henry Blodget</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka357/wikipedia.html">
+			<img class="cover" src="/s/cover/small/357.jpg" alt="Wikipedia"/>
+		</a>
+		<a class="boo " href="/ksiazka357/wikipedia.html">
+			<span class="title">Wikipedia</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2053/forex-dla-bystrzakow-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/2053.jpg" alt="FOREX dla bystrzaków. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka2053/forex-dla-bystrzakow-wydanie-ii.html">
+			<span class="title">FOREX dla bystrzaków. Wydanie II</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka423/inwestycyjny-boom-sila-spokoju-i-madrej-strategii.html">
+			<img class="cover" src="/s/cover/small/423.jpg" alt="Inwestycyjny boom. Siła spokoju i mądrej strategii"/>
+		</a>
+		<a class="boo " href="/ksiazka423/inwestycyjny-boom-sila-spokoju-i-madrej-strategii.html">
+			<span class="title">Inwestycyjny boom. Siła spokoju i mądrej strategii</span>
+		</a>
+			<span class="author">Mark Shipman</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1536/inwestowanie-w-oparciu-o-analize-wolumenu.html">
+			<img class="cover" src="/s/cover/small/1536.jpg" alt="Inwestowanie w oparciu o analizę wolumenu"/>
+		</a>
+		<a class="boo " href="/ksiazka1536/inwestowanie-w-oparciu-o-analize-wolumenu.html">
+			<span class="title">Inwestowanie w oparciu o analizę wolumenu</span>
+		</a>
+			<span class="author">Buff Pelz Dormeier</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka612/oswoic-besse-czyli-inwestowanie-na-rynku-niedzwiedzia.html">
+			<img class="cover" src="/s/cover/small/612.jpg" alt="Oswoić bessę, czyli inwestowanie na rynku niedźwiedzia "/>
+		</a>
+		<a class="boo " href="/ksiazka612/oswoic-besse-czyli-inwestowanie-na-rynku-niedzwiedzia.html">
+			<span class="title">Oswoić bessę, czyli inwestowanie na rynku niedźwiedzia </span>
+		</a>
+			<span class="author">Kenneth E. Little</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">67&nbsp;zł</span>
+					<span class="promo">53,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka136/otwarte-fundusze-inwestycyjne-zasady-sa-proste.html">
+			<img class="cover" src="/s/cover/small/136.jpg" alt="Otwarte fundusze inwestycyjne. Zasady są proste"/>
+		</a>
+		<a class="boo " href="/ksiazka136/otwarte-fundusze-inwestycyjne-zasady-sa-proste.html">
+			<span class="title">Otwarte fundusze inwestycyjne. Zasady są proste</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">77&nbsp;zł</span>
+					<span class="promo">61,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1689/inwestycje-gieldowe-jak-grac-i-wygrywac-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1689.jpg" alt="Inwestycje giełdowe. Jak grać i wygrywać. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1689/inwestycje-gieldowe-jak-grac-i-wygrywac-wydanie-ii-rozszerzone.html">
+			<span class="title">Inwestycje giełdowe. Jak grać i wygrywać. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka810/inwestycje-gieldowe-jak-grac-i-wygrywac-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/810.jpg" alt="Inwestycje giełdowe. Jak grać i wygrywać. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka810/inwestycje-gieldowe-jak-grac-i-wygrywac-wydanie-ii-rozszerzone.html">
+			<span class="title">Inwestycje giełdowe. Jak grać i wygrywać. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1913/analiza-techniczna-dla-bystrzakow.html">
+			<img class="cover" src="/s/cover/small/1913.jpg" alt="Analiza techniczna dla bystrzaków"/>
+		</a>
+		<a class="boo " href="/ksiazka1913/analiza-techniczna-dla-bystrzakow.html">
+			<span class="title">Analiza techniczna dla bystrzaków</span>
+		</a>
+			<span class="author">Barbara Rockefeller</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1615/gielda-papierow-wartosciowych-poradnik-bez-kantow.html">
+			<img class="cover" src="/s/cover/small/1615.jpg" alt="Giełda papierów wartościowych. Poradnik bez kantów"/>
+		</a>
+		<a class="boo " href="/ksiazka1615/gielda-papierow-wartosciowych-poradnik-bez-kantow.html">
+			<span class="title">Giełda papierów wartościowych. Poradnik bez kantów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1650/pieniadze-leza-na-parkiecie-gielda-dla-niepokornych.html">
+			<img class="cover" src="/s/cover/small/1650.jpg" alt="Pieniądze leżą na parkiecie. Giełda dla niepokornych"/>
+		</a>
+		<a class="boo " href="/ksiazka1650/pieniadze-leza-na-parkiecie-gielda-dla-niepokornych.html">
+			<span class="title">Pieniądze leżą na parkiecie. Giełda dla niepokornych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1672/strategie-inwestycyjne-jak-z-glowa-zarabiac-na-gieldzie.html">
+			<img class="cover" src="/s/cover/small/1672.jpg" alt="Strategie inwestycyjne. Jak z głową zarabiać na giełdzie"/>
+		</a>
+		<a class="boo " href="/ksiazka1672/strategie-inwestycyjne-jak-z-glowa-zarabiac-na-gieldzie.html">
+			<span class="title">Strategie inwestycyjne. Jak z głową zarabiać na giełdzie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2059/rozwazny-inwestor-wydanie-ii-zaktualizowane.html">
+			<img class="cover" src="/s/cover/small/2059.jpg" alt="Rozważny inwestor. Wydanie II zaktualizowane"/>
+		</a>
+		<a class="boo " href="/ksiazka2059/rozwazny-inwestor-wydanie-ii-zaktualizowane.html">
+			<span class="title">Rozważny inwestor. Wydanie II zaktualizowane</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2070/swiadomy-inwestor-odkrywanie-ukrytego-potencjalu-spolki.html">
+			<img class="cover" src="/s/cover/small/2070.jpg" alt="Świadomy inwestor. Odkrywanie ukrytego potencjału spółki"/>
+		</a>
+		<a class="boo " href="/ksiazka2070/swiadomy-inwestor-odkrywanie-ukrytego-potencjalu-spolki.html">
+			<span class="title">Świadomy inwestor. Odkrywanie ukrytego potencjału spółki</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1874/wycena-minipodrecznik-dla-inwestorow-gieldowych.html">
+			<img class="cover" src="/s/cover/small/1874.jpg" alt="Wycena. Minipodręcznik dla inwestorów giełdowych"/>
+		</a>
+		<a class="boo " href="/ksiazka1874/wycena-minipodrecznik-dla-inwestorow-gieldowych.html">
+			<span class="title">Wycena. Minipodręcznik dla inwestorów giełdowych</span>
+		</a>
+			<span class="author">Aswath Damodaran</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka262/dotacje-z-unii-europejskiej.html">
+			<img class="cover" src="/s/cover/small/262.jpg" alt="Dotacje z Unii Europejskiej"/>
+		</a>
+		<a class="boo " href="/ksiazka262/dotacje-z-unii-europejskiej.html">
+			<span class="title">Dotacje z Unii Europejskiej</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					69&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2158/gielda-podstawy-inwestowania-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/2158.jpg" alt="Giełda. Podstawy inwestowania. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka2158/gielda-podstawy-inwestowania-wydanie-ii-rozszerzone.html">
+			<span class="title">Giełda. Podstawy inwestowania. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					39,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2037/newconnect-nowa-szansa-na-duze-zyski-wydanie-ii-zaktualizowane.html">
+			<img class="cover" src="/s/cover/small/2037.jpg" alt="NewConnect - nowa szansa na duże zyski. Wydanie II zaktualizowane"/>
+		</a>
+		<a class="boo " href="/ksiazka2037/newconnect-nowa-szansa-na-duze-zyski-wydanie-ii-zaktualizowane.html">
+			<span class="title">NewConnect - nowa szansa na duże zyski. Wydanie II zaktualizowane</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">54,99&nbsp;zł</span>
+					<span class="promo">43,99&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2159/gielda-podstawy-inwestowania-wydanie-kieszonkowe.html">
+			<img class="cover" src="/s/cover/small/2159.jpg" alt="Giełda. Podstawy inwestowania. Wydanie kieszonkowe"/>
+		</a>
+		<a class="boo " href="/ksiazka2159/gielda-podstawy-inwestowania-wydanie-kieszonkowe.html">
+			<span class="title">Giełda. Podstawy inwestowania. Wydanie kieszonkowe</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					19,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1863/twoj-osobisty-fundusz-emerytalny.html">
+			<img class="cover" src="/s/cover/small/1863.jpg" alt="Twój osobisty fundusz emerytalny"/>
+		</a>
+		<a class="boo " href="/ksiazka1863/twoj-osobisty-fundusz-emerytalny.html">
+			<span class="title">Twój osobisty fundusz emerytalny</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1641/newconnect-nowa-szansa-na-duze-zyski.html">
+			<img class="cover" src="/s/cover/small/1641.jpg" alt="NewConnect - nowa szansa na duże zyski"/>
+		</a>
+		<a class="boo " href="/ksiazka1641/newconnect-nowa-szansa-na-duze-zyski.html">
+			<span class="title">NewConnect - nowa szansa na duże zyski</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1688/gielda-podstawy-inwestowania-wydanie-ii-rozszerzone.html">
+			<img class="cover" src="/s/cover/small/1688.jpg" alt="Giełda. Podstawy inwestowania. Wydanie II rozszerzone"/>
+		</a>
+		<a class="boo " href="/ksiazka1688/gielda-podstawy-inwestowania-wydanie-ii-rozszerzone.html">
+			<span class="title">Giełda. Podstawy inwestowania. Wydanie II rozszerzone</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1734/inwestycje-alternatywne-pierwsze-kroki-na-rynku-pozagieldowym.html">
+			<img class="cover" src="/s/cover/small/1734.jpg" alt="Inwestycje alternatywne. Pierwsze kroki na rynku pozagiełdowym"/>
+		</a>
+		<a class="boo " href="/ksiazka1734/inwestycje-alternatywne-pierwsze-kroki-na-rynku-pozagieldowym.html">
+			<span class="title">Inwestycje alternatywne. Pierwsze kroki na rynku pozagiełdowym</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1617/i-ty-mozesz-zostac-warrenem-buffettem-czyli-inwestowanie-skoncentrowane-na-gpw.html">
+			<img class="cover" src="/s/cover/small/1617.jpg" alt="I Ty możesz zostać Warrenem Buffettem, czyli inwestowanie skoncentrowane na GPW"/>
+		</a>
+		<a class="boo " href="/ksiazka1617/i-ty-mozesz-zostac-warrenem-buffettem-czyli-inwestowanie-skoncentrowane-na-gpw.html">
+			<span class="title">I Ty możesz zostać Warrenem Buffettem, czyli inwestowanie skoncentrowane na GPW</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka1737/produkty-strukturyzowane-inwestycje-nowych-czasow.html">
+			<img class="cover" src="/s/cover/small/1737.jpg" alt="Produkty strukturyzowane - inwestycje nowych czasów"/>
+		</a>
+		<a class="boo last" href="/ksiazka1737/produkty-strukturyzowane-inwestycje-nowych-czasow.html">
+			<span class="title">Produkty strukturyzowane - inwestycje nowych czasów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka1960/twoj-osobisty-fundusz-emerytalny.html">
+			<img class="cover" src="/s/cover/small/1960.jpg" alt="Twój osobisty fundusz emerytalny"/>
+		</a>
+		<a class="boo last" href="/ksiazka1960/twoj-osobisty-fundusz-emerytalny.html">
+			<span class="title">Twój osobisty fundusz emerytalny</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+	</div>
+</div>
+
+
+	</div>
+	<div id="menu">
+		<div class="top"></div>
+			
+			
+			<a href="/promocje/">Promocje</a>
+			
+			<a href="/nowosci/">Nowości</a>
+			
+			<a href="/bestsellery/">Bestsellery</a>
+			
+			<a href="/przedsprzedaz/">Przedsprzedaż</a>
+		
+			
+			<a href="/temat12/bizneswoman.html">Bizneswoman</a>
+		
+			
+			<a href="/temat18/controlling.html">Controlling</a>
+		
+			
+			<a href="/temat15/e-biznes.html">E-biznes</a>
+		
+			
+			<a href="/temat22/ebooki.html">eBooki</a>
+		
+			
+			<a href="/temat17/ekonomia.html">Ekonomia</a>
+		
+			
+			<a href="/temat13/finanse.html">Finanse</a>
+		
+			
+			<a href="/temat16/gielda-i-inwestycje.html" class="active">Giełda i inwestycje</a>
+		
+			
+			<a href="/temat8/kompetencje-osobiste.html">Kompetencje osobiste</a>
+		
+			
+			<a href="/temat4/komputer-w-biurze.html">Komputer w biurze</a>
+		
+			
+			<a href="/temat2/komunikacja-i-negocjacje.html">Komunikacja i negocjacje</a>
+		
+			
+			<a href="/temat7/mala-firma.html">Mała firma</a>
+		
+			
+			<a href="/temat6/marketing.html">Marketing</a>
+		
+			
+			<a href="/temat19/multimedialne-szkolenia.html">Multimedialne szkolenia</a>
+		
+			
+			<a href="/temat11/obsluga-klienta.html">Obsługa klienta</a>
+		
+			
+			<a href="/temat20/perswazja-i-nlp.html">Perswazja i NLP</a>
+		
+			
+			<a href="/temat10/przywodztwo.html">Przywództwo</a>
+		
+			
+			<a href="/temat21/public-relations.html">Public Relations</a>
+		
+			
+			<a href="/temat24/sekret.html">Sekret</a>
+		
+			
+			<a href="/temat28/social-media.html">Social Media</a>
+		
+			
+			<a href="/temat1/sprzedaz.html">Sprzedaż</a>
+		
+			
+			<a href="/temat9/twoja-kariera.html">Twoja kariera</a>
+		
+			
+			<a href="/temat5/zarzadzanie.html">Zarządzanie</a>
+		
+			
+			<a href="/temat14/zarzadzanie-projektami.html">Zarządzanie projektami</a>
+		
+			
+			<a href="/temat3/zasoby-ludzkie-hr.html">Zasoby ludzkie (HR)</a>
+		
+		<div class="bottom"></div>
+	</div>
+</div>
+
+
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-325086-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+

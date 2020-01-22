@@ -1,0 +1,567 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+
+<title>Apetyt na Outsourcing, Kalendarium - BiznesPolska.pl</title>
+<meta name="keywords" content="Biznes, BiznesPolska, Polska, B2B, wiadomości, przetargi, komunikaty prasowe, ludzie, Network, zdjecie dnia, krs, firmy, nowe krs, analizy, kalendarium, rankingi, komentarze" />
+<meta name="description" content="BiznesPolska.pl jest wiodącym portalem B2B, który obecnie odnotowuje ok. 14,000 odwiedzających dziennie. Z portalu korzystają przede wszystkim mieszkańcy wszystkich większych miast w Polsce, reprezentujący kadrę zarządzającą wyższego i średniego szczebla. W portalu BiznesPolska.pl znajdują źródło najświeższych informacji prasowych, bazę danych firm (również tych nowo utworzonych), raporty biznesowe oraz kontakt do innych osób świata biznesu." />
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="http://biznespolska.pl/www/css/style-1.css" type="text/css" />
+<link rel="stylesheet" href="http://biznespolska.pl/www/css/style-old.css" type="text/css" />
+<link rel="shortcut icon" href="BiznesPolska.ico" type="image/x-icon" />
+<script src="http://biznespolska.pl/www/js/tiny.ddmenu.js" type="text/javascript"></script>
+<script src="http://biznespolska.pl/www/js/register_functions.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26440187-1']);
+  _gaq.push(['_setDomainName', 'biznespolska.pl']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><!-- Start of Woopra Code -->
+
+<script type="text/javascript">
+
+function woopraReady(tracker) {
+
+    tracker.setDomain('biznespolska.pl');
+
+    tracker.setIdleTimeout(300000);
+
+    tracker.track();
+
+    return false;
+
+}
+
+(function() {
+
+    var wsc = document.createElement('script');
+
+    wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+
+    wsc.type = 'text/javascript';
+
+    wsc.async = true;
+
+    var ssc = document.getElementsByTagName('script')[0];
+
+    ssc.parentNode.insertBefore(wsc, ssc);
+
+})();
+
+</script>
+
+<!-- End of Woopra Code -->
+</head>
+<body>
+
+
+<div id="section-top">
+  <div class="wrapper">
+    <div id="nav">
+      <div class="f-l">
+	    <ul id="navTopList">
+	      <li class="level-1 home"><a href="/"></a></li>
+	      <li class="level-1"><a href="/przeglad/">News</a>
+			  <ul>
+				<li class="level-2"><a href="/przeglad/">Nowe Inwestycje - <span class="c-red">NOWOŚĆ!</span></a></li>
+				<li class="level-2"><a href="/wywiad/">10 pytań do zagranicznego inwestora - <span class="c-red">NOWOŚĆ!</span></a></li>
+				<li class="level-2"><a href="/komunikaty/">Komunikaty prasowe</a></li>
+				<li class="level-2"><a href="/kalendarium/">Kalendarium</a></li>
+				<li class="level-2"><a href="/wydarzenia/">Wydarzenia</a></li>
+				<!-- <li class="level-2"><a href="/przetargi/">Przetargi</a></li> -->
+				<!-- <li class="level-2"><a href="/krs/">Nowe firmy KRS</a></li> -->
+				<li class="level-2"><a href="/rankingi/">Rankingi</a></li>
+				<li class="level-2"><a href="/bizbaza/">Biz Baza</a></li>
+				<li class="level-2"><a href="/analizy/">Analizy i raporty</a></li>
+			  </ul>
+		  </li>
+	      <li class="level-1"><a href="/przewodniki/">Przewodniki</a>
+			<ul>
+				<li class="level-2"><a href="/przewodniki/officebuildings/">Top Office Buildings</a></li>
+				<li class="level-2"><a href="/przewodniki/windenergy/">Wind Energy</a></li>
+				<li class="level-2"><a href="/przewodniki/equities/">Equities Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/outsourcing/">Outsourcing Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/aviation/">Aviation Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/foodexports/">Food Exports Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/cityinvest/">CityInvest Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/shoppingcentres/">Top Shopping Centres</a></li>
+				<!-- <li class="level-2"><a href="/przewodniki/energiawiatrowa/">Energia Wiatrowa</a></li> -->
+			</ul>
+		  </li>
+	      <li class="level-1"><a href="/reklama/">Reklama</a>
+			<ul>
+				<li class="level-2"><a href="/autoreklama/">AutoReklama</a></li>
+				<li class="level-2"><a href="/reklama/a/internet/">Reklama w internecie</a></li>
+				<li class="level-2"><a href="/reklama/a/newsletter/">Reklama w newsletterze</a></li>
+				<li class="level-2"><a href="/reklama/a/mailing/">Reklama w mailingu celowym</a></li>
+				<li class="level-2"><a href="/reklama/a/dodatki/">Reklama w dodatkach</a></li>
+			</ul>
+		  </li>
+	      <li class="level-1"><a href="/network/">BP Network</a>
+			<ul>
+				<li class="level-2"><a href="/network/a/jaktodziala/">Jak to działa</a></li>
+				<li class="level-2"><a href="/network/a/nowaosoba/">Dodaj inną osobę</a></li>
+			</ul>
+
+		  </li>
+	      <li class="level-1"><a href="#">Usługi</a>
+			  <ul>
+				<li class="level-2"><a href="/regulamin/">Regulamin</a></li>
+				<li class="level-2"><a href="/newsletter/">Newsletter</a></li>
+				<li class="level-2"><a href="/formularz/">Formularze</a></li>
+				<li class="level-2"><a href="/szukaj/">Szukaj</a></li>
+				<li class="level-2"><a href="/mojekonto/">Strona użytkownika</a></li>
+				<li class="level-2"><a href="/kontakt/">Kontakt</a></li>
+				<li class="level-2"><a href="/onas/">O Nas</a></li>
+			  </ul>
+			</li>
+			<li class="level-1"><a href="#">Regiony</a>
+				<ul>
+					<li class="level-2"><a href="/warszawa/">Warszawa</a></li>
+					<li class="level-2"><a href="/wroclaw/">Wrocław</a></li>
+					<li class="level-2"><a href="/poznan/">Poznań</a></li>
+					<li class="level-2"><a href="/krakow/">Kraków</a></li>
+					<li class="level-2"><a href="/szczecin/">Szczecin</a></li>
+					<li class="level-2"><a href="/trojmiasto/">Trójmiasto</a></li>
+					<li class="level-2"><a href="/lodz/">Łódź</a></li>
+					<li class="level-2"><a href="/katowice/">Katowice</a></li>
+				</ul>
+			</li>
+	    </ul>
+	  </div>
+      <div class="f-r">
+	    <ul>
+	      <!-- <li class="i1"><a href="/autoreklama/">AutoReklama</a></li> -->
+	      <li class="i2"><a href="/newsletter/">Newsletter</a></li>
+	      <li class="i3"><a href="/rejestracja/">Rejestracja</a></li>
+	      <li class="i4"><a href="/logowanie/">Zaloguj się</a></li>
+	    </ul>
+	  </div>
+	  <div class="clear"></div>
+	</div>
+			<div id="logo"><a href="/">BiznesPolska.pl</a></div><div class="clear"></div>
+		<div id="logo_underscore">Inwestycje zagraniczne w Polsce</div>
+	
+	<!-- boxAd -->
+	<div class="advert">
+		<!-- BBelements AdServer one2many Position: BiznesPolska(2087) / Strona głowna(16) / Billboard(1) / billboard 750x100 750x100(30) -->
+		<!-- HowTo: Place this code into the html page there the ad should appear. -->
+		<div id='bmone2n-2087.16.1.30'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/30/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/30/?typkodu=img&amp;keywords=' width='750' height='100' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	</div>
+	<!-- END boxAd -->
+
+	<div class="clear"></div>
+  </div>
+</div>
+<div id="section-content">
+  <div class="wrapper">
+  
+    <!-- main left col -->
+	<div class="w-670 f-l">
+  
+	      <!-- box -->
+	  <div class="box">
+	    <div class="boxInner">
+						  <!-- <div class="boxHdr-bt"><div class="inner"><a href="url">Zobacz następny wpis <span>&raquo;</span></a></div></div> -->
+		  <div class="boxHdr">
+		    <h2><span class="black">Kalendarium</span> 2013-04-04</h2>
+		  </div>
+		  <div id="content">		  
+		    <div class="inner">
+				<h2>Apetyt na Outsourcing</h2>
+				<h3>4.04, 5.04</h3>
+				<p><br />
+					Kielce				</p>			
+				<p><p style="text-align: center;"><strong>Kielce w centrum uwagi branży outsourcingu</strong></p>
+<p style="text-align: justify;">Najważniejsi przedstawiciele dynamicznie rozwijającej się branży outsourcingu usług biznesowych przyjadą do Kielc na zaproszenie Urzędu Miasta Kielce i firmy Deloitte. 4 i 5 kwietnia br. wezmą udział w konferencji &ldquo;Apetyt na outsourcing. Perspektywy rozwoju BPO w Kielcach i innych miastach Polski Wschodniej&rdquo;.&nbsp; Będą mieli także okazję odwiedzić lokalizacje biznesowe miasta interesujące dla BPO.</p>
+<p style="text-align: justify;">Jak ważnym elementem dla lokalnych gospodarek jest obecnie BPO (Business Process Outsourcing, outsourcingu usług biznesowych) pokazuje fakt, iż zatrudnienie w centrach tego typu w Polsce wynosi ok. 100 tys. os&oacute;b i według szacunk&oacute;w ma wzrosnąć o kolejne 20 tys. do końca tego roku.</p>
+<p style="text-align: justify;">Ile z tej puli przypadnie na inwestycje w Kielcach i innych miastach regionu Polski Wschodniej (Olsztynie, Białymstoku, Lublinie i Rzeszowie)? Czego oczekują inwestorzy od władz miejskich? Jakimi specjalizacjami mogą się pochwalić poszczeg&oacute;lne lokalizacje i jak są postrzegane na zewnątrz? Jakie zyski dla społeczności przynosi rozw&oacute;j centr&oacute;w BPO? Na te i wiele innych pytań ma odpowiedzieć dwudniowe spotkanie branży w Kielcach, kt&oacute;re staną się w&oacute;wczas polskim centrum BPO.</p>
+<p style="text-align: justify;">Spotkanie otworzy Prezydent Kielc Wojciech Lubawski, zaś gościem specjalnym będzie Paweł Panczyj, dyrektor operacyjny Association of Business Service Leaders (ABSL, Związek Lider&oacute;w Sektora Usług Biznesowych), organizacji zrzeszającej największych inwestor&oacute;w tej branży w Polsce, m.in. IBM, HP, MAN, P&amp;G, Infosys, Shell czy Capgemini. <br />- Obecnie obserwujemy zwiększone zainteresowanie inwestor&oacute;w makroregionem Polski Wschodniej, kt&oacute;ry konkuruje z innymi lokalizacjami między innymi kosztami pracy - powiedział Paweł Panczyj.</p>
+<p style="text-align: justify;">Zainteresowanie to przekuło się już na fakty - ok. 20 centr&oacute;w BPO jest zlokalizowanych na terenie wojew&oacute;dztw: świętokrzyskiego, warmińsko-mazurskiego, podlaskiego, lubelskiego i podkarpackiego, w tym inwestycje&nbsp; Medicover, Infover, Invex, Transition Technology czy Citibank.</p>
+<p style="text-align: justify;">Gospodarzami konferencji są: Urząd Miasta Kielce oraz Deloitte. Partnerem organizacyjnym jest firma Bluevine Consulting.</p></p>
+				<p>
+					<strong>Kontakt:</strong> Aneta Kłodaś, Bluevine Consulting<br />
+					<strong>Telefon:</strong> 509 332 606<br />
+					<strong>E-mail:</strong> <br />
+					<strong>Strona www:</strong> <a href="http://" target="_blank"></a><br />
+				</p>
+	        </div>
+	      </div>
+	    		</div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	  </div>
+  	  	  	  
+	  <div class="clear"></div>
+		
+		
+	  <!-- boxTabbed -->
+	  <div class="box">
+	    <div class="boxInner">
+		  <div class="boxHdr">
+		    <h2>Zobacz także</h2>
+		  </div>
+		<div class="inner-20">  
+				<div class="div-c w-580">
+			<div class="f-l w-280">
+		    <ul class="list-kalendarium">
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+											<li><p>3.04, Ogólnopolski</p><h4><a href="/kalendarium/30471/Forum-Polsko-Fińskie.html">Forum Polsko-Fińskie</a></h4></li>
+								<li><p>4.04, Ogólnopolski</p><h4><a href="/kalendarium/30455/Apetyt-na-Outsourcing.html">Apetyt na Outsourcing</a></h4></li>
+								<li><p>9.04, Ogólnopolski</p><h4><a href="/kalendarium/30469/Polska-Indie.-Perspektywy-współpracy-gospodarczej..html">Polska-Indie. Perspektywy współpracy gospodarczej.</a></h4></li>
+								<li><p>10.04, Ogólnopolski</p><h4><a href="/kalendarium/30456/V-Banking-Forum.html">V Banking Forum</a></h4></li>
+								<li><p>10.04, Ogólnopolski</p><h4><a href="/kalendarium/30457/VII-Ogólnopolskie-Forum-Zarządów-Spółek-Giełdowych.html">VII Ogólnopolskie Forum Zarządów Spółek Giełdowych</a></h4></li>
+								<li><p>17.04, Ogólnopolski</p><h4><a href="/kalendarium/30467/Fleet-Derby.html">Fleet Derby</a></h4></li>
+								<li><p>18.04, Ogólnopolski</p><h4><a href="/kalendarium/30470/Małopolska-Commercial-Property-Forum.html">Małopolska Commercial Property Forum</a></h4></li>
+								<li><p>19.04, Ogólnopolski</p><h4><a href="/kalendarium/30402/Targi-Produktów-Regionalnych-"Regionalia".html">Targi Produktów Regionalnych "Regionalia"</a></h4></li>
+								<li><p>24.04, Ogólnopolski</p><h4><a href="/kalendarium/30462/Baltic-Business-Forum.html">Baltic Business Forum</a></h4></li>
+								<li><p>14.05, Ogólnopolski</p><h4><a href="/kalendarium/30475/IV-Forum-Innowacji.html">IV Forum Innowacji</a></h4></li>
+								<li><p>21.05, Ogólnopolski</p><h4><a href="/kalendarium/30448/Top10:-Rynki-dla-polskiego-eksportu-2013---2015.html">Top10: Rynki dla polskiego eksportu 2013 - 2015</a></h4></li>
+								<li><p>6.06, Warszawa</p><h4><a href="/kalendarium/30466/.html"></a></h4></li>
+								<li><p>17.06, Ogólnopolski</p><h4><a href="/kalendarium/30412/Organic-Marketing-Forum-2013.html">Organic Marketing Forum 2013</a></h4></li>
+								<li><p>2.09, Ogólnopolski</p><h4><a href="/kalendarium/30433/XXI-MSPO-2013.html">XXI MSPO 2013</a></h4></li>
+								<li><p>23.09, Ogólnopolski</p><h4><a href="/kalendarium/30434/Polagra-Food.html">Polagra Food</a></h4></li>
+				
+			</ul>
+			</div>
+			<div class="f-r w-280">
+		    <ul class="list-kalendarium">
+								<li><p>4.04, Ogólnopolski</p><h4><a href="/kalendarium/30419/Motor-Show-VIP-Day-2013.html">Motor Show VIP Day 2013</a></h4></li>
+								<li><p>4.04, Ogólnopolski</p><h4><a href="/kalendarium/30403/Motor-Show-2013.html">Motor Show 2013</a></h4></li>
+								<li><p>9.04, Ogólnopolski</p><h4><a href="/kalendarium/30432/Office-Days.html">Office Days</a></h4></li>
+								<li><p>10.04, Wrocław</p><h4><a href="/kalendarium/30465/.html"></a></h4></li>
+								<li><p>11.04, Ogólnopolski</p><h4><a href="/kalendarium/30468/Polsko-Ukraińska-Konferencja-Gazowa.html">Polsko-Ukraińska Konferencja Gazowa</a></h4></li>
+								<li><p>17.04, Ogólnopolski</p><h4><a href="/kalendarium/30447/Moto-Idea.html">Moto Idea</a></h4></li>
+								<li><p>18.04, Ogólnopolski</p><h4><a href="/kalendarium/30472/Forum-Transportu-Intermodalnego-FRACHT-2013.html">Forum Transportu Intermodalnego FRACHT 2013</a></h4></li>
+								<li><p>24.04, Poznań</p><h4><a href="/kalendarium/30404/Poznańskie-Dni-Przedsiębiorczości.html">Poznańskie Dni Przedsiębiorczości</a></h4></li>
+								<li><p>7.05, Ogólnopolski</p><h4><a href="/kalendarium/30473/Wojsko-Polskie-szansą-dla-przedsiębiorczości.html">Wojsko Polskie szansą dla przedsiębiorczości</a></h4></li>
+								<li><p>16.05, Ogólnopolski</p><h4><a href="/kalendarium/30474/Acting-Local,-Winning-Global-2013.html">Acting Local, Winning Global 2013</a></h4></li>
+								<li><p>23.05, Ogólnopolski</p><h4><a href="/kalendarium/30460/Forum---Trójkąt-współpracy-gospodarczej:-Polska,-Czechy,-Niemcy.html">Forum - Trójkąt współpracy gospodarczej: Polska, Czechy, Niemcy</a></h4></li>
+								<li><p>11.06, Ogólnopolski</p><h4><a href="/kalendarium/30431/AutoEvent-2013.html">AutoEvent 2013</a></h4></li>
+								<li><p>18.06, Ogólnopolski</p><h4><a href="/kalendarium/30458/COWEC-2013-Berlin.html">COWEC 2013 Berlin</a></h4></li>
+								<li><p>12.09, Ogólnopolski</p><h4><a href="/kalendarium/30435/China-Expo-2013.html">China Expo 2013</a></h4></li>
+				
+			</ul>
+			</div>
+			<div class="clear"></div>
+		</div>
+		 
+		</div>		
+	    </div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	  </div>
+	  
+	<div class="clear"></div>  
+
+	<script type="text/javascript">
+<!--
+
+function validateForm(AForm)
+{
+	if (document.getElementById('sid').value=='') {
+		alert('Musisz być zalogowany aby przesłać kalendarium!');
+		return false;
+	}
+    if (document.getElementById('name').value=='' && 
+		document.getElementById('info').value=='' &&
+		document.getElementById('datefrom').value=='' &&
+		document.getElementById('cityid').value=='' &&
+		document.getElementById('addr_building').value=='') {
+		alert('Wszystkie niezbędne pola są pola puste!');
+		return false;
+	}
+    if (document.getElementById('name').value=='') {
+		alert('Musisz podać nazwę wpisu!');
+		return false;
+	}
+    if (document.getElementById('datefrom').value=='') {
+		alert('Musisz podać datę wydarzenia!');
+		return false;
+	}
+    if (document.getElementById('cityid').value=='') {
+		alert('Musisz wybrać region wydarzenia!');
+		return false;
+	}
+		
+	return true;
+		
+}
+
+//-->
+</script>
+
+<!-- box wyslij ka -->
+<div class="box">
+<div class="boxInner">
+  <div class="boxHdr">
+	<h2>Dodaj wpis do kalendarium</h2>
+  </div>
+	<div class="inner">
+	
+		
+	<br />
+	<h2>Aby dodać wpis do kalendarium musisz się zalogować - <a href="/logowanie/">zaloguj teraz</a>.</h2>
+	
+		</div>
+</div>
+<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+</div> 
+<!-- END box wyslij kp -->
+	
+
+    </div>
+    <!-- END main left col -->
+  
+    <!-- main right col -->
+    <div class="w-300 f-r">
+  
+	<!-- szukaj  -->
+<div class="boxSearch">
+<div class="boxInner">
+  <div class="inner">
+	<form action="/szukaj/" method="post" id="formSearch">
+	  <input type="hidden" name="rodzaj" value="Wszystkie" />
+	  <input type="hidden" name="jakszukac" value="niedokladnie" />
+	  <div class="input shd-in-1"><input type="text" name="szukaj" value="" /></div>
+	  <input type="image" class="submit" src="/www/img/tpl/bt/szukaj.png" value="" />
+	  <div class="clear"></div>
+	</form>
+  </div>
+</div>
+</div>
+<!-- koniec szukaj  -->	<!-- boxAd rectangle -->
+	<div class="advert">
+		<!-- BBelements AdServer one2many Position: go.arbopl.bbelements.com BiznesPolska(2087) / Strona głowna(16) / Box(1) / box 300x250 300x250(36)-->
+		<!-- HowTo: Place this code into the html page where the ad should appear. -->
+		<div id='bmone2n-2087.16.1.36'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/36/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/36/?typkodu=img&keywords=' width='300' height='250' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	</div>
+	<!-- END boxAd rectangle -->	
+  				
+        <!-- newsletter  -->
+	    <div class="box">
+	      <div class="boxInner">
+		    <div class="boxHdr">
+		      <h2>Biznes Polska Newsletter</h2>
+		    </div>
+		    <div class="inner-15">
+				<form action="/rejestracja/" method="post" id="formNl">
+					<input type="hidden" name="step" value="1" />
+				  <div class="input shd-in-1"><input type="text" name="email" value="E-mail" /></div>
+				  <input type="image" class="submit" src="/www/img/tpl/bt/nl.png" value="" />
+				  <div class="clear"></div>
+				</form>
+		    </div>
+		    <div class="boxBottomLink">
+		      <div class="button"><div class="inner"><a href="/newsletter/">Więcej</a></div></div>
+		    </div>
+	      </div>
+		  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+        <!-- koniec newsletter  -->
+		
+	
+	  
+      <!-- box -->
+	  <div class="box">
+	    <div class="boxInner">
+			<div class="boxHdr-bt"><div class="inner"><a href="/wydarzenia/">Więcej <span>&raquo;</span></a></div></div>
+		  <div class="boxHdr">
+		    <h2>Wydarzenia</h2>
+		  </div>
+		  <div class="inner">
+			<ul class="list-network">
+						  <li>
+				<p><a href="/wydarzenia/618/European-Executive-Forum.html">
+				<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/03/618__mg_0310_m.jpg" width="190" height="130" alt="European Executive Forum" />
+				</a></p>
+				<h4><a class="blue" href="/wydarzenia/618/European-Executive-Forum.html">European Executive Forum</a></h4>
+			  </li>
+						  <li>
+				<p><a href="/wydarzenia/617/II-Forum-Branży-Mięsnej.html">
+				<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/03/617_dsc_651234020001_m.jpg" width="190" height="130" alt="II Forum Branży Mięsnej" />
+				</a></p>
+				<h4><a class="blue" href="/wydarzenia/617/II-Forum-Branży-Mięsnej.html">II Forum Branży Mięsnej</a></h4>
+			  </li>
+						  <li>
+				<p><a href="/wydarzenia/616/Gala-Finałowa-Konkursów-Branżowych-CBCK-2012.html">
+				<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/03/616_dsc_2253_m.jpg" width="190" height="130" alt="Gala Finałowa Konkursów Branżowych CBCK 2012" />
+				</a></p>
+				<h4><a class="blue" href="/wydarzenia/616/Gala-Finałowa-Konkursów-Branżowych-CBCK-2012.html">Gala Finałowa Konkursów Branżowych CBCK 2012</a></h4>
+			  </li>
+						  <li>
+				<p><a href="/wydarzenia/615/Champ-Awards.html">
+				<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/02/615_abk-kdm-marketingsportu_m.jpg" width="190" height="130" alt="Champ Awards" />
+				</a></p>
+				<h4><a class="blue" href="/wydarzenia/615/Champ-Awards.html">Champ Awards</a></h4>
+			  </li>
+						</ul>
+			<div class="clear"></div>
+		  </div>
+	    </div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+      </div>
+	    
+      <!-- boxAd -->
+	  <div class="advert">
+		<!-- BBelements AdServer one2many Position: BiznesPolska(2087) / Strona glowna(16) / Skyscraper(1) / skyscraper_pl 160x600 160x600(31) -->
+		<!-- HowTo: Place this code into the html page there the ad should appear. -->
+		<div id='bmone2n-2087.16.1.31'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/31/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/31/?typkodu=img&amp;keywords=' width='160' height='600' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	  </div>
+	
+    </div>
+    <!-- END main right col -->
+	
+	<div class="clear"></div>
+	
+			  
+<!-- box bp magazine bottom -->
+<div class="box">
+  <div class="boxInner">
+	<div class="boxHdr-bt"><div class="inner"><a href="http://biznespolska.pl/unassigned/download.php?target=LZIIJDBSDPON7HD4BB4M9ACX4Y.pdf">Zamów prenumeratę<span>&raquo;</span></a></div></div>
+	<div class="boxHdr">
+	  <h2>BizPoland Magazine - our monthly magazine for Foreign Investors.</h2>
+	</div>
+	<div class="inner">
+	  <ul class="list-przewodniki">
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_nov2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_129/bizpol_mag_129_Covers/bizpol_mag_129_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_sept2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_128/bizpol_mag_128_Covers/bizpol_mag_128_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpoland_july_2012_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_127/bizpol_mag_127_Covers/bizpol_mag_127_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_may2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_126/bizpol_mag_126_Covers/bizpol_mag_126_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_april2012_finalpdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_125/bizpol_mag_125_Covers/bizpol_mag_125_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_march2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_124/bizpol_mag_124_Covers/bizpol_mag_124_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_feb_2012_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_123/bizpol_mag_123_Covers/bizpol_mag_123_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmagazine_dec2011_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_122/bizpol_mag_122_Covers/bizpol_mag_122_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+	  </ul>
+	  <div class="clear"></div>
+	</div>
+  </div>
+  <div class="boxBottomLink">
+	<div class="button"><div class="inner"><a href="/przewodniki/bizpolandmag/">Szczegóły reklamowe</a></div></div>
+  </div>
+  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+</div>
+<!-- End box bp magazine bottom -->	
+  </div>
+</div>
+
+
+<!-- BBelements AdServer one2many code -->
+<!-- HowTo: All the ad codes must be above this code! -->	
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<script type='text/javascript' src='http://go.arbopl.bbelements.com/bb/bb_one2n.js'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+var bbkeywords=''; //fill in: 'key1;key2;..'
+bmone2n.addPosition('2087.16.1.30','');
+bmone2n.addPosition('2087.16.1.36','');
+bmone2n.addPosition('2087.16.1.31','');
+bmone2n.getAd('go.arbopl.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''));
+/* ]]> */</script>
+<div id='bmone2t-2087.16.1.30' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.30'); /* ]]> */</script></div>
+<div id='bmone2t-2087.16.1.36' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.36'); /* ]]> */</script></div>
+<div id='bmone2t-2087.16.1.31' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.31'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+
+<div id="section-foot">
+  <div class="wrapper">
+    <div class="inner">
+      <div class="navFoot">
+	    <ul>
+		  <li><a href="/przeglad/">News</a></li>
+		  <li><a href="/przewodniki/">Przewodniki biznesowe</a></li>
+		  <li><a href="/reklama/">Reklama</a></li>
+		  <li><a href="/network/">BP network</a></li>
+		  <li><a href="/kontakt/">Kontakt</a></li>
+		  <li><a href="http://www.polandoutsourcingawards.pl/" target="_blank">PolandOutsourcingAwards.pl</a></li>
+		  <li><a href="http://equitiespoland.pl/" target="_blank">EquitiesPoland.pl</a></li>
+		</ul>
+		<div class="clear"></div>
+	  </div>
+	  <div class="clear"></div>
+	  <div class="f-l"><p>Copyright &copy; 2013 <a class="copy" href="/">Biznes<span>Polska.pl</span></a></p></div>
+	  <div class="f-r w-140"><p class="f-l">Design by</p><a class="gv" href="http://www.globalvanet.com">Globalvanet.pl</a></div>
+	  <div class="clear"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  var menu=new menu.dd("menu");
+  menu.init("navTopList","menuhover")
+</script> 
+
+</body>
+</html>

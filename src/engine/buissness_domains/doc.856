@@ -1,0 +1,8857 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | WIG</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class="selected"><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox">
+<h1>WIG</h1>
+<p>Notowania GPW dostarcza <a href="http://www.notoria.pl" target="_blank">Notoria</a></p>
+<p class="description">Kliknij w kolumnę aby posortować, kliknij drugi raz aby zmienić kolejność sortowania</p>
+
+<table id="bigstock" class="sortable {sortlist: [[1,0]]}">
+<thead>
+<tr>
+<td colspan="20" class="widebox_nav" >
+<a href="01A,ND" >wszystkie</a> |
+<a href="00I,Wallets" >indeksy</a> |
+<a href="AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" >akcje</a> |
+<a href="WIG" class="selected">WIG</a> | 
+<a href="WIG20" >WIG20</a> | 
+<a href="mWIG40" >mWIG40</a> | 
+<a href="sWIG80" >sWIG80</a> | 
+<a href="01S" >New Connect</a> |
+<a href="01F" >kontrakty terminowe</a>
+</td>
+</tr>
+<tr>
+<th><b>czas</b></th>
+<th><b>instrument</b></th>
+<th class="{sorter:'digit'}"><b>kurs</b></th>
+<th class="{sorter: 'procent'}"><b>%</b></th>
+<th class="{sorter:'digit'}"><b>kurs odniesienia</b></th>
+<th class="{sorter:'digit'}"><b>min.</b></th>
+<th class="{sorter:'digit'}"><b>maks.</b></th>
+<th class="{sorter:'digit'}"><b>otw.</b></th>
+<th class="{sorter:'digit'}"><b>zam.</b></th>
+<th class="{sorter:'digit'}"><b>wolumen</b><br />(tys.)</th>
+<th class="endblock"><b>obroty</b><br />(tys. zł)</th>
+<th class="{sorter:'digit'}" title="wartość rynkowa"><b>kapitalizacja</b><br />(mln zł)</th>
+<th class="{sorter:'digit'}" title="beta"><b>beta</b></th>
+<th class="{sorter:'digit'}" title="cena / zysk netto"><b>P/E</b></th>
+<th class="{sorter:'digit'}" title="cena / wartość księgowa"><b>P/BV</b></th>
+<th class="{sorter:'digit'}" title="rentowność aktywów = E/Aktywa"><b>ROA</b><br />(%)</th>
+<th class="{sorter:'digit'}" title="rentowność kapitałów własnych = E/BV"><b>ROE</b><br />(%)</th>
+<th class="{sorter:'digit'}"><b>min. roczne</b></th>
+<th class="{sorter:'digit'}"><b>maks. roczne</b></th>
+</tr>
+</thead>
+<tbody>
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL0000102836/ds1013">DS1013 &raquo;</a></td>
+<td>101.00</td>
+<td class="down"><b>-0.10%</b></td>
+<td>101.10</td>
+<td>101.00</td>
+<td>101.00</td>
+<td>101.00</td>
+<td>101.00</td>
+<td>0.06</td>
+<td>61.86</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL0000103602/ds1015">DS1015 &raquo;</a></td>
+<td>107.40</td>
+<td class="up"><b>+0.15%</b></td>
+<td>107.25</td>
+<td>107.40</td>
+<td>107.40</td>
+<td>107.40</td>
+<td>107.40</td>
+<td>0.03</td>
+<td>27.50</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PL0000102646/ws0922">WS0922 &raquo;</a></td>
+<td>114.65</td>
+<td class=""><b>+0.00%</b></td>
+<td>115.52</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>115.52</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PL0000104543/ds1017">DS1017 &raquo;</a></td>
+<td>108.12</td>
+<td class=""><b>+0.00%</b></td>
+<td>107.50</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>107.50</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PL0000105391/ws0429">WS0429 &raquo;</a></td>
+<td>119.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>118.30</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>118.30</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL0000105433/ps0414">PS0414 &raquo;</a></td>
+<td>102.72</td>
+<td class="down"><b>-0.03%</b></td>
+<td>102.75</td>
+<td>102.72</td>
+<td>102.72</td>
+<td>102.72</td>
+<td>102.72</td>
+<td>0.12</td>
+<td>124.20</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PL0000105441/ds1019">DS1019 &raquo;</a></td>
+<td>111.55</td>
+<td class=""><b>+0.00%</b></td>
+<td>110.75</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>110.75</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PL0000105953/ps0415">PS0415 &raquo;</a></td>
+<td>104.69</td>
+<td class=""><b>+0.00%</b></td>
+<td>104.50</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>104.50</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL0000106126/ds1020">DS1020 &raquo;</a></td>
+<td>110.55</td>
+<td class="up"><b>+0.22%</b></td>
+<td>110.10</td>
+<td>110.32</td>
+<td>110.32</td>
+<td>110.32</td>
+<td>110.32</td>
+<td>0.20</td>
+<td>225.01</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL0000106340/ps0416">PS0416 &raquo;</a></td>
+<td>105.05</td>
+<td class="up"><b>+0.15%</b></td>
+<td>104.85</td>
+<td>105.00</td>
+<td>105.00</td>
+<td>105.00</td>
+<td>105.00</td>
+<td>0.04</td>
+<td>48.22</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL0000107009/ok0714">OK0714 &raquo;</a></td>
+<td>96.06</td>
+<td class="up"><b>+0.08%</b></td>
+<td>95.98</td>
+<td>96.05</td>
+<td>96.06</td>
+<td>96.05</td>
+<td>96.06</td>
+<td>0.12</td>
+<td>110.46</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL0000107264/ds1023">DS1023 &raquo;</a></td>
+<td>100.85</td>
+<td class="up"><b>+0.38%</b></td>
+<td>100.22</td>
+<td>100.60</td>
+<td>100.60</td>
+<td>100.60</td>
+<td>100.60</td>
+<td>0.20</td>
+<td>204.53</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PL0000107314/ps0418">PS0418 &raquo;</a></td>
+<td>101.66</td>
+<td class=""><b>+0.00%</b></td>
+<td>101.53</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>101.53</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL0000107058/ps0417">PS0417 &raquo;</a></td>
+<td>105.42</td>
+<td class="up"><b>+0.10%</b></td>
+<td>105.25</td>
+<td>105.29</td>
+<td>105.40</td>
+<td>105.29</td>
+<td>105.35</td>
+<td>0.45</td>
+<td>493.68</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL0000106795/ps1016">PS1016 &raquo;</a></td>
+<td>104.91</td>
+<td class="up"><b>+0.30%</b></td>
+<td>104.65</td>
+<td>104.95</td>
+<td>104.95</td>
+<td>104.95</td>
+<td>104.95</td>
+<td>0.20</td>
+<td>213.86</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PL0000106670/ds1021">DS1021 &raquo;</a></td>
+<td>114.19</td>
+<td class="up"><b>+0.09%</b></td>
+<td>113.85</td>
+<td>113.92</td>
+<td>114.10</td>
+<td>113.92</td>
+<td>113.94</td>
+<td>0.60</td>
+<td>698.29</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL0000106712/ok0114">OK0114 &raquo;</a></td>
+<td>97.35</td>
+<td class="down"><b>-0.10%</b></td>
+<td>97.45</td>
+<td>97.35</td>
+<td>97.50</td>
+<td>97.50</td>
+<td>97.35</td>
+<td>0.29</td>
+<td>277.86</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLFRMCL00066/farmacol">FARMACOL &raquo;</a></td>
+<td>42.30</td>
+<td class="up"><b>+6.02%</b></td>
+<td>39.90</td>
+<td>40.50</td>
+<td>42.90</td>
+<td>41.10</td>
+<td>42.30</td>
+<td>177.02</td>
+<td>7392.54</td>
+<td>989.82</td>
+<td>0.40</td>
+<td>9.10</td>
+<td>0.75</td>
+<td>4.51</td>
+<td>10.89</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLROBYG00016/robyg">ROBYG &raquo;</a></td>
+<td>1.34</td>
+<td class="up"><b>+1.52%</b></td>
+<td>1.32</td>
+<td>1.30</td>
+<td>1.34</td>
+<td>1.32</td>
+<td>1.34</td>
+<td>8.51</td>
+<td>11.24</td>
+<td>346.36</td>
+<td>0.50</td>
+<td>8.70</td>
+<td>0.64</td>
+<td>1.65</td>
+<td>4.87</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLTSGS000019/tesgas">TESGAS &raquo;</a></td>
+<td>3.49</td>
+<td class="down"><b>-3.06%</b></td>
+<td>3.60</td>
+<td>3.29</td>
+<td>3.58</td>
+<td>3.58</td>
+<td>3.49</td>
+<td>113.06</td>
+<td>374.07</td>
+<td>39.61</td>
+<td>1.20</td>
+<td>0.00</td>
+<td>0.53</td>
+<td>-37.75</td>
+<td>-56.29</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLRNKPR00014/rankprogr">RANKPROGR &raquo;</a></td>
+<td>9.52</td>
+<td class="down"><b>-4.70%</b></td>
+<td>9.99</td>
+<td>9.31</td>
+<td>10.00</td>
+<td>9.96</td>
+<td>9.52</td>
+<td>43.62</td>
+<td>417.04</td>
+<td>353.99</td>
+<td>1.00</td>
+<td>6.10</td>
+<td>0.98</td>
+<td>7.18</td>
+<td>13.72</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLHRPHG00023/harper">HARPER &raquo;</a></td>
+<td>2.50</td>
+<td class="up"><b>+6.38%</b></td>
+<td>2.35</td>
+<td>2.36</td>
+<td>2.50</td>
+<td>2.36</td>
+<td>2.50</td>
+<td>34.74</td>
+<td>85.29</td>
+<td>159.18</td>
+<td>0.30</td>
+<td>12.30</td>
+<td>2.50</td>
+<td>4.96</td>
+<td>19.20</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBEFSN00010/pbsfinanse">PBSFINANSE &raquo;</a></td>
+<td>0.43</td>
+<td class="down"><b>-2.27%</b></td>
+<td>0.44</td>
+<td>0.41</td>
+<td>0.44</td>
+<td>0.44</td>
+<td>0.43</td>
+<td>173.85</td>
+<td>72.20</td>
+<td>44.94</td>
+<td>0.90</td>
+<td>0.00</td>
+<td>1.62</td>
+<td>-8.35</td>
+<td>-9.10</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLODLPL00013/odlewnie">ODLEWNIE &raquo;</a></td>
+<td>1.91</td>
+<td class="down"><b>-2.55%</b></td>
+<td>1.96</td>
+<td>1.91</td>
+<td>1.96</td>
+<td>1.96</td>
+<td>1.91</td>
+<td>3.31</td>
+<td>6.33</td>
+<td>39.47</td>
+<td>0.40</td>
+<td>6.40</td>
+<td>1.91</td>
+<td>5.10</td>
+<td>15.74</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLZPCOT00018/otmuchow">OTMUCHOW &raquo;</a></td>
+<td>11.80</td>
+<td class="down"><b>-5.60%</b></td>
+<td>12.50</td>
+<td>11.35</td>
+<td>11.98</td>
+<td>11.98</td>
+<td>11.80</td>
+<td>5.56</td>
+<td>64.74</td>
+<td>150.43</td>
+<td>0.40</td>
+<td>16.10</td>
+<td>0.94</td>
+<td>3.29</td>
+<td>7.46</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/FR0000060873/sobieski">SOBIESKI &raquo;</a></td>
+<td>99.90</td>
+<td class="up"><b>+13.52%</b></td>
+<td>88.00</td>
+<td>88.00</td>
+<td>106.40</td>
+<td>88.00</td>
+<td>99.90</td>
+<td>7.01</td>
+<td>713.36</td>
+<td>327.61</td>
+<td>1.10</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>-8.43</td>
+<td>21.73</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLEKEP000019/ekoexport">EKOEXPORT &raquo;</a></td>
+<td>17.40</td>
+<td class="up"><b>+1.75%</b></td>
+<td>17.10</td>
+<td>16.50</td>
+<td>17.40</td>
+<td>16.76</td>
+<td>17.40</td>
+<td>17.83</td>
+<td>303.35</td>
+<td>181.05</td>
+<td>0.80</td>
+<td>16.50</td>
+<td>4.41</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PL4FNMD00013/4funmedia">4FUNMEDIA &raquo;</a></td>
+<td>20.60</td>
+<td class="down"><b>-2.32%</b></td>
+<td>21.09</td>
+<td>20.50</td>
+<td>20.60</td>
+<td>20.50</td>
+<td>20.60</td>
+<td>12.43</td>
+<td>255.08</td>
+<td>83.71</td>
+<td>0.60</td>
+<td>9.10</td>
+<td>2.19</td>
+<td>20.47</td>
+<td>22.78</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLEDINV00014/edinvest">EDINVEST &raquo;</a></td>
+<td>3.76</td>
+<td class="up"><b>+3.58%</b></td>
+<td>3.63</td>
+<td>3.60</td>
+<td>3.85</td>
+<td>3.60</td>
+<td>3.76</td>
+<td>2.82</td>
+<td>10.62</td>
+<td>47.77</td>
+<td>0.20</td>
+<td>10.30</td>
+<td>1.09</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLCELPD00013/celtic">CELTIC &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>4.95</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>4.95</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>-0.30</td>
+<td>0.00</td>
+<td>0.34</td>
+<td>17.96</td>
+<td>18.84</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/LU0564351582/sadovaya">SADOVAYA &raquo;</a></td>
+<td>1.78</td>
+<td class="down"><b>-1.11%</b></td>
+<td>1.80</td>
+<td>1.63</td>
+<td>1.80</td>
+<td>1.76</td>
+<td>1.78</td>
+<td>107.36</td>
+<td>187.05</td>
+<td>76.69</td>
+<td>1.30</td>
+<td>6.10</td>
+<td>0.45</td>
+<td>5.59</td>
+<td>9.70</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLWADEX00018/wadex">WADEX &raquo;</a></td>
+<td>9.74</td>
+<td class=""><b>+0.00%</b></td>
+<td>9.74</td>
+<td>9.74</td>
+<td>9.74</td>
+<td>9.74</td>
+<td>9.74</td>
+<td>0.02</td>
+<td>0.19</td>
+<td>32.21</td>
+<td>0.20</td>
+<td>10.50</td>
+<td>2.19</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLVOTUM00016/votum">VOTUM &raquo;</a></td>
+<td>4.38</td>
+<td class="down"><b>-2.45%</b></td>
+<td>4.49</td>
+<td>4.38</td>
+<td>4.49</td>
+<td>4.49</td>
+<td>4.38</td>
+<td>2.48</td>
+<td>10.93</td>
+<td>52.56</td>
+<td>0.30</td>
+<td>10.20</td>
+<td>3.33</td>
+<td>20.25</td>
+<td>31.30</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLIMPEL00011/impel">IMPEL &raquo;</a></td>
+<td>35.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>35.00</td>
+<td>33.00</td>
+<td>35.00</td>
+<td>34.60</td>
+<td>35.00</td>
+<td>6.84</td>
+<td>237.24</td>
+<td>450.28</td>
+<td>0.30</td>
+<td>11.60</td>
+<td>1.44</td>
+<td>12.99</td>
+<td>17.52</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLDWORY00019/synthos">SYNTHOS &raquo;</a></td>
+<td>6.20</td>
+<td class="down"><b>-4.62%</b></td>
+<td>6.50</td>
+<td>6.20</td>
+<td>6.46</td>
+<td>6.44</td>
+<td>6.20</td>
+<td>1609.76</td>
+<td>10255.66</td>
+<td>8204.15</td>
+<td>1.10</td>
+<td>8.20</td>
+<td>2.73</td>
+<td>37.11</td>
+<td>54.44</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLAB00000019/abpl">ABPL &raquo;</a></td>
+<td>21.00</td>
+<td class="down"><b>-2.91%</b></td>
+<td>21.63</td>
+<td>21.00</td>
+<td>21.01</td>
+<td>21.01</td>
+<td>21.00</td>
+<td>2.04</td>
+<td>42.93</td>
+<td>339.94</td>
+<td>0.40</td>
+<td>6.40</td>
+<td>0.80</td>
+<td>3.03</td>
+<td>10.33</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLJWC0000019/jwconstr">JWCONSTR &raquo;</a></td>
+<td>3.69</td>
+<td class="down"><b>-1.60%</b></td>
+<td>3.75</td>
+<td>3.60</td>
+<td>3.70</td>
+<td>3.68</td>
+<td>3.69</td>
+<td>11.78</td>
+<td>42.86</td>
+<td>199.53</td>
+<td>1.20</td>
+<td>13.70</td>
+<td>0.41</td>
+<td>0.26</td>
+<td>0.72</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/NL0006106007/ronson">RONSON &raquo;</a></td>
+<td>0.93</td>
+<td class=""><b>+0.00%</b></td>
+<td>0.93</td>
+<td>0.90</td>
+<td>0.93</td>
+<td>0.92</td>
+<td>0.93</td>
+<td>41.65</td>
+<td>37.95</td>
+<td>253.29</td>
+<td>0.60</td>
+<td>33.30</td>
+<td>0.48</td>
+<td>4.02</td>
+<td>6.94</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLBIOTN00029/bioton">BIOTON &raquo;</a></td>
+<td>0.05</td>
+<td class=""><b>+0.00%</b></td>
+<td>0.05</td>
+<td>0.05</td>
+<td>0.06</td>
+<td>0.05</td>
+<td>0.05</td>
+<td>3248.31</td>
+<td>168.01</td>
+<td>419.34</td>
+<td>1.00</td>
+<td>30.40</td>
+<td>0.46</td>
+<td>1.95</td>
+<td>2.44</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLLOTOS00025/lotos">LOTOS &raquo;</a></td>
+<td>41.51</td>
+<td class="down"><b>-1.52%</b></td>
+<td>42.15</td>
+<td>41.33</td>
+<td>42.10</td>
+<td>41.51</td>
+<td>41.51</td>
+<td>132.15</td>
+<td>5501.01</td>
+<td>5391.04</td>
+<td>1.50</td>
+<td>5.50</td>
+<td>0.49</td>
+<td>3.87</td>
+<td>9.01</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLZCPLC00036/police">POLICE &raquo;</a></td>
+<td>15.90</td>
+<td class="down"><b>-0.87%</b></td>
+<td>16.04</td>
+<td>15.57</td>
+<td>15.98</td>
+<td>15.98</td>
+<td>15.90</td>
+<td>97.91</td>
+<td>1543.55</td>
+<td>1192.50</td>
+<td>0.80</td>
+<td>3.10</td>
+<td>0.90</td>
+<td>17.10</td>
+<td>25.62</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLBSCDO00017/bscdruk">BSCDRUK &raquo;</a></td>
+<td>21.00</td>
+<td class="up"><b>+5.00%</b></td>
+<td>20.00</td>
+<td>21.00</td>
+<td>21.00</td>
+<td>21.00</td>
+<td>21.00</td>
+<td>0.00</td>
+<td>0.02</td>
+<td>205.96</td>
+<td>0.10</td>
+<td>8.60</td>
+<td>1.01</td>
+<td>9.57</td>
+<td>12.06</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLIZSTL00015/izostal">IZOSTAL &raquo;</a></td>
+<td>6.96</td>
+<td class="down"><b>-0.85%</b></td>
+<td>7.02</td>
+<td>6.96</td>
+<td>7.02</td>
+<td>7.02</td>
+<td>6.96</td>
+<td>0.50</td>
+<td>3.49</td>
+<td>227.90</td>
+<td>0.30</td>
+<td>11.70</td>
+<td>1.55</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSNZKA00033/sniezka">SNIEZKA &raquo;</a></td>
+<td>46.99</td>
+<td class="down"><b>-2.08%</b></td>
+<td>47.99</td>
+<td>46.63</td>
+<td>46.99</td>
+<td>46.77</td>
+<td>46.99</td>
+<td>0.18</td>
+<td>8.17</td>
+<td>636.75</td>
+<td>0.20</td>
+<td>20.30</td>
+<td>2.48</td>
+<td>13.02</td>
+<td>22.91</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLATM0000021/atmgrupa">ATMGRUPA &raquo;</a></td>
+<td>1.25</td>
+<td class="down"><b>-2.34%</b></td>
+<td>1.28</td>
+<td>1.24</td>
+<td>1.27</td>
+<td>1.24</td>
+<td>1.25</td>
+<td>99.84</td>
+<td>124.44</td>
+<td>107.50</td>
+<td>0.30</td>
+<td>63.80</td>
+<td>0.41</td>
+<td>-2.22</td>
+<td>-2.67</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLVSTLA00011/vistula">VISTULA &raquo;</a></td>
+<td>1.33</td>
+<td class="down"><b>-3.62%</b></td>
+<td>1.38</td>
+<td>1.31</td>
+<td>1.47</td>
+<td>1.43</td>
+<td>1.33</td>
+<td>925.37</td>
+<td>1291.71</td>
+<td>178.04</td>
+<td>1.10</td>
+<td>55.60</td>
+<td>0.41</td>
+<td>2.41</td>
+<td>4.60</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLCMP0000017/comp">COMP &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>56.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>56.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>0.50</td>
+<td>41.50</td>
+<td>0.79</td>
+<td>-2.18</td>
+<td>-3.58</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLZELMR00011/zelmer">ZELMER &raquo;</a></td>
+<td>39.70</td>
+<td class="up"><b>+0.53%</b></td>
+<td>39.49</td>
+<td>39.24</td>
+<td>43.15</td>
+<td>39.24</td>
+<td>39.70</td>
+<td>2.14</td>
+<td>87.03</td>
+<td>603.44</td>
+<td>0.30</td>
+<td>20.10</td>
+<td>1.59</td>
+<td>9.56</td>
+<td>12.48</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLEURCH00011/eurocash">EUROCASH &raquo;</a></td>
+<td>53.15</td>
+<td class="down"><b>-0.09%</b></td>
+<td>53.20</td>
+<td>52.50</td>
+<td>53.75</td>
+<td>52.80</td>
+<td>53.15</td>
+<td>197.16</td>
+<td>10482.62</td>
+<td>7333.89</td>
+<td>0.40</td>
+<td>31.20</td>
+<td>8.65</td>
+<td>8.53</td>
+<td>52.49</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLIDATF00012/ideatfi">IDEATFI &raquo;</a></td>
+<td>2.02</td>
+<td class="down"><b>-0.49%</b></td>
+<td>2.03</td>
+<td>2.00</td>
+<td>2.05</td>
+<td>2.05</td>
+<td>2.02</td>
+<td>9.85</td>
+<td>19.77</td>
+<td>31.98</td>
+<td>-0.40</td>
+<td>5.70</td>
+<td>2.22</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPGER000010/pge">PGE &raquo;</a></td>
+<td>16.60</td>
+<td class="down"><b>-0.54%</b></td>
+<td>16.69</td>
+<td>16.52</td>
+<td>16.93</td>
+<td>16.67</td>
+<td>16.60</td>
+<td>1212.71</td>
+<td>20287.46</td>
+<td>31038.03</td>
+<td>1.10</td>
+<td>6.30</td>
+<td>0.82</td>
+<td>10.57</td>
+<td>10.96</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCIECH00018/ciech">CIECH &raquo;</a></td>
+<td>21.95</td>
+<td class="down"><b>-1.92%</b></td>
+<td>22.38</td>
+<td>21.50</td>
+<td>22.31</td>
+<td>22.31</td>
+<td>21.95</td>
+<td>19.20</td>
+<td>419.69</td>
+<td>1156.76</td>
+<td>0.70</td>
+<td>0.00</td>
+<td>1.14</td>
+<td>-12.13</td>
+<td>-51.86</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/LT0000128381/aviasg">AVIASG &raquo;</a></td>
+<td>65.00</td>
+<td class="down"><b>-0.76%</b></td>
+<td>65.50</td>
+<td>64.00</td>
+<td>66.00</td>
+<td>65.90</td>
+<td>65.00</td>
+<td>1.81</td>
+<td>118.22</td>
+<td>383.07</td>
+<td>0.10</td>
+<td>12.40</td>
+<td>1.75</td>
+<td>16.42</td>
+<td>72.35</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLMATRX00017/ivmx">IVMX &raquo;</a></td>
+<td>6.18</td>
+<td class="up"><b>+4.04%</b></td>
+<td>5.94</td>
+<td>5.75</td>
+<td>6.18</td>
+<td>5.84</td>
+<td>6.18</td>
+<td>9.49</td>
+<td>55.99</td>
+<td>73.14</td>
+<td>0.80</td>
+<td>14.70</td>
+<td>0.31</td>
+<td>1.75</td>
+<td>2.07</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINTRL00013/introl">INTROL &raquo;</a></td>
+<td>7.15</td>
+<td class="down"><b>-0.28%</b></td>
+<td>7.17</td>
+<td>6.90</td>
+<td>7.15</td>
+<td>7.15</td>
+<td>7.15</td>
+<td>3.00</td>
+<td>20.91</td>
+<td>190.47</td>
+<td>0.20</td>
+<td>25.70</td>
+<td>1.09</td>
+<td>6.21</td>
+<td>12.45</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLBMECH00012/bumech">BUMECH &raquo;</a></td>
+<td>8.40</td>
+<td class=""><b>+0.00%</b></td>
+<td>8.40</td>
+<td>8.25</td>
+<td>8.50</td>
+<td>8.40</td>
+<td>8.40</td>
+<td>78.24</td>
+<td>656.13</td>
+<td>69.79</td>
+<td>0.50</td>
+<td>6.80</td>
+<td>0.89</td>
+<td>3.53</td>
+<td>9.71</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLEFH0000022/efh">EFH &raquo;</a></td>
+<td>0.50</td>
+<td class="down"><b>-15.25%</b></td>
+<td>0.59</td>
+<td>0.49</td>
+<td>0.58</td>
+<td>0.58</td>
+<td>0.50</td>
+<td>253.72</td>
+<td>129.37</td>
+<td>7.33</td>
+<td>1.00</td>
+<td>0.00</td>
+<td>0.16</td>
+<td>-19.10</td>
+<td>-23.78</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLERPCO00017/euco">EUCO &raquo;</a></td>
+<td>13.30</td>
+<td class="down"><b>-2.78%</b></td>
+<td>13.68</td>
+<td>13.30</td>
+<td>13.68</td>
+<td>13.68</td>
+<td>13.30</td>
+<td>0.21</td>
+<td>2.84</td>
+<td>74.48</td>
+<td>0.20</td>
+<td>4.80</td>
+<td>2.32</td>
+<td>14.03</td>
+<td>31.97</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLKCSTL00010/konsstali">KONSSTALI &raquo;</a></td>
+<td>29.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>29.00</td>
+<td>29.00</td>
+<td>29.00</td>
+<td>29.00</td>
+<td>29.00</td>
+<td>0.00</td>
+<td>0.06</td>
+<td>171.03</td>
+<td>-0.10</td>
+<td>15.50</td>
+<td>0.53</td>
+<td>-0.84</td>
+<td>-1.66</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLTRAST00020/kbdom">KBDOM &raquo;</a></td>
+<td>0.07</td>
+<td class="up"><b>+16.67%</b></td>
+<td>0.06</td>
+<td>0.06</td>
+<td>0.07</td>
+<td>0.06</td>
+<td>0.07</td>
+<td>10.46</td>
+<td>0.66</td>
+<td>69.49</td>
+<td>0.30</td>
+<td>0.00</td>
+<td>0.65</td>
+<td>-0.85</td>
+<td>-1.08</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLLZPSK00019/protektor">PROTEKTOR &raquo;</a></td>
+<td>3.65</td>
+<td class="down"><b>-1.08%</b></td>
+<td>3.69</td>
+<td>3.54</td>
+<td>3.67</td>
+<td>3.54</td>
+<td>3.65</td>
+<td>0.32</td>
+<td>1.16</td>
+<td>69.43</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>1.50</td>
+<td>15.80</td>
+<td>20.01</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMSTPL00018/mostalplc">MOSTALPLC &raquo;</a></td>
+<td>21.00</td>
+<td class="down"><b>-0.05%</b></td>
+<td>21.01</td>
+<td>21.00</td>
+<td>21.00</td>
+<td>21.00</td>
+<td>21.00</td>
+<td>0.10</td>
+<td>2.12</td>
+<td>42.00</td>
+<td>0.90</td>
+<td>0.00</td>
+<td>0.73</td>
+<td>4.90</td>
+<td>8.49</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLSUWAR00014/suwary">SUWARY &raquo;</a></td>
+<td>15.60</td>
+<td class=""><b>+0.00%</b></td>
+<td>15.60</td>
+<td>15.60</td>
+<td>15.60</td>
+<td>15.60</td>
+<td>15.60</td>
+<td>0.01</td>
+<td>0.08</td>
+<td>72.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>1.43</td>
+<td>5.12</td>
+<td>8.59</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLERGPL00014/cnt">CNT &raquo;</a></td>
+<td>8.30</td>
+<td class="down"><b>-1.07%</b></td>
+<td>8.39</td>
+<td>8.07</td>
+<td>8.48</td>
+<td>8.35</td>
+<td>8.30</td>
+<td>4.07</td>
+<td>33.78</td>
+<td>75.45</td>
+<td>0.70</td>
+<td>29.70</td>
+<td>1.63</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBNFTS00018/benefit">BENEFIT &raquo;</a></td>
+<td>250.00</td>
+<td class="down"><b>-3.85%</b></td>
+<td>260.00</td>
+<td>235.00</td>
+<td>259.00</td>
+<td>259.00</td>
+<td>250.00</td>
+<td>0.60</td>
+<td>150.04</td>
+<td>601.21</td>
+<td>-0.10</td>
+<td>10.90</td>
+<td>5.31</td>
+<td>46.03</td>
+<td>79.52</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLGANT000014/gant">GANT &raquo;</a></td>
+<td>1.34</td>
+<td class="down"><b>-20.24%</b></td>
+<td>1.68</td>
+<td>1.08</td>
+<td>1.38</td>
+<td>1.15</td>
+<td>1.34</td>
+<td>4538.21</td>
+<td>5488.77</td>
+<td>29.57</td>
+<td>0.90</td>
+<td>0.00</td>
+<td>0.09</td>
+<td>-4.42</td>
+<td>-10.56</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLTRNSU00013/tup">TUP &raquo;</a></td>
+<td>1.96</td>
+<td class="down"><b>-6.67%</b></td>
+<td>2.10</td>
+<td>1.96</td>
+<td>2.10</td>
+<td>2.10</td>
+<td>1.96</td>
+<td>3.81</td>
+<td>7.61</td>
+<td>29.82</td>
+<td>0.40</td>
+<td>0.00</td>
+<td>0.20</td>
+<td>-1.91</td>
+<td>-2.98</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSZPTL00010/mni">MNI &raquo;</a></td>
+<td>1.41</td>
+<td class="down"><b>-1.40%</b></td>
+<td>1.43</td>
+<td>1.40</td>
+<td>1.42</td>
+<td>1.40</td>
+<td>1.41</td>
+<td>41.75</td>
+<td>58.75</td>
+<td>139.51</td>
+<td>0.30</td>
+<td>6.80</td>
+<td>0.38</td>
+<td>1.04</td>
+<td>1.97</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINTGR00013/groclin">GROCLIN &raquo;</a></td>
+<td>15.10</td>
+<td class="down"><b>-5.57%</b></td>
+<td>15.99</td>
+<td>14.51</td>
+<td>15.39</td>
+<td>14.51</td>
+<td>15.10</td>
+<td>22.42</td>
+<td>334.37</td>
+<td>83.05</td>
+<td>1.30</td>
+<td>33.90</td>
+<td>0.24</td>
+<td>0.62</td>
+<td>0.81</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLMCSFT00018/mclogic">MCLOGIC &raquo;</a></td>
+<td>37.20</td>
+<td class="up"><b>+3.33%</b></td>
+<td>36.00</td>
+<td>36.00</td>
+<td>37.20</td>
+<td>36.00</td>
+<td>37.20</td>
+<td>0.53</td>
+<td>19.06</td>
+<td>70.26</td>
+<td>0.10</td>
+<td>10.50</td>
+<td>1.95</td>
+<td>15.98</td>
+<td>18.87</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLZSTAL00012/zastal">ZASTAL &raquo;</a></td>
+<td>1.85</td>
+<td class="up"><b>+0.54%</b></td>
+<td>1.84</td>
+<td>1.77</td>
+<td>1.85</td>
+<td>1.81</td>
+<td>1.85</td>
+<td>68.19</td>
+<td>123.60</td>
+<td>56.42</td>
+<td>0.90</td>
+<td>43.70</td>
+<td>0.55</td>
+<td>11.52</td>
+<td>13.91</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLHOGA000041/wasko">WASKO &raquo;</a></td>
+<td>2.38</td>
+<td class=""><b>+0.00%</b></td>
+<td>2.38</td>
+<td>2.29</td>
+<td>2.41</td>
+<td>2.38</td>
+<td>2.38</td>
+<td>70.15</td>
+<td>164.30</td>
+<td>217.03</td>
+<td>1.30</td>
+<td>15.90</td>
+<td>1.07</td>
+<td>2.93</td>
+<td>5.97</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLREDAN00019/redan">REDAN &raquo;</a></td>
+<td>0.97</td>
+<td class="down"><b>-4.90%</b></td>
+<td>1.02</td>
+<td>0.93</td>
+<td>1.04</td>
+<td>0.98</td>
+<td>0.97</td>
+<td>392.20</td>
+<td>382.94</td>
+<td>26.13</td>
+<td>0.80</td>
+<td>0.00</td>
+<td>0.52</td>
+<td>-7.69</td>
+<td>-13.86</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLPSTBX00016/plastbox">PLASTBOX &raquo;</a></td>
+<td>2.30</td>
+<td class=""><b>+0.00%</b></td>
+<td>2.30</td>
+<td>2.20</td>
+<td>2.30</td>
+<td>2.20</td>
+<td>2.30</td>
+<td>6.89</td>
+<td>15.68</td>
+<td>101.34</td>
+<td>0.00</td>
+<td>24.40</td>
+<td>1.10</td>
+<td>3.13</td>
+<td>4.71</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLATLNT00016/atlantis">ATLANTIS &raquo;</a></td>
+<td>0.13</td>
+<td class=""><b>+0.00%</b></td>
+<td>0.13</td>
+<td>0.12</td>
+<td>0.14</td>
+<td>0.14</td>
+<td>0.13</td>
+<td>3551.49</td>
+<td>455.37</td>
+<td>49.14</td>
+<td>1.20</td>
+<td>0.00</td>
+<td>0.35</td>
+<td>1.39</td>
+<td>1.98</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLJHMDL00018/jhmdev">JHMDEV &raquo;</a></td>
+<td>0.38</td>
+<td class="down"><b>-2.56%</b></td>
+<td>0.39</td>
+<td>0.36</td>
+<td>0.40</td>
+<td>0.40</td>
+<td>0.38</td>
+<td>575.46</td>
+<td>213.75</td>
+<td>47.50</td>
+<td>0.10</td>
+<td>16.50</td>
+<td>0.29</td>
+<td>4.08</td>
+<td>9.50</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSELNA00010/selenafm">SELENAFM &raquo;</a></td>
+<td>10.40</td>
+<td class="down"><b>-3.70%</b></td>
+<td>10.80</td>
+<td>8.70</td>
+<td>10.40</td>
+<td>9.65</td>
+<td>10.40</td>
+<td>11.18</td>
+<td>108.65</td>
+<td>237.47</td>
+<td>0.70</td>
+<td>11.90</td>
+<td>0.47</td>
+<td>1.96</td>
+<td>4.20</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSTPRK00019/staporkow">STAPORKOW &raquo;</a></td>
+<td>26.00</td>
+<td class="down"><b>-0.73%</b></td>
+<td>26.19</td>
+<td>25.71</td>
+<td>26.39</td>
+<td>26.15</td>
+<td>26.00</td>
+<td>3.89</td>
+<td>101.43</td>
+<td>117.10</td>
+<td>0.70</td>
+<td>20.30</td>
+<td>2.36</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLGETBK00012/getinoble">GETINOBLE &raquo;</a></td>
+<td>1.77</td>
+<td class="down"><b>-1.12%</b></td>
+<td>1.79</td>
+<td>1.72</td>
+<td>1.79</td>
+<td>1.79</td>
+<td>1.77</td>
+<td>1728.41</td>
+<td>3007.31</td>
+<td>4690.75</td>
+<td>4207963.00</td>
+<td>0.90</td>
+<td>10.36</td>
+<td>&ndash;</td>
+<td>0.76</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLCPTLP00015/capital">CAPITAL &raquo;</a></td>
+<td>1.28</td>
+<td class=""><b>+0.00%</b></td>
+<td>1.28</td>
+<td>1.25</td>
+<td>1.30</td>
+<td>1.25</td>
+<td>1.28</td>
+<td>8.72</td>
+<td>10.98</td>
+<td>31.28</td>
+<td>1.10</td>
+<td>0.00</td>
+<td>0.60</td>
+<td>-13.51</td>
+<td>-14.99</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSWMED00013/swissmed">SWISSMED &raquo;</a></td>
+<td>0.63</td>
+<td class="down"><b>-1.56%</b></td>
+<td>0.64</td>
+<td>0.61</td>
+<td>0.63</td>
+<td>0.63</td>
+<td>0.63</td>
+<td>90.30</td>
+<td>55.88</td>
+<td>38.54</td>
+<td>0.40</td>
+<td>0.00</td>
+<td>1.09</td>
+<td>-11.75</td>
+<td>-73.27</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/DE0003304200/bmpag">BMPAG &raquo;</a></td>
+<td>3.19</td>
+<td class="down"><b>-4.78%</b></td>
+<td>3.35</td>
+<td>3.11</td>
+<td>3.25</td>
+<td>3.25</td>
+<td>3.19</td>
+<td>6.53</td>
+<td>20.55</td>
+<td>60.03</td>
+<td>0.40</td>
+<td>0.00</td>
+<td>0.70</td>
+<td>-13.24</td>
+<td>-14.31</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKRKCH00019/krakchem">KRAKCHEM &raquo;</a></td>
+<td>7.55</td>
+<td class="down"><b>-1.82%</b></td>
+<td>7.69</td>
+<td>7.44</td>
+<td>7.61</td>
+<td>7.60</td>
+<td>7.55</td>
+<td>8.12</td>
+<td>60.75</td>
+<td>75.50</td>
+<td>0.30</td>
+<td>5.60</td>
+<td>0.69</td>
+<td>1.64</td>
+<td>4.15</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLZTKMA00017/zetkama">ZETKAMA &raquo;</a></td>
+<td>44.50</td>
+<td class="down"><b>-1.09%</b></td>
+<td>44.99</td>
+<td>42.65</td>
+<td>44.79</td>
+<td>44.00</td>
+<td>44.50</td>
+<td>17.92</td>
+<td>769.54</td>
+<td>218.23</td>
+<td>0.40</td>
+<td>6.10</td>
+<td>1.52</td>
+<td>12.86</td>
+<td>24.30</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLEMCIM00017/emcinsmed">EMCINSMED &raquo;</a></td>
+<td>15.50</td>
+<td class="up"><b>+3.33%</b></td>
+<td>15.00</td>
+<td>14.41</td>
+<td>16.00</td>
+<td>14.41</td>
+<td>15.50</td>
+<td>14.33</td>
+<td>219.95</td>
+<td>129.07</td>
+<td>0.20</td>
+<td>35.90</td>
+<td>1.76</td>
+<td>1.35</td>
+<td>3.01</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/BG11SOSOBT18/sopharma">SOPHARMA &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>4.10</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>4.10</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>-0.10</td>
+<td>5.90</td>
+<td>0.64</td>
+<td>5.42</td>
+<td>9.04</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLKLSTN00017/miraculum">MIRACULUM &raquo;</a></td>
+<td>0.11</td>
+<td class=""><b>+0.00%</b></td>
+<td>0.11</td>
+<td>0.10</td>
+<td>0.11</td>
+<td>0.11</td>
+<td>0.11</td>
+<td>674.15</td>
+<td>67.67</td>
+<td>13.16</td>
+<td>0.70</td>
+<td>0.00</td>
+<td>1.11</td>
+<td>-1.48</td>
+<td>-5.42</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLTELL000023/tell">TELL &raquo;</a></td>
+<td>9.30</td>
+<td class="up"><b>+0.54%</b></td>
+<td>9.25</td>
+<td>8.97</td>
+<td>9.30</td>
+<td>9.24</td>
+<td>9.30</td>
+<td>4.32</td>
+<td>39.57</td>
+<td>52.81</td>
+<td>0.40</td>
+<td>6.20</td>
+<td>0.84</td>
+<td>6.90</td>
+<td>15.47</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLEUFLM00017/ergis">ERGIS &raquo;</a></td>
+<td>2.57</td>
+<td class="up"><b>+1.18%</b></td>
+<td>2.54</td>
+<td>2.42</td>
+<td>2.57</td>
+<td>2.54</td>
+<td>2.57</td>
+<td>46.54</td>
+<td>116.35</td>
+<td>101.35</td>
+<td>0.20</td>
+<td>0.00</td>
+<td>0.50</td>
+<td>2.05</td>
+<td>4.36</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLRNBWT00031/rainbow">RAINBOW &raquo;</a></td>
+<td>4.91</td>
+<td class="down"><b>-2.39%</b></td>
+<td>5.03</td>
+<td>4.91</td>
+<td>5.09</td>
+<td>5.03</td>
+<td>4.91</td>
+<td>3.88</td>
+<td>19.41</td>
+<td>71.45</td>
+<td>0.70</td>
+<td>122.80</td>
+<td>1.34</td>
+<td>2.79</td>
+<td>6.54</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBPRMT00011/bipromet">BIPROMET &raquo;</a></td>
+<td>6.64</td>
+<td class="down"><b>-1.48%</b></td>
+<td>6.74</td>
+<td>6.60</td>
+<td>6.75</td>
+<td>6.75</td>
+<td>6.64</td>
+<td>2.70</td>
+<td>17.89</td>
+<td>41.17</td>
+<td>0.50</td>
+<td>6.60</td>
+<td>0.71</td>
+<td>3.65</td>
+<td>5.81</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCMRAY00029/cormay">CORMAY &raquo;</a></td>
+<td>12.91</td>
+<td class="down"><b>-2.34%</b></td>
+<td>13.22</td>
+<td>12.70</td>
+<td>13.13</td>
+<td>12.90</td>
+<td>12.91</td>
+<td>35.75</td>
+<td>458.88</td>
+<td>411.34</td>
+<td>1.00</td>
+<td>24.10</td>
+<td>3.39</td>
+<td>5.16</td>
+<td>6.75</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLKPPD000017/kppd">KPPD &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>24.20</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>24.20</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>0.30</td>
+<td>8.50</td>
+<td>0.72</td>
+<td>-8.78</td>
+<td>-19.21</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMRBUD00015/mirbud">MIRBUD &raquo;</a></td>
+<td>1.04</td>
+<td class="down"><b>-1.89%</b></td>
+<td>1.06</td>
+<td>1.03</td>
+<td>1.07</td>
+<td>1.06</td>
+<td>1.04</td>
+<td>178.94</td>
+<td>187.61</td>
+<td>78.00</td>
+<td>1.40</td>
+<td>6.30</td>
+<td>0.39</td>
+<td>3.31</td>
+<td>8.21</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLRFMET00016/rafamet">RAFAMET &raquo;</a></td>
+<td>16.96</td>
+<td class="down"><b>-1.97%</b></td>
+<td>17.30</td>
+<td>16.96</td>
+<td>16.96</td>
+<td>16.96</td>
+<td>16.96</td>
+<td>0.45</td>
+<td>7.63</td>
+<td>73.25</td>
+<td>0.20</td>
+<td>12.70</td>
+<td>0.93</td>
+<td>2.28</td>
+<td>3.81</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/IT0004781412/unicredit">UNICREDIT &raquo;</a></td>
+<td>15.20</td>
+<td class="down"><b>-0.65%</b></td>
+<td>15.30</td>
+<td>14.77</td>
+<td>15.20</td>
+<td>14.77</td>
+<td>15.20</td>
+<td>3.87</td>
+<td>58.47</td>
+<td>88000.95</td>
+<td>1.10</td>
+<td>81.10</td>
+<td>0.30</td>
+<td>-0.05</td>
+<td>-0.74</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLHELIO00014/helio">HELIO &raquo;</a></td>
+<td>5.51</td>
+<td class="up"><b>+3.38%</b></td>
+<td>5.33</td>
+<td>5.51</td>
+<td>5.51</td>
+<td>5.51</td>
+<td>5.51</td>
+<td>0.20</td>
+<td>1.11</td>
+<td>27.55</td>
+<td>0.90</td>
+<td>34.10</td>
+<td>0.76</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINSTK00013/instalkrk">INSTALKRK &raquo;</a></td>
+<td>16.50</td>
+<td class="down"><b>-0.90%</b></td>
+<td>16.65</td>
+<td>16.50</td>
+<td>16.90</td>
+<td>16.70</td>
+<td>16.50</td>
+<td>2.54</td>
+<td>42.55</td>
+<td>120.21</td>
+<td>0.40</td>
+<td>5.20</td>
+<td>0.69</td>
+<td>7.60</td>
+<td>14.11</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMNRTR00012/monnari">MONNARI &raquo;</a></td>
+<td>3.75</td>
+<td class="down"><b>-2.60%</b></td>
+<td>3.85</td>
+<td>3.69</td>
+<td>3.85</td>
+<td>3.85</td>
+<td>3.75</td>
+<td>147.46</td>
+<td>549.56</td>
+<td>116.29</td>
+<td>1.60</td>
+<td>0.00</td>
+<td>0.54</td>
+<td>-105.37</td>
+<td>-162.90</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLCASPL00019/fon">FON &raquo;</a></td>
+<td>0.09</td>
+<td class=""><b>+0.00%</b></td>
+<td>0.09</td>
+<td>0.09</td>
+<td>0.09</td>
+<td>0.09</td>
+<td>0.09</td>
+<td>200.48</td>
+<td>18.04</td>
+<td>90.72</td>
+<td>0.00</td>
+<td>4.20</td>
+<td>0.19</td>
+<td>-0.55</td>
+<td>-1.54</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLGTC0000037/gtc">GTC &raquo;</a></td>
+<td>8.02</td>
+<td class="down"><b>-0.50%</b></td>
+<td>8.06</td>
+<td>7.83</td>
+<td>8.13</td>
+<td>8.06</td>
+<td>8.02</td>
+<td>481.94</td>
+<td>3878.56</td>
+<td>2561.37</td>
+<td>1.30</td>
+<td>0.00</td>
+<td>0.72</td>
+<td>-4.47</td>
+<td>-12.70</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLARTPR00012/arctic">ARCTIC &raquo;</a></td>
+<td>6.40</td>
+<td class="down"><b>-2.74%</b></td>
+<td>6.58</td>
+<td>6.33</td>
+<td>6.58</td>
+<td>6.58</td>
+<td>6.40</td>
+<td>14.15</td>
+<td>90.44</td>
+<td>438.79</td>
+<td>0.70</td>
+<td>6.50</td>
+<td>0.43</td>
+<td>0.72</td>
+<td>2.30</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINSTL00011/awbud">AWBUD &raquo;</a></td>
+<td>0.57</td>
+<td class="down"><b>-9.52%</b></td>
+<td>0.63</td>
+<td>0.53</td>
+<td>0.59</td>
+<td>0.58</td>
+<td>0.57</td>
+<td>44.51</td>
+<td>25.14</td>
+<td>46.98</td>
+<td>0.10</td>
+<td>10.50</td>
+<td>0.51</td>
+<td>-3.99</td>
+<td>-6.30</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINTCS00010/intercars">INTERCARS &raquo;</a></td>
+<td>105.50</td>
+<td class="down"><b>-1.31%</b></td>
+<td>106.90</td>
+<td>104.40</td>
+<td>106.80</td>
+<td>106.80</td>
+<td>105.50</td>
+<td>0.46</td>
+<td>48.73</td>
+<td>1494.73</td>
+<td>0.00</td>
+<td>11.80</td>
+<td>1.79</td>
+<td>6.79</td>
+<td>14.38</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPLSEP00013/pep">PEP &raquo;</a></td>
+<td>29.10</td>
+<td class="down"><b>-0.82%</b></td>
+<td>29.34</td>
+<td>28.50</td>
+<td>29.40</td>
+<td>29.40</td>
+<td>29.10</td>
+<td>1.25</td>
+<td>36.13</td>
+<td>620.24</td>
+<td>0.70</td>
+<td>4.90</td>
+<td>1.22</td>
+<td>9.41</td>
+<td>18.87</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLPROJP00018/projprzem">PROJPRZEM &raquo;</a></td>
+<td>10.12</td>
+<td class="up"><b>+0.70%</b></td>
+<td>10.05</td>
+<td>10.10</td>
+<td>10.50</td>
+<td>10.10</td>
+<td>10.12</td>
+<td>10.88</td>
+<td>111.79</td>
+<td>60.96</td>
+<td>0.30</td>
+<td>8.80</td>
+<td>0.37</td>
+<td>4.12</td>
+<td>5.58</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCRMNG00029/nowagala">NOWAGALA &raquo;</a></td>
+<td>1.77</td>
+<td class="down"><b>-3.28%</b></td>
+<td>1.83</td>
+<td>1.75</td>
+<td>1.82</td>
+<td>1.82</td>
+<td>1.77</td>
+<td>30.07</td>
+<td>53.48</td>
+<td>100.96</td>
+<td>0.40</td>
+<td>10.50</td>
+<td>0.53</td>
+<td>3.27</td>
+<td>5.08</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLATREM00017/atrem">ATREM &raquo;</a></td>
+<td>4.48</td>
+<td class="down"><b>-3.24%</b></td>
+<td>4.63</td>
+<td>4.25</td>
+<td>4.50</td>
+<td>4.47</td>
+<td>4.48</td>
+<td>15.86</td>
+<td>69.34</td>
+<td>41.35</td>
+<td>0.90</td>
+<td>0.00</td>
+<td>0.49</td>
+<td>-5.23</td>
+<td>-8.34</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLPRCHM00014/prochem">PROCHEM &raquo;</a></td>
+<td>17.70</td>
+<td class=""><b>+0.00%</b></td>
+<td>17.70</td>
+<td>17.70</td>
+<td>17.70</td>
+<td>17.70</td>
+<td>17.70</td>
+<td>0.00</td>
+<td>0.02</td>
+<td>68.94</td>
+<td>0.10</td>
+<td>15.40</td>
+<td>0.42</td>
+<td>-3.62</td>
+<td>-5.65</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLDRZPL00032/drozapol">DROZAPOL &raquo;</a></td>
+<td>0.82</td>
+<td class="down"><b>-1.20%</b></td>
+<td>0.83</td>
+<td>0.80</td>
+<td>0.84</td>
+<td>0.83</td>
+<td>0.82</td>
+<td>52.77</td>
+<td>43.29</td>
+<td>25.09</td>
+<td>0.50</td>
+<td>0.00</td>
+<td>0.46</td>
+<td>-7.84</td>
+<td>-15.43</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPKO0000016/pkobp">PKOBP &raquo;</a></td>
+<td>33.75</td>
+<td class="down"><b>-1.32%</b></td>
+<td>34.20</td>
+<td>33.55</td>
+<td>34.28</td>
+<td>34.00</td>
+<td>33.75</td>
+<td>5637.62</td>
+<td>190666.80</td>
+<td>42187.50</td>
+<td>1.34</td>
+<td>11.30</td>
+<td>1.93</td>
+<td>1.49</td>
+<td>12.09</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLTRFRM00018/neuca">NEUCA &raquo;</a></td>
+<td>141.10</td>
+<td class="up"><b>+1.22%</b></td>
+<td>139.40</td>
+<td>139.20</td>
+<td>143.00</td>
+<td>139.20</td>
+<td>141.10</td>
+<td>1.88</td>
+<td>264.35</td>
+<td>642.71</td>
+<td>0.20</td>
+<td>6.20</td>
+<td>1.37</td>
+<td>3.53</td>
+<td>19.64</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPEKAS00017/pekaes">PEKAES &raquo;</a></td>
+<td>6.09</td>
+<td class="down"><b>-2.87%</b></td>
+<td>6.27</td>
+<td>6.05</td>
+<td>6.10</td>
+<td>6.05</td>
+<td>6.09</td>
+<td>4.71</td>
+<td>28.67</td>
+<td>185.87</td>
+<td>0.10</td>
+<td>0.00</td>
+<td>0.52</td>
+<td>-3.66</td>
+<td>-4.86</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKLNR000017/koelner">KOELNER &raquo;</a></td>
+<td>6.44</td>
+<td class="down"><b>-6.67%</b></td>
+<td>6.90</td>
+<td>6.30</td>
+<td>7.07</td>
+<td>7.07</td>
+<td>6.44</td>
+<td>13.50</td>
+<td>89.07</td>
+<td>209.69</td>
+<td>0.40</td>
+<td>4.10</td>
+<td>0.77</td>
+<td>-0.67</td>
+<td>-1.43</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCCC0000016/ccc">CCC &raquo;</a></td>
+<td>75.00</td>
+<td class="down"><b>-0.60%</b></td>
+<td>75.45</td>
+<td>73.55</td>
+<td>75.60</td>
+<td>75.60</td>
+<td>75.00</td>
+<td>31.07</td>
+<td>2328.71</td>
+<td>2880.00</td>
+<td>0.50</td>
+<td>18.60</td>
+<td>4.86</td>
+<td>14.84</td>
+<td>26.87</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLTVN0000017/tvn">TVN &raquo;</a></td>
+<td>9.40</td>
+<td class="up"><b>+0.64%</b></td>
+<td>9.34</td>
+<td>9.34</td>
+<td>9.48</td>
+<td>9.34</td>
+<td>9.40</td>
+<td>73.27</td>
+<td>688.83</td>
+<td>3232.44</td>
+<td>1.10</td>
+<td>80.60</td>
+<td>2.59</td>
+<td>7.01</td>
+<td>14.62</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/LU0646112838/coalenerg">COALENERG &raquo;</a></td>
+<td>7.80</td>
+<td class="down"><b>-2.99%</b></td>
+<td>8.04</td>
+<td>7.75</td>
+<td>8.00</td>
+<td>7.85</td>
+<td>7.80</td>
+<td>3.78</td>
+<td>29.61</td>
+<td>351.09</td>
+<td>0.90</td>
+<td>4.60</td>
+<td>1.34</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLFOTA000014/fota">FOTA &raquo;</a></td>
+<td>3.77</td>
+<td class="down"><b>-0.79%</b></td>
+<td>3.80</td>
+<td>3.68</td>
+<td>3.83</td>
+<td>3.83</td>
+<td>3.77</td>
+<td>1.53</td>
+<td>5.70</td>
+<td>35.50</td>
+<td>0.50</td>
+<td>0.00</td>
+<td>0.29</td>
+<td>-4.69</td>
+<td>-15.63</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLSFNKS00011/sfinks">SFINKS &raquo;</a></td>
+<td>2.17</td>
+<td class="up"><b>+8.50%</b></td>
+<td>2.00</td>
+<td>2.00</td>
+<td>2.20</td>
+<td>2.00</td>
+<td>2.17</td>
+<td>515.72</td>
+<td>1094.73</td>
+<td>47.97</td>
+<td>1.30</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>-20.90</td>
+<td>24.46</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLHUTMN00017/hutmen">HUTMEN &raquo;</a></td>
+<td>3.17</td>
+<td class="down"><b>-0.63%</b></td>
+<td>3.19</td>
+<td>3.10</td>
+<td>3.17</td>
+<td>3.13</td>
+<td>3.17</td>
+<td>3.80</td>
+<td>11.86</td>
+<td>81.14</td>
+<td>0.50</td>
+<td>10.20</td>
+<td>0.33</td>
+<td>1.39</td>
+<td>2.78</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLDECOR00013/decora">DECORA &raquo;</a></td>
+<td>7.58</td>
+<td class="down"><b>-1.56%</b></td>
+<td>7.70</td>
+<td>7.26</td>
+<td>7.59</td>
+<td>7.59</td>
+<td>7.58</td>
+<td>1.94</td>
+<td>14.62</td>
+<td>85.68</td>
+<td>0.50</td>
+<td>28.80</td>
+<td>0.65</td>
+<td>4.45</td>
+<td>8.40</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLATMSA00013/atm">ATM &raquo;</a></td>
+<td>11.66</td>
+<td class="up"><b>+2.37%</b></td>
+<td>11.39</td>
+<td>11.10</td>
+<td>11.66</td>
+<td>11.10</td>
+<td>11.66</td>
+<td>2.82</td>
+<td>31.61</td>
+<td>423.76</td>
+<td>0.40</td>
+<td>24.60</td>
+<td>1.37</td>
+<td>3.97</td>
+<td>6.08</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLWELTN00012/wielton">WIELTON &raquo;</a></td>
+<td>3.90</td>
+<td class="down"><b>-1.52%</b></td>
+<td>3.96</td>
+<td>3.85</td>
+<td>3.92</td>
+<td>3.92</td>
+<td>3.90</td>
+<td>11.16</td>
+<td>43.24</td>
+<td>235.46</td>
+<td>0.90</td>
+<td>11.10</td>
+<td>1.72</td>
+<td>5.91</td>
+<td>13.79</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/NL0000687309/cciint">CCIINT &raquo;</a></td>
+<td>27.60</td>
+<td class="down"><b>-1.43%</b></td>
+<td>28.00</td>
+<td>27.60</td>
+<td>28.20</td>
+<td>28.20</td>
+<td>27.60</td>
+<td>0.89</td>
+<td>24.63</td>
+<td>1413.12</td>
+<td>0.70</td>
+<td>17.50</td>
+<td>1.54</td>
+<td>4.54</td>
+<td>9.62</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLAMBRA00013/ambra">AMBRA &raquo;</a></td>
+<td>8.95</td>
+<td class=""><b>+0.00%</b></td>
+<td>8.95</td>
+<td>8.71</td>
+<td>8.95</td>
+<td>8.77</td>
+<td>8.95</td>
+<td>2.18</td>
+<td>19.42</td>
+<td>225.60</td>
+<td>0.70</td>
+<td>10.00</td>
+<td>0.68</td>
+<td>2.68</td>
+<td>6.95</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/HU0000068952/mol">MOL &raquo;</a></td>
+<td>234.90</td>
+<td class="up"><b>+0.38%</b></td>
+<td>234.00</td>
+<td>223.00</td>
+<td>235.00</td>
+<td>226.70</td>
+<td>234.90</td>
+<td>8.06</td>
+<td>1801.80</td>
+<td>24551.53</td>
+<td>0.60</td>
+<td>22.40</td>
+<td>0.84</td>
+<td>3.13</td>
+<td>8.81</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLZEPAK00012/zepak">ZEPAK &raquo;</a></td>
+<td>27.92</td>
+<td class="down"><b>-2.10%</b></td>
+<td>28.52</td>
+<td>27.76</td>
+<td>28.50</td>
+<td>28.42</td>
+<td>27.92</td>
+<td>26.53</td>
+<td>745.76</td>
+<td>1452.57</td>
+<td>0.40</td>
+<td>4.70</td>
+<td>0.39</td>
+<td>4.98</td>
+<td>8.94</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLLENAL00015/lena">LENA &raquo;</a></td>
+<td>3.13</td>
+<td class="down"><b>-0.63%</b></td>
+<td>3.15</td>
+<td>2.99</td>
+<td>3.15</td>
+<td>3.15</td>
+<td>3.13</td>
+<td>43.37</td>
+<td>134.01</td>
+<td>77.86</td>
+<td>0.80</td>
+<td>6.70</td>
+<td>0.73</td>
+<td>7.34</td>
+<td>8.58</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLGRAAL00022/graal">GRAAL &raquo;</a></td>
+<td>10.80</td>
+<td class="down"><b>-2.61%</b></td>
+<td>11.09</td>
+<td>10.54</td>
+<td>11.03</td>
+<td>10.90</td>
+<td>10.80</td>
+<td>28.15</td>
+<td>301.02</td>
+<td>87.01</td>
+<td>1.00</td>
+<td>5.00</td>
+<td>0.40</td>
+<td>5.17</td>
+<td>8.87</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/NL0000474351/amrest">AMREST &raquo;</a></td>
+<td>88.50</td>
+<td class="down"><b>-0.17%</b></td>
+<td>88.65</td>
+<td>86.50</td>
+<td>89.00</td>
+<td>87.60</td>
+<td>88.50</td>
+<td>6.53</td>
+<td>574.78</td>
+<td>1877.43</td>
+<td>0.50</td>
+<td>40.40</td>
+<td>1.60</td>
+<td>9.03</td>
+<td>10.68</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLESSYS00030/essystem">ESSYSTEM &raquo;</a></td>
+<td>2.60</td>
+<td class="up"><b>+0.39%</b></td>
+<td>2.59</td>
+<td>2.56</td>
+<td>2.60</td>
+<td>2.56</td>
+<td>2.60</td>
+<td>8.83</td>
+<td>22.94</td>
+<td>111.45</td>
+<td>0.30</td>
+<td>9.90</td>
+<td>0.69</td>
+<td>1.50</td>
+<td>1.91</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCNTSL00014/cognor">COGNOR &raquo;</a></td>
+<td>1.95</td>
+<td class="down"><b>-1.02%</b></td>
+<td>1.97</td>
+<td>1.82</td>
+<td>2.02</td>
+<td>1.92</td>
+<td>1.95</td>
+<td>110.79</td>
+<td>211.31</td>
+<td>129.13</td>
+<td>0.60</td>
+<td>0.00</td>
+<td>0.89</td>
+<td>1.14</td>
+<td>1.86</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLOPTTC00011/cdprojekt">CDPROJEKT &raquo;</a></td>
+<td>6.98</td>
+<td class="down"><b>-1.97%</b></td>
+<td>7.12</td>
+<td>6.65</td>
+<td>7.02</td>
+<td>7.02</td>
+<td>6.98</td>
+<td>203.17</td>
+<td>1396.20</td>
+<td>662.75</td>
+<td>1.20</td>
+<td>28.70</td>
+<td>3.62</td>
+<td>11.52</td>
+<td>16.12</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLLENTX00010/lentex">LENTEX &raquo;</a></td>
+<td>4.72</td>
+<td class="up"><b>+0.64%</b></td>
+<td>4.69</td>
+<td>4.65</td>
+<td>4.82</td>
+<td>4.75</td>
+<td>4.72</td>
+<td>7.86</td>
+<td>37.10</td>
+<td>297.42</td>
+<td>0.30</td>
+<td>10.70</td>
+<td>0.76</td>
+<td>8.39</td>
+<td>11.27</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLELEKT00016/elektroti">ELEKTROTI &raquo;</a></td>
+<td>9.60</td>
+<td class="up"><b>+2.13%</b></td>
+<td>9.40</td>
+<td>9.00</td>
+<td>9.60</td>
+<td>9.40</td>
+<td>9.60</td>
+<td>9.51</td>
+<td>89.23</td>
+<td>95.61</td>
+<td>0.40</td>
+<td>8.70</td>
+<td>0.94</td>
+<td>4.57</td>
+<td>8.03</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBRLNK00017/barlinek">BARLINEK &raquo;</a></td>
+<td>0.78</td>
+<td class="down"><b>-1.27%</b></td>
+<td>0.79</td>
+<td>0.77</td>
+<td>0.79</td>
+<td>0.79</td>
+<td>0.78</td>
+<td>94.98</td>
+<td>74.21</td>
+<td>198.16</td>
+<td>1.10</td>
+<td>0.00</td>
+<td>0.54</td>
+<td>-3.33</td>
+<td>-8.87</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLZPUE000012/zpue">ZPUE &raquo;</a></td>
+<td>339.00</td>
+<td class="up"><b>+0.41%</b></td>
+<td>337.60</td>
+<td>338.00</td>
+<td>342.00</td>
+<td>338.00</td>
+<td>339.00</td>
+<td>0.43</td>
+<td>147.46</td>
+<td>474.60</td>
+<td>0.30</td>
+<td>13.50</td>
+<td>1.80</td>
+<td>7.39</td>
+<td>13.14</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPGNIG00014/pgnig">PGNIG &raquo;</a></td>
+<td>5.80</td>
+<td class="down"><b>-1.02%</b></td>
+<td>5.86</td>
+<td>5.80</td>
+<td>5.91</td>
+<td>5.85</td>
+<td>5.80</td>
+<td>1832.18</td>
+<td>10713.08</td>
+<td>34220.00</td>
+<td>0.90</td>
+<td>41.20</td>
+<td>1.03</td>
+<td>4.67</td>
+<td>8.21</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLZAPUL00057/pulawy">PULAWY &raquo;</a></td>
+<td>131.50</td>
+<td class=""><b>+0.00%</b></td>
+<td>131.50</td>
+<td>131.50</td>
+<td>131.60</td>
+<td>131.50</td>
+<td>131.50</td>
+<td>4.63</td>
+<td>609.50</td>
+<td>2513.62</td>
+<td>0.50</td>
+<td>4.20</td>
+<td>1.01</td>
+<td>14.40</td>
+<td>20.37</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLCTINT00018/cityinter">CITYINTER &raquo;</a></td>
+<td>23.45</td>
+<td class="up"><b>+0.64%</b></td>
+<td>23.30</td>
+<td>23.20</td>
+<td>23.45</td>
+<td>23.20</td>
+<td>23.45</td>
+<td>7.78</td>
+<td>180.86</td>
+<td>296.64</td>
+<td>0.80</td>
+<td>122.10</td>
+<td>4.88</td>
+<td>-27.32</td>
+<td>-49.91</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLMSZKO00010/mieszko">MIESZKO &raquo;</a></td>
+<td>5.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>5.00</td>
+<td>4.66</td>
+<td>5.01</td>
+<td>4.90</td>
+<td>5.00</td>
+<td>82.19</td>
+<td>400.03</td>
+<td>204.33</td>
+<td>0.40</td>
+<td>5.40</td>
+<td>0.91</td>
+<td>6.35</td>
+<td>20.15</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLVNDEX00013/vindexus">VINDEXUS &raquo;</a></td>
+<td>4.24</td>
+<td class="down"><b>-1.40%</b></td>
+<td>4.30</td>
+<td>4.08</td>
+<td>4.24</td>
+<td>4.24</td>
+<td>4.24</td>
+<td>5.69</td>
+<td>23.56</td>
+<td>49.15</td>
+<td>0.30</td>
+<td>8.90</td>
+<td>0.41</td>
+<td>5.11</td>
+<td>8.25</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLDMDVL00012/domdev">DOMDEV &raquo;</a></td>
+<td>30.00</td>
+<td class="down"><b>-4.76%</b></td>
+<td>31.50</td>
+<td>29.21</td>
+<td>31.35</td>
+<td>31.35</td>
+<td>30.00</td>
+<td>1.91</td>
+<td>57.04</td>
+<td>742.24</td>
+<td>0.80</td>
+<td>7.30</td>
+<td>0.88</td>
+<td>6.94</td>
+<td>13.67</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLALIOR00045/alior">ALIOR &raquo;</a></td>
+<td>67.00</td>
+<td class="down"><b>-1.33%</b></td>
+<td>67.90</td>
+<td>66.60</td>
+<td>68.90</td>
+<td>67.00</td>
+<td>67.00</td>
+<td>86.14</td>
+<td>5785.00</td>
+<td>4260.06</td>
+<td>2246352.00</td>
+<td>0.11</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMSTWS00019/mostalwar">MOSTALWAR &raquo;</a></td>
+<td>8.00</td>
+<td class="down"><b>-32.32%</b></td>
+<td>11.82</td>
+<td>8.00</td>
+<td>11.74</td>
+<td>11.74</td>
+<td>8.00</td>
+<td>30.46</td>
+<td>263.03</td>
+<td>160.00</td>
+<td>0.80</td>
+<td>0.00</td>
+<td>0.58</td>
+<td>-6.80</td>
+<td>-41.44</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKRCHM00015/alma">ALMA &raquo;</a></td>
+<td>29.30</td>
+<td class="down"><b>-2.04%</b></td>
+<td>29.91</td>
+<td>29.03</td>
+<td>29.95</td>
+<td>29.95</td>
+<td>29.30</td>
+<td>1.18</td>
+<td>34.68</td>
+<td>162.94</td>
+<td>0.30</td>
+<td>29.30</td>
+<td>0.56</td>
+<td>-0.19</td>
+<td>-0.60</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLFERUM00014/ferrum">FERRUM &raquo;</a></td>
+<td>7.07</td>
+<td class="down"><b>-0.14%</b></td>
+<td>7.08</td>
+<td>6.81</td>
+<td>7.08</td>
+<td>6.81</td>
+<td>7.07</td>
+<td>0.62</td>
+<td>4.36</td>
+<td>173.52</td>
+<td>0.20</td>
+<td>71.20</td>
+<td>1.03</td>
+<td>0.77</td>
+<td>1.88</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLROPCE00017/ropczyce">ROPCZYCE &raquo;</a></td>
+<td>16.39</td>
+<td class="down"><b>-0.67%</b></td>
+<td>16.50</td>
+<td>16.00</td>
+<td>16.67</td>
+<td>16.67</td>
+<td>16.39</td>
+<td>0.83</td>
+<td>13.37</td>
+<td>75.49</td>
+<td>0.50</td>
+<td>6.30</td>
+<td>0.36</td>
+<td>2.53</td>
+<td>4.17</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPOLND00019/polnord">POLNORD &raquo;</a></td>
+<td>7.94</td>
+<td class="down"><b>-4.22%</b></td>
+<td>8.29</td>
+<td>7.56</td>
+<td>8.34</td>
+<td>8.20</td>
+<td>7.94</td>
+<td>153.75</td>
+<td>1223.12</td>
+<td>203.53</td>
+<td>1.90</td>
+<td>10.90</td>
+<td>0.22</td>
+<td>1.41</td>
+<td>2.52</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMCIMG00012/mci">MCI &raquo;</a></td>
+<td>6.96</td>
+<td class="down"><b>-2.11%</b></td>
+<td>7.11</td>
+<td>6.85</td>
+<td>7.04</td>
+<td>7.04</td>
+<td>6.96</td>
+<td>91.81</td>
+<td>633.23</td>
+<td>433.93</td>
+<td>1.20</td>
+<td>38.00</td>
+<td>0.52</td>
+<td>5.30</td>
+<td>7.22</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLIDMSA00044/idmsa">IDMSA &raquo;</a></td>
+<td>0.14</td>
+<td class=""><b>+0.00%</b></td>
+<td>0.14</td>
+<td>0.14</td>
+<td>0.15</td>
+<td>0.15</td>
+<td>0.14</td>
+<td>2471.24</td>
+<td>346.98</td>
+<td>88.88</td>
+<td>1.00</td>
+<td>0.00</td>
+<td>0.13</td>
+<td>-59.52</td>
+<td>-188.07</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/LU0299378421/ace">ACE &raquo;</a></td>
+<td>7.27</td>
+<td class="down"><b>-0.41%</b></td>
+<td>7.30</td>
+<td>7.17</td>
+<td>7.27</td>
+<td>7.20</td>
+<td>7.27</td>
+<td>42.80</td>
+<td>308.32</td>
+<td>154.35</td>
+<td>0.50</td>
+<td>18.30</td>
+<td>0.69</td>
+<td>2.85</td>
+<td>5.83</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLIPOPM00011/ipopema">IPOPEMA &raquo;</a></td>
+<td>8.60</td>
+<td class="down"><b>-1.04%</b></td>
+<td>8.69</td>
+<td>8.46</td>
+<td>8.89</td>
+<td>8.89</td>
+<td>8.60</td>
+<td>2.11</td>
+<td>17.93</td>
+<td>257.47</td>
+<td>0.90</td>
+<td>31.80</td>
+<td>2.61</td>
+<td>1.26</td>
+<td>8.69</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLENEA000013/enea">ENEA &raquo;</a></td>
+<td>13.80</td>
+<td class="down"><b>-3.50%</b></td>
+<td>14.30</td>
+<td>13.80</td>
+<td>14.50</td>
+<td>14.50</td>
+<td>13.80</td>
+<td>127.07</td>
+<td>1768.68</td>
+<td>6091.91</td>
+<td>0.70</td>
+<td>8.30</td>
+<td>0.64</td>
+<td>6.42</td>
+<td>6.96</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMNNCP00011/mennica">MENNICA &raquo;</a></td>
+<td>19.70</td>
+<td class="down"><b>-4.37%</b></td>
+<td>20.60</td>
+<td>19.15</td>
+<td>20.13</td>
+<td>20.13</td>
+<td>19.70</td>
+<td>14.38</td>
+<td>282.33</td>
+<td>1021.09</td>
+<td>0.40</td>
+<td>13.50</td>
+<td>2.12</td>
+<td>11.84</td>
+<td>20.94</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLHOOP000010/kofola">KOFOLA &raquo;</a></td>
+<td>25.50</td>
+<td class="down"><b>-1.92%</b></td>
+<td>26.00</td>
+<td>25.50</td>
+<td>26.00</td>
+<td>26.00</td>
+<td>25.50</td>
+<td>0.38</td>
+<td>9.91</td>
+<td>667.40</td>
+<td>0.50</td>
+<td>24.50</td>
+<td>1.38</td>
+<td>3.39</td>
+<td>3.69</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMSTZB00018/mostalzab">MOSTALZAB &raquo;</a></td>
+<td>1.32</td>
+<td class="down"><b>-1.49%</b></td>
+<td>1.34</td>
+<td>1.29</td>
+<td>1.33</td>
+<td>1.30</td>
+<td>1.32</td>
+<td>90.22</td>
+<td>118.43</td>
+<td>196.85</td>
+<td>0.90</td>
+<td>14.30</td>
+<td>0.67</td>
+<td>-4.22</td>
+<td>-7.44</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLTRKPL00014/trakcja">TRAKCJA &raquo;</a></td>
+<td>0.41</td>
+<td class="down"><b>-12.77%</b></td>
+<td>0.47</td>
+<td>0.40</td>
+<td>0.45</td>
+<td>0.45</td>
+<td>0.41</td>
+<td>2185.52</td>
+<td>906.68</td>
+<td>168.59</td>
+<td>1.20</td>
+<td>1.60</td>
+<td>0.36</td>
+<td>15.04</td>
+<td>28.36</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLGNRSI00015/ginorossi">GINOROSSI &raquo;</a></td>
+<td>1.40</td>
+<td class="down"><b>-2.78%</b></td>
+<td>1.44</td>
+<td>1.36</td>
+<td>1.44</td>
+<td>1.40</td>
+<td>1.40</td>
+<td>230.01</td>
+<td>320.51</td>
+<td>66.86</td>
+<td>0.90</td>
+<td>6.50</td>
+<td>0.49</td>
+<td>2.38</td>
+<td>5.65</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLLUBAW00013/lubawa">LUBAWA &raquo;</a></td>
+<td>1.35</td>
+<td class="up"><b>+1.50%</b></td>
+<td>1.33</td>
+<td>1.29</td>
+<td>1.38</td>
+<td>1.31</td>
+<td>1.35</td>
+<td>1039.42</td>
+<td>1384.35</td>
+<td>147.51</td>
+<td>0.90</td>
+<td>10.70</td>
+<td>0.40</td>
+<td>1.99</td>
+<td>3.06</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLPMPOL00031/pamapol">PAMAPOL &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>2.42</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>2.42</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>0.30</td>
+<td>0.00</td>
+<td>0.55</td>
+<td>0.23</td>
+<td>0.92</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLUNBEP00015/unibep">UNIBEP &raquo;</a></td>
+<td>6.34</td>
+<td class="down"><b>-0.16%</b></td>
+<td>6.35</td>
+<td>6.29</td>
+<td>6.40</td>
+<td>6.39</td>
+<td>6.34</td>
+<td>5.84</td>
+<td>37.11</td>
+<td>215.70</td>
+<td>0.30</td>
+<td>7.40</td>
+<td>1.07</td>
+<td>4.55</td>
+<td>13.22</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLFAMUR00012/famur">FAMUR &raquo;</a></td>
+<td>4.70</td>
+<td class="down"><b>-2.29%</b></td>
+<td>4.81</td>
+<td>4.70</td>
+<td>4.82</td>
+<td>4.81</td>
+<td>4.70</td>
+<td>108.81</td>
+<td>520.32</td>
+<td>2263.05</td>
+<td>0.60</td>
+<td>12.60</td>
+<td>2.89</td>
+<td>24.90</td>
+<td>49.03</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLNFI0500012/rubicon">RUBICON &raquo;</a></td>
+<td>0.14</td>
+<td class="up"><b>+7.69%</b></td>
+<td>0.13</td>
+<td>0.12</td>
+<td>0.14</td>
+<td>0.13</td>
+<td>0.14</td>
+<td>418.32</td>
+<td>54.33</td>
+<td>&ndash;</td>
+<td>0.63</td>
+<td>19.30</td>
+<td>0.28</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLACTIN00018/action">ACTION &raquo;</a></td>
+<td>31.15</td>
+<td class="down"><b>-2.04%</b></td>
+<td>31.80</td>
+<td>31.15</td>
+<td>32.00</td>
+<td>31.16</td>
+<td>31.15</td>
+<td>2.34</td>
+<td>73.82</td>
+<td>511.17</td>
+<td>0.50</td>
+<td>7.40</td>
+<td>1.44</td>
+<td>5.62</td>
+<td>19.15</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPOLNA00015/polna">POLNA &raquo;</a></td>
+<td>12.45</td>
+<td class="down"><b>-0.40%</b></td>
+<td>12.50</td>
+<td>12.45</td>
+<td>12.50</td>
+<td>12.50</td>
+<td>12.45</td>
+<td>0.38</td>
+<td>4.73</td>
+<td>26.31</td>
+<td>0.50</td>
+<td>7.90</td>
+<td>0.60</td>
+<td>-47.79</td>
+<td>-61.45</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/NL0000686509/astarta">ASTARTA &raquo;</a></td>
+<td>57.00</td>
+<td class="down"><b>-1.72%</b></td>
+<td>58.00</td>
+<td>56.80</td>
+<td>58.65</td>
+<td>58.00</td>
+<td>57.00</td>
+<td>6.31</td>
+<td>359.93</td>
+<td>1425.00</td>
+<td>0.60</td>
+<td>4.20</td>
+<td>0.95</td>
+<td>11.65</td>
+<td>20.27</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSKTAN00010/skotan">SKOTAN &raquo;</a></td>
+<td>3.95</td>
+<td class="down"><b>-3.42%</b></td>
+<td>4.09</td>
+<td>3.88</td>
+<td>4.04</td>
+<td>3.90</td>
+<td>3.95</td>
+<td>166.43</td>
+<td>651.90</td>
+<td>213.30</td>
+<td>1.50</td>
+<td>0.00</td>
+<td>4.04</td>
+<td>-15.80</td>
+<td>-20.12</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLFAM0000012/fam">FAM &raquo;</a></td>
+<td>1.47</td>
+<td class="up"><b>+1.38%</b></td>
+<td>1.45</td>
+<td>1.42</td>
+<td>1.50</td>
+<td>1.48</td>
+<td>1.47</td>
+<td>89.45</td>
+<td>132.63</td>
+<td>46.87</td>
+<td>0.70</td>
+<td>16.80</td>
+<td>0.48</td>
+<td>2.16</td>
+<td>4.54</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPZBDT00013/pozbud">POZBUD &raquo;</a></td>
+<td>4.12</td>
+<td class="down"><b>-1.90%</b></td>
+<td>4.20</td>
+<td>3.95</td>
+<td>4.17</td>
+<td>4.12</td>
+<td>4.12</td>
+<td>4.17</td>
+<td>16.59</td>
+<td>96.32</td>
+<td>0.60</td>
+<td>9.20</td>
+<td>0.63</td>
+<td>4.45</td>
+<td>6.93</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPTMED00015/teresa">TERESA &raquo;</a></td>
+<td>15.50</td>
+<td class="down"><b>-3.06%</b></td>
+<td>15.99</td>
+<td>15.45</td>
+<td>15.80</td>
+<td>15.80</td>
+<td>15.50</td>
+<td>0.52</td>
+<td>8.01</td>
+<td>37.33</td>
+<td>0.50</td>
+<td>12.80</td>
+<td>2.02</td>
+<td>11.26</td>
+<td>13.16</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLINTFR00023/interferi">INTERFERI &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>4.97</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>4.97</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>-0.10</td>
+<td>0.00</td>
+<td>0.73</td>
+<td>2.59</td>
+<td>3.22</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/CZ0005112300/cez">CEZ &raquo;</a></td>
+<td>92.50</td>
+<td class="down"><b>-0.32%</b></td>
+<td>92.80</td>
+<td>92.50</td>
+<td>94.00</td>
+<td>93.00</td>
+<td>92.50</td>
+<td>1.78</td>
+<td>165.04</td>
+<td>49764.05</td>
+<td>0.10</td>
+<td>8.40</td>
+<td>1.61</td>
+<td>6.51</td>
+<td>16.56</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLMGLAN00018/magellan">MAGELLAN &raquo;</a></td>
+<td>53.55</td>
+<td class="up"><b>+1.04%</b></td>
+<td>53.00</td>
+<td>51.10</td>
+<td>54.30</td>
+<td>54.30</td>
+<td>53.55</td>
+<td>120.55</td>
+<td>6389.27</td>
+<td>348.83</td>
+<td>0.10</td>
+<td>8.10</td>
+<td>1.42</td>
+<td>3.89</td>
+<td>17.13</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLQMKSK00017/qumak">QUMAK &raquo;</a></td>
+<td>13.06</td>
+<td class="down"><b>-1.06%</b></td>
+<td>13.20</td>
+<td>13.05</td>
+<td>13.20</td>
+<td>13.20</td>
+<td>13.06</td>
+<td>1.03</td>
+<td>13.54</td>
+<td>135.50</td>
+<td>0.20</td>
+<td>8.80</td>
+<td>1.04</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINCLT00015/investcon">INVESTCON &raquo;</a></td>
+<td>0.99</td>
+<td class="down"><b>-3.88%</b></td>
+<td>1.03</td>
+<td>0.96</td>
+<td>1.02</td>
+<td>1.02</td>
+<td>0.99</td>
+<td>12.54</td>
+<td>12.36</td>
+<td>33.04</td>
+<td>-0.10</td>
+<td>0.00</td>
+<td>1.15</td>
+<td>-27.56</td>
+<td>-28.31</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLNTMDA00018/netmedia">NETMEDIA &raquo;</a></td>
+<td>3.14</td>
+<td class="down"><b>-0.32%</b></td>
+<td>3.15</td>
+<td>3.00</td>
+<td>3.14</td>
+<td>3.14</td>
+<td>3.14</td>
+<td>6.24</td>
+<td>18.74</td>
+<td>38.15</td>
+<td>0.30</td>
+<td>10.50</td>
+<td>0.76</td>
+<td>2.86</td>
+<td>4.14</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/US1534351028/cedc">CEDC &raquo;</a></td>
+<td>1.01</td>
+<td class="down"><b>-7.34%</b></td>
+<td>1.09</td>
+<td>0.99</td>
+<td>1.08</td>
+<td>1.04</td>
+<td>1.01</td>
+<td>1842.27</td>
+<td>1889.03</td>
+<td>82.33</td>
+<td>0.60</td>
+<td>0.00</td>
+<td>0.86</td>
+<td>-22.80</td>
+<td>-187.94</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLZRWZW00012/herkules">HERKULES &raquo;</a></td>
+<td>1.14</td>
+<td class="up"><b>+0.88%</b></td>
+<td>1.13</td>
+<td>1.10</td>
+<td>1.16</td>
+<td>1.13</td>
+<td>1.14</td>
+<td>60.17</td>
+<td>68.20</td>
+<td>49.49</td>
+<td>0.70</td>
+<td>7.00</td>
+<td>0.30</td>
+<td>-1.26</td>
+<td>-2.25</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/LU0275164910/pegas">PEGAS &raquo;</a></td>
+<td>89.00</td>
+<td class="up"><b>+9.34%</b></td>
+<td>81.40</td>
+<td>89.00</td>
+<td>89.00</td>
+<td>89.00</td>
+<td>89.00</td>
+<td>0.06</td>
+<td>5.25</td>
+<td>821.42</td>
+<td>-0.40</td>
+<td>13.30</td>
+<td>1.17</td>
+<td>5.60</td>
+<td>14.82</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLAPLS000016/aplisens">APLISENS &raquo;</a></td>
+<td>16.25</td>
+<td class="down"><b>-1.52%</b></td>
+<td>16.50</td>
+<td>15.60</td>
+<td>17.00</td>
+<td>16.50</td>
+<td>16.25</td>
+<td>4.38</td>
+<td>70.16</td>
+<td>215.10</td>
+<td>0.30</td>
+<td>13.60</td>
+<td>1.75</td>
+<td>10.72</td>
+<td>11.56</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLARTER00016/arteria">ARTERIA &raquo;</a></td>
+<td>14.39</td>
+<td class="up"><b>+0.98%</b></td>
+<td>14.25</td>
+<td>14.00</td>
+<td>14.44</td>
+<td>14.00</td>
+<td>14.39</td>
+<td>11.19</td>
+<td>160.02</td>
+<td>61.50</td>
+<td>0.10</td>
+<td>7.00</td>
+<td>1.04</td>
+<td>10.55</td>
+<td>17.84</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/AT0000827209/warimpex">WARIMPEX &raquo;</a></td>
+<td>5.59</td>
+<td class="down"><b>-0.18%</b></td>
+<td>5.60</td>
+<td>5.43</td>
+<td>5.59</td>
+<td>5.43</td>
+<td>5.59</td>
+<td>0.95</td>
+<td>5.28</td>
+<td>301.86</td>
+<td>0.20</td>
+<td>4.80</td>
+<td>0.62</td>
+<td>-0.13</td>
+<td>-0.69</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLERTEL00011/eurotel">EUROTEL &raquo;</a></td>
+<td>19.10</td>
+<td class="up"><b>+1.06%</b></td>
+<td>18.90</td>
+<td>18.90</td>
+<td>19.70</td>
+<td>18.90</td>
+<td>19.10</td>
+<td>6.64</td>
+<td>126.94</td>
+<td>71.59</td>
+<td>0.30</td>
+<td>7.00</td>
+<td>1.46</td>
+<td>10.70</td>
+<td>20.86</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLVENTS00019/hawe">HAWE &raquo;</a></td>
+<td>3.08</td>
+<td class="down"><b>-6.95%</b></td>
+<td>3.31</td>
+<td>2.89</td>
+<td>3.16</td>
+<td>3.13</td>
+<td>3.08</td>
+<td>2859.07</td>
+<td>8616.35</td>
+<td>330.29</td>
+<td>1.70</td>
+<td>7.80</td>
+<td>1.41</td>
+<td>13.03</td>
+<td>13.14</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLOPNFN00010/openfin">OPENFIN &raquo;</a></td>
+<td>13.08</td>
+<td class="down"><b>-2.32%</b></td>
+<td>13.39</td>
+<td>13.08</td>
+<td>13.11</td>
+<td>13.11</td>
+<td>13.08</td>
+<td>1.21</td>
+<td>15.85</td>
+<td>709.59</td>
+<td>0.20</td>
+<td>8.60</td>
+<td>2.99</td>
+<td>20.50</td>
+<td>34.03</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLGRBRN00012/alchemia">ALCHEMIA &raquo;</a></td>
+<td>4.10</td>
+<td class="down"><b>-6.82%</b></td>
+<td>4.40</td>
+<td>4.10</td>
+<td>4.45</td>
+<td>4.38</td>
+<td>4.10</td>
+<td>89.29</td>
+<td>383.15</td>
+<td>848.70</td>
+<td>0.50</td>
+<td>8.40</td>
+<td>1.55</td>
+<td>4.12</td>
+<td>6.06</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLNFI0400015/blacklion">BLACKLION &raquo;</a></td>
+<td>1.31</td>
+<td class="down"><b>-0.76%</b></td>
+<td>1.32</td>
+<td>1.19</td>
+<td>1.31</td>
+<td>1.24</td>
+<td>1.31</td>
+<td>217.08</td>
+<td>272.60</td>
+<td>&ndash;</td>
+<td>0.65</td>
+<td>0.00</td>
+<td>0.27</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLBAUMA00017/ulma">ULMA &raquo;</a></td>
+<td>54.85</td>
+<td class="up"><b>+1.76%</b></td>
+<td>53.90</td>
+<td>53.90</td>
+<td>54.85</td>
+<td>53.90</td>
+<td>54.85</td>
+<td>0.06</td>
+<td>3.35</td>
+<td>288.27</td>
+<td>0.20</td>
+<td>6.60</td>
+<td>0.69</td>
+<td>4.38</td>
+<td>6.32</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLLWBGD00016/bogdanka">BOGDANKA &raquo;</a></td>
+<td>124.10</td>
+<td class="up"><b>+0.08%</b></td>
+<td>124.00</td>
+<td>123.30</td>
+<td>126.00</td>
+<td>124.00</td>
+<td>124.10</td>
+<td>50.43</td>
+<td>6272.72</td>
+<td>4221.09</td>
+<td>0.80</td>
+<td>10.10</td>
+<td>1.81</td>
+<td>12.07</td>
+<td>18.02</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCFRPT00013/cyfrplsat">CYFRPLSAT &raquo;</a></td>
+<td>16.13</td>
+<td class="down"><b>-5.12%</b></td>
+<td>17.00</td>
+<td>16.13</td>
+<td>16.94</td>
+<td>16.86</td>
+<td>16.13</td>
+<td>125.44</td>
+<td>2061.20</td>
+<td>5618.93</td>
+<td>0.70</td>
+<td>15.50</td>
+<td>2.26</td>
+<td>10.76</td>
+<td>24.24</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLERBUD00012/erbud">ERBUD &raquo;</a></td>
+<td>16.74</td>
+<td class="up"><b>+2.32%</b></td>
+<td>16.36</td>
+<td>16.19</td>
+<td>16.74</td>
+<td>16.36</td>
+<td>16.74</td>
+<td>0.21</td>
+<td>3.49</td>
+<td>212.23</td>
+<td>0.20</td>
+<td>12.10</td>
+<td>0.82</td>
+<td>1.88</td>
+<td>6.81</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLADVPL00029/smt">SMT &raquo;</a></td>
+<td>14.33</td>
+<td class="down"><b>-0.49%</b></td>
+<td>14.40</td>
+<td>14.10</td>
+<td>15.49</td>
+<td>14.10</td>
+<td>14.33</td>
+<td>2.54</td>
+<td>37.29</td>
+<td>152.94</td>
+<td>0.20</td>
+<td>13.70</td>
+<td>3.16</td>
+<td>19.69</td>
+<td>72.44</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLPRCHK00018/prochnik">PROCHNIK &raquo;</a></td>
+<td>0.43</td>
+<td class="up"><b>+2.38%</b></td>
+<td>0.42</td>
+<td>0.40</td>
+<td>0.43</td>
+<td>0.42</td>
+<td>0.43</td>
+<td>251.84</td>
+<td>105.94</td>
+<td>121.47</td>
+<td>0.80</td>
+<td>0.00</td>
+<td>1.25</td>
+<td>-72.63</td>
+<td>-98.80</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMSTEX00017/mostalexp">MOSTALEXP &raquo;</a></td>
+<td>0.26</td>
+<td class="down"><b>-3.70%</b></td>
+<td>0.27</td>
+<td>0.25</td>
+<td>0.27</td>
+<td>0.27</td>
+<td>0.26</td>
+<td>309.98</td>
+<td>80.76</td>
+<td>23.76</td>
+<td>0.40</td>
+<td>0.00</td>
+<td>0.44</td>
+<td>-42.96</td>
+<td>-102.78</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLBYTOM00010/bytom">BYTOM &raquo;</a></td>
+<td>0.35</td>
+<td class="up"><b>+2.94%</b></td>
+<td>0.34</td>
+<td>0.32</td>
+<td>0.35</td>
+<td>0.32</td>
+<td>0.35</td>
+<td>221.82</td>
+<td>74.36</td>
+<td>24.94</td>
+<td>0.30</td>
+<td>0.00</td>
+<td>0.89</td>
+<td>-18.11</td>
+<td>-45.62</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPPWK000014/mit">MIT &raquo;</a></td>
+<td>0.38</td>
+<td class="down"><b>-2.56%</b></td>
+<td>0.39</td>
+<td>0.37</td>
+<td>0.39</td>
+<td>0.39</td>
+<td>0.38</td>
+<td>47.82</td>
+<td>18.07</td>
+<td>60.67</td>
+<td>0.80</td>
+<td>3.10</td>
+<td>0.19</td>
+<td>1.47</td>
+<td>1.62</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLELPO000016/wikana">WIKANA &raquo;</a></td>
+<td>0.39</td>
+<td class="up"><b>+2.63%</b></td>
+<td>0.38</td>
+<td>0.38</td>
+<td>0.40</td>
+<td>0.39</td>
+<td>0.39</td>
+<td>3.89</td>
+<td>1.49</td>
+<td>65.39</td>
+<td>0.40</td>
+<td>3.90</td>
+<td>0.61</td>
+<td>1.97</td>
+<td>3.44</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLPEPES00018/pepees">PEPEES &raquo;</a></td>
+<td>0.81</td>
+<td class=""><b>+0.00%</b></td>
+<td>0.81</td>
+<td>0.81</td>
+<td>0.82</td>
+<td>0.81</td>
+<td>0.81</td>
+<td>17.98</td>
+<td>14.58</td>
+<td>67.23</td>
+<td>0.40</td>
+<td>18.20</td>
+<td>0.78</td>
+<td>1.12</td>
+<td>1.72</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLNFI0300017/jupiter">JUPITER &raquo;</a></td>
+<td>0.57</td>
+<td class="down"><b>-5.00%</b></td>
+<td>0.60</td>
+<td>0.57</td>
+<td>0.59</td>
+<td>0.59</td>
+<td>0.57</td>
+<td>44.25</td>
+<td>25.57</td>
+<td>56.51</td>
+<td>1.10</td>
+<td>11.60</td>
+<td>0.22</td>
+<td>-13.66</td>
+<td>-19.91</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLNFI0600010/06magna">06MAGNA &raquo;</a></td>
+<td>0.19</td>
+<td class="down"><b>-9.52%</b></td>
+<td>0.21</td>
+<td>0.19</td>
+<td>0.20</td>
+<td>0.20</td>
+<td>0.19</td>
+<td>75.48</td>
+<td>14.44</td>
+<td>26.45</td>
+<td>1.30</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>-2.81</td>
+<td>-4.21</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLNFI0700018/impera">IMPERA &raquo;</a></td>
+<td>0.44</td>
+<td class="up"><b>+10.00%</b></td>
+<td>0.40</td>
+<td>0.39</td>
+<td>0.44</td>
+<td>0.41</td>
+<td>0.44</td>
+<td>66.05</td>
+<td>28.17</td>
+<td>&ndash;</td>
+<td>0.75</td>
+<td>0.00</td>
+<td>0.42</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLNFI0800016/08octava">08OCTAVA &raquo;</a></td>
+<td>0.73</td>
+<td class=""><b>+0.00%</b></td>
+<td>0.73</td>
+<td>0.72</td>
+<td>0.73</td>
+<td>0.73</td>
+<td>0.73</td>
+<td>3.29</td>
+<td>2.40</td>
+<td>31.23</td>
+<td>0.40</td>
+<td>0.20</td>
+<td>0.08</td>
+<td>31.56</td>
+<td>32.01</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLNFI0900014/midas">MIDAS &raquo;</a></td>
+<td>0.80</td>
+<td class="down"><b>-2.44%</b></td>
+<td>0.82</td>
+<td>0.78</td>
+<td>0.82</td>
+<td>0.81</td>
+<td>0.80</td>
+<td>8107.14</td>
+<td>6427.91</td>
+<td>&ndash;</td>
+<td>1.21</td>
+<td>0.00</td>
+<td>0.98</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLNFI1000012/bbizennfi">BBIZENNFI &raquo;</a></td>
+<td>0.17</td>
+<td class=""><b>+0.00%</b></td>
+<td>0.17</td>
+<td>0.16</td>
+<td>0.17</td>
+<td>0.16</td>
+<td>0.17</td>
+<td>57.22</td>
+<td>9.17</td>
+<td>&ndash;</td>
+<td>0.48</td>
+<td>0.00</td>
+<td>0.58</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLNFI1200018/bbidevnfi">BBIDEVNFI &raquo;</a></td>
+<td>0.38</td>
+<td class="down"><b>-2.56%</b></td>
+<td>0.39</td>
+<td>0.37</td>
+<td>0.39</td>
+<td>0.38</td>
+<td>0.38</td>
+<td>674.21</td>
+<td>258.42</td>
+<td>198.77</td>
+<td>0.40</td>
+<td>47.30</td>
+<td>0.77</td>
+<td>0.88</td>
+<td>1.31</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLNFI1500011/nfiemf">NFIEMF &raquo;</a></td>
+<td>18.79</td>
+<td class="down"><b>-0.05%</b></td>
+<td>18.80</td>
+<td>18.00</td>
+<td>18.80</td>
+<td>18.80</td>
+<td>18.79</td>
+<td>1.38</td>
+<td>25.73</td>
+<td>1985.66</td>
+<td>0.10</td>
+<td>65.10</td>
+<td>2.28</td>
+<td>0.24</td>
+<td>0.97</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBRSTM00015/calatrava">CALATRAVA &raquo;</a></td>
+<td>0.30</td>
+<td class="down"><b>-6.25%</b></td>
+<td>0.32</td>
+<td>0.30</td>
+<td>0.32</td>
+<td>0.32</td>
+<td>0.30</td>
+<td>8523.88</td>
+<td>2598.93</td>
+<td>150.00</td>
+<td>0.60</td>
+<td>43.40</td>
+<td>1.08</td>
+<td>-2.23</td>
+<td>-3.11</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLHDRTR00013/hydrotor">HYDROTOR &raquo;</a></td>
+<td>28.00</td>
+<td class="up"><b>+0.04%</b></td>
+<td>27.99</td>
+<td>27.99</td>
+<td>28.30</td>
+<td>28.30</td>
+<td>28.00</td>
+<td>0.61</td>
+<td>17.02</td>
+<td>67.15</td>
+<td>0.20</td>
+<td>8.90</td>
+<td>0.99</td>
+<td>5.59</td>
+<td>8.32</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLAGORA00067/agora">AGORA &raquo;</a></td>
+<td>8.15</td>
+<td class="down"><b>-6.96%</b></td>
+<td>8.76</td>
+<td>8.07</td>
+<td>8.75</td>
+<td>8.75</td>
+<td>8.15</td>
+<td>29.09</td>
+<td>240.57</td>
+<td>415.14</td>
+<td>1.00</td>
+<td>0.00</td>
+<td>0.37</td>
+<td>-0.53</td>
+<td>-0.76</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLAMICA00010/amica">AMICA &raquo;</a></td>
+<td>72.10</td>
+<td class="down"><b>-1.23%</b></td>
+<td>73.00</td>
+<td>71.10</td>
+<td>73.00</td>
+<td>73.00</td>
+<td>72.10</td>
+<td>4.27</td>
+<td>306.35</td>
+<td>560.60</td>
+<td>0.50</td>
+<td>3.80</td>
+<td>0.94</td>
+<td>6.33</td>
+<td>12.32</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLAPATR00018/apator">APATOR &raquo;</a></td>
+<td>29.00</td>
+<td class="down"><b>-0.99%</b></td>
+<td>29.29</td>
+<td>28.88</td>
+<td>29.29</td>
+<td>29.29</td>
+<td>29.00</td>
+<td>7.29</td>
+<td>211.04</td>
+<td>960.10</td>
+<td>0.30</td>
+<td>13.00</td>
+<td>3.76</td>
+<td>17.09</td>
+<td>31.69</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBH00000012/handlowy">HANDLOWY &raquo;</a></td>
+<td>92.25</td>
+<td class="down"><b>-0.27%</b></td>
+<td>92.50</td>
+<td>91.50</td>
+<td>93.45</td>
+<td>92.50</td>
+<td>92.25</td>
+<td>42.46</td>
+<td>3912.94</td>
+<td>12053.35</td>
+<td>0.90</td>
+<td>12.70</td>
+<td>1.72</td>
+<td>2.67</td>
+<td>13.70</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBIG0000016/millennium">MILLENNIUM &raquo;</a></td>
+<td>4.75</td>
+<td class="down"><b>-2.26%</b></td>
+<td>4.86</td>
+<td>4.50</td>
+<td>4.88</td>
+<td>4.83</td>
+<td>4.75</td>
+<td>308.54</td>
+<td>1453.68</td>
+<td>5762.30</td>
+<td>1.27</td>
+<td>10.30</td>
+<td>1.04</td>
+<td>0.91</td>
+<td>10.55</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBOS0000019/bos">BOS &raquo;</a></td>
+<td>31.40</td>
+<td class="down"><b>-1.88%</b></td>
+<td>32.00</td>
+<td>30.15</td>
+<td>32.00</td>
+<td>32.00</td>
+<td>31.40</td>
+<td>8.35</td>
+<td>256.45</td>
+<td>718.22</td>
+<td>0.53</td>
+<td>15.80</td>
+<td>0.46</td>
+<td>0.22</td>
+<td>2.65</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBRE0000012/bre">BRE &raquo;</a></td>
+<td>345.00</td>
+<td class="down"><b>-0.86%</b></td>
+<td>348.00</td>
+<td>343.00</td>
+<td>348.90</td>
+<td>345.20</td>
+<td>345.00</td>
+<td>49.32</td>
+<td>17036.10</td>
+<td>14538.73</td>
+<td>1.42</td>
+<td>10.20</td>
+<td>1.35</td>
+<td>1.18</td>
+<td>12.42</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBRSZW00011/boryszew">BORYSZEW &raquo;</a></td>
+<td>0.47</td>
+<td class="down"><b>-2.08%</b></td>
+<td>0.48</td>
+<td>0.44</td>
+<td>0.48</td>
+<td>0.48</td>
+<td>0.47</td>
+<td>45684.83</td>
+<td>20991.17</td>
+<td>1060.66</td>
+<td>1.10</td>
+<td>10.00</td>
+<td>0.96</td>
+<td>4.67</td>
+<td>10.27</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBSK0000017/ingbsk">INGBSK &raquo;</a></td>
+<td>89.50</td>
+<td class="down"><b>-1.43%</b></td>
+<td>90.80</td>
+<td>89.20</td>
+<td>91.30</td>
+<td>91.30</td>
+<td>89.50</td>
+<td>7.64</td>
+<td>684.91</td>
+<td>11643.95</td>
+<td>0.82</td>
+<td>12.80</td>
+<td>1.47</td>
+<td>1.05</td>
+<td>9.98</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBUDMX00013/budimex">BUDIMEX &raquo;</a></td>
+<td>71.35</td>
+<td class="down"><b>-2.93%</b></td>
+<td>73.50</td>
+<td>71.05</td>
+<td>73.00</td>
+<td>73.00</td>
+<td>71.35</td>
+<td>1.50</td>
+<td>108.53</td>
+<td>1821.57</td>
+<td>0.60</td>
+<td>10.00</td>
+<td>4.44</td>
+<td>3.70</td>
+<td>44.43</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCMPLD00016/sygnity">SYGNITY &raquo;</a></td>
+<td>15.35</td>
+<td class="down"><b>-1.60%</b></td>
+<td>15.60</td>
+<td>15.11</td>
+<td>15.60</td>
+<td>15.36</td>
+<td>15.35</td>
+<td>6.33</td>
+<td>96.46</td>
+<td>182.45</td>
+<td>0.60</td>
+<td>0.00</td>
+<td>0.60</td>
+<td>-2.55</td>
+<td>-5.19</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCOMAR00012/comarch">COMARCH &raquo;</a></td>
+<td>81.00</td>
+<td class="down"><b>-3.57%</b></td>
+<td>84.00</td>
+<td>77.90</td>
+<td>83.60</td>
+<td>83.60</td>
+<td>81.00</td>
+<td>2.46</td>
+<td>198.48</td>
+<td>652.18</td>
+<td>0.40</td>
+<td>8.20</td>
+<td>0.93</td>
+<td>3.39</td>
+<td>6.27</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCRSNT00011/rovese">ROVESE &raquo;</a></td>
+<td>1.34</td>
+<td class="down"><b>-0.74%</b></td>
+<td>1.35</td>
+<td>1.21</td>
+<td>1.36</td>
+<td>1.26</td>
+<td>1.34</td>
+<td>971.37</td>
+<td>1254.76</td>
+<td>1087.33</td>
+<td>0.60</td>
+<td>117.80</td>
+<td>0.44</td>
+<td>-1.62</td>
+<td>-5.52</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLDUDA000016/duda">DUDA &raquo;</a></td>
+<td>0.49</td>
+<td class="down"><b>-3.92%</b></td>
+<td>0.51</td>
+<td>0.48</td>
+<td>0.51</td>
+<td>0.49</td>
+<td>0.49</td>
+<td>746.93</td>
+<td>372.99</td>
+<td>136.22</td>
+<td>1.20</td>
+<td>4.70</td>
+<td>0.35</td>
+<td>1.65</td>
+<td>3.90</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLECHPS00019/echo">ECHO &raquo;</a></td>
+<td>5.81</td>
+<td class="down"><b>-0.68%</b></td>
+<td>5.85</td>
+<td>5.75</td>
+<td>5.90</td>
+<td>5.80</td>
+<td>5.81</td>
+<td>30.06</td>
+<td>174.73</td>
+<td>2440.20</td>
+<td>0.80</td>
+<td>12.40</td>
+<td>0.95</td>
+<td>22.50</td>
+<td>59.31</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLELDRD00017/emperia">EMPERIA &raquo;</a></td>
+<td>57.60</td>
+<td class="down"><b>-0.52%</b></td>
+<td>57.90</td>
+<td>55.55</td>
+<td>57.90</td>
+<td>57.90</td>
+<td>57.60</td>
+<td>9.29</td>
+<td>524.08</td>
+<td>870.63</td>
+<td>0.50</td>
+<td>1.30</td>
+<td>1.14</td>
+<td>3.38</td>
+<td>3.40</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLELTBD00017/elbudowa">ELBUDOWA &raquo;</a></td>
+<td>136.00</td>
+<td class="up"><b>+0.74%</b></td>
+<td>135.00</td>
+<td>133.00</td>
+<td>136.00</td>
+<td>133.20</td>
+<td>136.00</td>
+<td>0.06</td>
+<td>8.55</td>
+<td>645.67</td>
+<td>0.50</td>
+<td>13.60</td>
+<td>1.62</td>
+<td>6.01</td>
+<td>11.20</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLFORTE00012/forte">FORTE &raquo;</a></td>
+<td>16.48</td>
+<td class="up"><b>+0.55%</b></td>
+<td>16.39</td>
+<td>16.11</td>
+<td>16.50</td>
+<td>16.50</td>
+<td>16.48</td>
+<td>3.24</td>
+<td>53.21</td>
+<td>391.42</td>
+<td>0.10</td>
+<td>9.20</td>
+<td>0.81</td>
+<td>6.54</td>
+<td>9.42</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLIMPXM00019/impexmet">IMPEXMET &raquo;</a></td>
+<td>3.17</td>
+<td class="down"><b>-3.35%</b></td>
+<td>3.28</td>
+<td>3.13</td>
+<td>3.26</td>
+<td>3.20</td>
+<td>3.17</td>
+<td>61.32</td>
+<td>193.76</td>
+<td>634.00</td>
+<td>1.10</td>
+<td>9.10</td>
+<td>0.69</td>
+<td>5.04</td>
+<td>6.81</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINDKP00013/indykpol">INDYKPOL &raquo;</a></td>
+<td>34.00</td>
+<td class="down"><b>-0.87%</b></td>
+<td>34.30</td>
+<td>33.40</td>
+<td>34.40</td>
+<td>34.00</td>
+<td>34.00</td>
+<td>0.19</td>
+<td>6.48</td>
+<td>106.23</td>
+<td>0.20</td>
+<td>14.60</td>
+<td>0.73</td>
+<td>0.24</td>
+<td>0.68</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLJTRZN00011/colian">COLIAN &raquo;</a></td>
+<td>2.14</td>
+<td class="up"><b>+1.42%</b></td>
+<td>2.11</td>
+<td>2.08</td>
+<td>2.18</td>
+<td>2.15</td>
+<td>2.14</td>
+<td>476.10</td>
+<td>1013.40</td>
+<td>306.79</td>
+<td>1.00</td>
+<td>15.80</td>
+<td>0.48</td>
+<td>2.82</td>
+<td>3.83</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKETY000011/kety">KETY &raquo;</a></td>
+<td>137.50</td>
+<td class="down"><b>-1.29%</b></td>
+<td>139.30</td>
+<td>135.60</td>
+<td>140.00</td>
+<td>138.20</td>
+<td>137.50</td>
+<td>2.99</td>
+<td>416.29</td>
+<td>1268.53</td>
+<td>0.40</td>
+<td>9.30</td>
+<td>1.20</td>
+<td>7.21</td>
+<td>11.84</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKGHM000017/kghm">KGHM &raquo;</a></td>
+<td>158.60</td>
+<td class="down"><b>-0.25%</b></td>
+<td>159.00</td>
+<td>155.10</td>
+<td>158.90</td>
+<td>157.70</td>
+<td>158.60</td>
+<td>1787.86</td>
+<td>280592.45</td>
+<td>31720.00</td>
+<td>1.60</td>
+<td>3.50</td>
+<td>1.61</td>
+<td>16.92</td>
+<td>21.74</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLKGNRC00015/kogenera">KOGENERA &raquo;</a></td>
+<td>67.00</td>
+<td class="up"><b>+1.21%</b></td>
+<td>66.20</td>
+<td>67.00</td>
+<td>67.00</td>
+<td>67.00</td>
+<td>67.00</td>
+<td>0.58</td>
+<td>38.79</td>
+<td>998.30</td>
+<td>0.40</td>
+<td>10.30</td>
+<td>1.04</td>
+<td>5.02</td>
+<td>8.32</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLLPP0000011/lpp">LPP &raquo;</a></td>
+<td>5560.00</td>
+<td class="up"><b>+0.18%</b></td>
+<td>5550.00</td>
+<td>5539.00</td>
+<td>5700.00</td>
+<td>5600.00</td>
+<td>5560.00</td>
+<td>0.88</td>
+<td>4920.23</td>
+<td>10181.04</td>
+<td>0.50</td>
+<td>21.20</td>
+<td>6.67</td>
+<td>18.92</td>
+<td>29.52</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLMEDCS00015/pelion">PELION &raquo;</a></td>
+<td>45.70</td>
+<td class="up"><b>+6.28%</b></td>
+<td>43.00</td>
+<td>43.00</td>
+<td>45.95</td>
+<td>43.90</td>
+<td>45.70</td>
+<td>77.25</td>
+<td>3385.80</td>
+<td>543.85</td>
+<td>0.50</td>
+<td>4.40</td>
+<td>0.58</td>
+<td>1.00</td>
+<td>5.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMSTSD00019/polimexms">POLIMEXMS &raquo;</a></td>
+<td>0.41</td>
+<td class="down"><b>-10.87%</b></td>
+<td>0.46</td>
+<td>0.40</td>
+<td>0.47</td>
+<td>0.46</td>
+<td>0.41</td>
+<td>10814.94</td>
+<td>4678.31</td>
+<td>546.93</td>
+<td>1.60</td>
+<td>0.00</td>
+<td>0.27</td>
+<td>-53.13</td>
+<td>-10126.82</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLORBIS00014/orbis">ORBIS &raquo;</a></td>
+<td>36.00</td>
+<td class="down"><b>-1.85%</b></td>
+<td>36.68</td>
+<td>36.00</td>
+<td>36.00</td>
+<td>36.00</td>
+<td>36.00</td>
+<td>1.14</td>
+<td>41.18</td>
+<td>1658.77</td>
+<td>0.40</td>
+<td>24.60</td>
+<td>0.89</td>
+<td>3.37</td>
+<td>3.60</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPEKAO00016/pekao">PEKAO &raquo;</a></td>
+<td>154.00</td>
+<td class="down"><b>-1.91%</b></td>
+<td>157.00</td>
+<td>152.40</td>
+<td>157.20</td>
+<td>157.10</td>
+<td>154.00</td>
+<td>917.08</td>
+<td>141273.47</td>
+<td>40420.39</td>
+<td>1.44</td>
+<td>13.60</td>
+<td>1.86</td>
+<td>1.96</td>
+<td>12.65</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPKN0000018/pknorlen">PKNORLEN &raquo;</a></td>
+<td>52.15</td>
+<td class="down"><b>-1.79%</b></td>
+<td>53.10</td>
+<td>52.15</td>
+<td>53.35</td>
+<td>53.10</td>
+<td>52.15</td>
+<td>502.59</td>
+<td>26485.02</td>
+<td>22305.03</td>
+<td>1.30</td>
+<td>5.60</td>
+<td>0.63</td>
+<td>5.66</td>
+<td>10.23</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSOFTB00016/assecopol">ASSECOPOL &raquo;</a></td>
+<td>41.10</td>
+<td class="down"><b>-2.14%</b></td>
+<td>42.00</td>
+<td>41.10</td>
+<td>42.77</td>
+<td>42.70</td>
+<td>41.10</td>
+<td>123.23</td>
+<td>5172.65</td>
+<td>3411.31</td>
+<td>0.90</td>
+<td>7.60</td>
+<td>0.43</td>
+<td>6.67</td>
+<td>7.68</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSTLPD00017/stalprod">STALPROD &raquo;</a></td>
+<td>165.00</td>
+<td class="down"><b>-2.25%</b></td>
+<td>168.80</td>
+<td>165.00</td>
+<td>169.50</td>
+<td>166.50</td>
+<td>165.00</td>
+<td>0.18</td>
+<td>29.13</td>
+<td>1109.62</td>
+<td>0.50</td>
+<td>9.30</td>
+<td>0.77</td>
+<td>3.13</td>
+<td>4.07</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSTLSK00016/sanok">SANOK &raquo;</a></td>
+<td>20.56</td>
+<td class="down"><b>-1.15%</b></td>
+<td>20.80</td>
+<td>20.15</td>
+<td>21.00</td>
+<td>20.80</td>
+<td>20.56</td>
+<td>19.01</td>
+<td>390.60</td>
+<td>545.22</td>
+<td>0.50</td>
+<td>9.70</td>
+<td>1.72</td>
+<td>11.38</td>
+<td>17.21</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLTLKPL00017/tpsa">TPSA &raquo;</a></td>
+<td>6.75</td>
+<td class="down"><b>-0.74%</b></td>
+<td>6.80</td>
+<td>6.75</td>
+<td>6.83</td>
+<td>6.80</td>
+<td>6.75</td>
+<td>1351.18</td>
+<td>9164.72</td>
+<td>9015.63</td>
+<td>0.80</td>
+<td>13.90</td>
+<td>1.25</td>
+<td>3.54</td>
+<td>6.60</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLWAWEL00013/wawel">WAWEL &raquo;</a></td>
+<td>780.50</td>
+<td class="down"><b>-1.27%</b></td>
+<td>790.50</td>
+<td>780.00</td>
+<td>790.00</td>
+<td>790.00</td>
+<td>780.50</td>
+<td>0.33</td>
+<td>255.35</td>
+<td>1170.56</td>
+<td>0.40</td>
+<td>16.60</td>
+<td>3.67</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLZPW0000017/grajewo">GRAJEWO &raquo;</a></td>
+<td>15.00</td>
+<td class="down"><b>-1.06%</b></td>
+<td>15.16</td>
+<td>14.22</td>
+<td>15.20</td>
+<td>15.16</td>
+<td>15.00</td>
+<td>10.46</td>
+<td>154.55</td>
+<td>744.36</td>
+<td>0.80</td>
+<td>12.10</td>
+<td>1.00</td>
+<td>3.93</td>
+<td>10.45</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLNETIA00014/netia">NETIA &raquo;</a></td>
+<td>4.33</td>
+<td class="up"><b>+0.70%</b></td>
+<td>4.30</td>
+<td>4.22</td>
+<td>4.33</td>
+<td>4.30</td>
+<td>4.33</td>
+<td>61.84</td>
+<td>265.38</td>
+<td>1672.60</td>
+<td>0.60</td>
+<td>8.10</td>
+<td>0.84</td>
+<td>-2.55</td>
+<td>-3.88</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLRAFAK00018/rafako">RAFAKO &raquo;</a></td>
+<td>5.75</td>
+<td class="down"><b>-20.14%</b></td>
+<td>7.20</td>
+<td>5.72</td>
+<td>6.80</td>
+<td>6.80</td>
+<td>5.75</td>
+<td>458.44</td>
+<td>2753.78</td>
+<td>400.20</td>
+<td>1.00</td>
+<td>9.00</td>
+<td>1.27</td>
+<td>2.95</td>
+<td>8.35</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKOPEX00018/kopex">KOPEX &raquo;</a></td>
+<td>15.01</td>
+<td class="down"><b>-0.07%</b></td>
+<td>15.02</td>
+<td>14.80</td>
+<td>15.10</td>
+<td>15.00</td>
+<td>15.01</td>
+<td>176.46</td>
+<td>2645.30</td>
+<td>1115.73</td>
+<td>0.90</td>
+<td>12.70</td>
+<td>0.53</td>
+<td>2.79</td>
+<td>3.95</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLSTLPF00012/stalprofi">STALPROFI &raquo;</a></td>
+<td>16.45</td>
+<td class=""><b>+0.00%</b></td>
+<td>16.45</td>
+<td>16.12</td>
+<td>16.50</td>
+<td>16.12</td>
+<td>16.45</td>
+<td>3.59</td>
+<td>58.65</td>
+<td>287.88</td>
+<td>0.40</td>
+<td>9.40</td>
+<td>0.78</td>
+<td>3.00</td>
+<td>9.78</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSTLEX00019/stalexp">STALEXP &raquo;</a></td>
+<td>1.41</td>
+<td class="down"><b>-2.08%</b></td>
+<td>1.44</td>
+<td>1.39</td>
+<td>1.42</td>
+<td>1.42</td>
+<td>1.41</td>
+<td>129.58</td>
+<td>182.43</td>
+<td>348.64</td>
+<td>0.60</td>
+<td>23.80</td>
+<td>1.57</td>
+<td>4.00</td>
+<td>4.46</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPAGED00017/paged">PAGED &raquo;</a></td>
+<td>16.89</td>
+<td class="down"><b>-1.29%</b></td>
+<td>17.11</td>
+<td>16.50</td>
+<td>17.09</td>
+<td>17.09</td>
+<td>16.89</td>
+<td>1.10</td>
+<td>18.35</td>
+<td>255.04</td>
+<td>0.10</td>
+<td>7.70</td>
+<td>0.84</td>
+<td>6.93</td>
+<td>11.31</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLGSPR000014/getin">GETIN &raquo;</a></td>
+<td>2.57</td>
+<td class="down"><b>-1.15%</b></td>
+<td>2.60</td>
+<td>2.43</td>
+<td>2.58</td>
+<td>2.58</td>
+<td>2.57</td>
+<td>1469.39</td>
+<td>3674.34</td>
+<td>1883.30</td>
+<td>1.70</td>
+<td>2.50</td>
+<td>0.93</td>
+<td>6.17</td>
+<td>32.06</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLASSEE00014/assecosee">ASSECOSEE &raquo;</a></td>
+<td>11.04</td>
+<td class=""><b>+0.00%</b></td>
+<td>11.04</td>
+<td>11.04</td>
+<td>11.50</td>
+<td>11.50</td>
+<td>11.04</td>
+<td>0.13</td>
+<td>1.45</td>
+<td>572.91</td>
+<td>-0.20</td>
+<td>8.60</td>
+<td>0.70</td>
+<td>8.05</td>
+<td>8.11</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLKRINK00014/kredytin">KREDYTIN &raquo;</a></td>
+<td>13.48</td>
+<td class="up"><b>+1.89%</b></td>
+<td>13.23</td>
+<td>13.05</td>
+<td>13.59</td>
+<td>13.59</td>
+<td>13.48</td>
+<td>3.94</td>
+<td>52.50</td>
+<td>174.38</td>
+<td>0.30</td>
+<td>8.50</td>
+<td>0.29</td>
+<td>2.89</td>
+<td>7.63</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLNTSYS00013/nttsystem">NTTSYSTEM &raquo;</a></td>
+<td>0.79</td>
+<td class="up"><b>+3.95%</b></td>
+<td>0.76</td>
+<td>0.76</td>
+<td>0.82</td>
+<td>0.79</td>
+<td>0.79</td>
+<td>95.66</td>
+<td>76.38</td>
+<td>43.77</td>
+<td>0.70</td>
+<td>45.00</td>
+<td>0.34</td>
+<td>0.44</td>
+<td>0.81</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMRCOR00016/mercor">MERCOR &raquo;</a></td>
+<td>14.96</td>
+<td class="down"><b>-3.36%</b></td>
+<td>15.48</td>
+<td>14.90</td>
+<td>15.43</td>
+<td>15.17</td>
+<td>14.96</td>
+<td>2.13</td>
+<td>31.89</td>
+<td>234.25</td>
+<td>0.90</td>
+<td>8.60</td>
+<td>0.68</td>
+<td>-9.19</td>
+<td>-16.34</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/CY0102492119/kdmshipng">KDMSHIPNG &raquo;</a></td>
+<td>35.59</td>
+<td class="up"><b>+1.11%</b></td>
+<td>35.20</td>
+<td>32.50</td>
+<td>35.59</td>
+<td>33.61</td>
+<td>35.59</td>
+<td>8.71</td>
+<td>286.15</td>
+<td>259.66</td>
+<td>0.00</td>
+<td>4.40</td>
+<td>2.08</td>
+<td>41.79</td>
+<td>58.78</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKFARM00013/armatura">ARMATURA &raquo;</a></td>
+<td>1.25</td>
+<td class="down"><b>-1.57%</b></td>
+<td>1.27</td>
+<td>1.21</td>
+<td>1.26</td>
+<td>1.24</td>
+<td>1.25</td>
+<td>85.91</td>
+<td>106.06</td>
+<td>101.25</td>
+<td>0.60</td>
+<td>12.40</td>
+<td>0.45</td>
+<td>-0.85</td>
+<td>-1.29</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKMPTR00012/komputron">KOMPUTRON &raquo;</a></td>
+<td>4.59</td>
+<td class="down"><b>-7.27%</b></td>
+<td>4.95</td>
+<td>4.53</td>
+<td>4.95</td>
+<td>4.95</td>
+<td>4.59</td>
+<td>61.05</td>
+<td>284.19</td>
+<td>43.94</td>
+<td>1.10</td>
+<td>2.90</td>
+<td>0.31</td>
+<td>-0.17</td>
+<td>-0.54</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPTRLI00018/petrolinv">PETROLINV &raquo;</a></td>
+<td>1.11</td>
+<td class="down"><b>-1.77%</b></td>
+<td>1.13</td>
+<td>1.06</td>
+<td>1.13</td>
+<td>1.12</td>
+<td>1.11</td>
+<td>1693.48</td>
+<td>1853.74</td>
+<td>253.84</td>
+<td>1.60</td>
+<td>0.00</td>
+<td>0.47</td>
+<td>-9.68</td>
+<td>-18.45</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPTNTS00019/patentus">PATENTUS &raquo;</a></td>
+<td>1.98</td>
+<td class="down"><b>-3.41%</b></td>
+<td>2.05</td>
+<td>1.91</td>
+<td>2.06</td>
+<td>2.06</td>
+<td>1.98</td>
+<td>47.27</td>
+<td>92.77</td>
+<td>58.41</td>
+<td>0.20</td>
+<td>28.10</td>
+<td>0.74</td>
+<td>7.58</td>
+<td>13.95</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPANVA00013/panova">PANOVA &raquo;</a></td>
+<td>19.85</td>
+<td class="down"><b>-0.75%</b></td>
+<td>20.00</td>
+<td>19.02</td>
+<td>20.00</td>
+<td>19.60</td>
+<td>19.85</td>
+<td>0.14</td>
+<td>2.81</td>
+<td>198.50</td>
+<td>0.20</td>
+<td>9.90</td>
+<td>0.74</td>
+<td>3.22</td>
+<td>6.58</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLLBT0000013/libet">LIBET &raquo;</a></td>
+<td>2.55</td>
+<td class="down"><b>-0.78%</b></td>
+<td>2.57</td>
+<td>2.43</td>
+<td>2.55</td>
+<td>2.43</td>
+<td>2.55</td>
+<td>1.50</td>
+<td>3.66</td>
+<td>127.50</td>
+<td>0.20</td>
+<td>4.50</td>
+<td>0.53</td>
+<td>2.76</td>
+<td>12.75</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/LU0122624777/orcogroup">ORCOGROUP &raquo;</a></td>
+<td>9.80</td>
+<td class="down"><b>-2.00%</b></td>
+<td>10.00</td>
+<td>9.30</td>
+<td>10.00</td>
+<td>9.69</td>
+<td>9.80</td>
+<td>0.37</td>
+<td>3.50</td>
+<td>1056.84</td>
+<td>1.00</td>
+<td>0.00</td>
+<td>0.69</td>
+<td>-2.75</td>
+<td>-8.76</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLRDPOL00010/radpol">RADPOL &raquo;</a></td>
+<td>9.00</td>
+<td class="up"><b>+0.33%</b></td>
+<td>8.97</td>
+<td>8.76</td>
+<td>9.10</td>
+<td>9.10</td>
+<td>9.00</td>
+<td>4.48</td>
+<td>39.69</td>
+<td>231.48</td>
+<td>0.50</td>
+<td>14.90</td>
+<td>2.21</td>
+<td>6.72</td>
+<td>13.13</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLNFI0200019/krezus">KREZUS &raquo;</a></td>
+<td>20.15</td>
+<td class=""><b>+0.00%</b></td>
+<td>20.15</td>
+<td>19.80</td>
+<td>20.20</td>
+<td>20.10</td>
+<td>20.15</td>
+<td>19.95</td>
+<td>399.27</td>
+<td>1102.27</td>
+<td>0.50</td>
+<td>0.00</td>
+<td>16.53</td>
+<td>3.72</td>
+<td>4.47</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLERGIN00015/energoins">ENERGOINS &raquo;</a></td>
+<td>14.25</td>
+<td class="down"><b>-3.06%</b></td>
+<td>14.70</td>
+<td>13.66</td>
+<td>14.70</td>
+<td>14.70</td>
+<td>14.25</td>
+<td>1.81</td>
+<td>25.55</td>
+<td>256.50</td>
+<td>0.60</td>
+<td>14.30</td>
+<td>1.70</td>
+<td>5.32</td>
+<td>10.21</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/CY1000031710/asbis">ASBIS &raquo;</a></td>
+<td>4.10</td>
+<td class="up"><b>+0.24%</b></td>
+<td>4.09</td>
+<td>4.00</td>
+<td>4.14</td>
+<td>4.07</td>
+<td>4.10</td>
+<td>10.40</td>
+<td>42.34</td>
+<td>227.55</td>
+<td>0.70</td>
+<td>3.90</td>
+<td>0.51</td>
+<td>1.78</td>
+<td>8.75</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLOPNPL00013/oponeo-pl">OPONEO.PL &raquo;</a></td>
+<td>6.95</td>
+<td class="down"><b>-4.40%</b></td>
+<td>7.27</td>
+<td>6.95</td>
+<td>7.15</td>
+<td>7.15</td>
+<td>6.95</td>
+<td>1.09</td>
+<td>7.65</td>
+<td>96.86</td>
+<td>0.00</td>
+<td>19.60</td>
+<td>1.36</td>
+<td>1.36</td>
+<td>1.87</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCHMDW00010/chemos">CHEMOS &raquo;</a></td>
+<td>0.17</td>
+<td class="down"><b>-5.56%</b></td>
+<td>0.18</td>
+<td>0.16</td>
+<td>0.17</td>
+<td>0.17</td>
+<td>0.17</td>
+<td>337.10</td>
+<td>55.89</td>
+<td>34.01</td>
+<td>0.60</td>
+<td>20.70</td>
+<td>0.74</td>
+<td>0.56</td>
+<td>0.69</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLABS0000018/assecobs">ASSECOBS &raquo;</a></td>
+<td>11.00</td>
+<td class="down"><b>-1.70%</b></td>
+<td>11.19</td>
+<td>11.00</td>
+<td>11.20</td>
+<td>11.00</td>
+<td>11.00</td>
+<td>0.33</td>
+<td>3.64</td>
+<td>367.60</td>
+<td>0.40</td>
+<td>11.90</td>
+<td>1.26</td>
+<td>8.11</td>
+<td>8.67</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLORZBL00013/orzbialy">ORZBIALY &raquo;</a></td>
+<td>17.81</td>
+<td class="down"><b>-0.84%</b></td>
+<td>17.96</td>
+<td>17.60</td>
+<td>17.90</td>
+<td>17.90</td>
+<td>17.81</td>
+<td>6.61</td>
+<td>117.65</td>
+<td>295.94</td>
+<td>0.40</td>
+<td>18.00</td>
+<td>1.11</td>
+<td>3.46</td>
+<td>4.33</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLFSING00010/fasing">FASING &raquo;</a></td>
+<td>23.48</td>
+<td class="down"><b>-0.09%</b></td>
+<td>23.50</td>
+<td>22.60</td>
+<td>23.77</td>
+<td>23.30</td>
+<td>23.48</td>
+<td>0.87</td>
+<td>20.07</td>
+<td>72.96</td>
+<td>0.40</td>
+<td>6.20</td>
+<td>0.78</td>
+<td>9.05</td>
+<td>19.33</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/LU0327357389/kernel">KERNEL &raquo;</a></td>
+<td>55.50</td>
+<td class="up"><b>+1.83%</b></td>
+<td>54.50</td>
+<td>53.05</td>
+<td>55.95</td>
+<td>54.40</td>
+<td>55.50</td>
+<td>71.67</td>
+<td>3928.42</td>
+<td>4422.43</td>
+<td>1.00</td>
+<td>7.20</td>
+<td>1.23</td>
+<td>6.74</td>
+<td>14.37</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCPENR00035/duon">DUON &raquo;</a></td>
+<td>1.03</td>
+<td class="down"><b>-0.96%</b></td>
+<td>1.04</td>
+<td>0.97</td>
+<td>1.04</td>
+<td>1.02</td>
+<td>1.03</td>
+<td>184.16</td>
+<td>183.66</td>
+<td>105.54</td>
+<td>0.80</td>
+<td>53.70</td>
+<td>0.31</td>
+<td>0.50</td>
+<td>0.67</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMWTRD00013/mwtrade">MWTRADE &raquo;</a></td>
+<td>10.93</td>
+<td class="down"><b>-0.09%</b></td>
+<td>10.94</td>
+<td>10.72</td>
+<td>10.94</td>
+<td>10.94</td>
+<td>10.93</td>
+<td>3.86</td>
+<td>41.75</td>
+<td>91.64</td>
+<td>0.90</td>
+<td>7.60</td>
+<td>1.29</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINTEG00011/integerpl">INTEGERPL &raquo;</a></td>
+<td>183.00</td>
+<td class="down"><b>-0.54%</b></td>
+<td>184.00</td>
+<td>180.00</td>
+<td>183.90</td>
+<td>183.90</td>
+<td>183.00</td>
+<td>2.84</td>
+<td>516.20</td>
+<td>1141.69</td>
+<td>0.40</td>
+<td>16.70</td>
+<td>6.80</td>
+<td>14.35</td>
+<td>32.75</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLWRWCK00013/secogroup">SECOGROUP &raquo;</a></td>
+<td>41.00</td>
+<td class="down"><b>-2.84%</b></td>
+<td>42.20</td>
+<td>41.00</td>
+<td>41.01</td>
+<td>41.01</td>
+<td>41.00</td>
+<td>0.31</td>
+<td>12.67</td>
+<td>429.52</td>
+<td>0.20</td>
+<td>15.00</td>
+<td>1.42</td>
+<td>5.74</td>
+<td>9.69</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/NL0000686772/plazacntr">PLAZACNTR &raquo;</a></td>
+<td>1.50</td>
+<td class="down"><b>-6.83%</b></td>
+<td>1.61</td>
+<td>1.44</td>
+<td>1.59</td>
+<td>1.55</td>
+<td>1.50</td>
+<td>139.25</td>
+<td>210.40</td>
+<td>445.77</td>
+<td>0.30</td>
+<td>0.00</td>
+<td>0.27</td>
+<td>-8.99</td>
+<td>-19.48</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLRELPL00014/relpol">RELPOL &raquo;</a></td>
+<td>7.41</td>
+<td class="up"><b>+1.37%</b></td>
+<td>7.31</td>
+<td>7.15</td>
+<td>7.41</td>
+<td>7.15</td>
+<td>7.41</td>
+<td>63.31</td>
+<td>454.86</td>
+<td>71.20</td>
+<td>0.60</td>
+<td>7.70</td>
+<td>1.14</td>
+<td>10.30</td>
+<td>14.08</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLZATRM00012/azotytarnow">AZOTYTARNOW &raquo;</a></td>
+<td>55.25</td>
+<td class="up"><b>+0.09%</b></td>
+<td>55.20</td>
+<td>54.40</td>
+<td>55.95</td>
+<td>55.00</td>
+<td>55.25</td>
+<td>63.36</td>
+<td>3482.36</td>
+<td>5480.55</td>
+<td>0.40</td>
+<td>5.60</td>
+<td>0.95</td>
+<td>17.33</td>
+<td>22.72</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLPCCIM00014/pccinter">PCCINTER &raquo;</a></td>
+<td>1.55</td>
+<td class="up"><b>+3.33%</b></td>
+<td>1.50</td>
+<td>1.40</td>
+<td>1.55</td>
+<td>1.41</td>
+<td>1.55</td>
+<td>18.33</td>
+<td>26.22</td>
+<td>120.23</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>2.21</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLDROP000011/drop">DROP &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>10.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>10.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>0.50</td>
+<td>22.00</td>
+<td>0.76</td>
+<td>0.28</td>
+<td>0.42</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLATLPL00018/atlantapl">ATLANTAPL &raquo;</a></td>
+<td>5.89</td>
+<td class="down"><b>-2.64%</b></td>
+<td>6.05</td>
+<td>5.46</td>
+<td>5.89</td>
+<td>5.75</td>
+<td>5.89</td>
+<td>0.96</td>
+<td>5.41</td>
+<td>35.88</td>
+<td>-0.40</td>
+<td>6.60</td>
+<td>0.61</td>
+<td>-0.45</td>
+<td>-1.28</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLSONEL00011/sonel">SONEL &raquo;</a></td>
+<td>5.86</td>
+<td class="up"><b>+0.17%</b></td>
+<td>5.85</td>
+<td>5.80</td>
+<td>5.96</td>
+<td>5.88</td>
+<td>5.86</td>
+<td>4.64</td>
+<td>27.22</td>
+<td>82.04</td>
+<td>0.20</td>
+<td>10.50</td>
+<td>1.18</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKRNRC00012/krec">KREC &raquo;</a></td>
+<td>4.44</td>
+<td class="down"><b>-2.42%</b></td>
+<td>4.55</td>
+<td>4.29</td>
+<td>4.50</td>
+<td>4.29</td>
+<td>4.44</td>
+<td>14.00</td>
+<td>60.99</td>
+<td>66.08</td>
+<td>0.50</td>
+<td>25.60</td>
+<td>0.97</td>
+<td>3.17</td>
+<td>8.29</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/NL0009604859/fortuna">FORTUNA &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>16.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>16.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>0.30</td>
+<td>16.30</td>
+<td>4.13</td>
+<td>21.15</td>
+<td>38.95</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLZUE0000015/zue">ZUE &raquo;</a></td>
+<td>6.12</td>
+<td class="down"><b>-2.08%</b></td>
+<td>6.25</td>
+<td>6.10</td>
+<td>6.31</td>
+<td>6.25</td>
+<td>6.12</td>
+<td>12.79</td>
+<td>78.67</td>
+<td>134.64</td>
+<td>0.50</td>
+<td>7.50</td>
+<td>0.82</td>
+<td>2.95</td>
+<td>8.14</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCNTZP00010/ideon">IDEON &raquo;</a></td>
+<td>0.04</td>
+<td class="down"><b>-20.00%</b></td>
+<td>0.05</td>
+<td>0.04</td>
+<td>0.05</td>
+<td>0.05</td>
+<td>0.04</td>
+<td>9548.87</td>
+<td>402.09</td>
+<td>13.74</td>
+<td>0.40</td>
+<td>0.00</td>
+<td>0.34</td>
+<td>-13.18</td>
+<td>-40.76</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLFSTFC00012/fastfin">FASTFIN &raquo;</a></td>
+<td>0.41</td>
+<td class="up"><b>+2.50%</b></td>
+<td>0.40</td>
+<td>0.40</td>
+<td>0.42</td>
+<td>0.40</td>
+<td>0.41</td>
+<td>71.43</td>
+<td>29.28</td>
+<td>41.00</td>
+<td>0.30</td>
+<td>5.60</td>
+<td>1.21</td>
+<td>2.14</td>
+<td>15.71</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/CY0101062111/agroton">AGROTON &raquo;</a></td>
+<td>10.10</td>
+<td class="down"><b>-1.94%</b></td>
+<td>10.30</td>
+<td>9.80</td>
+<td>10.30</td>
+<td>10.00</td>
+<td>10.10</td>
+<td>14.81</td>
+<td>148.52</td>
+<td>218.87</td>
+<td>0.80</td>
+<td>0.00</td>
+<td>0.47</td>
+<td>-13.41</td>
+<td>-20.24</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLGPW0000017/gpw">GPW &raquo;</a></td>
+<td>40.10</td>
+<td class="down"><b>-0.89%</b></td>
+<td>40.46</td>
+<td>39.91</td>
+<td>40.30</td>
+<td>40.30</td>
+<td>40.10</td>
+<td>30.00</td>
+<td>1202.35</td>
+<td>1683.08</td>
+<td>0.60</td>
+<td>12.80</td>
+<td>2.96</td>
+<td>16.27</td>
+<td>27.48</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKAREN00014/ccenergy">CCENERGY &raquo;</a></td>
+<td>0.20</td>
+<td class="down"><b>-4.76%</b></td>
+<td>0.21</td>
+<td>0.20</td>
+<td>0.22</td>
+<td>0.20</td>
+<td>0.20</td>
+<td>34.71</td>
+<td>6.95</td>
+<td>190.83</td>
+<td>1.20</td>
+<td>0.00</td>
+<td>0.38</td>
+<td>-0.32</td>
+<td>-0.33</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKRUSZ00016/kruszwica">KRUSZWICA &raquo;</a></td>
+<td>30.00</td>
+<td class="down"><b>-3.85%</b></td>
+<td>31.20</td>
+<td>29.12</td>
+<td>31.80</td>
+<td>31.30</td>
+<td>30.00</td>
+<td>6.17</td>
+<td>188.76</td>
+<td>689.61</td>
+<td>0.50</td>
+<td>0.00</td>
+<td>0.89</td>
+<td>3.57</td>
+<td>9.20</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLNVITA00018/novita">NOVITA &raquo;</a></td>
+<td>25.55</td>
+<td class="down"><b>-0.78%</b></td>
+<td>25.75</td>
+<td>25.55</td>
+<td>25.60</td>
+<td>25.60</td>
+<td>25.55</td>
+<td>0.10</td>
+<td>2.64</td>
+<td>63.88</td>
+<td>0.10</td>
+<td>8.50</td>
+<td>0.69</td>
+<td>5.52</td>
+<td>7.36</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLPMWRM00012/ursus">URSUS &raquo;</a></td>
+<td>3.37</td>
+<td class="up"><b>+3.37%</b></td>
+<td>3.26</td>
+<td>3.15</td>
+<td>3.40</td>
+<td>3.26</td>
+<td>3.37</td>
+<td>284.86</td>
+<td>943.02</td>
+<td>74.75</td>
+<td>1.20</td>
+<td>12.90</td>
+<td>1.22</td>
+<td>3.73</td>
+<td>10.47</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLQRCUS00012/quercus">QUERCUS &raquo;</a></td>
+<td>3.28</td>
+<td class="down"><b>-2.67%</b></td>
+<td>3.37</td>
+<td>3.20</td>
+<td>3.32</td>
+<td>3.32</td>
+<td>3.28</td>
+<td>22.79</td>
+<td>73.95</td>
+<td>233.03</td>
+<td>0.50</td>
+<td>13.40</td>
+<td>7.93</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLWOJAS00014/wojas">WOJAS &raquo;</a></td>
+<td>4.95</td>
+<td class="down"><b>-3.70%</b></td>
+<td>5.14</td>
+<td>4.80</td>
+<td>5.15</td>
+<td>5.15</td>
+<td>4.95</td>
+<td>2.81</td>
+<td>13.78</td>
+<td>62.75</td>
+<td>0.20</td>
+<td>9.90</td>
+<td>1.05</td>
+<td>2.78</td>
+<td>9.36</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINTBD00014/interbud">INTERBUD &raquo;</a></td>
+<td>2.90</td>
+<td class="down"><b>-10.22%</b></td>
+<td>3.23</td>
+<td>2.90</td>
+<td>3.23</td>
+<td>3.23</td>
+<td>2.90</td>
+<td>2.46</td>
+<td>7.27</td>
+<td>20.35</td>
+<td>0.20</td>
+<td>0.00</td>
+<td>0.39</td>
+<td>-0.64</td>
+<td>-2.31</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLTRNSP00013/transpol">TRANSPOL &raquo;</a></td>
+<td>4.97</td>
+<td class="down"><b>-6.05%</b></td>
+<td>5.29</td>
+<td>4.80</td>
+<td>5.16</td>
+<td>4.91</td>
+<td>4.97</td>
+<td>0.97</td>
+<td>4.78</td>
+<td>31.71</td>
+<td>0.60</td>
+<td>7.10</td>
+<td>2.53</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPZU0000011/pzu">PZU &raquo;</a></td>
+<td>405.50</td>
+<td class="down"><b>-0.73%</b></td>
+<td>408.50</td>
+<td>404.10</td>
+<td>409.00</td>
+<td>408.80</td>
+<td>405.50</td>
+<td>139.10</td>
+<td>56439.16</td>
+<td>34109.16</td>
+<td>0.90</td>
+<td>13.30</td>
+<td>2.62</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPRGNK00017/pragmaink">PRAGMAINK &raquo;</a></td>
+<td>23.10</td>
+<td class="down"><b>-1.70%</b></td>
+<td>23.50</td>
+<td>22.60</td>
+<td>23.50</td>
+<td>23.50</td>
+<td>23.10</td>
+<td>2.01</td>
+<td>46.17</td>
+<td>85.01</td>
+<td>0.30</td>
+<td>9.00</td>
+<td>1.16</td>
+<td>8.55</td>
+<td>15.01</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/CA5012401058/kov">KOV &raquo;</a></td>
+<td>1.32</td>
+<td class="down"><b>-2.94%</b></td>
+<td>1.36</td>
+<td>1.30</td>
+<td>1.37</td>
+<td>1.31</td>
+<td>1.32</td>
+<td>1534.89</td>
+<td>2046.48</td>
+<td>635.92</td>
+<td>1.80</td>
+<td>0.00</td>
+<td>1.04</td>
+<td>-99.72</td>
+<td>-185.82</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLFERRO00016/ferro">FERRO &raquo;</a></td>
+<td>6.41</td>
+<td class="up"><b>+0.16%</b></td>
+<td>6.40</td>
+<td>6.41</td>
+<td>6.54</td>
+<td>6.41</td>
+<td>6.41</td>
+<td>0.27</td>
+<td>1.75</td>
+<td>135.79</td>
+<td>0.40</td>
+<td>7.00</td>
+<td>0.77</td>
+<td>5.06</td>
+<td>9.67</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/EE3100001751/silvano">SILVANO &raquo;</a></td>
+<td>11.39</td>
+<td class=""><b>+0.00%</b></td>
+<td>11.39</td>
+<td>11.00</td>
+<td>11.39</td>
+<td>11.20</td>
+<td>11.39</td>
+<td>0.49</td>
+<td>5.44</td>
+<td>448.77</td>
+<td>0.10</td>
+<td>12.30</td>
+<td>2.22</td>
+<td>18.66</td>
+<td>27.53</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLGUARD00019/pcguard">PCGUARD &raquo;</a></td>
+<td>2.05</td>
+<td class="up"><b>+5.67%</b></td>
+<td>1.94</td>
+<td>1.91</td>
+<td>2.05</td>
+<td>1.91</td>
+<td>2.05</td>
+<td>329.93</td>
+<td>658.94</td>
+<td>62.91</td>
+<td>0.60</td>
+<td>10.90</td>
+<td>0.99</td>
+<td>8.48</td>
+<td>8.83</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLK2ITR00010/k2internt">K2INTERNT &raquo;</a></td>
+<td>15.99</td>
+<td class="down"><b>-1.84%</b></td>
+<td>16.29</td>
+<td>15.93</td>
+<td>16.29</td>
+<td>15.95</td>
+<td>15.99</td>
+<td>2.93</td>
+<td>46.97</td>
+<td>39.74</td>
+<td>0.40</td>
+<td>7.90</td>
+<td>1.57</td>
+<td>9.48</td>
+<td>12.20</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLTAURN00011/tauronpe">TAURONPE &raquo;</a></td>
+<td>4.38</td>
+<td class="down"><b>-1.79%</b></td>
+<td>4.46</td>
+<td>4.38</td>
+<td>4.48</td>
+<td>4.46</td>
+<td>4.38</td>
+<td>2595.82</td>
+<td>11455.58</td>
+<td>7676.17</td>
+<td>1.10</td>
+<td>5.50</td>
+<td>0.46</td>
+<td>5.69</td>
+<td>8.13</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLPTIW000014/pti">PTI &raquo;</a></td>
+<td>15.44</td>
+<td class="up"><b>+0.98%</b></td>
+<td>15.29</td>
+<td>15.27</td>
+<td>15.44</td>
+<td>15.28</td>
+<td>15.44</td>
+<td>8.06</td>
+<td>123.62</td>
+<td>223.88</td>
+<td>-0.10</td>
+<td>4.90</td>
+<td>2.58</td>
+<td>32.24</td>
+<td>44.86</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/NL0009508712/milkiland">MILKILAND &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>14.40</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>14.40</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>0.10</td>
+<td>8.40</td>
+<td>0.65</td>
+<td>3.15</td>
+<td>6.29</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLABCDT00014/abcdata">ABCDATA &raquo;</a></td>
+<td>2.16</td>
+<td class="down"><b>-3.57%</b></td>
+<td>2.24</td>
+<td>2.11</td>
+<td>2.23</td>
+<td>2.22</td>
+<td>2.16</td>
+<td>43.61</td>
+<td>94.21</td>
+<td>270.48</td>
+<td>0.70</td>
+<td>5.60</td>
+<td>0.91</td>
+<td>3.54</td>
+<td>11.01</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSLRCP00021/solar">SOLAR &raquo;</a></td>
+<td>5.65</td>
+<td class="down"><b>-14.39%</b></td>
+<td>6.60</td>
+<td>5.45</td>
+<td>6.30</td>
+<td>6.30</td>
+<td>5.65</td>
+<td>43.23</td>
+<td>249.60</td>
+<td>169.50</td>
+<td>0.60</td>
+<td>5.10</td>
+<td>1.72</td>
+<td>17.88</td>
+<td>18.76</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLLCCRP00017/lccorp">LCCORP &raquo;</a></td>
+<td>1.31</td>
+<td class="up"><b>+0.77%</b></td>
+<td>1.30</td>
+<td>1.24</td>
+<td>1.31</td>
+<td>1.24</td>
+<td>1.31</td>
+<td>95.76</td>
+<td>120.98</td>
+<td>586.30</td>
+<td>0.60</td>
+<td>10.60</td>
+<td>0.44</td>
+<td>2.90</td>
+<td>3.88</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKNOPL00014/kinopol">KINOPOL &raquo;</a></td>
+<td>15.10</td>
+<td class="down"><b>-1.37%</b></td>
+<td>15.31</td>
+<td>14.28</td>
+<td>15.31</td>
+<td>15.31</td>
+<td>15.10</td>
+<td>8.72</td>
+<td>129.21</td>
+<td>209.44</td>
+<td>0.50</td>
+<td>11.00</td>
+<td>2.38</td>
+<td>20.33</td>
+<td>22.12</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPRESC00018/presco">PRESCO &raquo;</a></td>
+<td>10.60</td>
+<td class="down"><b>-5.36%</b></td>
+<td>11.20</td>
+<td>10.36</td>
+<td>11.00</td>
+<td>11.00</td>
+<td>10.60</td>
+<td>6.40</td>
+<td>68.11</td>
+<td>208.82</td>
+<td>-0.20</td>
+<td>8.20</td>
+<td>1.52</td>
+<td>10.23</td>
+<td>19.39</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBALTN00014/baltona">BALTONA &raquo;</a></td>
+<td>6.00</td>
+<td class="down"><b>-4.76%</b></td>
+<td>6.30</td>
+<td>6.00</td>
+<td>6.25</td>
+<td>6.25</td>
+<td>6.00</td>
+<td>2.60</td>
+<td>15.73</td>
+<td>67.54</td>
+<td>0.00</td>
+<td>16.86</td>
+<td>9.46</td>
+<td>19.85</td>
+<td>4.96</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/BG1100114062/eurohold">EUROHOLD &raquo;</a></td>
+<td>1.95</td>
+<td class="down"><b>-9.30%</b></td>
+<td>2.15</td>
+<td>1.95</td>
+<td>1.95</td>
+<td>1.95</td>
+<td>1.95</td>
+<td>0.60</td>
+<td>1.17</td>
+<td>248.32</td>
+<td>0.10</td>
+<td>3058.20</td>
+<td>0.54</td>
+<td>-0.92</td>
+<td>-3.38</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/EE3100084021/olympic">OLYMPIC &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>7.54</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>7.54</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>-0.20</td>
+<td>10.80</td>
+<td>2.69</td>
+<td>22.16</td>
+<td>27.72</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/IM00B58FMW76/exillon">EXILLON &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>7.94</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>7.94</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.71</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLASMOT00030/triton">TRITON &raquo;</a></td>
+<td>0.80</td>
+<td class="down"><b>-6.98%</b></td>
+<td>0.86</td>
+<td>0.80</td>
+<td>0.86</td>
+<td>0.86</td>
+<td>0.80</td>
+<td>12.95</td>
+<td>10.83</td>
+<td>20.37</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.31</td>
+<td>-6.56</td>
+<td>-11.82</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLDEBCA00016/debica">DEBICA &raquo;</a></td>
+<td>65.15</td>
+<td class=""><b>+0.00%</b></td>
+<td>65.15</td>
+<td>64.35</td>
+<td>65.15</td>
+<td>65.15</td>
+<td>65.15</td>
+<td>0.41</td>
+<td>26.41</td>
+<td>899.25</td>
+<td>0.30</td>
+<td>8.10</td>
+<td>0.85</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLMAKRM00019/makrum">MAKRUM &raquo;</a></td>
+<td>1.27</td>
+<td class="up"><b>+1.60%</b></td>
+<td>1.25</td>
+<td>1.14</td>
+<td>1.27</td>
+<td>1.24</td>
+<td>1.27</td>
+<td>154.05</td>
+<td>186.74</td>
+<td>92.54</td>
+<td>-0.30</td>
+<td>12.90</td>
+<td>0.58</td>
+<td>5.19</td>
+<td>6.56</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLSIMPL00011/simple">SIMPLE &raquo;</a></td>
+<td>7.70</td>
+<td class="down"><b>-0.65%</b></td>
+<td>7.75</td>
+<td>7.60</td>
+<td>7.70</td>
+<td>7.60</td>
+<td>7.70</td>
+<td>2.00</td>
+<td>15.40</td>
+<td>33.73</td>
+<td>0.10</td>
+<td>16.50</td>
+<td>2.27</td>
+<td>10.83</td>
+<td>15.61</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/SI0031102120/krka">KRKA &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>196.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>196.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.01</td>
+<td>1.34</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/SK1120010287/tatry">TATRY &raquo;</a></td>
+<td>187.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>187.00</td>
+<td>183.00</td>
+<td>187.90</td>
+<td>187.90</td>
+<td>187.00</td>
+<td>0.16</td>
+<td>29.52</td>
+<td>1254.25</td>
+<td>0.10</td>
+<td>36.20</td>
+<td>1.07</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLWRKSR00019/workserv">WORKSERV &raquo;</a></td>
+<td>7.39</td>
+<td class="down"><b>-0.14%</b></td>
+<td>7.40</td>
+<td>7.15</td>
+<td>7.40</td>
+<td>7.40</td>
+<td>7.39</td>
+<td>626.36</td>
+<td>4478.93</td>
+<td>354.34</td>
+<td>0.10</td>
+<td>12.00</td>
+<td>2.52</td>
+<td>7.63</td>
+<td>26.24</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLVOXEL00014/voxel">VOXEL &raquo;</a></td>
+<td>17.00</td>
+<td class="down"><b>-0.06%</b></td>
+<td>17.01</td>
+<td>16.61</td>
+<td>17.01</td>
+<td>17.00</td>
+<td>17.00</td>
+<td>1.79</td>
+<td>30.34</td>
+<td>165.45</td>
+<td>0.30</td>
+<td>0.00</td>
+<td>1.98</td>
+<td>-2.29</td>
+<td>-4.64</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/LU0607203980/imcompany">IMCOMPANY &raquo;</a></td>
+<td>15.00</td>
+<td class="down"><b>-3.23%</b></td>
+<td>15.50</td>
+<td>14.80</td>
+<td>15.44</td>
+<td>15.19</td>
+<td>15.00</td>
+<td>2.16</td>
+<td>32.40</td>
+<td>469.50</td>
+<td>0.80</td>
+<td>5.70</td>
+<td>1.06</td>
+<td>10.18</td>
+<td>16.59</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLKRK0000010/kruk">KRUK &raquo;</a></td>
+<td>62.00</td>
+<td class="down"><b>-1.59%</b></td>
+<td>63.00</td>
+<td>60.20</td>
+<td>63.00</td>
+<td>60.80</td>
+<td>62.00</td>
+<td>13.31</td>
+<td>824.25</td>
+<td>1047.82</td>
+<td>0.50</td>
+<td>12.30</td>
+<td>2.68</td>
+<td>9.68</td>
+<td>61.61</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLACSA000014/acautogaz">ACAUTOGAZ &raquo;</a></td>
+<td>29.30</td>
+<td class="down"><b>-2.33%</b></td>
+<td>30.00</td>
+<td>29.25</td>
+<td>29.75</td>
+<td>29.50</td>
+<td>29.30</td>
+<td>0.66</td>
+<td>19.42</td>
+<td>276.98</td>
+<td>0.20</td>
+<td>9.20</td>
+<td>3.00</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLATMSI00016/atmsi">ATMSI &raquo;</a></td>
+<td>1.59</td>
+<td class="down"><b>-3.64%</b></td>
+<td>1.65</td>
+<td>1.58</td>
+<td>1.60</td>
+<td>1.60</td>
+<td>1.59</td>
+<td>72.09</td>
+<td>114.66</td>
+<td>57.79</td>
+<td>0.10</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.73</td>
+<td>0.73</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/GB00B42CTW68/newworldr">NEWWORLDR &raquo;</a></td>
+<td>12.12</td>
+<td class="down"><b>-2.26%</b></td>
+<td>12.40</td>
+<td>12.12</td>
+<td>12.12</td>
+<td>12.12</td>
+<td>12.12</td>
+<td>0.08</td>
+<td>0.93</td>
+<td>3207.65</td>
+<td>0.80</td>
+<td>4.20</td>
+<td>1.00</td>
+<td>2.61</td>
+<td>7.71</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/LT0000128621/interaolt">INTERAOLT &raquo;</a></td>
+<td>28.89</td>
+<td class="down"><b>-0.03%</b></td>
+<td>28.90</td>
+<td>28.40</td>
+<td>28.89</td>
+<td>28.40</td>
+<td>28.89</td>
+<td>0.75</td>
+<td>21.49</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLENLMD00017/enelmed">ENELMED &raquo;</a></td>
+<td>4.82</td>
+<td class="up"><b>+0.42%</b></td>
+<td>4.80</td>
+<td>4.68</td>
+<td>4.83</td>
+<td>4.68</td>
+<td>4.82</td>
+<td>29.16</td>
+<td>140.51</td>
+<td>113.59</td>
+<td>0.60</td>
+<td>0.00</td>
+<td>1.70</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLWDM0000029/dmwdm">DMWDM &raquo;</a></td>
+<td>0.25</td>
+<td class="up"><b>+8.70%</b></td>
+<td>0.23</td>
+<td>0.23</td>
+<td>0.25</td>
+<td>0.23</td>
+<td>0.25</td>
+<td>214.72</td>
+<td>52.02</td>
+<td>20.62</td>
+<td>0.70</td>
+<td>17.20</td>
+<td>0.40</td>
+<td>5.21</td>
+<td>5.22</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/NL0009805613/ovostar">OVOSTAR &raquo;</a></td>
+<td>97.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>97.00</td>
+<td>97.00</td>
+<td>98.95</td>
+<td>98.95</td>
+<td>97.00</td>
+<td>0.00</td>
+<td>0.29</td>
+<td>582.00</td>
+<td>0.50</td>
+<td>7.20</td>
+<td>1.79</td>
+<td>14.15</td>
+<td>15.89</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/LT0000127466/agrowill">AGROWILL &raquo;</a></td>
+<td>0.47</td>
+<td class="down"><b>-2.08%</b></td>
+<td>0.48</td>
+<td>0.47</td>
+<td>0.50</td>
+<td>0.49</td>
+<td>0.47</td>
+<td>120.49</td>
+<td>59.16</td>
+<td>39.87</td>
+<td>0.50</td>
+<td>0.00</td>
+<td>0.36</td>
+<td>2.44</td>
+<td>6.53</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBPH0000019/bankbph">BANKBPH &raquo;</a></td>
+<td>48.00</td>
+<td class="down"><b>-1.25%</b></td>
+<td>48.61</td>
+<td>47.50</td>
+<td>48.35</td>
+<td>48.15</td>
+<td>48.00</td>
+<td>6.79</td>
+<td>325.84</td>
+<td>3680.06</td>
+<td>0.88</td>
+<td>14.40</td>
+<td>0.65</td>
+<td>0.76</td>
+<td>5.51</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLGFPRE00040/pragmafa">PRAGMAFA &raquo;</a></td>
+<td>19.00</td>
+<td class="up"><b>+0.26%</b></td>
+<td>18.95</td>
+<td>19.00</td>
+<td>19.05</td>
+<td>19.00</td>
+<td>19.00</td>
+<td>1.08</td>
+<td>20.55</td>
+<td>48.75</td>
+<td>0.20</td>
+<td>8.00</td>
+<td>1.24</td>
+<td>1.90</td>
+<td>5.05</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBOWM000019/bowim">BOWIM &raquo;</a></td>
+<td>3.79</td>
+<td class="down"><b>-1.30%</b></td>
+<td>3.84</td>
+<td>3.79</td>
+<td>3.79</td>
+<td>3.79</td>
+<td>3.79</td>
+<td>0.02</td>
+<td>0.06</td>
+<td>73.96</td>
+<td>0.40</td>
+<td>0.00</td>
+<td>1.07</td>
+<td>-2.90</td>
+<td>-10.22</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLGRNKT00019/nokaut">NOKAUT &raquo;</a></td>
+<td>6.00</td>
+<td class="up"><b>+1.69%</b></td>
+<td>5.90</td>
+<td>5.50</td>
+<td>6.00</td>
+<td>5.50</td>
+<td>6.00</td>
+<td>3.36</td>
+<td>18.91</td>
+<td>45.38</td>
+<td>0.50</td>
+<td>35.60</td>
+<td>2.28</td>
+<td>2.47</td>
+<td>2.60</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLINTSP00038/intersppl">INTERSPPL &raquo;</a></td>
+<td>2.75</td>
+<td class="down"><b>-4.51%</b></td>
+<td>2.88</td>
+<td>2.65</td>
+<td>2.91</td>
+<td>2.91</td>
+<td>2.75</td>
+<td>0.53</td>
+<td>1.44</td>
+<td>38.32</td>
+<td>0.10</td>
+<td>0.00</td>
+<td>1.03</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLREMAK00016/remak">REMAK &raquo;</a></td>
+<td>29.80</td>
+<td class="down"><b>-0.67%</b></td>
+<td>30.00</td>
+<td>29.80</td>
+<td>30.50</td>
+<td>30.00</td>
+<td>29.80</td>
+<td>1.31</td>
+<td>39.50</td>
+<td>89.40</td>
+<td>0.20</td>
+<td>47.20</td>
+<td>1.01</td>
+<td>-1.08</td>
+<td>-4.59</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLVTGDL00010/vantage">VANTAGE &raquo;</a></td>
+<td>1.50</td>
+<td class="down"><b>-0.66%</b></td>
+<td>1.51</td>
+<td>1.48</td>
+<td>1.58</td>
+<td>1.58</td>
+<td>1.50</td>
+<td>6.96</td>
+<td>10.39</td>
+<td>85.15</td>
+<td>0.20</td>
+<td>10.00</td>
+<td>0.25</td>
+<td>0.85</td>
+<td>1.12</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLMOBRK00013/mobruk">MOBRUK &raquo;</a></td>
+<td>43.50</td>
+<td class="down"><b>-4.37%</b></td>
+<td>45.49</td>
+<td>43.50</td>
+<td>43.50</td>
+<td>43.50</td>
+<td>43.50</td>
+<td>0.07</td>
+<td>2.96</td>
+<td>101.85</td>
+<td>0.10</td>
+<td>26.90</td>
+<td>1.71</td>
+<td>1.94</td>
+<td>4.64</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBKLND00017/bakalland">BAKALLAND &raquo;</a></td>
+<td>2.36</td>
+<td class="down"><b>-4.45%</b></td>
+<td>2.47</td>
+<td>2.35</td>
+<td>2.48</td>
+<td>2.48</td>
+<td>2.36</td>
+<td>18.88</td>
+<td>44.96</td>
+<td>47.13</td>
+<td>0.70</td>
+<td>72.80</td>
+<td>0.90</td>
+<td>2.07</td>
+<td>10.99</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLBRLNG00015/berling">BERLING &raquo;</a></td>
+<td>6.78</td>
+<td class="down"><b>-0.15%</b></td>
+<td>6.79</td>
+<td>6.78</td>
+<td>6.78</td>
+<td>6.78</td>
+<td>6.78</td>
+<td>0.41</td>
+<td>2.78</td>
+<td>118.65</td>
+<td>0.30</td>
+<td>6.90</td>
+<td>1.36</td>
+<td>17.12</td>
+<td>21.69</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLCAMMD00032/cammedia">CAMMEDIA &raquo;</a></td>
+<td>3.20</td>
+<td class=""><b>+0.00%</b></td>
+<td>3.20</td>
+<td>3.07</td>
+<td>3.26</td>
+<td>3.20</td>
+<td>3.20</td>
+<td>15.80</td>
+<td>50.19</td>
+<td>23.31</td>
+<td>0.60</td>
+<td>15.40</td>
+<td>0.79</td>
+<td>2.27</td>
+<td>3.43</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLELKOP00013/elkop">ELKOP &raquo;</a></td>
+<td>0.15</td>
+<td class="down"><b>-11.76%</b></td>
+<td>0.17</td>
+<td>0.15</td>
+<td>0.20</td>
+<td>0.19</td>
+<td>0.15</td>
+<td>3787.08</td>
+<td>650.26</td>
+<td>15.90</td>
+<td>0.30</td>
+<td>1.20</td>
+<td>0.30</td>
+<td>23.82</td>
+<td>26.98</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLHGNKA00028/hygienika">HYGIENIKA &raquo;</a></td>
+<td>1.85</td>
+<td class="down"><b>-2.63%</b></td>
+<td>1.90</td>
+<td>1.78</td>
+<td>1.88</td>
+<td>1.86</td>
+<td>1.85</td>
+<td>398.02</td>
+<td>725.74</td>
+<td>72.80</td>
+<td>0.90</td>
+<td>216.60</td>
+<td>1.41</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLINPRO00015/inpro">INPRO &raquo;</a></td>
+<td>3.66</td>
+<td class="up"><b>+0.55%</b></td>
+<td>3.64</td>
+<td>3.51</td>
+<td>3.68</td>
+<td>3.51</td>
+<td>3.66</td>
+<td>3.28</td>
+<td>11.95</td>
+<td>146.55</td>
+<td>0.20</td>
+<td>6.80</td>
+<td>0.76</td>
+<td>4.59</td>
+<td>9.39</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLIZNS000022/kania">KANIA &raquo;</a></td>
+<td>2.28</td>
+<td class="down"><b>-0.87%</b></td>
+<td>2.30</td>
+<td>2.25</td>
+<td>2.30</td>
+<td>2.30</td>
+<td>2.28</td>
+<td>14.86</td>
+<td>33.98</td>
+<td>285.42</td>
+<td>0.50</td>
+<td>0.00</td>
+<td>1.82</td>
+<td>1.44</td>
+<td>3.80</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLYAWAL00058/yawal">YAWAL &raquo;</a></td>
+<td>5.97</td>
+<td class="up"><b>+9.54%</b></td>
+<td>5.45</td>
+<td>5.90</td>
+<td>6.35</td>
+<td>6.26</td>
+<td>5.97</td>
+<td>70.16</td>
+<td>428.43</td>
+<td>31.01</td>
+<td>0.60</td>
+<td>0.00</td>
+<td>0.28</td>
+<td>1.40</td>
+<td>2.38</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLTOYA000011/toya">TOYA &raquo;</a></td>
+<td>0.00</td>
+<td class=""><b>+0.00%</b></td>
+<td>2.45</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>2.45</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>&ndash;</td>
+<td>0.10</td>
+<td>8.40</td>
+<td>2.01</td>
+<td>11.51</td>
+<td>16.81</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/LU0611262873/ksgagro">KSGAGRO &raquo;</a></td>
+<td>11.99</td>
+<td class="up"><b>+2.48%</b></td>
+<td>11.70</td>
+<td>11.85</td>
+<td>12.10</td>
+<td>11.85</td>
+<td>11.99</td>
+<td>2.55</td>
+<td>30.27</td>
+<td>178.96</td>
+<td>0.60</td>
+<td>2.70</td>
+<td>0.53</td>
+<td>9.20</td>
+<td>21.48</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/LU0627170920/westaisic">WESTAISIC &raquo;</a></td>
+<td>0.68</td>
+<td class="up"><b>+1.49%</b></td>
+<td>0.67</td>
+<td>0.66</td>
+<td>0.69</td>
+<td>0.68</td>
+<td>0.68</td>
+<td>66.12</td>
+<td>44.22</td>
+<td>30.01</td>
+<td>1.10</td>
+<td>0.00</td>
+<td>0.39</td>
+<td>11.14</td>
+<td>96.17</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLHPRON00017/hyperion">HYPERION &raquo;</a></td>
+<td>2.26</td>
+<td class="down"><b>-4.64%</b></td>
+<td>2.37</td>
+<td>2.25</td>
+<td>2.39</td>
+<td>2.25</td>
+<td>2.26</td>
+<td>1.80</td>
+<td>4.10</td>
+<td>27.81</td>
+<td>0.40</td>
+<td>0.00</td>
+<td>0.66</td>
+<td>-0.55</td>
+<td>-1.04</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/SI0021104052/novakbm">NOVAKBM &raquo;</a></td>
+<td>3.39</td>
+<td class="up"><b>+4.31%</b></td>
+<td>3.25</td>
+<td>3.00</td>
+<td>3.39</td>
+<td>3.20</td>
+<td>3.39</td>
+<td>7.38</td>
+<td>22.91</td>
+<td>132.63</td>
+<td>373736.00</td>
+<td>0.12</td>
+<td>-22.25</td>
+<td>&ndash;</td>
+<td>-1.73</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPHN0000014/phn">PHN &raquo;</a></td>
+<td>25.10</td>
+<td class="down"><b>-0.40%</b></td>
+<td>25.20</td>
+<td>24.65</td>
+<td>25.40</td>
+<td>25.02</td>
+<td>25.10</td>
+<td>55.16</td>
+<td>1381.50</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLJSW0000015/jsw">JSW &raquo;</a></td>
+<td>93.10</td>
+<td class="down"><b>-1.22%</b></td>
+<td>94.25</td>
+<td>93.10</td>
+<td>95.00</td>
+<td>94.30</td>
+<td>93.10</td>
+<td>84.64</td>
+<td>7958.87</td>
+<td>10931.02</td>
+<td>1.10</td>
+<td>4.90</td>
+<td>1.13</td>
+<td>7.94</td>
+<td>12.67</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPGO0000014/pgodlew">PGODLEW &raquo;</a></td>
+<td>2.00</td>
+<td class="down"><b>-1.96%</b></td>
+<td>2.04</td>
+<td>1.95</td>
+<td>2.05</td>
+<td>2.00</td>
+<td>2.00</td>
+<td>7.55</td>
+<td>14.87</td>
+<td>192.60</td>
+<td>0.30</td>
+<td>6.90</td>
+<td>1.10</td>
+<td>20.66</td>
+<td>21.64</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLZAMET00010/zamet">ZAMET &raquo;</a></td>
+<td>3.57</td>
+<td class="up"><b>+2.00%</b></td>
+<td>3.50</td>
+<td>3.46</td>
+<td>3.58</td>
+<td>3.50</td>
+<td>3.57</td>
+<td>21.49</td>
+<td>75.77</td>
+<td>343.79</td>
+<td>0.30</td>
+<td>6.60</td>
+<td>1.77</td>
+<td>1.08</td>
+<td>1.61</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLANTI000012/greeneco">GREENECO &raquo;</a></td>
+<td>0.98</td>
+<td class="down"><b>-8.41%</b></td>
+<td>1.07</td>
+<td>0.98</td>
+<td>1.04</td>
+<td>0.98</td>
+<td>0.98</td>
+<td>20.11</td>
+<td>19.86</td>
+<td>10.53</td>
+<td>1.90</td>
+<td>0.00</td>
+<td>32.60</td>
+<td>-24.56</td>
+<td>-417.78</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLARCUS00040/arcus">ARCUS &raquo;</a></td>
+<td>3.92</td>
+<td class="down"><b>-3.21%</b></td>
+<td>4.05</td>
+<td>3.65</td>
+<td>3.95</td>
+<td>3.95</td>
+<td>3.92</td>
+<td>7.54</td>
+<td>29.27</td>
+<td>28.99</td>
+<td>0.00</td>
+<td>10.60</td>
+<td>0.33</td>
+<td>1.51</td>
+<td>2.32</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLCASHF00018/cashflow">CASHFLOW &raquo;</a></td>
+<td>2.30</td>
+<td class="down"><b>-1.29%</b></td>
+<td>2.33</td>
+<td>2.20</td>
+<td>2.34</td>
+<td>2.31</td>
+<td>2.30</td>
+<td>12.99</td>
+<td>29.33</td>
+<td>17.25</td>
+<td>0.60</td>
+<td>6.10</td>
+<td>1.13</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i up"><a href="/instrument/PLIQPRT00017/iqp">IQP &raquo;</a></td>
+<td>1.01</td>
+<td class="up"><b>+1.00%</b></td>
+<td>1.00</td>
+<td>0.99</td>
+<td>1.01</td>
+<td>0.99</td>
+<td>1.01</td>
+<td>6.66</td>
+<td>6.66</td>
+<td>22.58</td>
+<td>0.90</td>
+<td>4.60</td>
+<td>0.58</td>
+<td>-11.24</td>
+<td>-12.93</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLLSTIA00018/lstcapita">LSTCAPITA &raquo;</a></td>
+<td>0.49</td>
+<td class="down"><b>-5.77%</b></td>
+<td>0.52</td>
+<td>0.48</td>
+<td>0.53</td>
+<td>0.53</td>
+<td>0.49</td>
+<td>119.03</td>
+<td>59.89</td>
+<td>21.71</td>
+<td>0.90</td>
+<td>4.30</td>
+<td>0.53</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLOPTEM00012/opteam">OPTEAM &raquo;</a></td>
+<td>5.50</td>
+<td class="down"><b>-1.79%</b></td>
+<td>5.60</td>
+<td>5.50</td>
+<td>5.60</td>
+<td>5.60</td>
+<td>5.50</td>
+<td>0.35</td>
+<td>1.94</td>
+<td>40.15</td>
+<td>0.40</td>
+<td>33.30</td>
+<td>1.51</td>
+<td>3.30</td>
+<td>9.56</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLPEKPL00010/pointgroup">POINTGROUP &raquo;</a></td>
+<td>0.22</td>
+<td class="down"><b>-4.35%</b></td>
+<td>0.23</td>
+<td>0.22</td>
+<td>0.23</td>
+<td>0.23</td>
+<td>0.22</td>
+<td>30.79</td>
+<td>6.77</td>
+<td>22.86</td>
+<td>0.60</td>
+<td>0.00</td>
+<td>3.47</td>
+<td>-41.90</td>
+<td>-206.31</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i "><a href="/instrument/PLSEKO000014/seko">SEKO &raquo;</a></td>
+<td>4.20</td>
+<td class=""><b>+0.00%</b></td>
+<td>4.20</td>
+<td>4.19</td>
+<td>4.29</td>
+<td>4.19</td>
+<td>4.20</td>
+<td>3.58</td>
+<td>15.03</td>
+<td>27.93</td>
+<td>0.20</td>
+<td>0.00</td>
+<td>0.46</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+
+<tr onmouseover="i_on(this); " onmouseout="i_out(this);">
+<td>2013-03-22</td>
+<td class="i down"><a href="/instrument/PLTIM0000016/tim">TIM &raquo;</a></td>
+<td>7.03</td>
+<td class="down"><b>-2.90%</b></td>
+<td>7.24</td>
+<td>7.01</td>
+<td>7.42</td>
+<td>7.01</td>
+<td>7.03</td>
+<td>0.23</td>
+<td>1.59</td>
+<td>156.06</td>
+<td>0.30</td>
+<td>12.90</td>
+<td>0.61</td>
+<td>1.60</td>
+<td>2.19</td>
+<td>&ndash;</td>
+<td>&ndash;</td>
+</tr>
+
+</tbody>
+<tr>
+<td></td>
+<td class="down"><b>RAZEM</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><b>986981.86</b></td>
+<td><b>651782.46</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th ><b>czas</b></th>
+<th><b>instrument</b></th>
+<th  class="{sorter:'digit'}"><b>kurs</b></th>
+<th  class="{sorter:'digit'}"><b>%</b></th>
+<th  class="{sorter:'digit'}"><b>kurs odniesienia</b></th>
+<th class="{sorter:'digit'}"><b>min.</b></th>
+<th class="{sorter:'digit'}"><b>maks.</b></th>
+<th class="{sorter:'digit'}"><b>otw.</b></th>
+<th class="{sorter:'digit'}"><b>zam.</b></th>
+<th class="{sorter:'digit'}"><b>wolumen</b><br />(tys.)</th>
+<th class="endblock"><b>obroty</b><br />(tys. zł)</th>
+<th class="{sorter:'digit'}" title="wartość rynkowa"><b>kapitalizacja</b><br />(mln zł)</th>
+<th class="{sorter:'digit'}" title="Beta"><b>beta</b></th>
+<th class="{sorter:'digit'}" title="cena / zysk netto"><b>P/E</b></th>
+<th class="{sorter:'digit'}" title="cena / wartość księgowa"><b>P/BV</b></th>
+<th class="{sorter:'digit'}" title="rentowność aktywów = E/aktywa"><b>ROA</b><br />(%)</th>
+<th class="{sorter:'digit'}" title="rentowność kapitałów własnych = E/BV"><b>ROE</b><br />(%)</th>
+<th class="{sorter:'digit'}"><b>min. roczne</b></th>
+<th class="{sorter:'digit'}"><b>maks. roczne</b></th>
+</tr>
+</table>
+<script type="text/javascript">
+sortList = [[1,0]];
+function i_on(e)
+{
+	e.style.backgroundColor = 'white';
+}
+function i_out(e)
+{
+	e.style.backgroundColor = 'transparent';
+}
+</script>
+</div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

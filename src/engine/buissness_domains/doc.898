@@ -1,0 +1,238 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>  Echo Investment SA  Informacja dotycząca przedwstępnych umów sprzedaży nieruchomości</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = -1;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+
+<h1>Informacja dotycząca przedwstępnych umów sprzedaży nieruchomości</h1>
+<!-- <p>None</p>  -->
+<div class="text" style="font-family: monospace; font-size: 11px; ">
+<div><table><tr><td></td><td colspan=11>KOMISJA NADZORU FINANSOWEGO</td><td></td></tr><tr><td></td><td></td><td></td><td colspan=4>Raport bieżący nr</td><td>12</td><td>/</td><td>2013</td><td></td><td></td><td></td></tr><tr><td></td><td colspan=2>Data sporządzenia:</td><td>2013-03-22</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td colspan=3>Skrócona nazwa emitenta</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td colspan=11>ECHO</td><td></td></tr><tr><td></td><td colspan=2>Temat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td colspan=11>Informacja dotycząca przedwstępnych umów sprzedaży nieruchomości</td><td></td></tr><tr><td></td><td colspan=4>Podstawa prawna</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td colspan=11>Art. 56 ust. 1 pkt 2 Ustawy o ofercie - informacje bieżące i okresowe</td><td></td></tr><tr><td></td><td colspan=3>Treść raportu:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td colspan=11>Zarząd Echo Investment S.A. (dalej: Emitent), w nawiązaniu do raportu bieżącego nr 10 / 2013  z dnia 20 marca 2013 r., informuje, iż podmioty zależne od Emitenta, spółki:<br />1) &quot;Galeria Tarnów - Projekt ECHO- 43 spółka z ograniczoną odpowiedzialnością&quot; spółka komandytowo-akcyjna z siedzibą w Kielcach (adres: 25-323 Kielce, Aleja Solidarności nr 36,) wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego, prowadzonego przez Sąd Rejonowy w Kielcach, X Wydział Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS 0000385055 (Sprzedający 1)<br />2) &quot;PPR-Projekt ECHO-77 spółka z ograniczoną odpowiedzialnością&quot; spółka komandytowo-akcyjna z siedzibą w Kielcach (adres: 25-323 Kielce, Aleja Solidarności nr 36, ) wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego, prowadzonego przez Sąd Rejonowy w Kielcach, X Wydział Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS 0000361525 (Sprzedający 2)<br />rozpoczęły proces negocjacji ostatecznych umów sprzedaży nieruchomości obejmujących:<br />1) prawo użytkowania wieczystego nieruchomości oraz własności budynków posadowionych na nieruchomości wraz z ruchomościami, które stanowią Centrum Handlowe ECHO w Tarnowie, przy ul. Błonie 2 (Nieruchomość 1);<br />2) prawo własności nieruchomości wraz z ruchomościami, które stanowią Centrum Handlowe ECHO w Radomiu przy ul. Żółkiewskiego 4 (Nieruchomość 2);<br />3) prawo własności nieruchomości oraz prawo użytkowania wieczystego gruntu oraz prawo własności budynku wraz z ruchomościami, które stanowią Centrum Handlowe ECHO w Piotrkowie Trybunalskim przy ul. Sikorskiego 13/17 (Nieruchomość 3)<br />z kupującymi tj. spółkami:<br />1) &quot;CONNIE INVESTMENTS&quot; spółka z ograniczoną odpowiedzialnością spółka komandytowa z siedzibą w Warszawie (adres: 00-803 Warszawa, Aleje Jerozolimskie nr 56C), wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego, prowadzonego przez Sąd Rejonowy dla m.st. Warszawy w Warszawie, XII Wydział Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS 0000342707 (Kupujący 1) – w odniesieniu do Nieruchomości 1;<br />2) &quot;SYNCERUS INVESTMENTS&quot; spółka z ograniczoną odpowiedzialnością spółka komandytowa z siedzibą w Warszawie (adres: 00-078 Warszawa, Plac Piłsudskiego nr 3),wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego, prowadzonego przez Sąd Rejonowy dla m.st. Warszawy w Warszawie, XII Wydział Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS 0000342748 (Kupujący 2) – w odniesieniu do Nieruchomości 2;<br />3) &quot;XANTIRA INVESTMENTS&quot; spółka z ograniczoną odpowiedzialnością spółka komandytowa z siedzibą w Warszawie (adres: 00-803 Warszawa, Aleje Jerozolimskie nr 56C), wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego, prowadzonego przez Sąd Rejonowy dla m.st. Warszawy w Warszawie, XII Wydział Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS 0000340765 (Kupujący 3) – w odniesieniu do Nieruchomości 3.<br /><br />Zgodnie z postanowieniami przedwstępnych umów sprzedaży zaraportowanych raportem bieżącym nr 10 / 2013  z dnia 20 marca 2013 r. Kupujący zastrzegli sobie prawo do przeniesienia praw i obowiązków z tych umów na BRE Leasing Sp. z o.o. z siedzibą w Warszawie, która w razie przeniesienia praw i obowiązków z umów będzie występować jako strona kupująca. Ostateczne ceny sprzedaży Nieruchomości 1 – 3 zostaną zweryfikowane przez Strony na dzień zawarcia ostatecznych umów sprzedaży, zgodnie z mechanizmem weryfikacji zawartym w przedwstępnych umowach sprzedaży.</td><td></td></tr></table><table><tr><td></td><td colspan=2>MESSAGE (ENGLISH VERSION)</td><td></td></tr><tr><td></td><td colspan=2></td><td></td></tr></table><table><tr><td></td><td></td><td colspan=13>ECHO INVESTMENT SA</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=13>(pełna nazwa emitenta)</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=6>ECHO</td><td></td><td colspan=6>WIG - Deweloperzy</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=6>(skrócona nazwa emitenta)</td><td></td><td colspan=6>(sektor wg. klasyfikacji GPW w W-wie)</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=3>25-323</td><td></td><td colspan=9>Kielce</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=3>(kod pocztowy)</td><td></td><td colspan=9>(miejscowość)</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=11>Al. Solidarności</td><td></td><td>36</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=11>(ulica)</td><td></td><td>(numer)</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=6>(0-41) 33 33 333</td><td></td><td colspan=6>(0-41) 33 32 333</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=6>(telefon)</td><td></td><td></td><td colspan=5>(fax)</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=6>office@echo.com.pl</td><td></td><td colspan=6>www.echo.com.pl</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=6>(e-mail)</td><td></td><td></td><td colspan=5>(www)</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=6>657-023-09-12</td><td></td><td colspan=6>290463755</td><td></td><td></td></tr><tr><td></td><td></td><td colspan=6>(NIP)</td><td></td><td></td><td colspan=5>(REGON)</td><td></td><td></td></tr></table><table><tr><td></td><td colspan=4>PODPISY OSÓB REPREZENTUJĄCYCH SPÓŁKĘ</td><td></td></tr><tr><td></td><td>Data</td><td>Imię i Nazwisko</td><td>Stanowisko/Funkcja</td><td>Podpis</td><td></td></tr><tr><td></td><td>2013-03-22</td><td>Piotr Gromniak</td><td>Prezes Zarządu</td><td></td><td></td></tr><tr><td></td><td>2013-03-22</td><td>Rafał Kwiatkowski</td><td>Prokurent</td><td></td><td></td></tr></table></div>
+</div>
+<script type="text/javascript">
+nhi = new Image;
+nhi.src = '/hit/3053837?ref=&r=' + Math.random();
+</script>
+
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

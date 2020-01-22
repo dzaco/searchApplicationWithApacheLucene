@@ -1,0 +1,1383 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Finanse: Księgarnia Bankier.pl</title>
+	<meta name="description" content="Księgarnia bankier.pl - książki dla biznesu i nie tylko."/>
+	<link rel="shortcut icon" href="http://www.bankier.pl/favicon.ico" type="image/x-icon"/>
+	<link href="/s/style.css?v=7" rel="stylesheet" type="text/css" media="screen"/>
+    <script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+    <noscript>
+        <div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+            text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+            text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+            <div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+                Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+                z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+                Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+            </div>
+        </div>
+    </noscript>
+
+
+
+	
+	
+	<!-- (C)2000-2009 Gemius SA - gemiusTraffic / ver 11.1 / ksiegarnia_pozostale --> 
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var gemius_identifier = new String('AkTrsutX7HoCGwslBuULPsRpLVVKKmbNbDo489YWyfv.k7');
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://www.bankier.pl/inc/js/gemius.js"></script>
+	
+	
+	
+	<!-- (C) 2000-2009 Gemius SA - gemiusAudience / ver 11.1 / adnet.bankier / Ksiegarnia-->
+	<script type="text/javascript">
+	 <!--//--><![CDATA[//><!--
+	var pp_gemius_identifier ='za01ZONWwSNq9wS8lPPx4reOLd_kNOcSlGWIIc19ul7.F7';
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://arbo.hit.gemius.pl/xgemius.js"></script>
+
+
+</head>
+<body id="bn_lifestyle">
+
+<link href="http://s01.bankier.pl/s/ksiegarnia.css" rel="stylesheet" type="text/css" />
+
+<div id="bn_header" style="position: relative; z-index: 100; height:120px;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Fcontent%2Fksiegarnia%2Fheader_new.html" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/bankiertv-index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li class="selected"><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+
+
+
+<div id="ksiegarnia">
+	<div id="content">
+		<div id="search">
+			<div class="top"></div>
+			<form action="/szukaj/">
+				<div>
+					Szukaj:
+					<input name="q" size="30"/>
+					<input type="submit" value="szukaj" />
+				</div>
+			</form>
+			<div class="bottom"></div>
+		</div>
+		
+
+
+
+
+
+
+<p class="lead">Wiosenne porządki na Onepress.pl [20% rabatu na całą ofertę]</p>
+
+
+
+
+<div class="box">
+	<div class="pre-title"></div><div class="box-title">Finanse</div><div class="post-title"></div>
+	<div class="content">
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka948/dlaczego-madrzy-ludzie-popelniaja-glupstwa-finansowe-przestan-marnowac-pieniadze-i-zarabiaj-naprawde.html">
+			<img class="cover" src="/s/cover/small/948.jpg" alt="Dlaczego mądrzy ludzie popełniają głupstwa finansowe? Przestań marnować pieniądze i zarabiaj NAPRAWDĘ"/>
+		</a>
+		<a class="boo " href="/ksiazka948/dlaczego-madrzy-ludzie-popelniaja-glupstwa-finansowe-przestan-marnowac-pieniadze-i-zarabiaj-naprawde.html">
+			<span class="title">Dlaczego mądrzy ludzie popełniają głupstwa finansowe? Przestań marnować pieniądze i zarabiaj NAPRAWDĘ</span>
+		</a>
+			<span class="author">Gary Belsky, Thomas Gilovich</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka89/dotacje-na-inwestycje.html">
+			<img class="cover" src="/s/cover/small/89.jpg" alt="Dotacje na inwestycje"/>
+		</a>
+		<a class="boo " href="/ksiazka89/dotacje-na-inwestycje.html">
+			<span class="title">Dotacje na inwestycje</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka807/fundusze-unijne-szansa-na-rozwoj-malych-i-srednich-przedsiebiorstw.html">
+			<img class="cover" src="/s/cover/small/807.jpg" alt="Fundusze unijne - szansa na rozwój małych i średnich przedsiębiorstw"/>
+		</a>
+		<a class="boo " href="/ksiazka807/fundusze-unijne-szansa-na-rozwoj-malych-i-srednich-przedsiebiorstw.html">
+			<span class="title">Fundusze unijne - szansa na rozwój małych i średnich przedsiębiorstw</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka797/twoje-finanse-racjonalne-inwestowanie.html">
+			<img class="cover" src="/s/cover/small/797.jpg" alt="Twoje finanse. Racjonalne inwestowanie"/>
+		</a>
+		<a class="boo " href="/ksiazka797/twoje-finanse-racjonalne-inwestowanie.html">
+			<span class="title">Twoje finanse. Racjonalne inwestowanie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">17,90&nbsp;zł</span>
+					<span class="promo">14,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1347/strategie-inwestycyjne-jak-z-glowa-zarabiac-na-gieldzie.html">
+			<img class="cover" src="/s/cover/small/1347.jpg" alt="Strategie inwestycyjne. Jak z głową zarabiać na giełdzie"/>
+		</a>
+		<a class="boo " href="/ksiazka1347/strategie-inwestycyjne-jak-z-glowa-zarabiac-na-gieldzie.html">
+			<span class="title">Strategie inwestycyjne. Jak z głową zarabiać na giełdzie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1346/zastosowanie-excela-w-pracy-analityka-finansowego-specjalisty-ds-controllingu-i-analityka-sprzedazy.html">
+			<img class="cover" src="/s/cover/small/1346.jpg" alt="Zastosowanie Excela w pracy analityka finansowego, specjalisty ds. controllingu i analityka sprzedaży"/>
+		</a>
+		<a class="boo " href="/ksiazka1346/zastosowanie-excela-w-pracy-analityka-finansowego-specjalisty-ds-controllingu-i-analityka-sprzedazy.html">
+			<span class="title">Zastosowanie Excela w pracy analityka finansowego, specjalisty ds. controllingu i analityka sprzedaży</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka882/dotacje-na-e-biznes-pozyskiwanie-srodkow-z-ue-w-ramach-po-ig-81.html">
+			<img class="cover" src="/s/cover/small/882.jpg" alt="Dotacje na e-biznes. Pozyskiwanie środków z UE w ramach PO IG 8.1"/>
+		</a>
+		<a class="boo " href="/ksiazka882/dotacje-na-e-biznes-pozyskiwanie-srodkow-z-ue-w-ramach-po-ig-81.html">
+			<span class="title">Dotacje na e-biznes. Pozyskiwanie środków z UE w ramach PO IG 8.1</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">48,81&nbsp;zł</span>
+					<span class="promo">39,05&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka350/faktoring-w-teorii-i-w-praktyce-wydanie-iii-rozszerzone-i-zaktualizowane.html">
+			<img class="cover" src="/s/cover/small/350.jpg" alt="Faktoring w teorii i w praktyce. Wydanie III - rozszerzone i zaktualizowane"/>
+		</a>
+		<a class="boo " href="/ksiazka350/faktoring-w-teorii-i-w-praktyce-wydanie-iii-rozszerzone-i-zaktualizowane.html">
+			<span class="title">Faktoring w teorii i w praktyce. Wydanie III - rozszerzone i zaktualizowane</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka815/zarzadzanie-ryzykiem-walutowym.html">
+			<img class="cover" src="/s/cover/small/815.jpg" alt="Zarządzanie ryzykiem walutowym"/>
+		</a>
+		<a class="boo " href="/ksiazka815/zarzadzanie-ryzykiem-walutowym.html">
+			<span class="title">Zarządzanie ryzykiem walutowym</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1378/pieniadze-leza-na-parkiecie-gielda-dla-niepokornych.html">
+			<img class="cover" src="/s/cover/small/1378.jpg" alt="Pieniądze leżą na parkiecie. Giełda dla niepokornych"/>
+		</a>
+		<a class="boo " href="/ksiazka1378/pieniadze-leza-na-parkiecie-gielda-dla-niepokornych.html">
+			<span class="title">Pieniądze leżą na parkiecie. Giełda dla niepokornych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka632/finanse-w-biznesie-osobisty-mentor-harvard-business.html">
+			<img class="cover" src="/s/cover/small/632.jpg" alt="Finanse w biznesie. Osobisty mentor- Harvard Business"/>
+		</a>
+		<a class="boo " href="/ksiazka632/finanse-w-biznesie-osobisty-mentor-harvard-business.html">
+			<span class="title">Finanse w biznesie. Osobisty mentor- Harvard Business</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka841/inwestuj-we-wlasny-dlug-7-krokow-dzieki-ktorym-splacisz-kredyt-przed-terminem-i-jeszcze-na-tym-zarobisz.html">
+			<img class="cover" src="/s/cover/small/841.jpg" alt="Inwestuj we własny dług. 7 kroków dzieki którym spłacisz kredyt przed terminem i jeszcze na tym zarobisz"/>
+		</a>
+		<a class="boo " href="/ksiazka841/inwestuj-we-wlasny-dlug-7-krokow-dzieki-ktorym-splacisz-kredyt-przed-terminem-i-jeszcze-na-tym-zarobisz.html">
+			<span class="title">Inwestuj we własny dług. 7 kroków dzieki którym spłacisz kredyt przed terminem i jeszcze na tym zarobisz</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1631/milion-w-zasiegu-reki-poradnik-zarzadzania-finansami-ebooki.html">
+			<img class="cover" src="/s/cover/small/1631.jpg" alt="Milion w zasięgu ręki. Poradnik zarządzania finansami. eBooki"/>
+		</a>
+		<a class="boo " href="/ksiazka1631/milion-w-zasiegu-reki-poradnik-zarzadzania-finansami-ebooki.html">
+			<span class="title">Milion w zasięgu ręki. Poradnik zarządzania finansami. eBooki</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">22,90&nbsp;zł</span>
+					<span class="promo">18,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka353/analiza-i-planowanie-finansowe.html">
+			<img class="cover" src="/s/cover/small/353.jpg" alt="Analiza i planowanie finansowe"/>
+		</a>
+		<a class="boo " href="/ksiazka353/analiza-i-planowanie-finansowe.html">
+			<span class="title">Analiza i planowanie finansowe</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka794/twoje-finanse-organizowanie-i-planowanie-wlasnych-finansow.html">
+			<img class="cover" src="/s/cover/small/794.jpg" alt="Twoje finanse. Organizowanie i planowanie własnych finansów"/>
+		</a>
+		<a class="boo " href="/ksiazka794/twoje-finanse-organizowanie-i-planowanie-wlasnych-finansow.html">
+			<span class="title">Twoje finanse. Organizowanie i planowanie własnych finansów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">17,90&nbsp;zł</span>
+					<span class="promo">14,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1403/biedny-milioner-jak-miec-wszystko-co-trzeba-i-cieszyc-sie-zyciem.html">
+			<img class="cover" src="/s/cover/small/1403.jpg" alt="Biedny milioner. Jak mieć wszystko, co trzeba, i cieszyć się życiem"/>
+		</a>
+		<a class="boo " href="/ksiazka1403/biedny-milioner-jak-miec-wszystko-co-trzeba-i-cieszyc-sie-zyciem.html">
+			<span class="title">Biedny milioner. Jak mieć wszystko, co trzeba, i cieszyć się życiem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka44/twoje-podejscie-do-pieniedzy-czy-zachowujesz-sie-tak-jak-wszyscy-inni.html">
+			<img class="cover" src="/s/cover/small/44.jpg" alt="Twoje podejście do pieniędzy. Czy zachowujesz się tak, jak wszyscy inni?"/>
+		</a>
+		<a class="boo " href="/ksiazka44/twoje-podejscie-do-pieniedzy-czy-zachowujesz-sie-tak-jak-wszyscy-inni.html">
+			<span class="title">Twoje podejście do pieniędzy. Czy zachowujesz się tak, jak wszyscy inni?</span>
+		</a>
+			<span class="author">Bernice Kanner</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1271/forex-dla-bystrzakow.html">
+			<img class="cover" src="/s/cover/small/1271.jpg" alt="FOREX dla bystrzaków"/>
+		</a>
+		<a class="boo " href="/ksiazka1271/forex-dla-bystrzakow.html">
+			<span class="title">FOREX dla bystrzaków</span>
+		</a>
+			<span class="author">Brian Dolan, Mark Galant</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka488/finanse-osobiste-swiadome-zarzadzanie-wlasnym-portfelem.html">
+			<img class="cover" src="/s/cover/small/488.jpg" alt="Finanse osobiste. Świadome zarządzanie własnym portfelem"/>
+		</a>
+		<a class="boo " href="/ksiazka488/finanse-osobiste-swiadome-zarzadzanie-wlasnym-portfelem.html">
+			<span class="title">Finanse osobiste. Świadome zarządzanie własnym portfelem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">79,77&nbsp;zł</span>
+					<span class="promo">63,82&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka358/budzetowanie-jako-narzedzie-rachunkowosci-zarzadczej.html">
+			<img class="cover" src="/s/cover/small/358.jpg" alt="Budżetowanie jako narzędzie rachunkowości zarządczej"/>
+		</a>
+		<a class="boo " href="/ksiazka358/budzetowanie-jako-narzedzie-rachunkowosci-zarzadczej.html">
+			<span class="title">Budżetowanie jako narzędzie rachunkowości zarządczej</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1538/bogac-sie-dziesiec-przykazan-zarabiania-pieniedzy-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1538.jpg" alt="Bogać się! Dziesięć przykazań zarabiania pieniędzy. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1538/bogac-sie-dziesiec-przykazan-zarabiania-pieniedzy-wydanie-ii.html">
+			<span class="title">Bogać się! Dziesięć przykazań zarabiania pieniędzy. Wydanie II</span>
+		</a>
+			<span class="author">Rabbi Daniel Lapin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">42,90&nbsp;zł</span>
+					<span class="promo">34,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1409/kabala-pieniedzy-zydowska-filozofia-bogacenia-sie.html">
+			<img class="cover" src="/s/cover/small/1409.jpg" alt="Kabała pieniędzy. Żydowska filozofia bogacenia się"/>
+		</a>
+		<a class="boo " href="/ksiazka1409/kabala-pieniedzy-zydowska-filozofia-bogacenia-sie.html">
+			<span class="title">Kabała pieniędzy. Żydowska filozofia bogacenia się</span>
+		</a>
+			<span class="author">Rabbi Nilton Bonder</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka336/finanse-korporacyjne-teoria-i-praktyka-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/336.jpg" alt="Finanse korporacyjne. Teoria i praktyka. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka336/finanse-korporacyjne-teoria-i-praktyka-wydanie-ii.html">
+			<span class="title">Finanse korporacyjne. Teoria i praktyka. Wydanie II</span>
+		</a>
+			<span class="author">Aswath Damodaran</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">227&nbsp;zł</span>
+					<span class="promo">181,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1222/budzet-domowy-pod-kontrola-jak-rozsadnie-wydawac-oszczedzac-i-inwestowac-pieniadze.html">
+			<img class="cover" src="/s/cover/small/1222.jpg" alt="Budżet domowy pod kontrolą. Jak rozsądnie wydawać, oszczędzać i inwestować pieniądze"/>
+		</a>
+		<a class="boo " href="/ksiazka1222/budzet-domowy-pod-kontrola-jak-rozsadnie-wydawac-oszczedzac-i-inwestowac-pieniadze.html">
+			<span class="title">Budżet domowy pod kontrolą. Jak rozsądnie wydawać, oszczędzać i inwestować pieniądze</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1992/zarzadzanie-ryzykiem-walutowym.html">
+			<img class="cover" src="/s/cover/small/1992.jpg" alt="Zarządzanie ryzykiem walutowym"/>
+		</a>
+		<a class="boo " href="/ksiazka1992/zarzadzanie-ryzykiem-walutowym.html">
+			<span class="title">Zarządzanie ryzykiem walutowym</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1370/rewizor-gt-ewidencja-ksiegowa-bez-tajemnic.html">
+			<img class="cover" src="/s/cover/small/1370.jpg" alt="Rewizor GT. Ewidencja księgowa bez tajemnic"/>
+		</a>
+		<a class="boo " href="/ksiazka1370/rewizor-gt-ewidencja-ksiegowa-bez-tajemnic.html">
+			<span class="title">Rewizor GT. Ewidencja księgowa bez tajemnic</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1345/zus-l4-pit-co-powinienes-wiedziec-o-wynagrodzeniach-pracowniczych.html">
+			<img class="cover" src="/s/cover/small/1345.jpg" alt="ZUS, L4, PIT. Co powinieneś wiedzieć o wynagrodzeniach pracowniczych"/>
+		</a>
+		<a class="boo " href="/ksiazka1345/zus-l4-pit-co-powinienes-wiedziec-o-wynagrodzeniach-pracowniczych.html">
+			<span class="title">ZUS, L4, PIT. Co powinieneś wiedzieć o wynagrodzeniach pracowniczych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">42,90&nbsp;zł</span>
+					<span class="promo">34,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1650/pieniadze-leza-na-parkiecie-gielda-dla-niepokornych.html">
+			<img class="cover" src="/s/cover/small/1650.jpg" alt="Pieniądze leżą na parkiecie. Giełda dla niepokornych"/>
+		</a>
+		<a class="boo " href="/ksiazka1650/pieniadze-leza-na-parkiecie-gielda-dla-niepokornych.html">
+			<span class="title">Pieniądze leżą na parkiecie. Giełda dla niepokornych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1390/ksiega-przychodow-i-rozchodow-wszystko-co-musisz-wiedziec-o-rozliczaniu-dzialalnosci-gospodarczej.html">
+			<img class="cover" src="/s/cover/small/1390.jpg" alt="Księga Przychodów i Rozchodów. Wszystko, co musisz wiedzieć o rozliczaniu działalności gospodarczej"/>
+		</a>
+		<a class="boo " href="/ksiazka1390/ksiega-przychodow-i-rozchodow-wszystko-co-musisz-wiedziec-o-rozliczaniu-dzialalnosci-gospodarczej.html">
+			<span class="title">Księga Przychodów i Rozchodów. Wszystko, co musisz wiedzieć o rozliczaniu działalności gospodarczej</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka487/jak-prowadzic-ksiege-przychodow-i-rozchodow-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/487.jpg" alt="Jak prowadzić księgę przychodów i rozchodów. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka487/jak-prowadzic-ksiege-przychodow-i-rozchodow-wydanie-ii.html">
+			<span class="title">Jak prowadzić księgę przychodów i rozchodów. Wydanie II</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1672/strategie-inwestycyjne-jak-z-glowa-zarabiac-na-gieldzie.html">
+			<img class="cover" src="/s/cover/small/1672.jpg" alt="Strategie inwestycyjne. Jak z głową zarabiać na giełdzie"/>
+		</a>
+		<a class="boo " href="/ksiazka1672/strategie-inwestycyjne-jak-z-glowa-zarabiac-na-gieldzie.html">
+			<span class="title">Strategie inwestycyjne. Jak z głową zarabiać na giełdzie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka357/wikipedia.html">
+			<img class="cover" src="/s/cover/small/357.jpg" alt="Wikipedia"/>
+		</a>
+		<a class="boo " href="/ksiazka357/wikipedia.html">
+			<span class="title">Wikipedia</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka932/inwestuj-we-wlasny-etat-jak-zbudowac-finansowa-niezaleznosc-pracujac-na-etacie-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/932.jpg" alt="Inwestuj we własny etat. Jak zbudować finansową niezależność pracując na etacie. Wydanie II "/>
+		</a>
+		<a class="boo " href="/ksiazka932/inwestuj-we-wlasny-etat-jak-zbudowac-finansowa-niezaleznosc-pracujac-na-etacie-wydanie-ii.html">
+			<span class="title">Inwestuj we własny etat. Jak zbudować finansową niezależność pracując na etacie. Wydanie II </span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1405/dlaczego-twoj-makler-wolalby-zebys-tego-nie-wiedzial.html">
+			<img class="cover" src="/s/cover/small/1405.jpg" alt="Dlaczego Twój makler wolałby, żebyś TEGO nie wiedział?"/>
+		</a>
+		<a class="boo " href="/ksiazka1405/dlaczego-twoj-makler-wolalby-zebys-tego-nie-wiedzial.html">
+			<span class="title">Dlaczego Twój makler wolałby, żebyś TEGO nie wiedział?</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1954/twoje-finanse-organizowanie-i-planowanie-wlasnych-finansow.html">
+			<img class="cover" src="/s/cover/small/1954.jpg" alt="Twoje finanse. Organizowanie i planowanie własnych finansów"/>
+		</a>
+		<a class="boo " href="/ksiazka1954/twoje-finanse-organizowanie-i-planowanie-wlasnych-finansow.html">
+			<span class="title">Twoje finanse. Organizowanie i planowanie własnych finansów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">13,95&nbsp;zł</span>
+					<span class="promo">11,16&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1953/twoje-finanse-bezpieczenstwo-wlasne-i-majatku.html">
+			<img class="cover" src="/s/cover/small/1953.jpg" alt="Twoje finanse. Bezpieczeństwo własne i majątku"/>
+		</a>
+		<a class="boo " href="/ksiazka1953/twoje-finanse-bezpieczenstwo-wlasne-i-majatku.html">
+			<span class="title">Twoje finanse. Bezpieczeństwo własne i majątku</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">13,95&nbsp;zł</span>
+					<span class="promo">11,16&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka796/twoje-finanse-skuteczne-oszczedzanie.html">
+			<img class="cover" src="/s/cover/small/796.jpg" alt="Twoje finanse. Skuteczne oszczędzanie"/>
+		</a>
+		<a class="boo " href="/ksiazka796/twoje-finanse-skuteczne-oszczedzanie.html">
+			<span class="title">Twoje finanse. Skuteczne oszczędzanie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">17,90&nbsp;zł</span>
+					<span class="promo">14,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1818/kabala-pieniedzy-zydowska-filozofia-bogacenia-sie.html">
+			<img class="cover" src="/s/cover/small/1818.jpg" alt="Kabała pieniędzy. Żydowska filozofia bogacenia się"/>
+		</a>
+		<a class="boo " href="/ksiazka1818/kabala-pieniedzy-zydowska-filozofia-bogacenia-sie.html">
+			<span class="title">Kabała pieniędzy. Żydowska filozofia bogacenia się</span>
+		</a>
+			<span class="author">Rabbi Nilton Bonder</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1760/zastosowanie-excela-w-pracy-analityka-finansowego-specjalisty-ds-controllingu-i-analityka-sprzedazy.html">
+			<img class="cover" src="/s/cover/small/1760.jpg" alt="Zastosowanie Excela w pracy analityka finansowego, specjalisty ds. controllingu i analityka sprzedaży"/>
+		</a>
+		<a class="boo " href="/ksiazka1760/zastosowanie-excela-w-pracy-analityka-finansowego-specjalisty-ds-controllingu-i-analityka-sprzedazy.html">
+			<span class="title">Zastosowanie Excela w pracy analityka finansowego, specjalisty ds. controllingu i analityka sprzedaży</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2059/rozwazny-inwestor-wydanie-ii-zaktualizowane.html">
+			<img class="cover" src="/s/cover/small/2059.jpg" alt="Rozważny inwestor. Wydanie II zaktualizowane"/>
+		</a>
+		<a class="boo " href="/ksiazka2059/rozwazny-inwestor-wydanie-ii-zaktualizowane.html">
+			<span class="title">Rozważny inwestor. Wydanie II zaktualizowane</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka262/dotacje-z-unii-europejskiej.html">
+			<img class="cover" src="/s/cover/small/262.jpg" alt="Dotacje z Unii Europejskiej"/>
+		</a>
+		<a class="boo " href="/ksiazka262/dotacje-z-unii-europejskiej.html">
+			<span class="title">Dotacje z Unii Europejskiej</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					69&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1892/bogac-sie-dziesiec-przykazan-zarabiania-pieniedzy-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1892.jpg" alt="Bogać się! Dziesięć przykazań zarabiania pieniędzy. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1892/bogac-sie-dziesiec-przykazan-zarabiania-pieniedzy-wydanie-ii.html">
+			<span class="title">Bogać się! Dziesięć przykazań zarabiania pieniędzy. Wydanie II</span>
+		</a>
+			<span class="author">Rabbi Daniel Lapin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2252/psychologia-dostatku-czyli-jak-sie-buduje-finansowa-prosperity.html">
+			<img class="cover" src="/s/cover/small/2252.jpg" alt="Psychologia dostatku, czyli jak się buduje finansową prosperity"/>
+		</a>
+		<a class="boo " href="/ksiazka2252/psychologia-dostatku-czyli-jak-sie-buduje-finansowa-prosperity.html">
+			<span class="title">Psychologia dostatku, czyli jak się buduje finansową prosperity</span>
+		</a>
+			<span class="author">Charles Richards</span>
+			
+			<span class="price">
+				Cena:
+				
+					39&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1863/twoj-osobisty-fundusz-emerytalny.html">
+			<img class="cover" src="/s/cover/small/1863.jpg" alt="Twój osobisty fundusz emerytalny"/>
+		</a>
+		<a class="boo " href="/ksiazka1863/twoj-osobisty-fundusz-emerytalny.html">
+			<span class="title">Twój osobisty fundusz emerytalny</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1391/zadbaj-o-swoje-bezpieczenstwo-finansowe-13-sposobow-zarzadzania-pieniedzmi.html">
+			<img class="cover" src="/s/cover/small/1391.jpg" alt="Zadbaj o swoje bezpieczeństwo finansowe. 13 sposobów zarządzania pieniędzmi"/>
+		</a>
+		<a class="boo " href="/ksiazka1391/zadbaj-o-swoje-bezpieczenstwo-finansowe-13-sposobow-zarzadzania-pieniedzmi.html">
+			<span class="title">Zadbaj o swoje bezpieczeństwo finansowe. 13 sposobów zarządzania pieniędzmi</span>
+		</a>
+			<span class="author">Andrzej Fesnak</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1593/biedny-milioner-jak-miec-wszystko-co-trzeba-i-cieszyc-sie-zyciem.html">
+			<img class="cover" src="/s/cover/small/1593.jpg" alt="Biedny milioner. Jak mieć wszystko, co trzeba, i cieszyć się życiem"/>
+		</a>
+		<a class="boo " href="/ksiazka1593/biedny-milioner-jak-miec-wszystko-co-trzeba-i-cieszyc-sie-zyciem.html">
+			<span class="title">Biedny milioner. Jak mieć wszystko, co trzeba, i cieszyć się życiem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">26,90&nbsp;zł</span>
+					<span class="promo">21,52&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka99/harvard-business-review-zarzadzanie-wzrostem-przychodow.html">
+			<img class="cover" src="/s/cover/small/99.jpg" alt="Harvard Business Review. Zarządzanie wzrostem przychodów"/>
+		</a>
+		<a class="boo " href="/ksiazka99/harvard-business-review-zarzadzanie-wzrostem-przychodow.html">
+			<span class="title">Harvard Business Review. Zarządzanie wzrostem przychodów</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1882/milion-w-zasiegu-reki-poradnik-zarzadzania-finansami.html">
+			<img class="cover" src="/s/cover/small/1882.jpg" alt="Milion w zasięgu ręki. Poradnik zarządzania finansami"/>
+		</a>
+		<a class="boo " href="/ksiazka1882/milion-w-zasiegu-reki-poradnik-zarzadzania-finansami.html">
+			<span class="title">Milion w zasięgu ręki. Poradnik zarządzania finansami</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1906/bilans-w-firmie-cztery-rzeczy-ktore-przedsiebiorca-powinien-wiedziec-o-finansach.html">
+			<img class="cover" src="/s/cover/small/1906.jpg" alt="Bilans w firmie. Cztery rzeczy, które przedsiębiorca powinien wiedzieć o  finansach"/>
+		</a>
+		<a class="boo " href="/ksiazka1906/bilans-w-firmie-cztery-rzeczy-ktore-przedsiebiorca-powinien-wiedziec-o-finansach.html">
+			<span class="title">Bilans w firmie. Cztery rzeczy, które przedsiębiorca powinien wiedzieć o  finansach</span>
+		</a>
+			<span class="author">David Frodsham, Heinrich Liechtenstein</span>
+			
+			<span class="price">
+				Cena:
+				
+					54,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1966/twoje-finanse-skuteczne-oszczedzanie.html">
+			<img class="cover" src="/s/cover/small/1966.jpg" alt="Twoje finanse. Skuteczne oszczędzanie"/>
+		</a>
+		<a class="boo " href="/ksiazka1966/twoje-finanse-skuteczne-oszczedzanie.html">
+			<span class="title">Twoje finanse. Skuteczne oszczędzanie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">13,95&nbsp;zł</span>
+					<span class="promo">11,16&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1965/twoje-finanse-racjonalne-inwestowanie.html">
+			<img class="cover" src="/s/cover/small/1965.jpg" alt="Twoje finanse. Racjonalne inwestowanie"/>
+		</a>
+		<a class="boo " href="/ksiazka1965/twoje-finanse-racjonalne-inwestowanie.html">
+			<span class="title">Twoje finanse. Racjonalne inwestowanie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">13,95&nbsp;zł</span>
+					<span class="promo">11,16&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1692/rewizor-gt-ewidencja-ksiegowa-bez-tajemnic.html">
+			<img class="cover" src="/s/cover/small/1692.jpg" alt="Rewizor GT. Ewidencja księgowa bez tajemnic"/>
+		</a>
+		<a class="boo " href="/ksiazka1692/rewizor-gt-ewidencja-ksiegowa-bez-tajemnic.html">
+			<span class="title">Rewizor GT. Ewidencja księgowa bez tajemnic</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka795/twoje-finanse-bezpieczenstwo-wlasne-i-majatku.html">
+			<img class="cover" src="/s/cover/small/795.jpg" alt="Twoje finanse. Bezpieczeństwo własne i majątku"/>
+		</a>
+		<a class="boo " href="/ksiazka795/twoje-finanse-bezpieczenstwo-wlasne-i-majatku.html">
+			<span class="title">Twoje finanse. Bezpieczeństwo własne i majątku</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">17,90&nbsp;zł</span>
+					<span class="promo">14,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2025/biedny-milioner-jak-miec-wszystko-co-trzeba-i-cieszyc-sie-zyciem.html">
+			<img class="cover" src="/s/cover/small/2025.jpg" alt="Biedny milioner. Jak mieć wszystko, co trzeba, i cieszyć się życiem"/>
+		</a>
+		<a class="boo " href="/ksiazka2025/biedny-milioner-jak-miec-wszystko-co-trzeba-i-cieszyc-sie-zyciem.html">
+			<span class="title">Biedny milioner. Jak mieć wszystko, co trzeba, i cieszyć się życiem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1596/budzet-domowy-pod-kontrola-jak-rozsadnie-wydawac-oszczedzac-i-inwestowac-pieniadze.html">
+			<img class="cover" src="/s/cover/small/1596.jpg" alt="Budżet domowy pod kontrolą. Jak rozsądnie wydawać, oszczędzać i inwestować pieniądze"/>
+		</a>
+		<a class="boo " href="/ksiazka1596/budzet-domowy-pod-kontrola-jak-rozsadnie-wydawac-oszczedzac-i-inwestowac-pieniadze.html">
+			<span class="title">Budżet domowy pod kontrolą. Jak rozsądnie wydawać, oszczędzać i inwestować pieniądze</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1730/ksiega-przychodow-i-rozchodow-wszystko-co-musisz-wiedziec-o-rozliczaniu-dzialalnosci-gospodarczej.html">
+			<img class="cover" src="/s/cover/small/1730.jpg" alt="Księga Przychodów i Rozchodów. Wszystko, co musisz wiedzieć o rozliczaniu działalności gospodarczej"/>
+		</a>
+		<a class="boo " href="/ksiazka1730/ksiega-przychodow-i-rozchodow-wszystko-co-musisz-wiedziec-o-rozliczaniu-dzialalnosci-gospodarczej.html">
+			<span class="title">Księga Przychodów i Rozchodów. Wszystko, co musisz wiedzieć o rozliczaniu działalności gospodarczej</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1960/twoj-osobisty-fundusz-emerytalny.html">
+			<img class="cover" src="/s/cover/small/1960.jpg" alt="Twój osobisty fundusz emerytalny"/>
+		</a>
+		<a class="boo " href="/ksiazka1960/twoj-osobisty-fundusz-emerytalny.html">
+			<span class="title">Twój osobisty fundusz emerytalny</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1685/zus-l4-pit-co-powinienes-wiedziec-o-wynagrodzeniach-pracowniczych.html">
+			<img class="cover" src="/s/cover/small/1685.jpg" alt="ZUS, L4, PIT. Co powinieneś wiedzieć o wynagrodzeniach pracowniczych"/>
+		</a>
+		<a class="boo " href="/ksiazka1685/zus-l4-pit-co-powinienes-wiedziec-o-wynagrodzeniach-pracowniczych.html">
+			<span class="title">ZUS, L4, PIT. Co powinieneś wiedzieć o wynagrodzeniach pracowniczych</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka2063/biedny-milioner-jak-miec-wszystko-co-trzeba-i-cieszyc-sie-zyciem.html">
+			<img class="cover" src="/s/cover/small/2063.jpg" alt="Biedny milioner. Jak mieć wszystko, co trzeba, i cieszyć się życiem"/>
+		</a>
+		<a class="boo last" href="/ksiazka2063/biedny-milioner-jak-miec-wszystko-co-trzeba-i-cieszyc-sie-zyciem.html">
+			<span class="title">Biedny milioner. Jak mieć wszystko, co trzeba, i cieszyć się życiem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+	</div>
+</div>
+
+
+	</div>
+	<div id="menu">
+		<div class="top"></div>
+			
+			
+			<a href="/promocje/">Promocje</a>
+			
+			<a href="/nowosci/">Nowości</a>
+			
+			<a href="/bestsellery/">Bestsellery</a>
+			
+			<a href="/przedsprzedaz/">Przedsprzedaż</a>
+		
+			
+			<a href="/temat12/bizneswoman.html">Bizneswoman</a>
+		
+			
+			<a href="/temat18/controlling.html">Controlling</a>
+		
+			
+			<a href="/temat15/e-biznes.html">E-biznes</a>
+		
+			
+			<a href="/temat22/ebooki.html">eBooki</a>
+		
+			
+			<a href="/temat17/ekonomia.html">Ekonomia</a>
+		
+			
+			<a href="/temat13/finanse.html" class="active">Finanse</a>
+		
+			
+			<a href="/temat16/gielda-i-inwestycje.html">Giełda i inwestycje</a>
+		
+			
+			<a href="/temat8/kompetencje-osobiste.html">Kompetencje osobiste</a>
+		
+			
+			<a href="/temat4/komputer-w-biurze.html">Komputer w biurze</a>
+		
+			
+			<a href="/temat2/komunikacja-i-negocjacje.html">Komunikacja i negocjacje</a>
+		
+			
+			<a href="/temat7/mala-firma.html">Mała firma</a>
+		
+			
+			<a href="/temat6/marketing.html">Marketing</a>
+		
+			
+			<a href="/temat19/multimedialne-szkolenia.html">Multimedialne szkolenia</a>
+		
+			
+			<a href="/temat11/obsluga-klienta.html">Obsługa klienta</a>
+		
+			
+			<a href="/temat20/perswazja-i-nlp.html">Perswazja i NLP</a>
+		
+			
+			<a href="/temat10/przywodztwo.html">Przywództwo</a>
+		
+			
+			<a href="/temat21/public-relations.html">Public Relations</a>
+		
+			
+			<a href="/temat24/sekret.html">Sekret</a>
+		
+			
+			<a href="/temat28/social-media.html">Social Media</a>
+		
+			
+			<a href="/temat1/sprzedaz.html">Sprzedaż</a>
+		
+			
+			<a href="/temat9/twoja-kariera.html">Twoja kariera</a>
+		
+			
+			<a href="/temat5/zarzadzanie.html">Zarządzanie</a>
+		
+			
+			<a href="/temat14/zarzadzanie-projektami.html">Zarządzanie projektami</a>
+		
+			
+			<a href="/temat3/zasoby-ludzkie-hr.html">Zasoby ludzkie (HR)</a>
+		
+		<div class="bottom"></div>
+	</div>
+</div>
+
+
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-325086-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+

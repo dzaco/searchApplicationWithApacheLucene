@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+
+<head>
+
+<title>Badanie: Kredyty we Franku</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+<meta name="description" content="Weź udział w badaniu 'Trendy na rynku kont osobistych w 2013 roku',pomóż nam przygotować analizę tego segmentu rynku i wygraj atrakcyjne nagrody" />
+
+<meta name="keywords" content="badanie , ankieta, nagrody, bankier.pl, konta osobiste" />
+
+<link rel="alternate" type="application/rss+xml" title="" href="http://.xml" />
+<link href="/gfx/fundusze-inwestycyjne/stylesheets/style.css?7" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/gfx/kupujtaniej/js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="/media/finanse/javascripts/jquery.tools.min.js"></script>
+
+<!-- (C)2005 Gemius SA - gemiusAudience  / bankier.pl / wiadomosci_Pozostale -->
+<script language="javascript" type="text/javascript"> 
+<!--
+var pp_gemius_identifier = new String('nXnq_HOKN0xa..iC1bOfR9VrLVABcue4c3MSx5CI2t3.z7');
+//-->
+</script>
+<script language="javascript" type="text/javascript" src="http://arbo.hit.gemius.pl/pp_gemius.js"></script>
+
+<!-- (C) 2000-2005 Gemius SA - gemiusTraffic / ver 11.1 / wiadomosci_pozostale --> 
+<script type="text/javascript"> 
+var gemius_identifier = new String('p9Oazz7Rd2I9XpCDxRhmOJR8.j568LurbLvu7CXXhq3.b7');
+</script>
+<script type="text/javascript" src="/inc/js/gemius.js"></script>
+
+
+</head>
+<body>
+<div id="wrapper">
+<div id="topchr"><a href="/kredytchf/"></a></div>
+
+
+<div id="middle">
+<div id="a_description">
+</div>
+<div id="left">
+
+  <div id="news">
+<h2>Artykuły</h2>
+<ul>
+<li><a href="http://www.bankier.pl/wiadomosc/Przybywa-kredytobiorcow-uwiezionych-we-franku-2484496.html">Przybywa kredytobiorców uwięzionych we franku</a></li>
+<li><a href="http://www.bankier.pl/wiadomosc/Problemy-frankowcow-nadal-aktualne-2714814.html">Problemy "frankowców" nadal aktualne</a></li>
+<li><a href="http://www.bankier.pl/wiadomosc/Kredyt-we-franku-przeszkoda-w-przeprowadzce-2809992.html">Kredyt we franku - przeszkoda w przeprowadzce?</a></li>
+<li><a href="http://www.bankier.pl/wiadomosc/Czy-mozna-uchronic-sie-przed-wyzsza-rata-kredytu-we-franku-2761856.html">Czy można uchronić się przed wyższą ratą kredytu we franku?</a></li>
+<li><a href="http://www.bankier.pl/wiadomosc/Swiatelko-w-tunelu-dla-zadluzonych-we-franku-2738818.html">światełko w tunelu dla zadłużonych we franku</a></li>
+<li><a href="http://www.bankier.pl/wiadomosc/Problemy-frankowcow-nadal-aktualne-2714814.html">Problemy "frankowców" nadal aktualne</a></li>
+<li><a href="http://www.bankier.pl/wiadomosc/Wiezniowie-hipoteki-ofiary-tanich-kredytow-2665664.html">Więźniowie hipoteki - ofiary "tanich" kredytów</a></li>
+<li class="last"><a href="http://www.bankier.pl/wiadomosc/Wiezniowie-hipotek-wkrotce-w-polskim-wydaniu-2666727.html">Więźniowie hipotek wkrótce w polskim wydaniu</a></li>
+
+
+
+</ul>
+</div>
+
+
+</div>
+<div id="center">
+
+
+	         <style>
+.red {color:red}
+</style>
+
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+
+
+/*$("radio[name='pytanie6']").attr('disabled', 'disabled');*/
+$('input[name="pytanie6"], input[name="pytanie7"], input[name="pytanie8"], input[name="pytanie9"]').attr('disabled', 'disabled');
+ 
+ $("input[name='pytanie5']").change(function(){
+  	if ($(this).val() == 'tak') {
+ 		 	/*console.log('Zaznaczono tak');*/
+ 		 	
+ 		 	$("input[name='pytanie6'], input[name='pytanie7'], input[name='pytanie8'], input[name='pytanie9']").attr('disabled', '');
+ 		 	
+ 		       	
+ 		 	
+  	
+  	} else {
+  	/*console.log('Zaznaczono NIE');*/
+  	$("input[name='pytanie6'], input[name='pytanie7'], input[name='pytanie8'], input[name='pytanie9'], textarea[name='pytanie9']").attr('disabled', 'disabled');
+  	
+  	}
+    
+     
+  });
+  
+
+
+                 $("textarea[name='pytanie9']").attr('disabled', 'disabled');
+  
+                     $("input[name='pytanie9']").change(function(){
+                       	if ($(this).val() == 'tak') {
+ 		                 	/*console.log('Zaznaczono tak');*/
+ 		 	
+ 		                   	$("textarea[name='pytanie9']").attr('disabled', '');
+  	
+                     	} else {
+                            	/*console.log('Zaznaczono NIE');*/
+                         	$("textarea[name='pytanie9']").attr('disabled', 'disabled');
+  	
+                            	}
+  	                       })
+
+  
+  
+
+  
+
+/*
+$("input:checkbox[name=pytanie3]").click(function() {
+var cos = $('input[name=pytanie3]:checked').length;
+if (cos > 3) {
+alert("Pytanie 3: W tym pytaniu możesz zaznaczyć tylko 3 odpowiedzi");
+return false;
+}
+});
+
+$("input:checkbox[name=pytanie5]").click(function() {
+var cos2 = $('input[name=pytanie5]:checked').length;
+if (cos2 > 3) {
+alert("Pytanie 5: W tym pytaniu możesz zaznaczyć tylko 3 odpowiedzi");
+return false;
+}
+});
+
+$("input:checkbox[name=pytanie6]").click(function() {
+var cos3 = $('input[name=pytanie6]:checked').length;
+if (cos3 > 3) {
+alert("Pytanie 6: W tym pytaniu możesz zaznaczyć tylko 3 odpowiedzi");
+return false;
+}
+});*/
+
+
+
+
+$('#ankieta').submit(function() {
+
+if ($('input:checkbox[id=checkbox_regulamin]', this).is(':checked')) {
+} else {
+alert("Musisz zaakceptować regulamin.");
+return false;
+}
+/*if ($('input:checkbox[id=checkbox_zgoda]', this).is(':checked')) {
+} else {
+alert("Musisz zaakceptować zgodę na przetwarzanie danych.");
+return false;
+}
+if ($('input:checkbox[id=checkbox_zgoda_publikacji]', this).is(':checked')) {
+} else {
+alert("Musisz zaakceptować zgodę publikacji.");
+return false;
+}*/
+
+               
+if ($('input:radio[name=pytanie1]', this).is(':checked') && $('input:radio[name=pytanie2]', this).is(':checked') && $('input:radio[name=pytanie3]', this).is(':checked') && $('input:radio[name=pytanie5]', this).is(':checked') && $('input:radio[name=pytanie10]', this).is(':checked') && $('input:radio[name=pytanie11]', this).is(':checked') && $('input:radio[name=pytanie12]', this).is(':checked') && $('input:radio[name=pytanie13]', this).is(':checked') && $('input:radio[name=pytanie14]', this).is(':checked') && $('input:radio[name=pytanie15]', this).is(':checked') && $('input:radio[name=pytanie16]', this).is(':checked') && $('input:radio[name=pytanie17]', this).is(':checked') && $('input:radio[name=pytanie18]', this).is(':checked') && $('input:radio[name=pytanie19]', this).is(':checked') && $('#obow').val() != '' ){
+
+} else {
+alert("Zaznacz wszystkie odpowiedzi");
+return false;
+}
+
+});
+});
+
+
+
+</script>
+
+
+
+<div id="users">
+
+                 
+         <h2 class="users_h2" style="margin-top:5px;margin-bottom:20px;padding-top:7px;color:#1C2956;">Weź udział w badaniu<br /> 
+         <font color="#E85B23">"Życie z Frankiem. Diagnoza" - </font><br />
+         podziel się z nami swoją opinią i wygraj atrakcyjne nagrody! </h2>
+         
+         
+
+
+       
+        <div class="text">Aby wziąć udział w ankiecie organizowanej przez Bankier.pl musisz być zarejestrowanym użytkownikiem</div>
+        <a href="http://www.bankier.pl/personal/logowanie.html?url=%2Fkredytchf%2F" alt="Zaloguj się"/><img style="margin-top:15px;" src="/gfx/trendykont/log-btn.png" /></a> <a href="https://ssl.bankier.pl/ssl/personal/rejestracja/rejestracja.html?url=/kredytchf/index.html&etykieta=kredytchf#knkrs"><img style="margin-top:15px; margin-left:85px;" src="/gfx/trendykont/reg-btn.png" /></a>
+        <div style="clear:both;"></div>
+       
+</div>
+
+
+
+
+
+
+
+
+
+<h2 style="margin-top:20px;">Kredyt we franku - ankieta</h2>
+
+
+<form style="margin-top:20px;" id="ankieta" action="" method="POST">
+
+	<p ><strong>1. W którym roku zaciągnąłeś(-aś) kredyt hipoteczny we franku?</strong></p>
+	   
+	
+		<input type="radio" disabled="disabled" name="pytanie1" value="przed 2007">Przed 2007 rokiem<br/>
+		<input type="radio" disabled="disabled" name="pytanie1" value="w 2007">W 2007 roku<br/>
+		<input type="radio" disabled="disabled" name="pytanie1" value="W 2008 roku">W 2008 roku<br/>
+		<input type="radio" disabled="disabled" name="pytanie1" value="W 2009 roku">W 2009 roku<br/>
+		<input type="radio" disabled="disabled" name="pytanie1" value="Po 2009 roku">Po 2009 roku<br/>
+		
+
+
+	<p><strong>2. W jakim celu zaciągałeś(-aś) kredyt?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie2" value="Na zakup lub remont mieszkania/domu dla siebie">Na zakup lub remont mieszkania/domu dla siebie<br/>
+		<input type="radio" disabled="disabled" name="pytanie2" value="W celu inwestycyjnym - na zakup mieszkania/domu na wynajem">W celu inwestycyjnym - na zakup mieszkania/domu na wynajem<br/>
+		<input type="radio" disabled="disabled" name="pytanie2" value="Na inny cel">Na inny cel<br/>
+		
+		
+		
+		<p><strong>3. Jaki był kurs franka w momencie wypłaty Twojego kredytu?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie3" value="Poniżej 2 zł" >Poniżej 2 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie3" value="2,00 zł – 2,20 zł" >2,00 zł – 2,20 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie3" value="2,20 zł – 2,40 zł">2,20 zł – 2,40 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie3" value="2,40 zł – 3 zł">2,40 zł – 3 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie3" value="Powyżej 3 zł">Powyżej 3 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie3" value="Nie pamiętam">Nie pamiętam<br/>
+		
+	 		
+		
+		
+
+	<p><strong>4. Dlaczego zdecydowałeś(-aś) się na zaciągnięcie kredytu we frankach? Wskaż maksymalnie 3 najważniejsze czynniki.</strong></p>
+		<input type="checkbox" disabled="disabled" name="pytanie4" value="Zależało mi na jak najniższej racie kredytu">Zależało mi na jak najniższej racie kredytu<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie4" value="Zależało mi na jak najwyższej kwocie kredytu / We frankach miałem(-am) wyższą zdolność kredytową">Zależało mi na jak najwyższej kwocie kredytu / We frankach miałem(-am) wyższą zdolność kredytową<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie4" value="Taki kredyt polecała mi rodzina, znajomi">Taki kredyt polecała mi rodzina, znajomi<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie4" value="Taki kredyt polecał doradca / pracownik banku">Taki kredyt polecał doradca / pracownik banku<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie4" value="Kierowałem(-am) się publikacjami w mediach, rankingami">Kierowałem(-am) się publikacjami w mediach, rankingami<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie4" value="Sam obliczyłem(-am), że kredyt we frankach najbardziej się opłaca">Sam obliczyłem(-am), że kredyt we frankach najbardziej się opłaca<br/>
+		<input type="checkbox" disabled="disabled" name="pytanie4" value="Nie przywiązywałem(-am) wagi do waluty kredytu">Nie przywiązywałem(-am) wagi do waluty kredytu<br/>
+		
+		
+
+			
+		<p><strong>5. Czy spłacasz obecnie kredyt hipoteczny we franku?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie5" value="tak" id="show1">Tak<br/>
+		<input type="radio" disabled="disabled" name="pytanie5" value="Nie – już go spłaciłem(-am)" id="hide1">Nie – już go spłaciłem(-am)<br/>
+		
+		
+		<p><strong>6. W jaki sposób spłacasz obecnie raty kredytowe?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie6" value="W złotych, bank przelicza je na franki">W złotych, bank przelicza je na franki<br/>
+		<input type="radio" disabled="disabled" name="pytanie6" value="Sam(-a) kupuję franki w internetowym kantorze">Sam(-a) kupuję franki w internetowym kantorze<br/>
+		<input type="radio" disabled="disabled" name="pytanie6" value="Sam(-a) kupuję franki u innego dostawcy (np. w tradycyjnym kantorze lub innym banku)">Sam(-a) kupuję franki u innego dostawcy (np. w tradycyjnym kantorze lub innym banku)<br/>
+		<input type="radio" disabled="disabled" name="pytanie6" value="W inny sposób">W inny sposób<br/>
+		
+		<p><strong>7. Czy według Twojej wiedzy Twój obecny dług jest większy czy mniejszy niż rynkowa wartość nieruchomości?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie7" value="Jest znacznie większy (o ponad 30%)">Jest znacznie większy (o ponad 30%)<br/>
+		<input type="radio" disabled="disabled" name="pytanie7" value="Jest większy">Jest większy<br/>
+		<input type="radio" disabled="disabled" name="pytanie7" value="Jest mniejszy">Jest mniejszy<br/>
+		<input type="radio" disabled="disabled" name="pytanie7" value="Nie wiem, nie interesuję się tym">Nie wiem, nie interesuję się tym<br/>
+		<input type="radio" disabled="disabled" name="pytanie7" value="Nie potrafię ocenić, ile warta jest teraz nieruchomość">Nie potrafię ocenić, ile warta jest teraz nieruchomość<br/>
+		
+		<p><strong>8. Czy posiadasz obecnie oszczędności, które mógłbyś(-abyś) w razie czego przeznaczyć na nadpłatę kredytu lub na spłaty rat?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie8" value="Tak, posiadam oszczędności wystarczające na co najmniej 6 rat kredytowych">Tak, posiadam oszczędności wystarczające na co najmniej 6 rat kredytowych<br/>
+		<input type="radio" disabled="disabled" name="pytanie8" value="Tak, posiadam oszczędności wystarczające na mniej niż 6 rat kredytowych">Tak, posiadam oszczędności wystarczające na mniej niż 6 rat kredytowych<br/>
+		<input type="radio" disabled="disabled" name="pytanie8" value="Nie, nie posiadam żadnych znaczących oszczędności">Nie, nie posiadam żadnych znaczących oszczędności<br/>
+		
+		
+		<p><strong>9. Czy zabezpieczasz się w jakiś sposób przed zmiennością rat kredytu? </strong></p>
+		<input type="radio" disabled="disabled" name="pytanie9" value="Nie, nie wiem jak można to zrobić">Nie, nie wiem jak można to zrobić<br/>
+		<input type="radio" disabled="disabled" name="pytanie9" value="Nie, nie mam wystarczających nadwyżek finansowych">Nie, nie mam wystarczających nadwyżek finansowych<br/>
+		<input type="radio" disabled="disabled" name="pytanie9" value="Tak, kupuję walutę „na zapas”, gdy jest ona tańsza">Tak, kupuję walutę „na zapas”, gdy jest ona tańsza<br/>
+		<input type="radio" disabled="disabled" name="pytanie9" value="Tak, gromadzę oszczędności, gdy rata jest niższa">Tak, gromadzę oszczędności, gdy rata jest niższa<br/>
+		<input type="radio" disabled="disabled" name="pytanie9" value="tak">Tak, w inny sposób. Jaki? (max. 500 znaków)<br/>
+		<textarea disabled="disabled" name="pytanie9" cols="50" rows="15" maxlength="500"></textarea>
+		
+		<p><strong>10. Czy rozważałeś(-aś) sprzedaż lub sprzedałeś(-aś) nieruchomość kupioną na kredyt we frankach?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie10" value="Nie, nieruchomość wynajmuję innym osobom">Nie, nieruchomość wynajmuję innym osobom<br/>
+		<input type="radio" disabled="disabled" name="pytanie10" value="Tak, rozważałem sprzedaż, ale zrezygnowałem z powodu obciążenia kredytem">Tak, rozważałem(-am) sprzedaż, ale zrezygnowałem(-am) z powodu obciążenia kredytem<br/>
+		<input type="radio" disabled="disabled" name="pytanie10" value="Tak, rozważałem sprzedaż, ale zrezygnowałem z innych powodów">Tak, rozważałem(-am) sprzedaż, ale zrezygnowałem(-am) z innych powodów<br/>
+		<input type="radio" disabled="disabled" name="pytanie10" value="Tak, sprzedałem nieruchomość i poniosłem(-am) stratę">Tak, sprzedałem(-am) nieruchomość i poniosłem(-am) stratę<br/>
+		<input type="radio" disabled="disabled" name="pytanie10" value="Tak, sprzedałem nieruchomość i zarobiłem(-am) na niej">Tak, sprzedałem(-am) nieruchomość i zarobiłem(-am) na niej<br/>
+		
+		<p><strong>11. Czy rozważałeś(-aś) kiedykolwiek przewalutowanie kredytu na złote?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie11" value="Nie, nigdy">Nie, nigdy<br/>
+		<input type="radio" disabled="disabled" name="pytanie11" value="Tak, ale nie zdecydowałem(-am) się na to">Tak, ale nie zdecydowałem(-am) się na to<br/>
+		<input type="radio" disabled="disabled" name="pytanie11" value="Tak, przewalutowałem(-am) kredyt, po wyższym kursie (ze stratą)">Tak, przewalutowałem(-am) kredyt, po wyższym kursie (ze stratą)<br/>
+		<input type="radio" disabled="disabled" name="pytanie11" value="Tak, przewalutowałem(-am) kredyt, po niższym kursie (z zyskiem)">Tak, przewalutowałem(-am) kredyt, po niższym kursie (z zyskiem)<br/>
+		
+		<p><strong>12. Czy kiedykolwiek miałeś(-aś) kłopoty z terminową spłatą raty kredytu hipotecznego?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie12" value="Nie">Nie<br/>
+		<input type="radio" disabled="disabled" name="pytanie12" value="Tak, miewałem niewielkie opóźnienia (do 30 dni)">Tak, miewałem(-am) niewielkie opóźnienia (do 30 dni)<br/>
+		<input type="radio" disabled="disabled" name="pytanie12" value="Tak, miałem lub mam opóźnienia powyżej 30 dni">Tak, miałem(-am) lub mam opóźnienia powyżej 30 dni<br/>
+		
+		
+		<p><strong>13. Czy Twoim zdaniem w momencie zaciągania kredytu zostałeś(-am) wystarczająco poinformowany o tym, jak może zmienić się rata i wartość długu w przyszłości?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie13" value="Tak, byłem świadomy ryzyka">Tak, byłem świadomy(-am) ryzyka<br/>
+		<input type="radio" disabled="disabled" name="pytanie13" value="Nie, doradca / pracownik banku nie poświęcili temu odpowiedniej uwagi">Nie, doradca / pracownik banku nie poświęcili temu odpowiedniej uwagi<br/>
+		<input type="radio" disabled="disabled" name="pytanie13" value="Trudno powiedzieć / Nie pamiętam">Trudno powiedzieć / Nie pamiętam<br/>
+		
+		<p><strong>14. Czy z dzisiejszej perspektywy uważasz, że zaciągnięcie kredytu we frankach było dobrą decyzją?</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie14" value="Tak, nie żałuję">Tak, nie żałuję<br/>
+		<input type="radio" disabled="disabled" name="pytanie14" value="Nie, wybrałbym kredyt w złotych">Nie, wybrałbym(-am) kredyt w złotych<br/>
+		<input type="radio" disabled="disabled" name="pytanie14" value="Nie, w ogóle nie zaciągałbym kredytu">Nie, w ogóle nie zaciągałbym(-am) kredytu<br/>
+		<input type="radio" disabled="disabled" name="pytanie14" value="Trudno powiedzieć / Nie mam zdania">Trudno powiedzieć / Nie mam zdania<br/>
+		
+		
+		<p><strong>15. Płeć:</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie15" value="Kobieta">Kobieta<br/>
+		<input type="radio" disabled="disabled" name="pytanie15" value="Mężczyzna">Mężczyzna<br/>
+		
+		
+		<p><strong>16. Wiek:</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie16" value="Poniżej 30 lat">Poniżej 30 lat<br/>
+		<input type="radio" disabled="disabled" name="pytanie16" value="30-35 lat">30-35 lat<br/>
+		<input type="radio" disabled="disabled" name="pytanie16" value="36-40 lat">36-40 lat<br/>
+		<input type="radio" disabled="disabled" name="pytanie16" value="41-45 lat">41-45 lat<br/>
+		<input type="radio" disabled="disabled" name="pytanie16" value="46-50 lat">46-50 lat<br/>
+		<input type="radio" disabled="disabled" name="pytanie16" value="Powyżej 50 lat">Powyżej 50 lat<br/>
+		
+		
+		<p><strong>17. Sytuacja rodzinna:</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie17" value="Singiel / singielka">Singiel / singielka<br/>
+		<input type="radio" disabled="disabled" name="pytanie17" value="W związku małżeńskim, bez dzieci">W związku małżeńskim, bez dzieci<br/>
+		<input type="radio" disabled="disabled" name="pytanie17" value="W związku małżeńskim, mamy dzieci">W związku małżeńskim, mamy dzieci<br/>
+		<input type="radio" disabled="disabled" name="pytanie17" value="Rozwiedziony / Rozwiedziona">Rozwiedziony / Rozwiedziona<br/>
+		<input type="radio" disabled="disabled" name="pytanie17" value="Inna">Inna<br/>
+		
+		
+		
+		<p><strong>18. Miesięczne dochody netto na głowę w gospodarstwie domowym:</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie18" value="Poniżej 1200 zł">Poniżej 1200 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie18" value="1200-2400 zł">1200-2400 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie18" value="2400-3600 zł">2400-3600 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie18" value="3600-4800 zł">3600-4800 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie18" value="Powyżej 4800 zł">Powyżej 4800 zł<br/>
+		<input type="radio" disabled="disabled" name="pytanie18" value="Brak odpowiedzi">Brak odpowiedzi<br/>
+		
+		
+		<p><strong>19. Wykształcenie:</strong></p>
+		<input type="radio" disabled="disabled" name="pytanie19" value="Podstawowe">Podstawowe<br/>
+		<input type="radio" disabled="disabled" name="pytanie19" value="Zasadnicze zawodowe">Zasadnicze zawodowe<br/>
+		<input type="radio" disabled="disabled" name="pytanie19" value="Średnie">Średnie<br/>
+		<input type="radio" disabled="disabled" name="pytanie19" value="Wyższe">Wyższe<br/>
+		
+		<p><strong>20.  Jakie rozwiązanie poleciłbyś osobie mającej problem ze spłatą kredytu we franku? (max. 500 znaków) </strong></p>
+		<textarea id="obow" disabled="disabled" name="pytanie20" cols="50" rows="15" maxlength="500"></textarea>
+		
+
+	<p class="acceptation"><input disabled="disabled" id="checkbox_regulamin" type="checkbox" name="regulamin" /><label for="checkbox_regulamin"><i>Oświadczam, iż zapoznałem się z <a href="http://www.bankier.pl/gfx/ad2/regulaminkredytCHF_1373467671.pdf" target="_blank">regulaminem badania i konkursu</a> "Życie z frankiem. Diagnoza" i akceptuję jego treść</i></label></p>
+
+		<input id="submit_button" type="submit" disabled="disabled" name="submit" value="Złóż ankietę" />
+
+
+
+</div>
+<div id="right">
+
+  <h2><a href="http://www.bankier.pl/gfx/ad2/regulaminkredytCHF_1373467671.pdf" target="_blank">Regulamin</a></h2>
+<h2>Nagrody główne: <br /> - aparat Sony DSC-W630<br /> - głośnik Logitech Wireless Speaker Z515<br /> - iPod nano (8 GB)</h2>
+	<div style="margin:0 auto;">
+	<img style="padding:5px;" src="/gfx/trendykont/nagrody3a.jpg" />
+
+	</div>
+<h2>Pozostałe nagrody</h2>
+<div id="lista_firm2" style="padding: 0 1px; font-size: 12px;text-align: justify;">
+	<div style="width:250px; margin:0 auto;text-align:left">
+	
+	<li>Książka "Finanse Osobiste"  ” Ewa Bogacka-Kisiel - 12 egzemplarzy</li><br />
+	
+    
+	</div>
+</div>
+
+
+
+</div>
+
+
+</div>
+<div id="footer">
+
+    		<div id="footer_top">
+<div id="bankier_div" style="margin-left:350px;"><p>Autor badania:</p><a href="http://www.bankier.pl" id="bankier_logo">Bankier.pl</a></div>
+    		</div>
+
+<div id="footer_bottom">
+</div>
+  		</div><!-- end #footer -->
+</div> <!-- end #wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- /bankier-v2/wiadomosci/ -->
+<script type="text/javascript">
+var firstTracker = _gat._getTracker("UA-325086-1");
+firstTracker._initData();
+firstTracker._trackPageview();
+</script>
+
+<!-- (c) 2008 Gemius SA / gemiusHeatMap(GHM+XY) / http://www.bankier.pl -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ghmxy_align = 'center';
+var ghmxy_type = 'absolute';
+var ghmxy_identifier = 'ndbq_HMBGwk6w9QTnR_FeGYmLXU1EM82cIVb5IqSO0D.f7';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://pro.hit.gemius.pl/hmapxy.js"></script>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

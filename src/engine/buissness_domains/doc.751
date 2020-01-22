@@ -1,0 +1,407 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | miedź</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+<h1> miedź</h1>
+
+
+<script type="text/javascript">
+<!--
+function formatDate(_date) {
+	  var _tmpBegin = _date.getFullYear() + '-';
+	  if (_date.getMonth() +1 < 10) _tmpBegin += '0';
+	  _tmpBegin += _date.getMonth() +1;
+	  _tmpBegin +=  '-'
+	  if (_date.getDate() < 10) _tmpBegin += '0';
+	  _tmpBegin += _date.getDate().toString();
+	  return _tmpBegin;
+	 }
+
+function moveflashmap()
+{ 
+    
+	     
+//    var myElement = document.getElementById("chart");
+//	var startDate = new Date();    
+//	startDate.setMonth(startDate.getMonth()-1);
+    //myElement.innerHTML='<object width="550" height="250" align="middle" id="FlashChart" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param value="sameDomain" name="allowScriptAccess"/><param value="false" name="allowFullScreen"/><param value="/files/FlashChart.swf" name="movie"/><param value="high" name="quality"/><param id="flashChnges" value="paramIsin=PBST689c3f94,PL9999999987&amp;paramType=1&amp;paramBegin='+formatDate(startDate)+'&amp;paramEnd='+formatDate(new Date())+'" name="FlashVars"/>	<param value="#eef8fc" name="bgcolor"/>	<embed width="550" height="250" align="middle" id="emmm" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowfullscreen="false" allowscriptaccess="sameDomain" name="FlashChart" bgcolor="#eef8fc" quality="high" flashvars="paramIsin=PBST689c3f94,PL9999999987&amp;paramType=1&amp;paramBegin='+formatDate(startDate)+'&amp;paramEnd='+formatDate(new Date())+'" src="/files/FlashChart.swf"/></object>';
+    	         
+}
+
+//-->
+</script>
+<div class="company">
+
+
+
+
+<table class="company_review">
+	<tr>
+		<th>aktual.</th>
+		<th title="bieżący kurs">kurs</th>
+		<th title="zmiana procentowa">zmiana</th>
+		<th title="kurs odniesienia">odn.</th>
+		<th title="kurs otwarcia">otw.</th>
+		<th title="kurs zamknięcia">zamk.</th>
+		<th title="wartość minimalna">min.</th>
+		<th title="wartość maksymalna">maks.</th>
+		<th title="obroty wyrażone w złotych">obroty </th>
+		<th title="wolumen akcji">wol.</th>
+	</tr>
+	<tr>
+		<td class="time">2013-03-22</td>
+		<td class="number">7618.00</td>
+		<td class="number up"><b>+0.50%</b></td>
+		<td class="number">7580.00</td>
+		<td colspan="2" style="text-align: center; ">7618.00 / 
+		7618.00</td>
+		<td colspan="2" style="text-align: center; ">7618.00 - 
+		7618.00</td>
+		<td class="number">&ndash;&nbsp;zł</td>
+		<td class="number">&ndash;</td>
+	</tr>
+</table>
+<div class="chart" id="chart">
+<!--
+<img src="/chart_hourly/SmallChart/PBST689c3f94/550/250/" />
+-->
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+	codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" 
+	width="550" height="250" 
+	id="FlashChart" 
+	align="middle">
+	
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="/files/FlashChart.swf" />
+	<param name="quality" value="high" />
+	<param name="FlashVars"	value="paramIsin=PBST689c3f94&amp;paramType=1&amp;paramBegin=2013-02-20&amp;paramEnd=2013-03-22" id="flashChnges"/>
+	<param name="bgcolor" value="#eef8fc" />
+	<param name="wmode" value="opaque" />	
+		<embed 	src="/files/FlashChart.swf"
+				FlashVars="paramIsin=PBST689c3f94&amp;paramType=1&amp;paramBegin=2013-02-20&amp;paramEnd=2013-03-22"
+				quality="high" bgcolor="#eef8fc" 
+				width="550" height="250" 
+				name="FlashChart" 
+				align="middle" 
+				allowScriptAccess="sameDomain" 
+				allowFullScreen="false" 
+				type="application/x-shockwave-flash" 
+				wmode="opaque"
+				pluginspage="http://www.macromedia.com/go/getflashplayer" id="emmm"/>
+</object>
+
+</div>
+<table>
+	<tr>
+		<th>okres</th>
+		<th>dzień</th>
+		<th>tydzień</th>
+		<th>miesiąc</th>
+		<th>1&nbsp;rok</th>
+		<th>3&nbsp;lata</th>
+		<th>5&nbsp;lat</th>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<th>zmiana</th>		
+		
+		<td class="number ">&ndash;</td>
+		<td class="number down">-2.11%</td>
+		<td class="number down">-4.89%</td>
+		<td class="number down">-8.44%</td>
+		<td class="number up">+2.12%</td>
+		<td class="number down">-2.96%</td>
+				<td>
+		<!--<a  onclick="moveflashmap()" href="#"><img src="/style/fever.gif">&nbsp;por. z WIG20</a>
+-->
+		</td>
+		
+	</tr>
+</table>
+</div>
+
+<!-- instrument hit -->
+<script type="text/javascript">
+sti = new Image;
+sti.src = '/hit/PBST689c3f94?r=' + Math.random();
+</script>
+
+<div style="padding-top:10px;float:left">Notowania on-line walut dostarcza&nbsp;</div>
+<div><a  target="_blank" href="http://www.tms.pl"><img src="/img/tmslogox30.png" alt="TMS Brokers" /></a></div>
+<div style="width: 468px; margin: 10px auto 0 auto;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-0444287293673271";
+/* Notowania - instrument */
+google_ad_slot = "8573773859";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+<div style="float: right; width: 120px;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0444287293673271";
+/* Notowania 120x600 */
+google_ad_slot = "4738744901";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+
+
+<div id="company_news" class="" >
+
+	
+
+<div class="news first">
+<h2 class="first">Informacje</h2>
+	<div class="content">
+		<p><a href="http://www.pb.pl/3047839,64421" target="_blank"><span class="dt">2013-03-20</span> Rosną notowania metali przemysłowych  </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3044074,87622" target="_blank"><span class="dt">2013-03-18</span> Rynki po Cyprze: euro na dnie, akcje w dół </a></p>
+		<p><a href="http://www.pb.pl/3039768,16862" target="_blank"><span class="dt">2013-03-14</span> Miedź tanieje w Londynie </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3035807,19102" target="_blank"><span class="dt">2013-03-11</span> Zarządzający radzą kupować akcje </a></p>
+		<p><a href="http://pulsinwestora.pb.pl/3030059,70362" target="_blank"><span class="dt">2013-03-07</span> Chiny znów namieszały na rynku miedzi </a></p>
+		<p><a href="http://www.pb.pl/3026347,81084" target="_blank"><span class="dt">2013-03-05</span> Informacjach z Chin wspierają miedź </a></p>
+		<p><a href="http://www.pb.pl/3015059,30778" target="_blank"><span class="dt">2013-02-25</span> Drożeje miedź na giełdzie w Londynie </a></p>
+		<p><a href="http://www.pb.pl/3014841,46619" target="_blank"><span class="dt">2013-02-23</span> Kanadyjczycy szukają miedzi i srebra w Polsce </a></p>
+		<p><a href="http://www.pb.pl/2997050,83351" target="_blank"><span class="dt">2013-02-12</span> Trzech nowych inwestorów w mieleckiej SSE  </a></p>
+		<p><a href="http://www.pb.pl/2980229,78881" target="_blank"><span class="dt">2013-01-31</span> Wiceszef KGHM pokazał figę </a></p>
+	</div>
+	<a href="/news/PBST689c3f94" class="more"><img src="/img/nurse.gif" height="6" width="6" />wszystkie artykuły</a>
+</div>	
+
+</div><!-- /#company_news -->
+
+
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

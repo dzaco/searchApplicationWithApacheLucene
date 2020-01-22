@@ -1,0 +1,1665 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Tłumaczenia: Księgarnia Bankier.pl</title>
+	<meta name="description" content="Księgarnia bankier.pl - książki dla biznesu i nie tylko."/>
+	<link rel="shortcut icon" href="http://www.bankier.pl/favicon.ico" type="image/x-icon"/>
+	<link href="/s/style.css?v=7" rel="stylesheet" type="text/css" media="screen"/>
+    <script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+    <noscript>
+        <div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+            text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+            text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+            <div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+                Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+                z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+                Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+            </div>
+        </div>
+    </noscript>
+
+
+
+	
+	
+	<!-- (C)2000-2009 Gemius SA - gemiusTraffic / ver 11.1 / ksiegarnia_pozostale --> 
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var gemius_identifier = new String('AkTrsutX7HoCGwslBuULPsRpLVVKKmbNbDo489YWyfv.k7');
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://www.bankier.pl/inc/js/gemius.js"></script>
+	
+	
+	
+	<!-- (C) 2000-2009 Gemius SA - gemiusAudience / ver 11.1 / adnet.bankier / Ksiegarnia-->
+	<script type="text/javascript">
+	 <!--//--><![CDATA[//><!--
+	var pp_gemius_identifier ='za01ZONWwSNq9wS8lPPx4reOLd_kNOcSlGWIIc19ul7.F7';
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://arbo.hit.gemius.pl/xgemius.js"></script>
+
+
+</head>
+<body id="bn_lifestyle">
+
+<link href="http://s01.bankier.pl/s/ksiegarnia.css" rel="stylesheet" type="text/css" />
+
+<div id="bn_header" style="position: relative; z-index: 100; height:120px;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Fcontent%2Fksiegarnia%2Fheader_new.html" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/bankiertv-index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li class="selected"><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+
+
+
+<div id="ksiegarnia">
+	<div id="content">
+		<div id="search">
+			<div class="top"></div>
+			<form action="/szukaj/">
+				<div>
+					Szukaj:
+					<input name="q" size="30"/>
+					<input type="submit" value="szukaj" />
+				</div>
+			</form>
+			<div class="bottom"></div>
+		</div>
+		
+
+
+<h1 class="person">Bartosz Sałbut</h1>
+
+
+
+
+<div class="box">
+	<div class="pre-title"></div><div class="box-title">Tłumaczenia</div><div class="post-title"></div>
+	<div class="content">
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka429/10-zalozen-networkingu-jak-w-pelni-wykorzystywac-swoje-znajomosci.html">
+			<img class="cover" src="/s/cover/small/429.jpg" alt="10 założeń networkingu. Jak w pełni wykorzystywać swoje znajomości"/>
+		</a>
+		<a class="boo " href="/ksiazka429/10-zalozen-networkingu-jak-w-pelni-wykorzystywac-swoje-znajomosci.html">
+			<span class="title">10 założeń networkingu. Jak w pełni wykorzystywać swoje znajomości</span>
+		</a>
+			<span class="author">Larry James</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka941/168-godzinny-tydzien-zyj-w-pelni-247.html">
+			<img class="cover" src="/s/cover/small/941.jpg" alt="168-godzinny tydzień. Żyj w pełni 24/7"/>
+		</a>
+		<a class="boo " href="/ksiazka941/168-godzinny-tydzien-zyj-w-pelni-247.html">
+			<span class="title">168-godzinny tydzień. Żyj w pełni 24/7</span>
+		</a>
+			<span class="author">Kevin Hogan</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1351/algorytm-sukcesu-wprowadz-swoja-firme-na-sciezke-rozwoju.html">
+			<img class="cover" src="/s/cover/small/1351.jpg" alt="Algorytm sukcesu. Wprowadź swoją firmę na ścieżkę rozwoju"/>
+		</a>
+		<a class="boo " href="/ksiazka1351/algorytm-sukcesu-wprowadz-swoja-firme-na-sciezke-rozwoju.html">
+			<span class="title">Algorytm sukcesu. Wprowadź swoją firmę na ścieżkę rozwoju</span>
+		</a>
+			<span class="author">Les McKeown</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1700/algorytm-sukcesu-wprowadz-swoja-firme-na-sciezke-rozwoju.html">
+			<img class="cover" src="/s/cover/small/1700.jpg" alt="Algorytm sukcesu. Wprowadź swoją firmę na ścieżkę rozwoju"/>
+		</a>
+		<a class="boo " href="/ksiazka1700/algorytm-sukcesu-wprowadz-swoja-firme-na-sciezke-rozwoju.html">
+			<span class="title">Algorytm sukcesu. Wprowadź swoją firmę na ścieżkę rozwoju</span>
+		</a>
+			<span class="author">Les McKeown</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1376/bezmarketing-przestan-kusic-klientow-zacznij-z-nimi-rozmawiac.html">
+			<img class="cover" src="/s/cover/small/1376.jpg" alt="BezMarketing. Przestań kusić klientów, zacznij z nimi rozmawiać!"/>
+		</a>
+		<a class="boo " href="/ksiazka1376/bezmarketing-przestan-kusic-klientow-zacznij-z-nimi-rozmawiac.html">
+			<span class="title">BezMarketing. Przestań kusić klientów, zacznij z nimi rozmawiać!</span>
+		</a>
+			<span class="author">Scott Stratten</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1740/bezmarketing-przestan-kusic-klientow-zacznij-z-nimi-rozmawiac.html">
+			<img class="cover" src="/s/cover/small/1740.jpg" alt="BezMarketing. Przestań kusić klientów, zacznij z nimi rozmawiać!"/>
+		</a>
+		<a class="boo " href="/ksiazka1740/bezmarketing-przestan-kusic-klientow-zacznij-z-nimi-rozmawiac.html">
+			<span class="title">BezMarketing. Przestań kusić klientów, zacznij z nimi rozmawiać!</span>
+		</a>
+			<span class="author">Scott Stratten</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka753/brand-sense-marka-pieciu-zmyslow.html">
+			<img class="cover" src="/s/cover/small/753.jpg" alt="BRAND sense - marka pięciu zmysłów"/>
+		</a>
+		<a class="boo " href="/ksiazka753/brand-sense-marka-pieciu-zmyslow.html">
+			<span class="title">BRAND sense - marka pięciu zmysłów</span>
+		</a>
+			<span class="author">Martin Lindstrom</span>
+			
+			<span class="price">
+				Cena:
+				
+					49&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka682/brian-tracy-i-doskonale-zarzadzanie-czasem.html">
+			<img class="cover" src="/s/cover/small/682.jpg" alt="Brian Tracy i Doskonałe zarządzanie czasem "/>
+		</a>
+		<a class="boo " href="/ksiazka682/brian-tracy-i-doskonale-zarzadzanie-czasem.html">
+			<span class="title">Brian Tracy i Doskonałe zarządzanie czasem </span>
+		</a>
+			<span class="author">Brian Tracy</span>
+			
+			<span class="price">
+				Cena:
+				
+					12,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka719/brian-tracy-i-kariera-kobiet.html">
+			<img class="cover" src="/s/cover/small/719.jpg" alt="Brian Tracy i Kariera kobiet"/>
+		</a>
+		<a class="boo " href="/ksiazka719/brian-tracy-i-kariera-kobiet.html">
+			<span class="title">Brian Tracy i Kariera kobiet</span>
+		</a>
+			<span class="author">Brian Tracy</span>
+			
+			<span class="price">
+				Cena:
+				
+					12,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka681/brian-tracy-i-moc-pewnosci-siebie.html">
+			<img class="cover" src="/s/cover/small/681.jpg" alt="Brian Tracy i Moc pewności siebie"/>
+		</a>
+		<a class="boo " href="/ksiazka681/brian-tracy-i-moc-pewnosci-siebie.html">
+			<span class="title">Brian Tracy i Moc pewności siebie</span>
+		</a>
+			<span class="author">Brian Tracy</span>
+			
+			<span class="price">
+				Cena:
+				
+					12,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka678/brian-tracy-i-sekrety-osobistego-sukcesu.html">
+			<img class="cover" src="/s/cover/small/678.jpg" alt="Brian Tracy i Sekrety osobistego sukcesu"/>
+		</a>
+		<a class="boo " href="/ksiazka678/brian-tracy-i-sekrety-osobistego-sukcesu.html">
+			<span class="title">Brian Tracy i Sekrety osobistego sukcesu</span>
+		</a>
+			<span class="author">Brian Tracy</span>
+			
+			<span class="price">
+				Cena:
+				
+					12,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka679/brian-tracy-i-tajemnice-efektywnego-przywodztwa.html">
+			<img class="cover" src="/s/cover/small/679.jpg" alt="Brian Tracy i Tajemnice efektywnego przywództwa"/>
+		</a>
+		<a class="boo " href="/ksiazka679/brian-tracy-i-tajemnice-efektywnego-przywodztwa.html">
+			<span class="title">Brian Tracy i Tajemnice efektywnego przywództwa</span>
+		</a>
+			<span class="author">Brian Tracy</span>
+			
+			<span class="price">
+				Cena:
+				
+					12,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka675/brian-tracy-i-tajniki-doskonalej-sprzedazy.html">
+			<img class="cover" src="/s/cover/small/675.jpg" alt="Brian Tracy i Tajniki doskonałej sprzedaży"/>
+		</a>
+		<a class="boo " href="/ksiazka675/brian-tracy-i-tajniki-doskonalej-sprzedazy.html">
+			<span class="title">Brian Tracy i Tajniki doskonałej sprzedaży</span>
+		</a>
+			<span class="author">Brian Tracy</span>
+			
+			<span class="price">
+				Cena:
+				
+					12,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka680/brian-tracy-i-uniwersalne-prawa-sukcesu.html">
+			<img class="cover" src="/s/cover/small/680.jpg" alt="Brian Tracy i Uniwersalne prawa sukcesu"/>
+		</a>
+		<a class="boo " href="/ksiazka680/brian-tracy-i-uniwersalne-prawa-sukcesu.html">
+			<span class="title">Brian Tracy i Uniwersalne prawa sukcesu</span>
+		</a>
+			<span class="author">Brian Tracy</span>
+			
+			<span class="price">
+				Cena:
+				
+					12,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1420/brzdek-jak-odkrecic-internetowy-kurek-z-pieniedzmi.html">
+			<img class="cover" src="/s/cover/small/1420.jpg" alt="Brzdęk! Jak odkręcić internetowy kurek z pieniędzmi"/>
+		</a>
+		<a class="boo " href="/ksiazka1420/brzdek-jak-odkrecic-internetowy-kurek-z-pieniedzmi.html">
+			<span class="title">Brzdęk! Jak odkręcić internetowy kurek z pieniędzmi</span>
+		</a>
+			<span class="author">Joel Comm</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1807/brzdek-jak-odkrecic-internetowy-kurek-z-pieniedzmi.html">
+			<img class="cover" src="/s/cover/small/1807.jpg" alt="Brzdęk! Jak odkręcić internetowy kurek z pieniędzmi"/>
+		</a>
+		<a class="boo " href="/ksiazka1807/brzdek-jak-odkrecic-internetowy-kurek-z-pieniedzmi.html">
+			<span class="title">Brzdęk! Jak odkręcić internetowy kurek z pieniędzmi</span>
+		</a>
+			<span class="author">Joel Comm</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka398/e-biznes-bez-ryzyka-zarzadzanie-bezpieczenstwem-w-sieci.html">
+			<img class="cover" src="/s/cover/small/398.jpg" alt="E-biznes bez ryzyka. Zarządzanie bezpieczeństwem w sieci"/>
+		</a>
+		<a class="boo " href="/ksiazka398/e-biznes-bez-ryzyka-zarzadzanie-bezpieczenstwem-w-sieci.html">
+			<span class="title">E-biznes bez ryzyka. Zarządzanie bezpieczeństwem w sieci</span>
+		</a>
+			<span class="author">Jonathan Reuvid</span>
+			
+			<span class="price">
+				Cena:
+				
+					39&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka695/efektywna-sprzedaz-151-blyskotliwych-rozwiazan.html">
+			<img class="cover" src="/s/cover/small/695.jpg" alt="Efektywna sprzedaż. 151 błyskotliwych rozwiązań"/>
+		</a>
+		<a class="boo " href="/ksiazka695/efektywna-sprzedaz-151-blyskotliwych-rozwiazan.html">
+			<span class="title">Efektywna sprzedaż. 151 błyskotliwych rozwiązań</span>
+		</a>
+			<span class="author">Linda Sparks</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka498/gdyby-glupota-miala-skrzydla-najslynniejsze-katastrofy-marketingu-hi-tech-wydanie-drugie.html">
+			<img class="cover" src="/s/cover/small/498.jpg" alt="Gdyby głupota miała skrzydła. Najsłynniejsze katastrofy marketingu hi-tech. Wydanie drugie"/>
+		</a>
+		<a class="boo " href="/ksiazka498/gdyby-glupota-miala-skrzydla-najslynniejsze-katastrofy-marketingu-hi-tech-wydanie-drugie.html">
+			<span class="title">Gdyby głupota miała skrzydła. Najsłynniejsze katastrofy marketingu hi-tech. Wydanie drugie</span>
+		</a>
+			<span class="author">Merrill R.  Chapman</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">57&nbsp;zł</span>
+					<span class="promo">45,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka954/inbound-marketing-daj-sie-poznac-w-google-serwisach-spolecznosciowych-i-na-blogu.html">
+			<img class="cover" src="/s/cover/small/954.jpg" alt="Inbound Marketing. Daj się poznać w Google, serwisach społecznościowych i na blogu"/>
+		</a>
+		<a class="boo " href="/ksiazka954/inbound-marketing-daj-sie-poznac-w-google-serwisach-spolecznosciowych-i-na-blogu.html">
+			<span class="title">Inbound Marketing. Daj się poznać w Google, serwisach społecznościowych i na blogu</span>
+		</a>
+			<span class="author">Brian Halligan, Dharmesh Shah</span>
+			
+			<span class="price">
+				Cena:
+				
+					39&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1983/inbound-marketing-daj-sie-poznac-w-google-serwisach-spolecznosciowych-i-na-blogu.html">
+			<img class="cover" src="/s/cover/small/1983.jpg" alt="Inbound marketing. Daj się poznać w Google, serwisach społecznościowych i na blogu"/>
+		</a>
+		<a class="boo " href="/ksiazka1983/inbound-marketing-daj-sie-poznac-w-google-serwisach-spolecznosciowych-i-na-blogu.html">
+			<span class="title">Inbound marketing. Daj się poznać w Google, serwisach społecznościowych i na blogu</span>
+		</a>
+			<span class="author">Brian Halligan, Dharmesh Shah</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka164/inteligencja-finansowa-co-kryja-liczby-przewodnik-menedzera.html">
+			<img class="cover" src="/s/cover/small/164.jpg" alt="Inteligencja finansowa. Co kryją liczby. Przewodnik menedżera"/>
+		</a>
+		<a class="boo " href="/ksiazka164/inteligencja-finansowa-co-kryja-liczby-przewodnik-menedzera.html">
+			<span class="title">Inteligencja finansowa. Co kryją liczby. Przewodnik menedżera</span>
+		</a>
+			<span class="author">Joe Knight, John Case, Karen Berman</span>
+			
+			<span class="price">
+				Cena:
+				
+					69&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka531/kapitalizm-i-wolnosc.html">
+			<img class="cover" src="/s/cover/small/531.jpg" alt="Kapitalizm i wolność"/>
+		</a>
+		<a class="boo " href="/ksiazka531/kapitalizm-i-wolnosc.html">
+			<span class="title">Kapitalizm i wolność</span>
+		</a>
+			<span class="author">Milton Friedman</span>
+			
+			<span class="price">
+				Cena:
+				
+					49&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka441/kierowanie-zespolami-osobisty-mentor-harvard-business-school-press.html">
+			<img class="cover" src="/s/cover/small/441.jpg" alt="Kierowanie zespołami. Osobisty mentor - Harvard Business School Press"/>
+		</a>
+		<a class="boo " href="/ksiazka441/kierowanie-zespolami-osobisty-mentor-harvard-business-school-press.html">
+			<span class="title">Kierowanie zespołami. Osobisty mentor - Harvard Business School Press</span>
+		</a>
+			<span class="author">Anne Donnellon, Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					24,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka944/logo-design-love-zaprojektuj-genialny-logotyp.html">
+			<img class="cover" src="/s/cover/small/944.jpg" alt="Logo Design Love: Zaprojektuj genialny logotyp!"/>
+		</a>
+		<a class="boo " href="/ksiazka944/logo-design-love-zaprojektuj-genialny-logotyp.html">
+			<span class="title">Logo Design Love: Zaprojektuj genialny logotyp!</span>
+		</a>
+			<span class="author">David Airey</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka967/lost-zagubieni-i-filozofia-mroczna-strona-wyspy.html">
+			<img class="cover" src="/s/cover/small/967.jpg" alt="Lost: Zagubieni i filozofia. Mroczna strona wyspy"/>
+		</a>
+		<a class="boo " href="/ksiazka967/lost-zagubieni-i-filozofia-mroczna-strona-wyspy.html">
+			<span class="title">Lost: Zagubieni i filozofia. Mroczna strona wyspy</span>
+		</a>
+			<span class="author">Sharon Kaye</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1782/marketing-internetowy-szybkie-lacze-z-klientami.html">
+			<img class="cover" src="/s/cover/small/1782.jpg" alt="Marketing internetowy. Szybkie łącze z klientami"/>
+		</a>
+		<a class="boo " href="/ksiazka1782/marketing-internetowy-szybkie-lacze-z-klientami.html">
+			<span class="title">Marketing internetowy. Szybkie łącze z klientami</span>
+		</a>
+			<span class="author">Jon Reed</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1824/marketing-internetowy-szybkie-lacze-z-klientami.html">
+			<img class="cover" src="/s/cover/small/1824.jpg" alt="Marketing internetowy. Szybkie łącze z klientami"/>
+		</a>
+		<a class="boo " href="/ksiazka1824/marketing-internetowy-szybkie-lacze-z-klientami.html">
+			<span class="title">Marketing internetowy. Szybkie łącze z klientami</span>
+		</a>
+			<span class="author">Jon Reed</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1876/metoda-lean-startup-wykorzystaj-innowacyjne-narzedzia-i-stworz-firme-ktora-zdobedzie-rynek.html">
+			<img class="cover" src="/s/cover/small/1876.jpg" alt="Metoda Lean Startup. Wykorzystaj innowacyjne narzędzia i stwórz firmę, która zdobędzie rynek"/>
+		</a>
+		<a class="boo " href="/ksiazka1876/metoda-lean-startup-wykorzystaj-innowacyjne-narzedzia-i-stworz-firme-ktora-zdobedzie-rynek.html">
+			<span class="title">Metoda Lean Startup. Wykorzystaj innowacyjne narzędzia i stwórz firmę, która zdobędzie rynek</span>
+		</a>
+			<span class="author">Eric Ries</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1958/metoda-lean-startup-wykorzystaj-innowacyjne-narzedzia-i-stworz-firme-ktora-zdobedzie-rynek.html">
+			<img class="cover" src="/s/cover/small/1958.jpg" alt="Metoda Lean Startup. Wykorzystaj innowacyjne narzędzia i stwórz firmę, która zdobędzie rynek"/>
+		</a>
+		<a class="boo " href="/ksiazka1958/metoda-lean-startup-wykorzystaj-innowacyjne-narzedzia-i-stworz-firme-ktora-zdobedzie-rynek.html">
+			<span class="title">Metoda Lean Startup. Wykorzystaj innowacyjne narzędzia i stwórz firmę, która zdobędzie rynek</span>
+		</a>
+			<span class="author">Eric Ries</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1999/model-biznesowy-ty.html">
+			<img class="cover" src="/s/cover/small/1999.jpg" alt="Model biznesowy. TY"/>
+		</a>
+		<a class="boo " href="/ksiazka1999/model-biznesowy-ty.html">
+			<span class="title">Model biznesowy. TY</span>
+		</a>
+			<span class="author">Alexander Osterwalder, Timothy Clark, Yves Pigneur</span>
+			
+			<span class="price">
+				Cena:
+				
+					59&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2242/model-biznesowy-ty.html">
+			<img class="cover" src="/s/cover/small/2242.jpg" alt="Model biznesowy. TY"/>
+		</a>
+		<a class="boo " href="/ksiazka2242/model-biznesowy-ty.html">
+			<span class="title">Model biznesowy. TY</span>
+		</a>
+			<span class="author">Alexander Osterwalder, Timothy Clark, Yves Pigneur</span>
+			
+			<span class="price">
+				Cena:
+				
+					47&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka980/musimy-pogadac-trudne-rozmowy-z-szefem.html">
+			<img class="cover" src="/s/cover/small/980.jpg" alt="Musimy pogadać. Trudne rozmowy z szefem"/>
+		</a>
+		<a class="boo " href="/ksiazka980/musimy-pogadac-trudne-rozmowy-z-szefem.html">
+			<span class="title">Musimy pogadać. Trudne rozmowy z szefem</span>
+		</a>
+			<span class="author">Lynne Eisaguirre</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka790/narysuj-swoje-mysli-jak-skutecznie-prezentowac-i-sprzedawac-pomysly-na-kartce-papieru.html">
+			<img class="cover" src="/s/cover/small/790.jpg" alt="Narysuj swoje myśli. Jak skutecznie prezentować i sprzedawać pomysły na kartce papieru"/>
+		</a>
+		<a class="boo " href="/ksiazka790/narysuj-swoje-mysli-jak-skutecznie-prezentowac-i-sprzedawac-pomysly-na-kartce-papieru.html">
+			<span class="title">Narysuj swoje myśli. Jak skutecznie prezentować i sprzedawać pomysły na kartce papieru</span>
+		</a>
+			<span class="author">Dan Roam</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka612/oswoic-besse-czyli-inwestowanie-na-rynku-niedzwiedzia.html">
+			<img class="cover" src="/s/cover/small/612.jpg" alt="Oswoić bessę, czyli inwestowanie na rynku niedźwiedzia "/>
+		</a>
+		<a class="boo " href="/ksiazka612/oswoic-besse-czyli-inwestowanie-na-rynku-niedzwiedzia.html">
+			<span class="title">Oswoić bessę, czyli inwestowanie na rynku niedźwiedzia </span>
+		</a>
+			<span class="author">Kenneth E. Little</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">67&nbsp;zł</span>
+					<span class="promo">53,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka432/potega-jednej-godziny-jak-udoskonalic-swoje-zycie.html">
+			<img class="cover" src="/s/cover/small/432.jpg" alt="Potęga jednej godziny. Jak udoskonalić swoje życie"/>
+		</a>
+		<a class="boo " href="/ksiazka432/potega-jednej-godziny-jak-udoskonalic-swoje-zycie.html">
+			<span class="title">Potęga jednej godziny. Jak udoskonalić swoje życie</span>
+		</a>
+			<span class="author">Dave Lakhani</span>
+			
+			<span class="price">
+				Cena:
+				
+					34,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1272/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej.html">
+			<img class="cover" src="/s/cover/small/1272.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej"/>
+		</a>
+		<a class="boo " href="/ksiazka1272/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1660/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej.html">
+			<img class="cover" src="/s/cover/small/1660.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej"/>
+		</a>
+		<a class="boo " href="/ksiazka1660/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1318/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej-ebook-epub.html">
+			<img class="cover" src="/s/cover/small/1318.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej. eBook. ePub"/>
+		</a>
+		<a class="boo " href="/ksiazka1318/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej-ebook-epub.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej. eBook. ePub</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					31,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1495/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej-ebook-mobi.html">
+			<img class="cover" src="/s/cover/small/1495.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej. eBook. Mobi"/>
+		</a>
+		<a class="boo " href="/ksiazka1495/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej-ebook-mobi.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej. eBook. Mobi</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					31,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1317/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej-ebook-pdf.html">
+			<img class="cover" src="/s/cover/small/1317.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej. eBook. Pdf"/>
+		</a>
+		<a class="boo " href="/ksiazka1317/prawa-sukcesu-wedlug-napoleona-hilla-zasady-potegi-osobistej-ebook-pdf.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady potęgi osobistej. eBook. Pdf</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					31,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1307/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba.html">
+			<img class="cover" src="/s/cover/small/1307.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą"/>
+		</a>
+		<a class="boo " href="/ksiazka1307/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1661/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba.html">
+			<img class="cover" src="/s/cover/small/1661.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą"/>
+		</a>
+		<a class="boo " href="/ksiazka1661/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1412/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba-ebook-epub.html">
+			<img class="cover" src="/s/cover/small/1412.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą. eBook. ePub"/>
+		</a>
+		<a class="boo " href="/ksiazka1412/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba-ebook-epub.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą. eBook. ePub</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					31,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1496/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba-ebook-mobi.html">
+			<img class="cover" src="/s/cover/small/1496.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą. eBook. Mobi"/>
+		</a>
+		<a class="boo " href="/ksiazka1496/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba-ebook-mobi.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą. eBook. Mobi</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					31,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1413/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba-ebook-pdf.html">
+			<img class="cover" src="/s/cover/small/1413.jpg" alt="Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą. eBook. Pdf"/>
+		</a>
+		<a class="boo " href="/ksiazka1413/prawa-sukcesu-wedlug-napoleona-hilla-zasady-pracy-nad-soba-ebook-pdf.html">
+			<span class="title">Prawa sukcesu według Napoleona Hilla. Zasady pracy nad sobą. eBook. Pdf</span>
+		</a>
+			<span class="author">Napoleon Hill</span>
+			
+			<span class="price">
+				Cena:
+				
+					31,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1434/przechytrzyc-google-odkryj-skuteczna-strategie-seo-i-zdobadz-szczyty-wyszukiwarek.html">
+			<img class="cover" src="/s/cover/small/1434.jpg" alt="Przechytrzyć Google. Odkryj skuteczną strategię SEO i zdobądź szczyty wyszukiwarek"/>
+		</a>
+		<a class="boo " href="/ksiazka1434/przechytrzyc-google-odkryj-skuteczna-strategie-seo-i-zdobadz-szczyty-wyszukiwarek.html">
+			<span class="title">Przechytrzyć Google. Odkryj skuteczną strategię SEO i zdobądź szczyty wyszukiwarek</span>
+		</a>
+			<span class="author">Bradley Bailyn, Evan Bailyn</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka987/psychologia-inwestowania-wydanie-iv.html">
+			<img class="cover" src="/s/cover/small/987.jpg" alt="Psychologia inwestowania. Wydanie IV"/>
+		</a>
+		<a class="boo " href="/ksiazka987/psychologia-inwestowania-wydanie-iv.html">
+			<span class="title">Psychologia inwestowania. Wydanie IV</span>
+		</a>
+			<span class="author">John R. Nofsinger</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka936/rozmowy-z-dalajlama-o-zyciu-szczesciu-i-przemijaniu.html">
+			<img class="cover" src="/s/cover/small/936.jpg" alt="Rozmowy z Dalajlamą. O życiu, szczęściu i przemijaniu"/>
+		</a>
+		<a class="boo " href="/ksiazka936/rozmowy-z-dalajlama-o-zyciu-szczesciu-i-przemijaniu.html">
+			<span class="title">Rozmowy z Dalajlamą. O życiu, szczęściu i przemijaniu</span>
+		</a>
+			<span class="author">Rajiv Mehrotra</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37,89&nbsp;zł</span>
+					<span class="promo">30,31&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka374/sedno-zmian-autentyczne-historie-transformacji-ktore-odmienily-oblicza-firm-na-calym-swiecie.html">
+			<img class="cover" src="/s/cover/small/374.jpg" alt="Sedno zmian. Autentyczne historie transformacji, które odmieniły oblicza firm na całym świecie"/>
+		</a>
+		<a class="boo " href="/ksiazka374/sedno-zmian-autentyczne-historie-transformacji-ktore-odmienily-oblicza-firm-na-calym-swiecie.html">
+			<span class="title">Sedno zmian. Autentyczne historie transformacji, które odmieniły oblicza firm na całym świecie</span>
+		</a>
+			<span class="author">Dan S. Cohen, John P. Kotter</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka625/sedno-zmian-narzedzia-i-taktyki-pozytywnej-transformacji-twojej-firmy.html">
+			<img class="cover" src="/s/cover/small/625.jpg" alt="Sedno zmian. Narzędzia i taktyki pozytywnej transformacji Twojej firmy"/>
+		</a>
+		<a class="boo " href="/ksiazka625/sedno-zmian-narzedzia-i-taktyki-pozytywnej-transformacji-twojej-firmy.html">
+			<span class="title">Sedno zmian. Narzędzia i taktyki pozytywnej transformacji Twojej firmy</span>
+		</a>
+			<span class="author">Dan S. Cohen</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka897/sekret-nlp-czyli-poznaj-siebie-uporaj-sie-ze-zlymi-nawykami-i-zacznij-prawdziwie-zyc.html">
+			<img class="cover" src="/s/cover/small/897.jpg" alt="Sekret NLP, czyli poznaj siebie, uporaj się ze złymi nawykami i zacznij prawdziwie żyć"/>
+		</a>
+		<a class="boo " href="/ksiazka897/sekret-nlp-czyli-poznaj-siebie-uporaj-sie-ze-zlymi-nawykami-i-zacznij-prawdziwie-zyc.html">
+			<span class="title">Sekret NLP, czyli poznaj siebie, uporaj się ze złymi nawykami i zacznij prawdziwie żyć</span>
+		</a>
+			<span class="author">Richard Bandler</span>
+			
+			<span class="price">
+				Cena:
+				
+					34,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1098/sekret-nlp-czyli-poznaj-siebie-uporaj-sie-ze-zlymi-nawykami-i-zacznij-prawdziwie-zyc.html">
+			<img class="cover" src="/s/cover/small/1098.jpg" alt="Sekret NLP, czyli poznaj siebie, uporaj się ze złymi nawykami i zacznij prawdziwie żyć"/>
+		</a>
+		<a class="boo " href="/ksiazka1098/sekret-nlp-czyli-poznaj-siebie-uporaj-sie-ze-zlymi-nawykami-i-zacznij-prawdziwie-zyc.html">
+			<span class="title">Sekret NLP, czyli poznaj siebie, uporaj się ze złymi nawykami i zacznij prawdziwie żyć</span>
+		</a>
+			<span class="author">Richard Bandler</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka478/sila-kreacji-w-reklamie-marka-soczysta-jak-pomarancza.html">
+			<img class="cover" src="/s/cover/small/478.jpg" alt="Siła kreacji w reklamie. Marka soczysta jak pomarańcza"/>
+		</a>
+		<a class="boo " href="/ksiazka478/sila-kreacji-w-reklamie-marka-soczysta-jak-pomarancza.html">
+			<span class="title">Siła kreacji w reklamie. Marka soczysta jak pomarańcza</span>
+		</a>
+			<span class="author">Fred Senn, Pat Fallon</span>
+			
+			<span class="price">
+				Cena:
+				
+					39&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka643/skuteczny-networking.html">
+			<img class="cover" src="/s/cover/small/643.jpg" alt="Skuteczny networking"/>
+		</a>
+		<a class="boo " href="/ksiazka643/skuteczny-networking.html">
+			<span class="title">Skuteczny networking</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1324/social-media-marketing-odkryj-potencjal-facebooka-twittera-i-innych-portali-spolecznosciowych.html">
+			<img class="cover" src="/s/cover/small/1324.jpg" alt="Social Media Marketing. Odkryj potencjał Facebooka, Twittera i innych portali społecznościowych"/>
+		</a>
+		<a class="boo " href="/ksiazka1324/social-media-marketing-odkryj-potencjal-facebooka-twittera-i-innych-portali-spolecznosciowych.html">
+			<span class="title">Social Media Marketing. Odkryj potencjał Facebooka, Twittera i innych portali społecznościowych</span>
+		</a>
+			<span class="author">Liana Evans</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka926/sztuka-podejmowania-decyzji-dlaczego-madrzy-ludzie-dokonuja-zlych-wyborow.html">
+			<img class="cover" src="/s/cover/small/926.jpg" alt="Sztuka podejmowania decyzji. Dlaczego mądrzy ludzie dokonują złych wyborów"/>
+		</a>
+		<a class="boo " href="/ksiazka926/sztuka-podejmowania-decyzji-dlaczego-madrzy-ludzie-dokonuja-zlych-wyborow.html">
+			<span class="title">Sztuka podejmowania decyzji. Dlaczego mądrzy ludzie dokonują złych wyborów</span>
+		</a>
+			<span class="author">Gary Klein</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka893/sztuka-wojny-biurowej.html">
+			<img class="cover" src="/s/cover/small/893.jpg" alt="Sztuka wojny biurowej"/>
+		</a>
+		<a class="boo " href="/ksiazka893/sztuka-wojny-biurowej.html">
+			<span class="title">Sztuka wojny biurowej</span>
+		</a>
+			<span class="author">Simon Drake</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29&nbsp;zł</span>
+					<span class="promo">23,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka989/trzy-prawa-skutecznego-dzialania-ksztaltuj-przyszlosc-swoja-i-swojej-firmy.html">
+			<img class="cover" src="/s/cover/small/989.jpg" alt="Trzy prawa skutecznego działania. Kształtuj przyszłość swoją i swojej firmy"/>
+		</a>
+		<a class="boo " href="/ksiazka989/trzy-prawa-skutecznego-dzialania-ksztaltuj-przyszlosc-swoja-i-swojej-firmy.html">
+			<span class="title">Trzy prawa skutecznego działania. Kształtuj przyszłość swoją i swojej firmy</span>
+		</a>
+			<span class="author">Dave Logan, Steve Zaffron</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37,89&nbsp;zł</span>
+					<span class="promo">30,31&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1342/tworzenie-modeli-biznesowych-podrecznik-wizjonera.html">
+			<img class="cover" src="/s/cover/small/1342.jpg" alt="Tworzenie modeli biznesowych. Podręcznik wizjonera "/>
+		</a>
+		<a class="boo " href="/ksiazka1342/tworzenie-modeli-biznesowych-podrecznik-wizjonera.html">
+			<span class="title">Tworzenie modeli biznesowych. Podręcznik wizjonera </span>
+		</a>
+			<span class="author">Alexander Osterwalder, Yves Pigneur</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1990/tworzenie-modeli-biznesowych-podrecznik-wizjonera.html">
+			<img class="cover" src="/s/cover/small/1990.jpg" alt="Tworzenie modeli biznesowych. Podręcznik wizjonera "/>
+		</a>
+		<a class="boo " href="/ksiazka1990/tworzenie-modeli-biznesowych-podrecznik-wizjonera.html">
+			<span class="title">Tworzenie modeli biznesowych. Podręcznik wizjonera </span>
+		</a>
+			<span class="author">Alexander Osterwalder, Yves Pigneur</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">54,99&nbsp;zł</span>
+					<span class="promo">43,99&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka930/wlasnymi-slowami-wprowadzenie-do-nauczania-dalajlamy-xiv.html">
+			<img class="cover" src="/s/cover/small/930.jpg" alt="Własnymi słowami. Wprowadzenie do nauczania Dalajlamy XIV"/>
+		</a>
+		<a class="boo " href="/ksiazka930/wlasnymi-slowami-wprowadzenie-do-nauczania-dalajlamy-xiv.html">
+			<span class="title">Własnymi słowami. Wprowadzenie do nauczania Dalajlamy XIV</span>
+		</a>
+			<span class="author">Jego Świątobliwość Dalajlama pod redakcją Rajiva Mehrotry</span>
+			
+			<span class="price">
+				Cena:
+				
+					29&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2080/wojna-swiatopogladow-czy-naukowcy-maja-dusze.html">
+			<img class="cover" src="/s/cover/small/2080.jpg" alt="Wojna światopoglądów. Czy naukowcy mają duszę?"/>
+		</a>
+		<a class="boo " href="/ksiazka2080/wojna-swiatopogladow-czy-naukowcy-maja-dusze.html">
+			<span class="title">Wojna światopoglądów. Czy naukowcy mają duszę?</span>
+		</a>
+			<span class="author">Deepak Chopra, Leonard Mlodinow</span>
+			
+			<span class="price">
+				Cena:
+				
+					39,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka973/wszystko-mozna-narysowac-wykorzystanie-myslenia-wizualnego-w-biznesie.html">
+			<img class="cover" src="/s/cover/small/973.jpg" alt="Wszystko można narysować! Wykorzystanie myślenia wizualnego w biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka973/wszystko-mozna-narysowac-wykorzystanie-myslenia-wizualnego-w-biznesie.html">
+			<span class="title">Wszystko można narysować! Wykorzystanie myślenia wizualnego w biznesie</span>
+		</a>
+			<span class="author">Dan Roam</span>
+			
+			<span class="price">
+				Cena:
+				
+					49,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1565/wycena-minipodrecznik-dla-inwestorow-gieldowych.html">
+			<img class="cover" src="/s/cover/small/1565.jpg" alt="Wycena. Minipodręcznik dla inwestorów giełdowych"/>
+		</a>
+		<a class="boo " href="/ksiazka1565/wycena-minipodrecznik-dla-inwestorow-gieldowych.html">
+			<span class="title">Wycena. Minipodręcznik dla inwestorów giełdowych</span>
+		</a>
+			<span class="author">Aswath Damodaran</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1874/wycena-minipodrecznik-dla-inwestorow-gieldowych.html">
+			<img class="cover" src="/s/cover/small/1874.jpg" alt="Wycena. Minipodręcznik dla inwestorów giełdowych"/>
+		</a>
+		<a class="boo " href="/ksiazka1874/wycena-minipodrecznik-dla-inwestorow-gieldowych.html">
+			<span class="title">Wycena. Minipodręcznik dla inwestorów giełdowych</span>
+		</a>
+			<span class="author">Aswath Damodaran</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka26/zachowania-i-zwyczaje-konsumentow-wydanie-vi.html">
+			<img class="cover" src="/s/cover/small/26.jpg" alt="Zachowania i zwyczaje konsumentów. Wydanie VI"/>
+		</a>
+		<a class="boo " href="/ksiazka26/zachowania-i-zwyczaje-konsumentow-wydanie-vi.html">
+			<span class="title">Zachowania i zwyczaje konsumentów. Wydanie VI</span>
+		</a>
+			<span class="author">Michael R. Solomon</span>
+			
+			<span class="price">
+				Cena:
+				
+					127&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka333/zarzadzanie-produktem-od-badan-i-rozwoju-do-budzetowania-reklamy.html">
+			<img class="cover" src="/s/cover/small/333.jpg" alt="Zarządzanie produktem. Od badań i rozwoju do budżetowania reklamy"/>
+		</a>
+		<a class="boo " href="/ksiazka333/zarzadzanie-produktem-od-badan-i-rozwoju-do-budzetowania-reklamy.html">
+			<span class="title">Zarządzanie produktem. Od badań i rozwoju do budżetowania reklamy</span>
+		</a>
+			<span class="author">Linda Gorchels</span>
+			
+			<span class="price">
+				Cena:
+				
+					47&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka640/zarzadzanie-szefem.html">
+			<img class="cover" src="/s/cover/small/640.jpg" alt="Zarządzanie szefem"/>
+		</a>
+		<a class="boo " href="/ksiazka640/zarzadzanie-szefem.html">
+			<span class="title">Zarządzanie szefem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1867/zarzadzanie-wynikami-firmy-podrecznik-menedzera.html">
+			<img class="cover" src="/s/cover/small/1867.jpg" alt="Zarządzanie wynikami firmy. Podręcznik menedżera"/>
+		</a>
+		<a class="boo " href="/ksiazka1867/zarzadzanie-wynikami-firmy-podrecznik-menedzera.html">
+			<span class="title">Zarządzanie wynikami firmy. Podręcznik menedżera</span>
+		</a>
+			<span class="author">Mike Bourne, Pippa Bourne</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">57&nbsp;zł</span>
+					<span class="promo">45,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2241/zarzadzanie-wynikami-firmy-podrecznik-menedzera.html">
+			<img class="cover" src="/s/cover/small/2241.jpg" alt="Zarządzanie wynikami firmy. Podręcznik menedżera"/>
+		</a>
+		<a class="boo " href="/ksiazka2241/zarzadzanie-wynikami-firmy-podrecznik-menedzera.html">
+			<span class="title">Zarządzanie wynikami firmy. Podręcznik menedżera</span>
+		</a>
+			<span class="author">Mike Bourne, Pippa Bourne</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka709/zatracona-sztuka-sluchania.html">
+			<img class="cover" src="/s/cover/small/709.jpg" alt="Zatracona sztuka słuchania"/>
+		</a>
+		<a class="boo " href="/ksiazka709/zatracona-sztuka-sluchania.html">
+			<span class="title">Zatracona sztuka słuchania</span>
+		</a>
+			<span class="author">Michael P. Nichols</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1081/zaufanie-20-jak-wywierac-wplyw-zdobyc-lojalnosc-klientow-i-kreowac-marke.html">
+			<img class="cover" src="/s/cover/small/1081.jpg" alt="Zaufanie 2.0. Jak wywierać wpływ, zdobyć lojalność klientów i kreować markę"/>
+		</a>
+		<a class="boo " href="/ksiazka1081/zaufanie-20-jak-wywierac-wplyw-zdobyc-lojalnosc-klientow-i-kreowac-marke.html">
+			<span class="title">Zaufanie 2.0. Jak wywierać wpływ, zdobyć lojalność klientów i kreować markę</span>
+		</a>
+			<span class="author">Chris Brogan, Julien Smith</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1043/zaufany-doradca-jak-budowac-trwale-relacje-z-klientami.html">
+			<img class="cover" src="/s/cover/small/1043.jpg" alt="Zaufany doradca. Jak budować trwałe relacje z klientami"/>
+		</a>
+		<a class="boo " href="/ksiazka1043/zaufany-doradca-jak-budowac-trwale-relacje-z-klientami.html">
+			<span class="title">Zaufany doradca. Jak budować trwałe relacje z klientami</span>
+		</a>
+			<span class="author">Charles H. Green, David H. Maister, Robert M. Galford</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka696/znakomita-organizacja-czasu-151-blyskotliwych-rozwiazan.html">
+			<img class="cover" src="/s/cover/small/696.jpg" alt="Znakomita organizacja czasu. 151 błyskotliwych rozwiązań"/>
+		</a>
+		<a class="boo last" href="/ksiazka696/znakomita-organizacja-czasu-151-blyskotliwych-rozwiazan.html">
+			<span class="title">Znakomita organizacja czasu. 151 błyskotliwych rozwiązań</span>
+		</a>
+			<span class="author">Robert E. Dittmer</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+	</div>
+</div>
+
+
+	</div>
+	<div id="menu">
+		<div class="top"></div>
+			
+			
+			<a href="/promocje/">Promocje</a>
+			
+			<a href="/nowosci/">Nowości</a>
+			
+			<a href="/bestsellery/">Bestsellery</a>
+			
+			<a href="/przedsprzedaz/">Przedsprzedaż</a>
+		
+			
+			<a href="/temat12/bizneswoman.html">Bizneswoman</a>
+		
+			
+			<a href="/temat18/controlling.html">Controlling</a>
+		
+			
+			<a href="/temat15/e-biznes.html">E-biznes</a>
+		
+			
+			<a href="/temat22/ebooki.html">eBooki</a>
+		
+			
+			<a href="/temat17/ekonomia.html">Ekonomia</a>
+		
+			
+			<a href="/temat13/finanse.html">Finanse</a>
+		
+			
+			<a href="/temat16/gielda-i-inwestycje.html">Giełda i inwestycje</a>
+		
+			
+			<a href="/temat8/kompetencje-osobiste.html">Kompetencje osobiste</a>
+		
+			
+			<a href="/temat4/komputer-w-biurze.html">Komputer w biurze</a>
+		
+			
+			<a href="/temat2/komunikacja-i-negocjacje.html">Komunikacja i negocjacje</a>
+		
+			
+			<a href="/temat7/mala-firma.html">Mała firma</a>
+		
+			
+			<a href="/temat6/marketing.html">Marketing</a>
+		
+			
+			<a href="/temat19/multimedialne-szkolenia.html">Multimedialne szkolenia</a>
+		
+			
+			<a href="/temat11/obsluga-klienta.html">Obsługa klienta</a>
+		
+			
+			<a href="/temat20/perswazja-i-nlp.html">Perswazja i NLP</a>
+		
+			
+			<a href="/temat10/przywodztwo.html">Przywództwo</a>
+		
+			
+			<a href="/temat21/public-relations.html">Public Relations</a>
+		
+			
+			<a href="/temat24/sekret.html">Sekret</a>
+		
+			
+			<a href="/temat28/social-media.html">Social Media</a>
+		
+			
+			<a href="/temat1/sprzedaz.html">Sprzedaż</a>
+		
+			
+			<a href="/temat9/twoja-kariera.html">Twoja kariera</a>
+		
+			
+			<a href="/temat5/zarzadzanie.html">Zarządzanie</a>
+		
+			
+			<a href="/temat14/zarzadzanie-projektami.html">Zarządzanie projektami</a>
+		
+			
+			<a href="/temat3/zasoby-ludzkie-hr.html">Zasoby ludzkie (HR)</a>
+		
+		<div class="bottom"></div>
+	</div>
+</div>
+
+
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-325086-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+

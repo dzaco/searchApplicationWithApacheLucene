@@ -1,0 +1,776 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+    <title>Lokaty bankowe - Porównania - Rankingi - Oprocentowanie - Kalkulatory - Bankier.pl</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+    <meta name="description" content="Lokaty bankowe - porównania oraz rankingi lokat dokonywane przez analityków serwisu Bankier.pl. Informacje na temat oprocentowania lokat bankowych, nowych produktów finansowych." />
+
+    <meta name="keywords" content="kredyty, kredyt, podatki, waluty, giełda, bank, fundusz, kursy walut, euro, mbank, rachunek, banki" />
+    <link rel="alternate" type="application/rss+xml" title="Bankier.pl - Finanse osobiste" href="http://rss.bankier.pl/wiadomosci/finanse_osobiste.xml" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+
+    <link href="/media/lokaty/stylesheets/lokaty_old.css" rel="stylesheet" type="text/css" />
+
+
+    <link href="/media/lokaty/stylesheets/lokaty.css" rel="stylesheet" type="text/css" />
+    <script src="/media/lokaty/js/jquery-1.5.1.min.js" type="text/javascript"></script>
+    <script src="/media/lokaty/js/jquery-ui-1.8.13.custom.min.js" type="text/javascript"></script>
+    <script src="/media/lokaty/js/lokaty.js" type="text/javascript"></script>
+    <script src="/media/lokaty/js/jquery.ui.widget.min.js" type="text/javascript"></script>
+    <script src="/media/lokaty/js/jquery.ui.accordion.min.js" type="text/javascript"></script>
+    <script src="/media/lokaty/js/menu-tabs.js" type="text/javascript"></script>
+    <script src="/media/lokaty/js/jquery.jNice.js" type="text/javascript"></script>
+    <script src="/js/cf/cf.js" type="text/javascript"></script>
+   
+
+
+
+
+<!-- ADServer Header //-->
+<script type="text/javascript" src="http://gg.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "gg.adocean.pl", id: "JOcK7gzdoyrcIT2176iLzhCz8UoPOGcT6Y1ax8FNTPf.l7"});
+</script>
+
+
+<!-- bankier/lokaty/sg : MASTER //-->
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, MASTER: GaduGadu.Bankier.pl.lokaty.sg BKID:72209015164856610 */
+ado.master({id: 'wZH3Bb9h15OvlBySvKIw92m84PsgRsb9xRV6NLWhyfb.y7', server: 'gg.adocean.pl' });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- (C)2005 Gemius SA - gemiusAudience  / bankier.pl / finanse_osobiste_Lokaty -->
+<script language="javascript" type="text/javascript">
+<!--
+var pp_gemius_identifier = new String('cjVF.UcbIc9kqHQJzmHhm_VDP6LRju_Oo0UUOzA3n3..47');
+//-->
+</script>
+<script language="javascript" type="text/javascript" src="http://arbo.hit.gemius.pl/pp_gemius.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Nowe Lokaty Gemius SG //-->
+<!-- (C)2000-2011 Gemius SA - gemiusTraffic / ver 11.1 / oszczedzanie_lokaty_sg_pilot --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('0niV72uRUVt4Kc0R1xdle8eAzUtYn6eccnifA62a3iX.e7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="/inc/js/gemius.js"></script> 
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="lokaty_home"><!-- TODO: tu id przekazac w zmiennej -->
+<script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+<noscript>
+<div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+<div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+</div>
+</div>
+</noscript>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-V82M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-V82M');</script>
+<!-- End Google Tag Manager -->
+
+
+<div id="bn_header" style="position: relative; z-index: 100;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+      <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+
+
+
+
+
+        <img src="http://s01.bankier.pl/i/sg/top_menuBB.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+        <map name="bn_topmenu_map" id="bn_topmenu_map">
+            <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+            <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Fbankier.pl%2Flokaty%2F" title="Zaloguj się" alt=""/>
+            <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+            <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+            <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+        </map>
+
+    <div id="bn_search_box">	
+        <form method="get" action="http://www.bankier.pl/szukaj/index.html">
+        <div>
+            <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+        	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+        </div>
+        </form>	  
+    </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li ><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+  </div><!-- end #bn_header_center -->
+</div><!-- end #bn_header -->
+
+    <div id="bn_skyscraper">
+        
+
+
+
+
+
+<!-- bankier/lokaty/sg : skyscraper_120x600 //-->
+<div id="adoceanggqbgtkvjpmg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.lokaty.sg.sg skyscraper 120x600 BKID:72209015164856620 */
+ado.slave('adoceanggqbgtkvjpmg', {myMaster: 'wZH3Bb9h15OvlBySvKIw92m84PsgRsb9xRV6NLWhyfb.y7' });
+</script>
+
+
+
+
+
+
+
+    </div>
+    <div id="wrapper">
+        <div style="margin-left:auto;margin-right:auto;position:relative;">
+            <!-- code: /lokaty/sg | 750x100-1 | /lokaty/sg  | A -->
+   <div class="advertisement ad-750-100">
+
+
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/lokaty/sg : billboard_750x100 //-->
+<div id="adoceanggzoqpqnmrrr"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.lokaty.sg.sg billboard 750x100 BKID:72209015164856610 */
+ado.slave('adoceanggzoqpqnmrrr', {myMaster: 'wZH3Bb9h15OvlBySvKIw92m84PsgRsb9xRV6NLWhyfb.y7' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+        </div>
+        <div id="left_column">
+            
+         
+
+        <div class="box_full" id="porownaj_lokaty">
+            <div class="box_header">
+                <h1>Porównaj lokaty</h1>
+               </div>
+               <div style="margin-left: 20px; margin-top: 10px; ">
+ Porównywarka lokat Bankier.pl – zawsze aktualne oprocentowanie lokat.<br /> 
+ Sprawdź najlepsze lokaty na dowolny okres. 
+ Tu znajdziesz też najnowszy ranking lokat Bankier.pl i porady naszych ekspertów.<br />
+</div>
+    <div id="kalkulator">
+    <div class="calc">
+    <div class="content">
+        <form method="post" class="jNice" action="/lokaty/porownanie-lokat/">
+        <table>
+            <tbody>
+            <tr>
+                <th><label for="id_amount_0">Kwota i waluta</label></th>
+                <td><input id="id_amount_0" class="text_short" name="amount_0" value="10000" type="text" />
+                    <select id="id_amount_1" name="amount_1">
+                        <option selected="selected" value="PLN">PLN</option>
+                        <option value="EUR">EUR</option>
+                        <option value="USD">USD</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th><label for="id_period">Okres lokaty</label></th>
+                <td><select id="id_period" name="period">
+                        <option value="1D">1 dzień</option>
+                        <option value="2D">2 dni</option>
+                        <option value="3D">3 dni</option>
+                        <option value="7D">7 dni</option>
+                        <option value="10D">10 dni</option>
+                        <option value="14D">14 dni</option>
+                        <option value="15D">15 dni</option>
+                        <option value="20D">20 dni</option>
+                        <option value="21D">21 dni</option>
+                        <option value="1M">1 miesiąc</option>
+                        <option value="2M">2 miesiące</option>
+                        <option value="3M" selected="selected">3 miesiące</option>
+                        <option value="4M">4 miesiące</option>
+                        <option value="5M">5 miesięcy</option>
+                        <option value="6M">6 miesięcy</option>
+                        <option value="7M">7 miesięcy</option>
+                        <option value="8M">8 miesięcy</option>
+                        <option value="9M">9 miesięcy</option>
+                        <option value="10M">10 miesięcy</option>
+                        <option value="11M">11 miesięcy</option>
+                        <option value="12M">12 miesięcy</option>
+                        <option value="13M">13 miesięcy</option>
+                        <option value="15M">15 miesięcy</option>
+                        <option value="18M">18 miesięcy</option>
+                        <option value="20M">20 miesięcy</option>
+                        <option value="24M">24 miesiące</option>
+                        <option value="36M">36 miesięcy</option>
+                        <option value="60M">60 miesięcy</option>
+                    </select>
+                    <input type="hidden" name="shorter" value="" />
+                    <input type="hidden" name="fixedvar" value="fixedvar" />
+                    <input type="hidden" name="branch" value="branch" />
+                    <input type="hidden" name="inet" value="inet" />
+                    <input type="hidden" name="ror" value="" />
+                    <input type="hidden" name="contingent" value="contingent" />
+
+
+                    <input class="submit" value="Oblicz" type="submit" />
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        </form>
+    </div>
+    </div>
+    </div>
+
+<div id="kalkulator_promo"><a href="/lokaty/kalkulatory/systematyczne-oszczedzanie.html"><span class="left"></span><span class="center">kalkulator systematycznego oszczędzania</span><span class="right"></span></a></div>
+
+
+        </div>
+
+
+                 <div class="box_half" id="wiadomosci">
+             <div class="box_header">
+                 <h1>Wiadomości</h1>
+             </div>
+             <div class="box_content">
+                 <ul>
+
+                     <li>
+		     <a  href="/lokaty/wiadomosc/Ranking-lokat-Bankier-pl-lipiec-2013-6547185.html">
+
+		     Ranking lokat Bankier.pl - lipiec 2013
+		     </a></li>
+
+                     <li>
+		     <a  href="/lokaty/wiadomosc/Zmiana-oprocentowania-oferty-depozytowej-w-ING-2885878.html">
+
+		     Zmiana oprocentowania oferty depozytowej w ING
+		     </a></li>
+
+                     <li>
+		     <a  href="/lokaty/wiadomosc/Ranking-kont-oszczednosciowych-Bankier-pl-lipiec-2013-r-6547125.html">
+
+		     Ranking kont oszczędnościowych Bankier.pl – lipiec 2013 r. 
+		     </a></li>
+
+                     <li>
+		     <a  href="/lokaty/wiadomosc/W-trzy-miesiace-z-lokat-bankowych-wyparowalo-15-mld-zl-2870769.html">
+
+		     W trzy miesiące z lokat bankowych wyparowało 15 mld zł
+		     </a></li>
+
+                     <li>
+		     <a  href="/lokaty/wiadomosc/Polacy-odwracaja-sie-od-lokat-6547061.html">
+
+		     Polacy odwracają się od lokat
+		     </a></li>
+
+                     <li>
+		     <a  href="/lokaty/wiadomosc/ING-reklamuje-prawdziwe-oszczedzanie-6547023.html">
+
+		     ING reklamuje prawdziwe oszczędzanie
+		     </a></li>
+
+                     <li>
+		     <a  href="/lokaty/wiadomosc/Zmiana-oprocentowania-oferty-depozytowej-w-ING-2862100.html">
+
+		     Zmiana oprocentowania oferty depozytowej w ING
+		     </a></li>
+
+                     <li>
+		     <a  href="/lokaty/wiadomosc/Ponad-3-5-proc-realnego-zysku-na-lokacie-2860205.html">
+
+		     Ponad 3,5 proc. realnego zysku na lokacie
+		     </a></li>
+                 </ul>
+                 <a href="/lokaty/wiadomosci/" class="more">więcej</a>
+             </div>
+         </div>
+
+         
+
+         <div class="box_half" id="poradniki">
+             <div class="box_header">
+                 <h1>Poradniki</h1>
+             </div>
+             <div class="box_content">
+                 <ul>
+
+		<li>
+
+		<a class="video_icon_small" href="/lokaty/wiadomosc/Czy-lokaty-bankowe-sa-bezpieczne-6544042.html">
+
+		Czy lokaty bankowe są bezpieczne?
+		</a></li>
+
+		<li>
+
+		<a class="video_icon_small" href="/lokaty/wiadomosc/Konto-oszczednosciowe-a-lokata-terminowa-6544041.html">
+
+		Konto oszczędnościowe a lokata terminowa
+		</a></li>
+
+		<li>
+
+		<a class="video_icon_small" href="/lokaty/wiadomosc/Ile-rzeczywiscie-zarobie-na-lokacie-6544040.html">
+
+		Ile rzeczywiście zarobię na lokacie?
+		</a></li>
+
+		<li>
+
+		<a class="video_icon_small" href="/lokaty/wiadomosc/Od-czego-zalezy-oprocentowanie-lokaty-6544038.html">
+
+		Od czego zależy oprocentowanie lokaty?
+		</a></li>
+
+		<li>
+
+		<a class="video_icon_small" href="/lokaty/wiadomosc/Co-to-jest-kapitalizacja-i-jaki-ma-wplyw-na-zysk-z-lokaty-6544039.html">
+
+		Co to jest kapitalizacja i jaki ma wpływ na zysk z lokaty? 
+		</a></li>
+
+		<li>
+
+		<a class="video_icon_small" href="/lokaty/wiadomosc/Jak-dziala-lokata-6544037.html">
+
+		Jak działa lokata?
+		</a></li>
+
+		<li>
+
+		<a  href="/lokaty/wiadomosc/Czym-jest-i-jak-dziala-kapitalizacja-odsetek-91.html">
+
+		Czym jest i jak działa kapitalizacja odsetek?
+		</a></li>
+
+		<li>
+
+		<a  href="/lokaty/wiadomosc/Lokaty-najczesciej-zadawane-pytania-83.html">
+
+		Lokaty - najczęściej zadawane pytania
+		</a></li>
+                 </ul>
+                 <a href="/lokaty/poradniki/" class="more">więcej</a>
+             </div>
+         </div>
+
+
+         
+
+        <div class="box_full" id="promowane_produkty_finansowe">
+            <div class="box_header grey">
+                <h2>Promowane produkty finansowe</h2>
+            </div>
+
+
+            <div class="box_content">
+                <p><a href="http://www.bankier.pl/cf/bankpocztowy/lokaty-index.html"><img src="http://www.bankier.pl/gfx/ad/bank_pocztowy_1312883103.gif" /></a><a href="http://www.bankier.pl/cf/bankpocztowy/lokaty-index.html"><strong>Bank Pocztowy</strong></a><br/> <a href="http://www.bankier.pl/cf/bankpocztowy/lokaty-index.html">Lok@ty internetowe w Banku Pocztowym to korzystna forma oszczędzania dla oczekujących niezawodnego i rozłożonego w czasie zysku. Lokatę założysz łatwo, szybko i wygodnie - bez wychodzenia z domu, bez zbędnych formalności.</a></p>
+            </div>
+
+
+
+            <div class="box_content">
+                <p><a href="http://www.bankier.pl/cf/toyotabank/index.html#plan"><img src="http://www.bankier.pl/gfx/ad/toyota-bank-logo.jpg" style="margin-bottom:10px; margin-top:30px;" /></a><a href="http://www.bankier.pl/cf/toyotabank/index.html#plan"><strong>Toyota Bank</strong></a><br/> <a href="http://www.bankier.pl/cf/toyotabank/index.html#plan">Kapitalna lokata w Toyota Banku to: solidne oprocentowanie, dzienna kapitalizacja odsetek, brak ograniczeń ilości zakładanych lokat (minimalny wkład 10 000 zł) oraz elastyczne warunki lokaty.</a></p>
+            </div>
+
+
+
+</div>
+
+
+
+
+
+<!-- (c) 2000-2012 Gemius SA ver 1.1 Emisje: GaduGadu/TEST/Test_1x1_piksel_testowy, tracking, link z logo na lokatach -->
+<script language="javascript1.2" type="text/javascript"><!--
+var _gde_zmcoponfpl = new Image(1,1);
+_gde_zmcoponfpl.src='http://gg.hit.gemius.pl/redot.gif?l=8/tstamp='+(new Date()).getTime()+'/id=pzNKf7t6zyj7..AFiYI44HXo.s11du_kQW6t3hMqK.7.d7/stparam=zmcoponfpl/fastid=1224979098646010932';
+//--></script>
+
+
+
+
+        </div><!-- end #left_column -->
+        <div id="right_column">
+                            
+
+        <div class="box_border">
+            <div class="box_border_corner_top">
+                <div class="box_border_corner_top_left"></div>
+                <div class="box_border_corner_top_right"></div>
+            </div>
+            <div class="box_border_content">
+                <div class="box_full" id="menu">
+                    <div class="box_header">
+                        <h3>Menu</h3>
+                    </div>
+                    <div class="box_content">
+                        <ul class="menu">
+
+
+    <li><a class="active" href="/lokaty/">Lokaty: start</a></li>
+
+
+    <li><a href="/lokaty/porownanie-lokat/">Porównanie lokat</a></li>
+
+
+    <li><a href="/lokaty/porownanie-kont/">Porównanie kont oszczędnościowych</a></li>
+
+
+    <li><a href="/lokaty/kalkulatory/">Kalkulatory</a></li>
+
+
+    <li><a href="/lokaty/wiadomosci/">Wiadomości</a></li>
+
+
+    <li><a href="/lokaty/poradniki/">Poradniki</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+
+
+
+                <pre>
+</pre>
+
+                <div class="box_full" id="najlepsze_lokaty">
+                    <div class="box_header">
+                        <h3>Najlepsze lokaty</h3>
+                    </div>
+                    <div class="box_content">
+                        <p>10 tys. zł na 3 miesiące</p>
+                        <table width="332" align="center" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <th class="left">Bank</th>
+                                <th class="right">Zysk z lokaty</th>
+                            </tr>
+
+
+
+
+
+                            <tr>
+                                <td class="left">GetinOnline</td>
+                                <td class="right">112.29&nbsp;zł&nbsp;<a href="/lokaty/porownanie-lokat/1827,getinonline-lokata-na-start.html">Sprawdź</a>
+                                </td>
+                            </tr>
+
+
+
+                            <tr>
+                                <td class="left">Meritum Bank</td>
+                                <td class="right">91.86&nbsp;zł&nbsp;<a href="/lokaty/porownanie-lokat/1410,meritum-bank-pierwsza-lokata.html">Sprawdź</a>
+                                </td>
+                            </tr>
+
+
+
+                            <tr>
+                                <td class="left">neoBANK</td>
+                                <td class="right">81.66&nbsp;zł&nbsp;<a href="/lokaty/porownanie-lokat/1721,neobank-energolokata-3m-plus.html">Sprawdź</a>
+                                </td>
+                            </tr>
+
+
+
+                <form name="formularz" method="post" action="/lokaty/porownanie-lokat/" id="formularz">
+                     <input type="hidden" name="amount_0" value="10000" />
+                    <input type="hidden" name="amount_1" value="PLN" />
+                    <input type="hidden" name="period" value="3M" />
+                    <input type="hidden" name="shorter" value="" />
+                    <input type="hidden" name="fixedvar" value="fixedvar" />
+                    <input type="hidden" name="branch" value="branch" />
+                    <input type="hidden" name="inet" value="inet" />
+                    <input type="hidden" name="ror" value="" />
+                    <input type="hidden" name="contingent" value="" />
+                    
+
+
+
+                        </table>
+                     <a style="cursor:pointer;" class="more" onclick="javascript:formularz.submit();">Zobacz pełen ranking lokat</a>
+                </form>
+                    </div>
+                </div>
+
+
+
+
+                
+            <div class="box_full" id="artykuly">
+                    <div class="box_header">
+                        <h3>Artykuły</h3>
+                    </div>
+                    <div class="box_content">
+                        <ul class="menu menu_tabs">
+                            <li><a href="#" class="active">Promowane</a></li>
+                            <li><a href="#">Najnowsze</a></li>
+                        </ul>
+
+
+                        <div class="tabs first">
+                            <h4>
+
+			    <a  href="/lokaty/wiadomosc/Ranking-lokat-Bankier-pl-lipiec-2013-6547185.html">
+			    Ranking lokat Bankier.pl - lipiec 2013
+			    </a></h4>
+<img src="http://galeria.bankier.pl/p/3/e/167d0db6e485c4-100-63-0-0-388-246.png" />
+                        <ul>
+                            <li>
+			    <a  href="/lokaty/wiadomosc/Ranking-kont-oszczednosciowych-Bankier-pl-lipiec-2013-r-6547125.html">Ranking kont oszczędnościowych Bankier.pl – lipiec 2013 r. </a></li>
+                            <li>
+			    <a  href="/lokaty/wiadomosc/Polacy-odwracaja-sie-od-lokat-6547061.html">Polacy odwracają się od lokat</a></li>
+                            <li>
+			    <a  href="/lokaty/wiadomosc/Najlepsze-z-najgorszych-Ranking-lokat-Bankier-pl-czerwiec-2013-6546977.html">Najlepsze z najgorszych. Ranking lokat Bankier.pl - czerwiec 2013</a></li>
+                            <li>
+			    <a  href="/lokaty/wiadomosc/RPP-obniza-stopy-I-tylko-lokat-zal-6546939.html">RPP obniża stopy. I tylko lokat żal</a></li>
+                            <li>
+			    <a  href="/lokaty/wiadomosc/Lokaty-gdzie-jeszcze-dostaniesz-wiecej-niz-5-6546729.html">Lokaty: gdzie jeszcze dostaniesz więcej niż 5%?</a></li>
+                        </ul>
+                        </div>
+
+
+
+
+
+
+
+
+                        <div class="tabs">
+                            <h4>
+
+			   <a href="/lokaty/wiadomosc/Ranking-lokat-Bankier-pl-lipiec-2013-6547185.html">Ranking lokat Bankier.pl - lipiec 2013</a></h4>
+<img src="http://galeria.bankier.pl/p/3/e/167d0db6e485c4-100-63-0-0-388-246.png" />
+                        <ul>
+                            <li>
+<a href="/lokaty/wiadomosc/Zmiana-oprocentowania-oferty-depozytowej-w-ING-2885878.html">Zmiana oprocentowania oferty depozytowej w ING</a></li>
+                            <li>
+<a href="/lokaty/wiadomosc/Ranking-kont-oszczednosciowych-Bankier-pl-lipiec-2013-r-6547125.html">Ranking kont oszczędnościowych Bankier.pl – lipiec 2013 r. </a></li>
+                            <li>
+<a href="/lokaty/wiadomosc/W-trzy-miesiace-z-lokat-bankowych-wyparowalo-15-mld-zl-2870769.html">W trzy miesiące z lokat bankowych wyparowało 15 mld zł</a></li>
+                            <li>
+<a href="/lokaty/wiadomosc/Polacy-odwracaja-sie-od-lokat-6547061.html">Polacy odwracają się od lokat</a></li>
+                            <li>
+<a href="/lokaty/wiadomosc/ING-reklamuje-prawdziwe-oszczedzanie-6547023.html">ING reklamuje prawdziwe oszczędzanie</a></li>
+                        </ul>
+                        <a href="/lokaty/wiadomosci/" class="more">więcej</a>
+                        </div><!-- end box_content -->
+
+
+                    </div>
+                </div>
+
+
+                <div class="box_full" id="reklama">
+                    <div class="box_header">
+                        <h3>Reklama</h3>
+                    </div>
+                    <div class="box_content" style="text-align:center;">
+                    <!-- code: /lokaty/sg | 336x280-1 | /lokaty/sg  | MTXT -->
+   <div class="advertisement ad-336-280">
+
+
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/lokaty/sg : rectangle_300x250 //-->
+<div id="adoceanggtapmhiqkcl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.lokaty.sg.sg rectangle 300x250 BKID:72209015164856630 */
+ado.slave('adoceanggtapmhiqkcl', {myMaster: 'wZH3Bb9h15OvlBySvKIw92m84PsgRsb9xRV6NLWhyfb.y7' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+                    </div>
+                </div>
+            </div><!-- end .box_border_content -->
+            <div class="box_border_corner_bot">
+                <div class="box_border_corner_bot_left"></div>
+                <div class="box_border_corner_bot_right"></div>
+            </div>
+        </div><!-- end .box_border -->
+
+        </div><!-- end #right_column -->
+    
+
+
+<div id="bn_footer">
+
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    &copy; 1999-2013
+    <a href="http://spolka.bankier.pl">Bankier.pl</a> Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>.
+  </div>
+
+</div> <!-- bn_footer -->  
+
+    
+
+<!-- google-analytics -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-325086-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- end google-analytics -->
+
+
+
+
+
+
+
+    </div><!-- end #wrapper -->
+    <div id="footer_back"></div>
+
+    
+
+
+
+
+<!-- (c) 2008 Gemius SA / gemiusHeatMap(GHM+XY) / http://www.bankier.pl -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ghmxy_align = 'center';
+var ghmxy_type = 'absolute';
+var ghmxy_identifier = 'ndbq_HMBGwk6w9QTnR_FeGYmLXU1EM82cIVb5IqSO0D.f7';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://pro.hit.gemius.pl/hmapxy.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+

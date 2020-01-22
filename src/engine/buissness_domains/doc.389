@@ -1,0 +1,612 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+   <title>Rodzina na swoim - Finanse osobiste - Bankier.pl</title>
+   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+   <meta name="description" content="Bankier.pl - Największy i najlepszy portal finansowy. Informacje o gospodarce, inwestowaniu, finansach osobistych i prowadzeniu firmy. Kursy walut, notowania akcji, fundusze. Dane o wszystkich produktach bankowych: kredyty, konta, lokaty i karty kredytowej  oraz informacje na tematy: kredyty, kredyt, podatki, waluty, giełda, bank, fundusze, kursy walut, euro, mbank, rachunek, banki" />
+   <meta name="keywords" content="kredyty, kredyt, podatki, waluty, giełda, bank, fundusz, kursy walut, euro, mbank, rachunek, banki" />
+
+
+
+<link href="/media/finanse/stylesheets/finanse.css?20111216" rel="stylesheet" type="text/css" />
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Bankier.pl - Finanse osobiste" href="http://rss.bankier.pl/wiadomosci/finanse_osobiste.xml" />
+
+
+
+
+
+
+<!-- ADServer Header //-->
+<script type="text/javascript" src="http://gg.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "gg.adocean.pl", id: "JOcK7gzdoyrcIT2176iLzhCz8UoPOGcT6Y1ax8FNTPf.l7"});
+</script>
+
+
+<!-- bankier/fo/kredyty/pozostale : MASTER //-->
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, MASTER: GaduGadu.Bankier.pl.finanse.kredyty.pozostale BKID:72209015165356610 */
+ado.master({id: 'ueyq7JGqA2bo97f9wFhwW7JQACa.kqLFx70Q1NoxWqH.Y7', server: 'gg.adocean.pl' });
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bankier.pl/js/cf/cf.js"></script>
+<script type="text/javascript" src="/media/finanse/javascripts/jquery.tools.min.js"></script>
+<script src="/gfx/jedenprocent/jedenprocent_finanse.js" type="text/javascript"></script>
+
+</head><body>
+<script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+<noscript>
+<div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+<div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+</div>
+</div>
+</noscript>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-V82M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-V82M');</script>
+<!-- End Google Tag Manager -->
+
+
+<div id="main">
+	
+<div id="bn_header" style="position: relative; z-index: 100;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+
+
+
+
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB2.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi | Konkurs" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Ffinanse%2Fkredyty%2Frodzina-na-swoim%2F" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+    <area coords="392,0,455,10" href="http://www.systempartnerski.pl/nagrodomania.html" title="System Partnerski - konkurs" alt=""/>
+
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li class="selected"><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li ><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+ 	<div id="main_content"> 
+		<div id="center_content" >
+  <!-- code: /finanse/kredyty/ | 750x100-1 | fo/kredyty/  | A -->
+   <div class="advertisement ad-750-100">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/kredyty/pozostale : billboard_750x100 //-->
+<div id="adoceanggsfpffpqlfa"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.kredyty.pozostale.pozostale billboard 750x100 BKID:72209015165356610 */
+ado.slave('adoceanggsfpffpqlfa', {myMaster: 'ueyq7JGqA2bo97f9wFhwW7JQACa.kqLFx70Q1NoxWqH.Y7' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+    	   <!-- code: /finanse/kredyty/ | 770x30-1 | fo/kredyty/  | BELKA -->
+   <div class="advertisement ad-770-30">
+   
+
+
+
+
+<div align="center" style="margin: 2px 0 6px 0">
+<!-- bankier/fo/kredyty/pozostale : belka_770x50 //-->
+<div id="adoceanggveipbsghvf"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.kredyty.pozostale.pozostale belka 770x50 BKID:72209015165395580 */
+ado.slave('adoceanggveipbsghvf', {myMaster: 'ueyq7JGqA2bo97f9wFhwW7JQACa.kqLFx70Q1NoxWqH.Y7' });
+</script>
+</div>
+
+
+
+
+
+
+</div>
+	   	
+	   	<div id="wrapper" style="clear: both">
+	   	   <!-- code: /finanse/kredyty/ | 160x600-1 | fo/kredyty/  | HSKY -->
+   <div class="advertisement ad-160-600">
+   
+
+
+
+
+
+<!-- bankier/fo/kredyty/pozostale : skyscraper_120x600 //-->
+<div id="adoceanggwilpcuhook"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.kredyty.pozostale.pozostale skyscraper 120x600 BKID:72209015165356620 */
+ado.slave('adoceanggwilpcuhook', {myMaster: 'ueyq7JGqA2bo97f9wFhwW7JQACa.kqLFx70Q1NoxWqH.Y7' });
+</script>
+
+
+
+
+
+
+
+</div>
+
+	   	<div id="column_left">
+	      	
+<div class="box_menu">
+	<ul>
+		<li class="select"><a href="/finanse/kredyty/">Kredyty</a>
+			<ul>
+				<li><a href="/finanse/kredyty/gotowkowe/">Gotówkowe</a></li>
+				<li><a href="/finanse/kredyty/mieszkaniowe/">Mieszkaniowe</a></li>
+				<li><a href="/finanse/kredyty/konsolidacyjne/">Konsolidacyjne</a></li>
+				<li><a href="/finanse/kredyty/w-koncie/">W koncie</a></li>
+				<li><a href="/finanse/kredyty/bik/">BIK</a></li>
+			</ul>
+		<li><a href="/finanse/konta/">Konta</a>
+		<li><a href="/finanse/../lokaty/">Lokaty</a>
+		<li><a href="/finanse/karty/">Karty</a>
+		<li><a href="/finanse/ubezpieczenia/">Ubezpieczenia</a>
+		<li><a href="/finanse/podatki/">Podatki</a>
+		<li><a href="/finanse/emerytury/">Emerytury</a>
+		<li><a href="/finanse/nieruchomosci/">Nieruchomości</a>
+		<li class="last"><a href="/finanse/domowe-finanse/">Domowe finanse</a>
+		</li>
+  </ul>
+</div>
+<div class="clear"></div>
+
+
+
+
+
+<div class="box_ink_menu">
+  <ul>
+   <li><a href="/finanse/kredyty/najwazniejsze/">Wiadomości</a></li>
+   <li><a href="/finanse/kredyty/poradniki/">Poradniki</a></li>
+   <li><a href="/finanse/kredyty/eksperci/">Okiem eksperta</a></li>
+   <li><a href="/finanse/kredyty/narzedzia/">Kalkulatory i wyszukiwarki</a></li>
+
+    <li><a href="/forum/forum_Banki,9,1.html">Forum</a></li>
+
+     <li class="last"><a href="/narzedzia/slownik/">Słownik</a></li>
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clear"></div>
+<div class="box_menu" id="cf_finanse_menu">
+  <ul>
+	<li><span>Sprawdź ofertę</span>
+		<ul>
+   <li><a href="http://www.bankier.pl/cf/kredyty_mieszkaniowe.html">Kredyty mieszkaniowe</a></li>
+   <li><a href="http://www.bankier.pl/cf/rodzina_na_swoim.html">Kredyty z dopłatami</a></li>
+   <li><a href="http://www.bankier.pl/cf/kredyty_konsolidacyjne.html">Kredyty konsolidacyjne</a></li>
+   <li><a href="http://www.bankier.pl/cf/kredyty_refinansowe.html">Kredyty refinansowe</a></li>
+   <li><a href="http://www.bankier.pl/cf/kredyty_samochodowe.html">Kredyty samochodowe</a></li>
+   <li><a href="http://www.bankier.pl/cf/kredyty_gotowkowe.html">Kredyty gotówkowe</a></li>
+ 	 </ul>
+	</li>
+	</ul>
+</div>
+
+
+
+
+
+
+	    	</div> <!-- /column_left -->
+    	   
+			
+<div id="column_right">
+  
+    <div class="box_window_490">
+      <div class="icon"><img class="png" src="/media/finanse/images/iko_rodzina.png" alt="Polecane" /></div>
+      <div class="title_darkblue">Rodzina na swoim - kompendium</div>
+      <div class="content_blue">
+       <style type="text/css">
+#rns {
+   padding-top: 8px;
+}
+
+#rns p.more {
+   text-align: right;
+}
+
+</style>
+
+<div id="rns" style="padding: 23px 5px 0 3px">
+<p style="font-family: Arial; font-size: 18px; margin-bottom: 20px; color:red">
+Uwaga! Artykuł archiwalny. Program dopłat Rodzina na swoim wygasł z końcem 2012 roku.
+</p>
+<p style="font-family: Arial; font-size: 12px; margin-bottom: 20px">
+Dowiedz się wszystkiego o programie Rodzina na swoim. Jakie warunki musisz spełniać, żeby dostać kredyt z dopłatami? Poznaj szczegóły programu.
+</p>
+
+
+<h3><a href="/wiadomosci/multiarticle.html/1923796,1,poradnik.html">Dla kogo?</a></h3>
+<p>Jak sama nazwa wskazuje dopłaty do kredytu nie są przeznaczone dla wszystkich. Ustawowa "Rodzina na swoim", to małżonkowie lub osoby samotnie wychowujące przynajmniej jedno małoletnie dziecko lub dziecko, bez względu na jego wiek, na które pobierany jest zasiłek pielęgnacyjny.</p>
+<p class="more"><a href="/wiadomosci/multiarticle.html/1923796,1,poradnik.html">więcej...</a></p>
+
+<h3><a href="/wiadomosci/multiarticle.html/1923796,2,poradnik.html">Na jaki cel?</a></h3>
+<p>Sprawdź na jaki cel można przeznaczyć kredyt z dopłatą.</p>
+<p class="more"><a href="/wiadomosci/multiarticle.html/1923796,2,poradnik.html">więcej...</a></p>
+
+<h3><a href="/wiadomosci/multiarticle.html/1923796,3,poradnik.html">Jakie warunki musi spełniać kredytowana nieruchomość?</a></h3>
+<p>Ubiegając się o kredyt preferencyjny składamy pisemne oświadczenie, że nie przysługuje nam tytuł prawny do lokalu, na który ma być udzielony kredyt preferencyjny.</p>
+<p class="more"><a href="/wiadomosci/multiarticle.html/1923796,3,poradnik.html">więcej...</a></p>
+
+<h3><a href="/wiadomosci/multiarticle.html/1923796,4,poradnik.html">Ile zyskamy?</a></h3>
+<p>Osobom korzystającym z programu "Rodzina na swoim" z pieniędzy publicznych będzie spłacana połowa odsetek.</p>
+<p class="more"><a href="/wiadomosci/multiarticle.html/1923796,4,poradnik.html">więcej...</a></p>
+
+<h3><a href="/wiadomosci/multiarticle.html/1923796,5,poradnik.html">Jakie banki udzielą kredytu?</a></h3>
+<p>Kredytów z dopłatami udzielają banki, ale również spółdzielcze kasy oszczędnościowo-kredytowe, które podpisały umowę z Bankiem Gospodarstwa Krajowego.</p>
+<p class="more"><a href="/wiadomosci/multiarticle.html/1923796,5,poradnik.html">więcej...</a></p>
+
+<h3><a href="/wiadomosci/multiarticle.html/1923796,6,poradnik.html">Warunki spłaty</a></h3>
+<p>Kredyty z dopłatami udzielane są tylko w złotych, więc nie ma możliwości, aby np. zmniejszyć dodatkowo ratę kredytu indeksowanego w walucie obcej.</p>
+<p class="more"><a href="/wiadomosci/multiarticle.html/1923796,6,poradnik.html">więcej...</a></p>
+
+<h3><a href="/wiadomosci/multiarticle.html/1923796,7,poradnik.html">Kiedy możemy stracić dopłaty?</a></h3>
+<p>Raz zyskane preferencje w spłacie kredytu nie są nam dane na zawsze. Możemy je utracić, jeśli w czasie spłacania kredytu z dopłatami dojdzie do następujących sytuacji...</p>
+<p class="more"><a href="/wiadomosci/multiarticle.html/1923796,7,poradnik.html">więcej...</a></p>
+
+</div>
+ 
+       <div class="clear"></div>
+      </div>
+      <div class="footer_white_small"> </div>
+    </div>
+
+<!-- code: /finanse/kredyty/ | 425x50-1 | fo/kredyty/  | BELKA_SRODTEKSTOWA -->
+   <div class="advertisement ad-425-50">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/kredyty/pozostale : belka_425x50 //-->
+<div id="adoceanggydrioumsfg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.kredyty.pozostale.pozostale belka 425x50 BKID:72209015165395590 */
+ado.slave('adoceanggydrioumsfg', {myMaster: 'ueyq7JGqA2bo97f9wFhwW7JQACa.kqLFx70Q1NoxWqH.Y7' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+  <div class="clear"></div>
+</div>
+<div id="column_center">
+  
+    <div class="box_window_336" id="rodzina_ekspert" style="width: 230px;">
+        <div class="title_darkblue">Ekspert radzi</div>
+<div class="content_white">
+   <div class="clear"></div>
+</div> 
+<div class="footer_white"></div>
+
+    </div>
+<!-- code: /finanse/kredyty/ | 336x280-1 | fo/kredyty/  | MTXT -->
+   <div class="advertisement ad-336-280">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/kredyty/pozostale : rectangle_300x250 //-->
+<div id="adoceanggzhejpwnjtp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.kredyty.pozostale.pozostale rectangle 300x250 BKID:72209015165356630 */
+ado.slave('adoceanggzhejpwnjtp', {myMaster: 'ueyq7JGqA2bo97f9wFhwW7JQACa.kqLFx70Q1NoxWqH.Y7' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+		<div class="box_window_336">
+          <div class="title_blue">Wiadomości</div>
+  <div class="content_white">
+    <ul>
+   <li><a href="/wiadomosc/Rodzina-na-swoim-tylko-z-umowa-notarialna-2752202.html">&#34;Rodzina na swoim&#34; tylko z umową notarialną</a>
+   </li>
+         
+   <li><a href="/wiadomosc/Kosztowna-pulapka-w-Rodzinie-na-swoim-2744101.html">Kosztowna pułapka w &#34;Rodzinie na swoim&#34;</a>
+   </li>
+         
+   <li><a href="/wiadomosc/Deweloperzy-zgarneli-jedna-trzecia-Rodziny-na-swoim-2737474.html">Deweloperzy zgarnęli jedną trzecią &#34;Rodziny na swoim&#34;</a>
+   </li>
+         
+   <li><a href="/wiadomosc/Krajobraz-po-Rodzinie-na-swoim-2713371.html">Krajobraz po &#34;Rodzinie na swoim&#34;</a>
+   </li>
+         
+   <li><a href="/wiadomosc/Wartosc-kredytow-w-programie-Rodzina-na-swoim-w-XII-12-wyniosla-956-5-mln-zl-2712211.html">Wartość kredytów w programie &#34;Rodzina na swoim&#34; w XII &#39;12 wyniosła 956,5 mln zł</a>
+   </li>
+         
+   </ul>
+    <div class="clear"></div>
+   <div class="right"><a href="/finanse/kredyty/rodzina-na-swoim/wiadomosci/">więcej</a></div>
+  </div>
+  
+  <div class="footer_white"></div>
+    </div>
+	<div class="box_window_336">
+          <div class="title_yellow">Centrum Produktów Finansowych</div>
+<div class="content_white">
+  <ul class="point_yellow">
+    <li><a href="http://www.bankier.pl/goto2.html?nazwa=FO_CF_KM_EXPANDER&url=http%3A%2F%2Fwww.bankier.pl%2Fcf%2Fexpander%2Fkredyt_mieszkaniowy.html">Wiesz jak trudno wybrać dobry kredyt mieszkaniowy?</a></li>
+    <li><a href="http://www.bankier.pl/cf/pko/klienci-indywidualni/kredyty-mieszkaniowe/wlasny-kat-hipoteczny_2/index.html">Z nami szybko możesz mieć własny kąt..</a></li>
+    <li><a href="http://www.bankier.pl/goto2.html?nazwa=FO_CF_KM_MILLE_020310&url=http%3A%2F%2Fwww.bankier.pl%2Fcf%2Fmillennium%2Fkredyty_hipoteczne_kredyt_hipoteczny.html">Nie czekaj z marzeniami..</a></li>
+  </ul>
+  <div class="clear"></div>
+</div>
+<div class="footer_yellow"></div>
+
+
+        </div>
+
+<div class="box_window_336">
+ <div class="title_darkblue">Akty prawne</div>
+<div class="content_blue">
+      <ul class="point_blue">
+        <li><a href="http://www.abc.com.pl/serwis/du/2011/1006.htm">Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania</a></li>
+        <li><a href="http://www.bankier.pl/firma/narzedzia/akty-prawne/dziennik-ustaw-2008/pozycja-1465.html">Nowelizacja ustawy o finansowym wsparciu rodzin z dnia 21.11.2008 r.</a></li>
+        <li><a href="http://www.bankier.pl/firma/narzedzia/akty-prawne/dziennik-ustaw-2007/pozycja-0955.html">Nowelizacja ustawy o finansowym wsparciu rodzin z dnia 15.06.2007 r.</a></li>
+        <li><a href="http://www.bankier.pl/firma/narzedzia/akty-prawne/dziennik-ustaw-2006/pozycja-1618.html">Rozporządzenie ministra budownictwa z dnia 23.11.2006 r.</a></li>
+        <li><a href="http://www.bankier.pl/firma/narzedzia/akty-prawne/dziennik-ustaw-2006/pozycja-1354.html">Ustawa z 8 września 2006 r. o finansowym wsparciu rodzin w nabywaniu własnego mieszkania</a></li>
+        <li><a href="http://bgk.pl/storage/Tabela%20wskaźników%20I%20kwartał%202012.pdf">Średni wskaźnik przeliczeniowy kosztu odtworzenia 1 mkw.</a></li>
+      </ul>
+      <div class="clear"></div>
+</div>
+<div class="footer_white"></div>
+
+
+</div>
+
+
+  <div class="clear"></div>
+</div>
+
+		</div>
+		</div>
+	        <div style="clear: both"></div>
+	</div> <!-- /main_content -->
+	
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+<!-- google-analytics -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-325086-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- end google-analytics -->
+
+
+
+
+
+
+
+<!-- (c) 2008 Gemius SA / gemiusHeatMap(GHM+XY) / http://www.bankier.pl -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ghmxy_align = 'center';
+var ghmxy_type = 'absolute';
+var ghmxy_identifier = 'ndbq_HMBGwk6w9QTnR_FeGYmLXU1EM82cIVb5IqSO0D.f7';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://pro.hit.gemius.pl/hmapxy.js"></script>
+
+
+</div> <!-- /main -->
+<!-- code: /finanse/kredyty/ | 0x0-master | fo/kredyty/  | DHTML -->
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/kredyty/pozostale : DHTML_1x1 //-->
+<div id="adoceanggldkskxsnvl"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.kredyty.pozostale.pozostale DHTML 1x1 BKID:72209015165356700 */
+ado.slave('adoceanggldkskxsnvl', {myMaster: 'ueyq7JGqA2bo97f9wFhwW7JQACa.kqLFx70Q1NoxWqH.Y7' });
+</script>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- (C)2005 Gemius SA - gemiusAudience  / bankier.pl / finanse_osobiste_Kredyty -->
+<script language="javascript" type="text/javascript">
+<!--
+var pp_gemius_identifier = new String('0mtF.yc0IQXed3RLrfXpgpciHUvUR0eyVFVi3gzICq3.u7');
+//-->
+</script>
+<script language="javascript" type="text/javascript" src="http://arbo.hit.gemius.pl/pp_gemius.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<!-- (C) 2000-2005 Gemius SA - gemiusTraffic / ver 11.1 / kredyty_pozostale --> 
+<script type="text/javascript">
+var gemius_identifier = new String('.XcwC6dLi5DDJKjeMXQyW5R8TM568JAjbNycmCXHoab.j7');
+</script>
+<script type="text/javascript" src="/inc/js/gemius.js"></script> 
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+
+

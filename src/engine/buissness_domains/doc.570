@@ -1,0 +1,370 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | Analiza techniczna</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = -1;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox">
+<p class="sitelink"><a href="/analiza_techniczna">Encyklopedia analizy technicznej&nbsp;&raquo;</a></p>
+<applet width="984px" height="490px" archive="/files/ispag/ispag.jar" codebase="." code="ISPAGApplet.class" name="ISPAGApplet" MAYSCRIPT="MAYSCRIPT">
+				<param name="Encoding" value="UTF-8" />
+
+			
+				<param name="SecurityDataSource" value="technical_analisys_quotation?"/>
+				<param name="Securities" value="technical_analisys_instruments?" />
+				<param name="SecurityIntradayDataSource" value="technical_analisys_quotation_intraday?">
+
+				<param name="SortStocks" value="true" />
+				<param name="UIFontStyle" value="PLAIN" />
+
+				<param name="SMA2Color" value="0xFF00FF" />
+				
+				<param name="UIFontSize" value="12" />
+				<param name="DateDisplayFormat" value="yyyy-mm-dd" />
+				<param name="IntradayTimeframe" value="0" />
+				<param name="DateFormat" value="yyyy-mm-dd" />
+				<param name="SellURL" value="" />
+				<param name="BOLLineWidth" value="0,0" />
+				<param name="ChartBgColor" value="0xF2F7F9" svalue="0xEBF5FF" />
+
+				<param name="DataSourceType" value="CGI" />
+				<param name="IconType" value="COLOR" />
+				<param name="InfoLineFontStyle" value="PLAIN" />
+				<param name="UseCache" value="true" />
+				<param name="LoadUserConfigurationOnStartup" value="true" />
+				<param name="EMALineWidth" value="0" />
+				<param name="BuyURL" value="" />
+				<param name="AxisLabelColor" value="0x000000" />
+				<param name="StockListPanelWidth" value="" />
+
+				<param name="AutoRefreshAllData" value="false" />
+				<param name="VolumeColor" value="0xC00000" />
+				<param name="LegendFontStyle" value="BOLD" />
+				<param name="EMAColor" value="0xcc0000" />
+				<param name="InfoLineFontSize" value="10" />
+				<param name="BgPriceLineWidth" value="0" />
+				<param name="OpenWindowFunction" value="false" />
+				<param name="SMA3Color" value="0x3165FF" />
+				
+
+				<param name="StockListFontName" value="" />
+				<param name="VOLEMALineWidth" value="0" />
+				<param name="ChartFgColor" value="0xFFFFFF" />
+				<param name="DecimalPlaces" value="2" />
+				<param name="InfoBoxFontSize" value="11" />
+				<param name="Indicator" value="ROC" />
+				<param name="StockName" value=WIG20 />
+				<param name="PriceColor" value="0x004D81" />
+				<param name="PredefinedIndicatorsURL" value="" />
+
+				<param name="InfoLineBgColor" value="0xF2F7F9" />
+				<param name="SMA1LineWidth" value="0" />
+				<param name="ProgressBarColor" value="0xF2F7F9" svalue="0x0000E0" />
+				<param name="PriceIndicators" value="EMA" />
+				<param name="Copyright" value="Copyright (c) 1999-2003 WD Software, info: http://www.wdsoftware.com" />
+				<param name="InfoBoxFontStyle" value="PLAIN" />
+				<param name="EnableUserIndicatorDefinition" value="false" />
+				
+				<param name="ChartTitleFontName" value="" />
+
+				<param name="DisplayDataRequests" value="true" />
+				<param name="BearishCandleColor" value="0x000000" />
+				<param name="InfoLineFontName" value="" />
+				<param name="ImageButtonBgColor" value="0xf2f7f9" svalue="0xC9E3F4" />
+				<param name="BOLColor" value="0x808080" />
+				<param name="OpenInterestColor" value="0x0000A0" />
+				
+				<param name="UIBgColor" value="0xF2F7F9" svalue="0xEBF5FF" />
+				<param name="ParabolicSARLineWidth" value="1" />
+
+				<param name="UserIndicatorsSaveURL" value="" />
+				<param name="AxisLabelFontStyle" value="PLAIN" />
+				<param name="ExtraPriceColor" value="0xF80000,0x00E000,0x0000F0,0xcc66cc,0xffcc33,0x00cccc,0xc0c0c0,0x996633,0xffff00,0x99aa00" />
+				<param name="AutoRefreshTime" value="60" />
+				
+				<param name="BorderColor" value="0xB5A9BE" />
+				<param name="BullishCandleColor" value="0x000000" />
+				<param name="BgStockName" value="WIG20" />
+				<param name="MarkerColor" value="0xC0C0C0" />
+
+				<param name="ChartTitleBgColor" value="0xFBF3E2" />
+				<param name="ChartTitleFontStyle" value="PLAIN" />
+				<param name="GridColor" value="0xD8D8D8" />
+				<param name="Timeframe" value="0" />
+				<param name="HideStockList" value="false" />
+				<param name="StockListFontSize" value="11" />
+				<param name="LegendFontSize" value="11" />
+				<param name="target" value="" />
+				<param name="PriceLineWidth" value="1" />
+
+				<param name="IndicatorSpecificLineColor" value="0x000000" />
+				<param name="InfoLineFrameColor" value="" />
+				<param name="OpenInterestLineWidth" value="1" />
+				<param name="BuySignalColor" value="0x00C800" />
+				<param name="DataPacked" value="false" />
+				<param name="SellSignalColor" value="0xE80000" />
+				<param name="Indicator2" value="MACD" />
+				<param name="ImageButtonFrameColor" value="0x000000" />
+				<param name="ParabolicSARColor" value="0x78A8FF" />
+
+				<param name="UserConfigurationCookie" value="pbpl_ispagpro_cookie" />
+				<param name="LegendFontName" value="SansSerif" />
+				<param name="DataPeriod" value="day" />
+				<param name="ChartTitleColor" value="0x000000" />
+				<param name="ChartType" value="line" />
+				<param name="UserIndicatorsLoadURL" value="" />
+				<param name="VisibleDataPeriods" value="day,week,month,intraday,intraday_1,intraday_2,intraday_3,intraday_4,intraday_5,intraday_10,intraday_15,intraday_20,intraday_30,intraday_60" />
+				<param name="VOLEMAColor" value="0x00DD00" />
+				<param name="AutoRefreshBeep" value="false" />
+
+				<param name="AutoHideVolumePanel" value="false" />
+				
+				<param name="SMA3LineWidth" value="0" />
+				<param name="TrendLineColor" value="0xFF0000" />
+				<param name="IndicatorLineWidth" value="1,0,0" />
+				<param name="UITextColor" value="0x000000" />
+				<param name="AxisColor" value="0x3169C6" />
+				<param name="InfoLineColor" value="0xE00000" />
+				<param name="SMA1Color" value="0xF00000" />
+
+				<param name="Scale" value="LogUncorrelated" />
+				<param name="IndicatorColor" value="0x0000D0,0xF4B000,0x00A000" />
+				<param name="AxisLabelFontName" value="" />
+				<param name="UnusedCacheRecycleTime" value="10" />
+				<param name="SMA2LineWidth" value="0" />
+				<param name="InfoBoxFontName" value="" />
+				<param name="BgPriceColor" value="0xAAAAAA" />
+				<param name="AxisLabelFontSize" value="10" />
+				<param name="AxisLabelFrameColor" value="" />
+
+				<param name="ChartTitleFrameColor" value="0x3169C6" />
+				<param name="UIFontName" value="" />
+				<param name="AxisLabelBgColor" value="" />
+				<param name="ChartTitleFontSize" value="10" />
+				<param name="StockListFontStyle" value="" />
+				<param name="ExtraPriceLineWidth" value="0,0,0,0,0,0,0,0,0,0" />
+				
+
+												W celu wyświetlenia wykresów, obsługa Javy w przeglądarce musi być włączona. <br>Plug-in do obsługi Javy można pobrać ze strony:<br><a href='http://www.java.com'>http://www.java.com</a>
+
+				</applet>
+				</div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

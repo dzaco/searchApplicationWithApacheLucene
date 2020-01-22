@@ -1,0 +1,1241 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | Indeksy światowe</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class=""><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class="selected"><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+
+<div id="bigbox">
+<div class="left">
+<ul>
+
+
+
+
+
+<li id="_bigbox_PBFBUDAPESTSEINDX" class="down c">
+<a href="/instrument/PBFBUDAPESTSEINDX/budapest-se-indx" class="down" onmouseover="bfl('PBFBUDAPESTSEINDX', '/chart_hourly/MediumChart/PBFBUDAPESTSEINDX/270/200', 'bigbox');" id="bigbox_PBFBUDAPESTSEINDX">
+			<span class="c1"><b>BUDAPEST SE INDX </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">17999.08</span>
+	
+			<span class="number c3">-1.37%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBFCAC40INDEX" class="down c">
+<a href="/instrument/PBFCAC40INDEX/cac-40-index" class="down" onmouseover="bfl('PBFCAC40INDEX', '/chart_hourly/MediumChart/PBFCAC40INDEX/270/200', 'bigbox');" id="bigbox_PBFCAC40INDEX">
+			<span class="c1"><b>CAC 40 INDEX </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">3770.29</span>
+	
+			<span class="number c3">-0.12%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBFDJEuroSTOXX" class="down c">
+<a href="/instrument/PBFDJEuroSTOXX/dj-euro-stoxx" class="down" onmouseover="bfl('PBFDJEuroSTOXX', '/chart_hourly/MediumChart/PBFDJEuroSTOXX/270/200', 'bigbox');" id="bigbox_PBFDJEuroSTOXX">
+			<span class="c1"><b>DJ Euro  STOXX </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">270.73</span>
+	
+			<span class="number c3">-0.15%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBFDJINDUSTRIAL" class="up c">
+<a href="/instrument/PBFDJINDUSTRIAL/dj-industrial" class="up" onmouseover="bfl('PBFDJINDUSTRIAL', '/chart_hourly/MediumChart/PBFDJINDUSTRIAL/270/200', 'bigbox');" id="bigbox_PBFDJINDUSTRIAL">
+			<span class="c1"><b>DJ INDUSTRIAL </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">14512.03</span>
+	
+			<span class="number c3">+0.63%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBFNASCOMPSITE" class="up c">
+<a href="/instrument/PBFNASCOMPSITE/nas-compsite" class="up" onmouseover="bfl('PBFNASCOMPSITE', '/chart_hourly/MediumChart/PBFNASCOMPSITE/270/200', 'bigbox');" id="bigbox_PBFNASCOMPSITE">
+			<span class="c1"><b>NAS  COMPSITE </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">3245.00</span>
+	
+			<span class="number c3">+0.70%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBFNIKKEI225INDEX" class="down c">
+<a href="/instrument/PBFNIKKEI225INDEX/nikkei-225-index" class="down" onmouseover="bfl('PBFNIKKEI225INDEX', '/chart_hourly/MediumChart/PBFNIKKEI225INDEX/270/200', 'bigbox');" id="bigbox_PBFNIKKEI225INDEX">
+			<span class="c1"><b>NIKKEI 225 INDEX </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">12338.53</span>
+	
+			<span class="number c3">-2.35%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBFPX-PRAGUESEIND" class="down c">
+<a href="/instrument/PBFPX-PRAGUESEIND/px-prague-se-ind" class="down" onmouseover="bfl('PBFPX-PRAGUESEIND', '/chart_hourly/MediumChart/PBFPX-PRAGUESEIND/270/200', 'bigbox');" id="bigbox_PBFPX-PRAGUESEIND">
+			<span class="c1"><b>PX-PRAGUE SE IND </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">980.61</span>
+	
+			<span class="number c3">-0.25%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBFRTSINDEX" class="down c">
+<a href="/instrument/PBFRTSINDEX/rts-index" class="down" onmouseover="bfl('PBFRTSINDEX', '/chart_hourly/MediumChart/PBFRTSINDEX/270/200', 'bigbox');" id="bigbox_PBFRTSINDEX">
+			<span class="c1"><b>RTS INDEX </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">1470.25</span>
+	
+			<span class="number c3">-0.86%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBFSP500" class="down c">
+<a href="/instrument/PBFSP500/s-p-500" class="down" onmouseover="bfl('PBFSP500', '/chart_hourly/MediumChart/PBFSP500/270/200', 'bigbox');" id="bigbox_PBFSP500">
+			<span class="c1"><b>S&amp;P 500 </b><span class="bigbox_dt">2012-04-10</span></span>
+	
+			<span class="number c2">1376.96</span>
+	
+			<span class="number c3">-2.96%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PBFXETRADAXPF" class="down c">
+<a href="/instrument/PBFXETRADAXPF/xetra-dax-pf" class="down" onmouseover="bfl('PBFXETRADAXPF', '/chart_hourly/MediumChart/PBFXETRADAXPF/270/200', 'bigbox');" id="bigbox_PBFXETRADAXPF">
+			<span class="c1"><b>XETRA DAX PF </b><span class="bigbox_dt">2013-03-22</span></span>
+	
+			<span class="number c2">7911.35</span>
+	
+			<span class="number c3">-0.27%</span>
+	
+</a></li>
+
+</ul>
+<br />
+<p class="bigbox_description"></p>
+</div>
+
+<div class="right">
+<a id="bigbox_chart_link" href="/instrument/PBFBUDAPESTSEINDX/budapest-se-indx"><img src="/chart_hourly/MediumChart/PBFBUDAPESTSEINDX/270/200" id="bigbox_chart" alt="wykres" /></a>
+</div>
+</div><!-- / #bigbox -->
+<script type="text/javascript">
+pbtools.apreload("/chart_hourly/MediumChart/PBFBUDAPESTSEINDX/270/200,/chart_hourly/MediumChart/PBFCAC40INDEX/270/200,/chart_hourly/MediumChart/PBFDJEuroSTOXX/270/200,/chart_hourly/MediumChart/PBFDJINDUSTRIAL/270/200,/chart_hourly/MediumChart/PBFNASCOMPSITE/270/200,/chart_hourly/MediumChart/PBFNIKKEI225INDEX/270/200,/chart_hourly/MediumChart/PBFPX-PRAGUESEIND/270/200,/chart_hourly/MediumChart/PBFRTSINDEX/270/200,/chart_hourly/MediumChart/PBFSP500/270/200,/chart_hourly/MediumChart/PBFXETRADAXPF/270/200".split(','));
+</script>
+
+<div class="spacer">&nbsp;</div>
+
+<div>
+<div id="ado-m3Fbzceg_EOprp5e8wtwnGs.3IPDfL.VXSUvIjUBTwL.c7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.Pod boksem zagranica */
+ado.placement({id: 'ado-m3Fbzceg_EOprp5e8wtwnGs.3IPDfL.VXSUvIjUBTwL.c7', server: 'myao.adocean.pl' });
+</script>
+</div>
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+
+<!-- news1 -->
+<div id="news1">
+<div class="content">
+<h2>Wiadomości</h2>
+
+
+<div id="ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.1 kolumna news GPW */
+ado.placement({id: 'ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7', server: 'myao.adocean.pl' });
+</script>
+    <p class="first"><a href="http://www.pb.pl/3054223,52089" target="_blank"><span class="dt">13:38</span> Schauble: Niemcy nie ugną się przed Cyprem</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054199,85294" target="_blank"><span class="dt">13:29</span> Policja przeszukała dom Bieriezowskiego </a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3051286,61234" target="_blank"><span class="dt">12:31</span> Zbawicielem Cypru powinna być Turcja, nie Rosja</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054206,2197" target="_blank"><span class="dt">10:45</span> Manifest kardynała Bergoglio przeciwko korupcji </a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054198,31244" target="_blank"><span class="dt">08:01</span> Cypr: Rozmowy o pakiecie ratunkowym w "delikatnej fazie"</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054168,59328" target="_blank"><span class="dt">2013-03-23</span> Nowojorska policja na cenzurowanym</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054167,42454" target="_blank"><span class="dt">2013-03-23</span> Kanadyjski minister finansów wpłynął na cenę kredytu </a></p>
+    
+</div><!--  /.content -->
+<div id="ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.1 kolumna news przeglad dol */
+ado.placement({id: 'ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7', server: 'myao.adocean.pl' });
+</script>
+<a href="http://www.pb.pl/" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie wiadomości</a>
+
+</div><!-- /news1 -->
+
+
+<!--  news2 -->
+<div id="news2">
+<div class="content">
+<h2>Puls Biznesu</h2>
+<div id="ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.2 kolumna news */
+ado.placement({id: 'ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67', server: 'myao.adocean.pl' });
+</script>
+	
+	    <div class="box">
+	    	<h3><a href="http://www.pb.pl/3050336,28478" target="_blank">Gazela Biznesu nie trafi za kratki</a></h3>
+	    	<p><a href="http://www.pb.pl/3050336,28478" target="_blank">Przedsiębiorca, któremu prokuratura zarzuca wyłudzenie 11 mln zł VAT, zostanie na wolności. Na jego aresztowanie nie zgodził się już drugi...&nbsp;<img src="/style/pointer_red.gif" alt="..." /></a></p>
+	    </div>
+	    <div class="box">
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049885," target="_blank">W sprawie JTT każdy sąd wie swoje</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049881," target="_blank">BGK – ostatni bastion kominiarzy</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049878," target="_blank">Roman Karkosik chwyta za kielnię</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3047733," target="_blank">Neverending story w Straży Granicznej</a></p>
+	
+	</div>
+</div><!-- /.content -->
+<a href="http://prenumerata.pb.pl/Today" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />czytaj e-wydanie</a>
+</div><!-- /news2 -->
+
+
+<!--  news3 -->
+<div id="news3">
+<div class="content">
+<h2>Forum</h2>
+<h3><a href="http://www.pb.pl/3052115," >900 mln zł mniej z papierosów</a></h3>
+<p style="font-weight: bold; color: #816F43; margin: 6px 0 6px 5px;">komentarze:</p> 
+<div class="box">
+<p class="comment pointer">I teraz pewnie już nikogo nie dziwi ta nagonka na e-papierosy. Wyszło szydło z worka. Tak jak podejrzewałam, wszystko to przez zmniejszające...</p>
+<p class="author">kolia</p>
+<p class="comment pointer">Te niższe wpływy do budżetu to nie dlatego, że ludzie mniej palą. Niższe wpływy są dlatego, że "zestaw podatków" w paczce papierosów...</p>
+<p class="author">eldealeros</p>
+<p class="comment pointer">a obywatele wkur... takim obrotem sprawy moze w koncu zmadrzeja i pogonia to towarzystwo tak chojnie obdarowujace sie nagrodami i premiami ... no i...</p>
+<p class="author">buntownik</p>
+</div>
+</div><!--  /.content -->
+<a href="http://www.pb.pl/3052115,&amp;readcomment=1#comment" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news3 -->
+
+
+<!--  news4 -->
+<div id="news4">
+<div class="content">
+<h2>Komentarze</h2>
+
+    <div class="box">
+    		<h3>Tadeusz Stasiuk</h3>
+    	<img src="/img/people/stasiuk.jpg" class="head" alt="Tadeusz Stasiuk" />
+		<p class="head"><a href="http://www.pb.pl/3053984," target="_blank">Piątek przyniósł ponowną poprawę nastrojów na amerykańskich giełdach. Po czwartkowej...</a></p>
+    </div>
+    <div class="box">
+
+    <p class="pointer"><a href="http://www.pb.pl/3053926," target="_blank">Inwestorom z GPW puszczają nerwy</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3052897," target="_blank">Rozwiązanie dla Cypru bliżej, niż dalej?</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3052878," target="_blank">Cypr wciąż straszy rynki</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3052577," target="_blank">"B" jak bankructwo</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3052536," target="_blank">Ostatnia szansa dla Cypru</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3052535," target="_blank">Złoty słaby względem dolara i euro</a></p>
+
+</div>
+</div><!-- /.content -->
+<a href="http://www.pb.pl/forum" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news4 -->
+
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+
+<div class="funds">
+
+<h1>Zagranica</h1>
+<p>Notowania zagraniczne dostarcza <a href="http://www.notoria.pl" target="_blank">Notoria</a></p>
+<table class="sortable">
+<thead>
+	<tr>
+	<td colspan="2">indeks</td>
+	<td colspan="4">zmiana</td>
+	</tr>
+	<tr>
+		<th>nazwa</th>
+		<th>wartość (pkt.)</th>
+		<th>dzień</th>
+		<th>tydzień</th>
+		<th>miesiąc</th>
+		<th>rok</th>
+		
+	</tr>
+</thead>
+<tbody>
+		
+	<tr>
+		<td class="down"><a href="/instrument/PBFAEX/aex">AEX</a></td>
+		<td class="number">293.30</td>
+		<td class="number down">-0.67%</td>
+		<td class="number down">-3.01%</td>
+		<td class="number down">-3.01%</td>
+		<td class="number down">-16.07%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBF.AEX/aex">.AEX</a></td>
+		<td class="number">315.45</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFAEX-/aex">AEX-</a></td>
+		<td class="number">295.62</td>
+		<td class="number down">-0.11%</td>
+		<td class="number down">+1.97%</td>
+		<td class="number down">+6.15%</td>
+		<td class="number down">-14.58%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFALLORDINARIES/all-ordinaries">ALL ORDINARIES</a></td>
+		<td class="number">4980.78</td>
+		<td class="number down">-0.04%</td>
+		<td class="number down">-1.25%</td>
+		<td class="number down">-2.36%</td>
+		<td class="number down">+14.64%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFALLSHAREIDX/all-share-idx">ALL SHARE IDX</a></td>
+		<td class="number">1115.23</td>
+		<td class="number down">-0.21%</td>
+		<td class="number down">-0.74%</td>
+		<td class="number down">+2.05%</td>
+		<td class="number down">-2.56%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFALLSHAREIDXSriLanka/all-share-idx-sri-lanka">ALL SHARE IDX  Sri Lanka</a></td>
+		<td class="number">1137.06</td>
+		<td class="number down">-0.25%</td>
+		<td class="number down">-82.64%</td>
+		<td class="number down">-82.64%</td>
+		<td class="number down">-84.67%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFAMEXCOMPOSITE/amex-composite">AMEX COMPOSITE</a></td>
+		<td class="number">2404.93</td>
+		<td class="number up">+0.30%</td>
+		<td class="number up">+0.03%</td>
+		<td class="number up">+0.65%</td>
+		<td class="number up">+0.69%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFAmsterdamExchangeIndex/amsterdam-exchange-index">Amsterdam Exchange Index</a></td>
+		<td class="number">350.74</td>
+		<td class="number down">-0.47%</td>
+		<td class="number down">-0.80%</td>
+		<td class="number down">+2.08%</td>
+		<td class="number down">+6.39%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFAthensGeneral/athens-general">Athens General</a></td>
+		<td class="number">930.53</td>
+		<td class="number up">+0.61%</td>
+		<td class="number up">-3.11%</td>
+		<td class="number up">-10.48%</td>
+		<td class="number up">+21.45%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFBEL20/bel20">BEL20</a></td>
+		<td class="number">2619.55</td>
+		<td class="number up">+0.16%</td>
+		<td class="number up">-0.96%</td>
+		<td class="number up">+2.25%</td>
+		<td class="number up">+11.69%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBF.BFX/bfx">.BFX</a></td>
+		<td class="number">2220.50</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFBovespa/bovespa">Bovespa</a></td>
+		<td class="number">59240.74</td>
+		<td class="number down">-5.42%</td>
+		<td class="number down">-5.42%</td>
+		<td class="number down">-5.42%</td>
+		<td class="number down">-5.42%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFBUCHARESTBETI/bucharest-beti">BUCHAREST BETI</a></td>
+		<td class="number">5655.83</td>
+		<td class="number down">-0.55%</td>
+		<td class="number down">-1.69%</td>
+		<td class="number down">+1.73%</td>
+		<td class="number down">+8.45%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFBUCHARESTCOMP/bucharest-comp">BUCHAREST COMP</a></td>
+		<td class="number">3039.77</td>
+		<td class="number down">-1.48%</td>
+		<td class="number down">-1.69%</td>
+		<td class="number down">+0.21%</td>
+		<td class="number down">+1.20%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFBUDAPESTSEINDX/budapest-se-indx">BUDAPEST SE INDX</a></td>
+		<td class="number">17999.08</td>
+		<td class="number down">-1.37%</td>
+		<td class="number down">-1.94%</td>
+		<td class="number down">-5.74%</td>
+		<td class="number down">-4.97%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFBUSEMervalIndx/buse-merval-indx">BUSE Merval Indx</a></td>
+		<td class="number">3430.17</td>
+		<td class="number down">-1.71%</td>
+		<td class="number down">-1.68%</td>
+		<td class="number down">+4.94%</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFBUX/bux">BUX</a></td>
+		<td class="number">16173.34</td>
+		<td class="number down">-1.94%</td>
+		<td class="number down">-5.03%</td>
+		<td class="number down">-5.03%</td>
+		<td class="number down">-30.81%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFBVSPBOVESPAIND/bvsp-bovespa-ind">BVSP BOVESPA IND</a></td>
+		<td class="number">55243.40</td>
+		<td class="number down">-1.40%</td>
+		<td class="number down">-3.55%</td>
+		<td class="number down">-3.61%</td>
+		<td class="number down">-17.37%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFCAC/cac">CAC</a></td>
+		<td class="number">3051.50</td>
+		<td class="number down">-5.17%</td>
+		<td class="number down">-5.17%</td>
+		<td class="number down">-5.17%</td>
+		<td class="number down">-23.84%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFCAC40/cac40">CAC40</a></td>
+		<td class="number">3368.62</td>
+		<td class="number up">+6.28%</td>
+		<td class="number up">+9.23%</td>
+		<td class="number up">&ndash;</td>
+		<td class="number up">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFCAC40INDEX/cac-40-index">CAC 40 INDEX</a></td>
+		<td class="number">3770.29</td>
+		<td class="number down">-0.12%</td>
+		<td class="number down">+0.06%</td>
+		<td class="number down">+1.63%</td>
+		<td class="number down">+8.58%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFDAX/dax">DAX</a></td>
+		<td class="number">6348.49</td>
+		<td class="number down">-0.76%</td>
+		<td class="number down">+0.17%</td>
+		<td class="number down">+0.17%</td>
+		<td class="number down">-12.96%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFDJCOMPAVERAGE/dj-comp-average">DJ COMP AVERAGE</a></td>
+		<td class="number">4986.48</td>
+		<td class="number up">+0.67%</td>
+		<td class="number up">-0.40%</td>
+		<td class="number up">+3.32%</td>
+		<td class="number up">+13.08%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBFDJCOMPINTERNET/dj-comp-internet">DJ COMP INTERNET</a></td>
+		<td class="number">145.77</td>
+		<td class="number ">+0.00%</td>
+		<td class="number ">+8.61%</td>
+		<td class="number ">+2.52%</td>
+		<td class="number ">+7.37%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFDJEuroSTOXX/dj-euro-stoxx">DJ Euro  STOXX</a></td>
+		<td class="number">270.73</td>
+		<td class="number down">-0.15%</td>
+		<td class="number down">-1.53%</td>
+		<td class="number down">+1.44%</td>
+		<td class="number down">+6.85%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFDJINDUAVERAGE/dj-indu-average">DJ INDU AVERAGE</a></td>
+		<td class="number">11644.49</td>
+		<td class="number up">+1.45%</td>
+		<td class="number up">+4.88%</td>
+		<td class="number up">+3.54%</td>
+		<td class="number up">+11.64%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFDJINDUSTRIAL/dj-industrial">DJ INDUSTRIAL</a></td>
+		<td class="number">14512.03</td>
+		<td class="number up">+0.63%</td>
+		<td class="number up">-0.01%</td>
+		<td class="number up">+4.20%</td>
+		<td class="number up">+11.24%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFDJSTOXX50/dj-stoxx-50">DJ STOXX 50</a></td>
+		<td class="number">2701.30</td>
+		<td class="number down">-0.76%</td>
+		<td class="number down">-1.38%</td>
+		<td class="number down">+2.08%</td>
+		<td class="number down">+6.91%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFDowJones/dow-jones">Dow Jones</a></td>
+		<td class="number">12177.56</td>
+		<td class="number up">+2.60%</td>
+		<td class="number up">+5.51%</td>
+		<td class="number up">&ndash;</td>
+		<td class="number up">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFDowJonesIA/djia">DJIA</a></td>
+		<td class="number">12580.69</td>
+		<td class="number up">+8.04%</td>
+		<td class="number up">+8.04%</td>
+		<td class="number up">+8.04%</td>
+		<td class="number up">+1.12%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBFEuroNext100/euronext100">EuroNext100</a></td>
+		<td class="number">621.35</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFEURONEXT100IDX/euronext-100-idx">EURONEXT 100 IDX</a></td>
+		<td class="number">717.18</td>
+		<td class="number down">-0.78%</td>
+		<td class="number down">-1.61%</td>
+		<td class="number down">+1.85%</td>
+		<td class="number down">+9.48%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFFTSE100EODIDX/ftse-100-eod-idx">FTSE 100 EOD IDX</a></td>
+		<td class="number">6392.76</td>
+		<td class="number up">+0.07%</td>
+		<td class="number up">-1.49%</td>
+		<td class="number up">-0.04%</td>
+		<td class="number up">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFFTSE100INDEX/ftse-100-index">FTSE 100 INDEX</a></td>
+		<td class="number">5710.46</td>
+		<td class="number up">+0.97%</td>
+		<td class="number up">-0.26%</td>
+		<td class="number up">-4.12%</td>
+		<td class="number up">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBF.FTSTI/ftsti">.FTSTI</a></td>
+		<td class="number">2847.57</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFHANGSENGINDEX/hang-seng-index">HANG SENG INDEX</a></td>
+		<td class="number">22115.30</td>
+		<td class="number down">-0.50%</td>
+		<td class="number down">-1.85%</td>
+		<td class="number down">-5.11%</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFIBCINDEX/ibc-index">IBC INDEX</a></td>
+		<td class="number">2242.00</td>
+		<td class="number down">-96.81%</td>
+		<td class="number down">-96.87%</td>
+		<td class="number down">-96.59%</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBFIDX/idx">IDX</a></td>
+		<td class="number">3813.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFIDXINDEX/idx-index">IDX INDEX</a></td>
+		<td class="number">4723.16</td>
+		<td class="number down">-1.66%</td>
+		<td class="number down">-2.00%</td>
+		<td class="number down">+1.91%</td>
+		<td class="number down">+17.12%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFIPCMexico/ipc-mexico">IPC  Mexico</a></td>
+		<td class="number">38126.85</td>
+		<td class="number up">+9.41%</td>
+		<td class="number up">+9.41%</td>
+		<td class="number up">+9.41%</td>
+		<td class="number up">+6.98%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFIPSAChile/ipsa-chile">IPSA  Chile</a></td>
+		<td class="number">4221.18</td>
+		<td class="number up">+0.47%</td>
+		<td class="number up">+0.43%</td>
+		<td class="number up">-6.55%</td>
+		<td class="number up">-12.07%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFIRISHSEINDEX/irish-se-index">IRISH SE INDEX</a></td>
+		<td class="number">2957.62</td>
+		<td class="number up">+0.53%</td>
+		<td class="number up">+1.76%</td>
+		<td class="number up">+1.28%</td>
+		<td class="number up">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFJKSE/jkse">JKSE</a></td>
+		<td class="number">3917.92</td>
+		<td class="number down">-0.03%</td>
+		<td class="number down">&ndash;</td>
+		<td class="number down">&ndash;</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFKARACHI100/karachi-100">KARACHI 100</a></td>
+		<td class="number">13871.75</td>
+		<td class="number down">-1.25%</td>
+		<td class="number down">-1.92%</td>
+		<td class="number down">-1.27%</td>
+		<td class="number down">+13.99%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFKARACHI100INDX/karachi-100-indx">KARACHI 100 INDX</a></td>
+		<td class="number">17963.11</td>
+		<td class="number up">+1.04%</td>
+		<td class="number up">+1.31%</td>
+		<td class="number up">+0.72%</td>
+		<td class="number up">+35.78%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFKLCOMPOSITEIDX/kl-composite-idx">KL COMPOSITE IDX</a></td>
+		<td class="number">1626.89</td>
+		<td class="number down">-0.24%</td>
+		<td class="number down">-0.05%</td>
+		<td class="number down">+0.84%</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBFKOSDAQ/kosdaq">KOSDAQ</a></td>
+		<td class="number">497.04</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFKOSDAQINDEX/kosdaq-index">KOSDAQ INDEX</a></td>
+		<td class="number">551.25</td>
+		<td class="number up">+1.23%</td>
+		<td class="number up">-0.64%</td>
+		<td class="number up">+4.86%</td>
+		<td class="number up">+3.00%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFKOSPI/kospi">KOSPI</a></td>
+		<td class="number">1948.71</td>
+		<td class="number down">-1.05%</td>
+		<td class="number down">-3.04%</td>
+		<td class="number down">-2.42%</td>
+		<td class="number down">-3.85%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFKOSPI200/kospi-200">KOSPI 200</a></td>
+		<td class="number">244.68</td>
+		<td class="number down">-0.24%</td>
+		<td class="number down">-2.60%</td>
+		<td class="number down">-2.60%</td>
+		<td class="number down">-13.47%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFKOSPI200INDEX/kospi-200-index">KOSPI 200 INDEX</a></td>
+		<td class="number">255.33</td>
+		<td class="number down">-0.19%</td>
+		<td class="number down">-2.11%</td>
+		<td class="number down">-4.75%</td>
+		<td class="number down">-4.59%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFMerVal/merval">MerVal</a></td>
+		<td class="number">2314.24</td>
+		<td class="number down">-14.83%</td>
+		<td class="number down">-14.83%</td>
+		<td class="number down">-14.83%</td>
+		<td class="number down">-28.68%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFMXSEIPCGRALIN/mxse-ipc-gral-in">MXSE IPC GRAL IN</a></td>
+		<td class="number">42686.68</td>
+		<td class="number up">+0.37%</td>
+		<td class="number up">+0.19%</td>
+		<td class="number up">-3.64%</td>
+		<td class="number up">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFNASCOMPSITE/nas-compsite">NAS  COMPSITE</a></td>
+		<td class="number">3245.00</td>
+		<td class="number up">+0.70%</td>
+		<td class="number up">-0.13%</td>
+		<td class="number up">+2.55%</td>
+		<td class="number up">+5.93%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBFNASDAQ/nasdaq">NASDAQ</a></td>
+		<td class="number">2725.91</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFNASDAQ100/nasdaq-100">NASDAQ 100</a></td>
+		<td class="number">1717.79</td>
+		<td class="number down">-100.00%</td>
+		<td class="number down">&ndash;</td>
+		<td class="number down">&ndash;</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFNBADINDEX(OTC)/nbad-index-otc">NBAD INDEX (OTC)</a></td>
+		<td class="number">6585.29</td>
+		<td class="number down">-0.75%</td>
+		<td class="number down">+17.58%</td>
+		<td class="number down">+17.58%</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFNikkei225/nikkei225">Nikkei225</a></td>
+		<td class="number">8633.19</td>
+		<td class="number down">-0.28%</td>
+		<td class="number down">-3.29%</td>
+		<td class="number down">-3.29%</td>
+		<td class="number down">-10.94%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFNIKKEI225INDEX/nikkei-225-index">NIKKEI 225 INDEX</a></td>
+		<td class="number">12338.53</td>
+		<td class="number down">-2.35%</td>
+		<td class="number down">-1.77%</td>
+		<td class="number down">+7.59%</td>
+		<td class="number down">+21.86%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFNYSECOMPOSITE/nyse-composite">NYSE COMPOSITE</a></td>
+		<td class="number">0.00</td>
+		<td class="number down">-100.00%</td>
+		<td class="number down">&ndash;</td>
+		<td class="number down">&ndash;</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBF.NZC50/nzc50">.NZC50</a></td>
+		<td class="number">1967.62</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBFNZX50PORTGR/nzx-50-port-gr">NZX 50 PORT GR</a></td>
+		<td class="number">2620.65</td>
+		<td class="number ">+0.00%</td>
+		<td class="number ">-0.60%</td>
+		<td class="number ">+3.73%</td>
+		<td class="number ">+27.67%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFOMXTGENERAL/omxt-general">OMXT GENERAL</a></td>
+		<td class="number">826.41</td>
+		<td class="number up">+0.74%</td>
+		<td class="number up">+0.89%</td>
+		<td class="number up">+8.57%</td>
+		<td class="number up">+38.25%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFOMXVGENERAL/omxv-general">OMXV GENERAL</a></td>
+		<td class="number">387.84</td>
+		<td class="number down">-0.01%</td>
+		<td class="number down">-0.15%</td>
+		<td class="number down">+3.67%</td>
+		<td class="number down">+22.09%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFOSEALLSHARE/ose-all-share">OSE ALL SHARE</a></td>
+		<td class="number">444.20</td>
+		<td class="number down">-0.66%</td>
+		<td class="number down">+5.74%</td>
+		<td class="number down">+5.74%</td>
+		<td class="number down">-10.13%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBF.OSEAX/oseax">.OSEAX</a></td>
+		<td class="number">521.85</td>
+		<td class="number up">+0.19%</td>
+		<td class="number up">-0.86%</td>
+		<td class="number up">-0.41%</td>
+		<td class="number up">+8.87%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFPSEi/psei">PSEi</a></td>
+		<td class="number">6518.71</td>
+		<td class="number up">+0.96%</td>
+		<td class="number up">-2.96%</td>
+		<td class="number up">-1.89%</td>
+		<td class="number up">+29.30%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFPX/px">PX</a></td>
+		<td class="number">872.80</td>
+		<td class="number down">-0.60%</td>
+		<td class="number down">-9.80%</td>
+		<td class="number down">-9.80%</td>
+		<td class="number down">-30.09%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFPX-PRAGUESEIND/px-prague-se-ind">PX-PRAGUE SE IND</a></td>
+		<td class="number">980.61</td>
+		<td class="number down">-0.25%</td>
+		<td class="number down">-1.44%</td>
+		<td class="number down">-2.30%</td>
+		<td class="number down">-0.97%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFRTS/rts">RTS</a></td>
+		<td class="number">1279.51</td>
+		<td class="number down">-20.30%</td>
+		<td class="number down">-20.30%</td>
+		<td class="number down">-20.30%</td>
+		<td class="number down">-32.21%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFRTSINDEX/rts-index">RTS INDEX</a></td>
+		<td class="number">1470.25</td>
+		<td class="number down">-0.86%</td>
+		<td class="number down">-4.37%</td>
+		<td class="number down">-6.66%</td>
+		<td class="number down">-11.28%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFSAX/sax">SAX</a></td>
+		<td class="number">316.95</td>
+		<td class="number down">-2.52%</td>
+		<td class="number down">-5.05%</td>
+		<td class="number down">-11.47%</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFSP100INDEX/s-p-100-index">S&P 100 INDEX</a></td>
+		<td class="number">582.36</td>
+		<td class="number up">+0.31%</td>
+		<td class="number up">+1.61%</td>
+		<td class="number up">+2.64%</td>
+		<td class="number up">+11.01%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFSP500/s-p-500">S&P 500</a></td>
+		<td class="number">1376.96</td>
+		<td class="number down">-2.96%</td>
+		<td class="number down">-0.89%</td>
+		<td class="number down">+0.35%</td>
+		<td class="number down">+5.57%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFSPFINANCIAL/s-p-financial">S&P FINANCIAL</a></td>
+		<td class="number">230.09</td>
+		<td class="number up">+1.09%</td>
+		<td class="number up">+4.59%</td>
+		<td class="number up">+9.47%</td>
+		<td class="number up">+26.69%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFSPINDUSTRIALS/s-p-industrials">S&P INDUSTRIALS</a></td>
+		<td class="number">338.78</td>
+		<td class="number up">+0.71%</td>
+		<td class="number up">+4.98%</td>
+		<td class="number up">+5.13%</td>
+		<td class="number up">+13.02%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBF.SSEC/ssec">.SSEC</a></td>
+		<td class="number">2435.61</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFSSEComposit/sse-composit">SSE Composit</a></td>
+		<td class="number">2435.66</td>
+		<td class="number up">+0.18%</td>
+		<td class="number up">+3.88%</td>
+		<td class="number up">-1.88%</td>
+		<td class="number up">-18.02%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFSSEComposite/sse-composite">SSE Composite</a></td>
+		<td class="number">2384.67</td>
+		<td class="number up">+1.00%</td>
+		<td class="number up">-15.22%</td>
+		<td class="number up">-15.22%</td>
+		<td class="number up">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFSSECOMPOSITE/sse-composite">SSE COMPOSITE</a></td>
+		<td class="number">2328.28</td>
+		<td class="number up">+0.43%</td>
+		<td class="number up">+2.60%</td>
+		<td class="number up">-2.32%</td>
+		<td class="number up">-2.05%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBF.SSMI/ssmi">.SSMI</a></td>
+		<td class="number">5823.00</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFSTRAITSTIMEIDX/straits-time-idx">STRAITS TIME IDX</a></td>
+		<td class="number">3258.57</td>
+		<td class="number down">-0.28%</td>
+		<td class="number down">-0.84%</td>
+		<td class="number down">-1.52%</td>
+		<td class="number down">+9.38%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBFTA-100/ta-100">TA-100</a></td>
+		<td class="number">1055.82</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFTA-100INDEX/ta-100-index">TA-100 INDEX</a></td>
+		<td class="number">1110.08</td>
+		<td class="number up">+0.62%</td>
+		<td class="number up">-0.21%</td>
+		<td class="number up">+1.09%</td>
+		<td class="number up">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFTA-100-Israel/ta-100-israel">TA-100 - Israel</a></td>
+		<td class="number">970.95</td>
+		<td class="number down">-0.23%</td>
+		<td class="number down">-5.17%</td>
+		<td class="number down">-5.17%</td>
+		<td class="number down">-15.73%</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFTAIWANWEIGHTED/taiwan-weighted">TAIWAN WEIGHTED</a></td>
+		<td class="number">7796.22</td>
+		<td class="number down">-0.20%</td>
+		<td class="number down">-1.66%</td>
+		<td class="number down">-2.90%</td>
+		<td class="number down">-2.56%</td>
+	</tr>
+	<tr>
+		<td class="up"><a href="/instrument/PBFTHAILANDSET/thailand-set">THAILAND SET</a></td>
+		<td class="number">969.88</td>
+		<td class="number up">+1.47%</td>
+		<td class="number up">+5.06%</td>
+		<td class="number up">-6.14%</td>
+		<td class="number up">-2.73%</td>
+	</tr>
+	<tr>
+		<td class=""><a href="/instrument/PBF.XAX/xax">.XAX</a></td>
+		<td class="number">2306.66</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	<tr>
+		<td class="down"><a href="/instrument/PBFXETRADAXPF/xetra-dax-pf">XETRA DAX PF</a></td>
+		<td class="number">7911.35</td>
+		<td class="number down">-0.27%</td>
+		<td class="number down">-1.64%</td>
+		<td class="number down">+2.36%</td>
+		<td class="number down">&ndash;</td>
+	</tr>
+</tbody>
+</table>
+</div>
+<div id="rectangle" style="clear: both; /* width: 300px; height: 250px; border: 1px solid #aaa; */ margin: 10px 0; ">
+</div>
+
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

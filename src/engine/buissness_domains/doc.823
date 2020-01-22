@@ -1,0 +1,1094 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+   <title>Rozliczenie PIT 2012/2013 - Program do PIT - Bankier.pl</title>
+   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+   <meta name="description" content="Bankier.pl - Największy i najlepszy portal finansowy. Informacje o gospodarce, inwestowaniu, finansach osobistych i prowadzeniu firmy. Kursy walut, notowania akcji, fundusze. Dane o wszystkich produktach bankowych: kredyty, konta, lokaty i karty kredytowej  oraz informacje na tematy: kredyty, kredyt, podatki, waluty, giełda, bank, fundusze, kursy walut, euro, mbank, rachunek, banki" />
+   <meta name="keywords" content="kredyty, kredyt, podatki, waluty, giełda, bank, fundusz, kursy walut, euro, mbank, rachunek, banki" />
+
+
+
+<link href="/media/finanse/stylesheets/finanse.css?20111216" rel="stylesheet" type="text/css" />
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Bankier.pl - Finanse osobiste" href="http://rss.bankier.pl/wiadomosci/finanse_osobiste.xml" />
+
+
+
+
+
+
+<!-- ADServer Header //-->
+<script type="text/javascript" src="http://gg.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "gg.adocean.pl", id: "JOcK7gzdoyrcIT2176iLzhCz8UoPOGcT6Y1ax8FNTPf.l7"});
+</script>
+
+
+<!-- bankier/fo/podatki/pozostale : MASTER //-->
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, MASTER: GaduGadu.Bankier.pl.finanse.podatki.pozostale BKID:72209015164756610 */
+ado.master({id: 'eUo29GEPgirtHBBz5fbN0xhpIfYorF60EjMmd02u7bX.97', server: 'gg.adocean.pl' });
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bankier.pl/js/cf/cf.js"></script>
+<script type="text/javascript" src="/media/finanse/javascripts/jquery.tools.min.js"></script>
+<script src="/gfx/jedenprocent/jedenprocent_finanse.js" type="text/javascript"></script>
+
+</head><body>
+<script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+<noscript>
+<div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+<div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+</div>
+</div>
+</noscript>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-V82M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-V82M');</script>
+<!-- End Google Tag Manager -->
+
+
+<div id="main">
+	
+<div id="bn_header" style="position: relative; z-index: 100;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+
+
+
+
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB2.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi | Konkurs" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Ffinanse%2Fpodatki%2Fpit%2F" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+    <area coords="392,0,455,10" href="http://www.systempartnerski.pl/nagrodomania.html" title="System Partnerski - konkurs" alt=""/>
+
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li class="selected"><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li ><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+ 	<div id="main_content"> 
+		<div id="center_content" >
+  <!-- code: /finanse/podatki/pit/sg | 750x100-1 | fo/podatki/pit/sg  | A -->
+   <div class="advertisement ad-750-100">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/podatki/pozostale : billboard_750x100 //-->
+<div id="adoceanggzbghmninav"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.podatki.pozostale.pozostale billboard 750x100 BKID:72209015164756610 */
+ado.slave('adoceanggzbghmninav', {myMaster: 'eUo29GEPgirtHBBz5fbN0xhpIfYorF60EjMmd02u7bX.97' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+    	   <!-- code: /finanse/podatki/pit/sg | 770x30-1 | fo/podatki/pit/sg  | BELKA -->
+   <div class="advertisement ad-770-30">
+   
+
+
+
+
+<div align="center" style="margin: 2px 0 6px 0">
+<!-- bankier/fo/podatki/pozostale : belka_770x50 //-->
+<div id="adoceanggmbpqiqoifa"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.podatki.pozostale.pozostale belka 770x50 BKID:72209015164795580 */
+ado.slave('adoceanggmbpqiqoifa', {myMaster: 'eUo29GEPgirtHBBz5fbN0xhpIfYorF60EjMmd02u7bX.97' });
+</script>
+</div>
+
+
+
+
+
+
+</div>
+	   	
+	   	<div id="wrapper" style="clear: both">
+	   	   <!-- code: /finanse/podatki/pit/sg | 160x600-1 | fo/podatki/pit/sg  | HSKY -->
+   <div class="advertisement ad-160-600">
+   
+
+
+
+
+
+<!-- bankier/fo/podatki/pozostale : skyscraper_120x600 //-->
+<div id="adoceanggqelkgvflzk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.podatki.pozostale.pozostale skyscraper 120x600 BKID:72209015164756620 */
+ado.slave('adoceanggqelkgvflzk', {myMaster: 'eUo29GEPgirtHBBz5fbN0xhpIfYorF60EjMmd02u7bX.97' });
+</script>
+
+
+
+
+
+
+
+</div>
+
+	   	<div id="column_left">
+	      	
+<div class="box_menu">
+	<ul>
+		<li><a href="/finanse/kredyty/">Kredyty</a>
+		<li><a href="/finanse/konta/">Konta</a>
+		<li><a href="/finanse/../lokaty/">Lokaty</a>
+		<li><a href="/finanse/karty/">Karty</a>
+		<li><a href="/finanse/ubezpieczenia/">Ubezpieczenia</a>
+		<li class="select"><a href="/finanse/podatki/">Podatki</a>
+			<ul>
+				<li class="select"><a href="/finanse/podatki/pit/">PIT</a></li>
+				<li><a href="/jedenprocent">1 procent</a></li>
+				<li><a href="/finanse/podatki/pit/wideoporadnik-pit/">Wideoporadnik&nbsp;PIT</a></li>
+			</ul>
+		<li><a href="/finanse/emerytury/">Emerytury</a>
+		<li><a href="/finanse/nieruchomosci/">Nieruchomości</a>
+		<li class="last"><a href="/finanse/domowe-finanse/">Domowe finanse</a>
+		</li>
+  </ul>
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+
+<div class="box_ink_menu">
+  <ul>
+   <li><a href="/finanse/podatki/najwazniejsze/">Wiadomości</a></li>
+   <li><a href="/finanse/podatki/poradniki/">Poradniki</a></li>
+   <li><a href="/finanse/podatki/narzedzia/">Kalkulatory i wyszukiwarki</a></li>
+
+    <li><a href="/forum/forum_podatki,10,1.html">Forum</a></li>
+
+     <li class="last"><a href="/narzedzia/slownik/">Słownik</a></li>
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    	</div> <!-- /column_left -->
+    	   
+			
+<div id="column_right">
+  
+ 	<script type="text/javascript">
+<!--
+function przelacz(divId) {
+  var div = document.getElementById(divId);
+  div.style.display = (div.style.display=="block" ? "none" : "block");
+}
+//-->
+</script>
+
+
+
+
+<div class="box_window_490">
+  <div class="icon"><img class="png" src="/media/finanse/images/ico_profesorek.png" alt="Warto wiedzieć" /></div>
+  <div class="title_darkblue">Rozlicz PIT z Bankier.pl</div>
+  <div class="content_blue">
+
+<div class="text_blue" style="padding: 20px 10px 0 5px">
+<img src="http://galeria.bankier.pl/p/1/0/daa728deecb734-78-78-506-0-1637-1637.jpg" align="left" style="margin: 5px 10px 10px 0">
+Pobierz darmowy program do rozliczenia podatku rocznego PIT 2012. Za ubiegły rok rozliczamy się tradycyjnie przy pomocy formularzy PIT-36 i PIT-37. Korzystając z programu, pamiętaj o możliwości wsparcia organizacji pożytku publicznego. Wystarczy w formularzu wskazać wybraną organizację.<br /><br />
+<div class="button_left">
+<a href="http://gg.hit.gemius.pl/hitredir/id=zCtAhDvHs920gEQ1IfYz.2YmzSZ1sycs7ni1i4hnOWD.w7/stparam=ygdpbvefuo/fastid=1297036692684013715/url=http://download.e-pity.pl/down/setup_e-pity2012_bankier.exe">Pobierz program</a>
+</div>
+<span style="float: right"><a href="http://www.pit.pl/program-roczne/index.php">O programie</a></span>
+<br />
+<br/>
+</div>
+
+<table>
+<tr>
+<td><span style="float:left">Obsługa oraz serwis programu <a href="http://www.e-pity.pl">e-pity</a> &gt;&gt;</span></td>
+<td><a href="http://www.e-file.pl" target="_blank"><img src="/gfx/artspons/efile_logo.gif" width="100px"></img></a></td>
+</tr>
+</table>
+
+
+
+    <div class="clear"></div>
+
+
+  </div>
+  <div class="footer_white"></div>
+</div>
+
+
+	<!-- code: /finanse/podatki/pit/sg | 425x50-1 | fo/podatki/pit/sg  | BELKA_SRODTEKSTOWA -->
+   <div class="advertisement ad-425-50">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/podatki/pozostale : belka_425x50 //-->
+<div id="adoceanggpaikfteuwb"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.podatki.pozostale.pozostale belka 425x50 BKID:72209015164795590 */
+ado.slave('adoceanggpaikfteuwb', {myMaster: 'eUo29GEPgirtHBBz5fbN0xhpIfYorF60EjMmd02u7bX.97' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+	<div class="box_window_490"> 
+      		
+    <div class="box_window_490">
+
+
+   
+      <div class="title_blue">Porady związane z rozliczeniem PIT</div>
+
+
+
+      <div class="content_white">
+
+
+
+
+            <h2 class="item_list"><a href="/wiadomosc/Co-zrobic-w-przypadku-bezpodstawnego-otrzymania-zwrotu-podatku-2766130.html">Co zrobić w przypadku bezpodstawnego otrzymania zwrotu podatku?</a></h2>
+
+
+
+<span style="font-size: 11px;line-height: 20px">
+<span style="color: #666666">Justyna Niedbał - Bankier.pl </span>
+<span style="color: #f08000"> | 2013-02-25 12:15</span>
+
+</span>
+
+                           <div class="image_left" style="padding-bottom: 8px; padding-top: 4px;margin-right: 8px"><img src="http://galeria.bankier.pl/p/c/2/e1ecd0815746e5-78-78-500-0-1643-1643.jpg" border="0" /></div>
+
+            <div class="simple_text" style="padding-bottom: 16px">Na początku lutego wysłałam zeznanie PIT-37 i skorzystałam z ulgi prorodzinnej na dw&oacute;jkę dzieci. W marcu starszy syn otrzymał swoje druki PIT-11 i okazało się, że przekroczył pr&oacute;g, bo jego...</div>
+
+
+
+
+
+	        <h2 class="item_list"><a href="/wiadomosc/Czy-urzad-skarbowy-moze-monitorowac-moje-wplywy-na-konto-2766118.html">Czy urząd skarbowy może monitorować moje wpływy na konto?</a></h2>
+		<span style="font-size: 11px;line-height: 20px">
+			
+            <span style="color: #666666">Justyna Niedbał - Bankier.pl </span>
+			<span style="color: #f08000"> | 2013-02-25 12:09</span>
+		</span>
+        	<div class="image_left" style="padding-bottom: 8px; padding-top: 4px;margin-right: 8px"><img src="http://galeria.bankier.pl/p/5/8/e5ae66b59fff5d-78-78-360-0-1373-1373.jpg" border="0" /></div>
+	        <div class="simple_text" style="padding-bottom: 16px">Od czasu do czasu wykonuję małe zlecenia na drobne kwoty &ndash; od kilkunastu do kilkudziesięciu złotych. Mam też wpływy na konto bankowe na takie właśnie r&oacute;żne kwoty od r&oacute;żnych os&oacute;b...</div>
+
+
+
+
+	        <h2 class="item_list"><a href="/wiadomosc/Jak-rozliczyc-ulge-na-dzieci-po-rozwodzie-2766103.html">Jak rozliczyć ulgę na dzieci po rozwodzie</a></h2>
+		<span style="font-size: 11px;line-height: 20px">
+			
+            <span style="color: #666666">Justyna Niedbał - Bankier.pl </span>
+			<span style="color: #f08000"> | 2013-02-25 12:06</span>
+		</span>
+        	<div class="image_left" style="padding-bottom: 8px; padding-top: 4px;margin-right: 8px"><img src="http://galeria.bankier.pl/p/f/6/580d690b266c79-78-78-46-1109-1698-1698.png" border="0" /></div>
+	        <div class="simple_text" style="padding-bottom: 16px">Z mężem rozwiodłam się rok temu. Mamy dwoje dzieci w wieku 10 i 12  lat. Oboje sprawujemy nad nimi opiekę, ale dzieci mieszkają ze mną. Jak w  takim wypadku rozliczyć ulgę na dziecko?</div>
+
+
+
+
+	        <h2 class="item_list"><a href="/wiadomosc/Jak-rozliczyc-sie-z-pracy-w-Polsce-i-w-Wielkiej-Brytanii-2766088.html">Jak rozliczyć się z pracy w Polsce i w Wielkiej Brytanii?</a></h2>
+		<span style="font-size: 11px;line-height: 20px">
+			
+            <span style="color: #666666">Justyna Niedbał - Bankier.pl </span>
+			<span style="color: #f08000"> | 2013-02-25 12:02</span>
+		</span>
+        	<div class="image_left" style="padding-bottom: 8px; padding-top: 4px;margin-right: 8px"><img src="http://galeria.bankier.pl/p/0/4/583a70cff77b06-78-78-18-3-479-479.jpg" border="0" /></div>
+	        <div class="simple_text" style="padding-bottom: 16px">Od października 2012 roku legalnie pracuję na etacie w Anglii. Do Polski wracam co jakiś czas na parę dni. Jak powinienem rozliczyć się z urzędem skarbowym? Od stycznia do maja 2012 pracowałem na etacie...</div>
+
+
+
+
+	        <h2 class="item_list"><a href="/wiadomosc/Jak-sprawdzic-organizacje-pozytku-publicznego-2766077.html">Jak sprawdzić organizację pożytku publicznego?</a></h2>
+		<span style="font-size: 11px;line-height: 20px">
+			
+            <span style="color: #666666">Justyna Niedbał - Bankier.pl </span>
+			<span style="color: #f08000"> | 2013-02-25 11:58</span>
+		</span>
+        	<div class="image_left" style="padding-bottom: 8px; padding-top: 4px;margin-right: 8px"><img src="http://galeria.bankier.pl/p/e/5/84e571fb00285b-78-78-149-0-502-502.png" border="0" /></div>
+	        <div class="simple_text" style="padding-bottom: 16px">Na ulicy dostałam ulotkę, żeby oddać sw&oacute;j 1 procent podatku na  rehabilitację niepełnoprawnej dziewczynki. W jaki spos&oacute;b i gdzie mogę  sprawdzić, czy to nie są oszuści?</div>
+
+
+
+
+	        <h2 class="item_list"><a href="/wiadomosc/Czy-moge-rozliczyc-ulge-na-internet-2766045.html">Czy mogę rozliczyć ulgę na internet?</a></h2>
+		<span style="font-size: 11px;line-height: 20px">
+			
+            <span style="color: #666666">Justyna Niedbał - Bankier.pl </span>
+			<span style="color: #f08000"> | 2013-02-25 11:53</span>
+		</span>
+        	<div class="image_left" style="padding-bottom: 8px; padding-top: 4px;margin-right: 8px"><img src="http://galeria.bankier.pl/p/b/f/2b4a2067c74bba-78-78-455-37-1603-1603.png" border="0" /></div>
+	        <div class="simple_text" style="padding-bottom: 16px">W lutym 2012 roku założyłem internet. Czy mogę w zeznaniu rocznym PIT  rozliczyć ulgę na internet? Słyszałem, że ona już nie obowiązuje. Czy  to prawda?</div>
+
+
+
+
+
+
+
+
+<div class="right" style="margin-top: 20px"><a href="http://www.bankier.pl/wiadomosci/news.html?thread_id=649">więcej</a></div>
+
+            
+          <div class="clear"></div>
+
+      </div>
+      <div class="footer_white" style="clear: both"></div>
+      
+    
+    </div>
+</%method>
+
+
+        </div>	
+	
+       <link href="http://www.bankier.pl/static/kalkulatory/calc.css?v=4" rel="stylesheet" type="text/css" media="screen"/>
+<script type="text/javascript" src="/static/kalkulatory/js/jquery.js"></script>
+<script type="text/javascript" src="/static/kalkulatory/js/jquery.alphanumeric.js"></script>
+<script type="text/javascript" src="/static/kalkulatory/js/ph-tooltip.js"></script>
+<script type="text/javascript" src="/static/kalkulatory/js/spin.min.js"></script>
+
+
+
+<link href="/static/kalkulatory/css/odsetki.css" rel="stylesheet" type="text/css" media="screen"/>
+<style>
+.show_result {display:none;}
+</style>
+<!--script type="text/javascript">
+function changetabs(element){
+	if ($(element).hasClass('inactive_tab')){
+	$(element).removeClass('inactive_tab');
+	$('.active_tab').addClass('inactive_tab');
+	$('.active_tab').removeClass('active_tab');
+	$(element).addClass('active_tab');
+	if ($('.iconleft').length>0){
+	$('.iconleft').addClass('iconright');
+	$('.iconright').removeClass('iconleft');
+	}else if($('.iconright').length>0){
+	$('.iconright').addClass('iconleft');
+	$('.iconleft').removeClass('iconright');
+	};
+	};
+	if ($('#ustawowe').hasClass('active_tab'))
+	{
+		$('#id_obnizona_stawka').parent().parent().css('display','none');
+		$('#id_podat').attr('checked',false);
+		$('.submit').attr('name','ustawowe');
+	}else if($('#podatkowe').hasClass('active_tab'))
+	{
+	$('#id_obnizona_stawka').parent().parent().css('display','table-row');
+	$('.submit').attr('name','podatkowe');
+	$('#id_podat').attr('checked',true);
+	}
+	
+};
+$(document).ready(function(){
+$('.helper').phTip({styles:{'background-color':'#eee','font-family': 'Verdana,Arial,sans-serif','font-size': '11px','border':'1px solid gray', 'padding':'3px', 'width':'200px'}});
+if ($('#id_podat').is(':checked')){
+
+$('.submit').attr('name','podatkowe');
+changetabs('#podatkowe');
+}else{
+changetabs('#ustawowe');
+$('.submit').attr('name','ustawowe');
+};
+
+$('#ustawowe,#podatkowe').click(function(){
+changetabs($(this));
+});
+
+
+});
+</script-->
+
+<script type="text/javascript">
+</script>
+<script type="text/javascript" src="/static/kalkulatory/js/odsetki.js"></script>
+<div id="kalkulator">
+	
+	<div class="calc">
+		
+		<h1>Kalkulator odsetek
+
+<a href="" id="podatkowe" class="inactive_tab">od zaległości<br/> podatkowych</a><a href="" id="ustawowe" class="active_tab">ustawowych</a>
+
+
+</h1>
+		<div class="content">
+			<div class="lead">
+Aby obliczyć wartość odsetek, podaj kwotę zaległości oraz zakres dat.
+</div>
+			<form method="post" action="">
+				
+<style type="text/css">
+.show_result {display:none;}
+</style>
+<table>
+<table class="kredyty">
+<input type="hidden" name="podat" id="id_podat" />
+<tr>
+
+
+
+		<th style="padding-right:20px!important;">
+			<label for="id_kwota">Kwota zaległości</label>
+			
+		</th>
+		<td> <input id="id_kwota" type="text" class="text" value="2000" name="kwota" /> zł</td>
+	</tr>
+	<tr>
+		<th>
+			<label for="id_odsetki_od_day">Podaj datę, od której naliczane są odsetki</label><a class="helper" id="odsetki_do_helper" title='Odsetki ustawowe nalicza się od dnia, gdy zobowiązanie staje się wymagalne. Jeżeli spłata miała nastąpić 10-tego, to odsetki naliczane są od 11-tego.' style="position:absolute;margin-left:20px;margin-top:-8px"></a>
+			
+		</th>
+		<td> <select name="odsetki_od_day" id="id_odsetki_od_day">
+<option value="1" selected="selected">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<select name="odsetki_od_month" id="id_odsetki_od_month">
+<option value="1" selected="selected">Styczeń</option>
+<option value="2">Luty</option>
+<option value="3">Marzec</option>
+<option value="4">Kwiecień</option>
+<option value="5">Maj</option>
+<option value="6">Czerwiec</option>
+<option value="7">Lipiec</option>
+<option value="8">Sierpień</option>
+<option value="9">Wrzesień</option>
+<option value="10">Październik</option>
+<option value="11">Listopad</option>
+<option value="12">Grudzień</option>
+</select>
+<select name="odsetki_od_year" id="id_odsetki_od_year">
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012" selected="selected">2012</option>
+<option value="2013">2013</option>
+</select> </td>
+	</tr>
+	<tr>
+		<th>
+			<label for="id_odsetki_do_day">Data zapłaty zaległości</label><a class="helper" id="odsetki_do_helper" title='Data kiedy zobowiązanie będzie regulowane. Jeżeli przypada na dzień ustawowo wolny od pracy, to należy wpisać datę pierwszego kolejnego dnia roboczego.' style="position:absolute;margin-left:5px"></a>
+			
+		</th>
+		<td> <select name="odsetki_do_day" id="id_odsetki_do_day">
+<option value="1" selected="selected">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<select name="odsetki_do_month" id="id_odsetki_do_month">
+<option value="1" selected="selected">Styczeń</option>
+<option value="2">Luty</option>
+<option value="3">Marzec</option>
+<option value="4">Kwiecień</option>
+<option value="5">Maj</option>
+<option value="6">Czerwiec</option>
+<option value="7">Lipiec</option>
+<option value="8">Sierpień</option>
+<option value="9">Wrzesień</option>
+<option value="10">Październik</option>
+<option value="11">Listopad</option>
+<option value="12">Grudzień</option>
+</select>
+<select name="odsetki_do_year" id="id_odsetki_do_year">
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013" selected="selected">2013</option>
+</select> </td>
+	</tr>
+	<tr style="display:none">
+		<th>
+			<label for="id_obnizona_stawka">Obniżona stawka</label>
+		</th>
+		<td><a class="helper" id="obnizona_stawka_helper"  title='Stawkę obniżoną do wysokości 75% stawki podstawowej stosuje się tylko do zaległości powstałych po 1 stycznia 2009 roku. Odsetki w obniżonej stawce pobiera się, gdy podatnik złoży korektę zeznania i w ciągu 7 dni od niej wpłaci zaległość.' style="float:none;margin-left:5px;"></a><input type="checkbox" name="obnizona_stawka" id="id_obnizona_stawka" /> </td>
+	</tr>
+</table>
+
+
+				<input id="submit_button" type="submit" class="submit" value="Oblicz" name=""/>
+				
+				
+			</form>
+		</div>
+		<div class="down"></div>
+	</div>
+	<div id="result">
+
+</div>
+	<!-- reklama -->
+</div>
+
+
+       
+
+
+  <div class="clear"></div>
+</div>
+<div id="column_center">
+  
+	<div class="box_window_336">
+        	<div class="title_darkblue">Skale podatku dochodowego 2011</div>
+<div class="content_white">
+
+<div class="box_top5" style="width: 310px">
+<div class="top5_table first">
+<table>
+<tr>
+<td class='blue'>do 85 528 zł</td>
+<td style="text-align: left">podatek 18% podstawy obliczania minus kwota 556,02 zł</td>
+</tr>
+<tr>
+<td class='blue'>ponad 85 528 zł</td>
+<td style="text-align: left">podatek 14 839,02 + 32% nadwyżki ponad 85 528 zł</td>
+</tr>
+</table>
+</div>
+   <div class="clear"></div>
+</div> 
+</div>
+<div class="footer_white"></div>
+
+ 
+	</div>
+  	<div class="box_window_336">
+		<div class="title_blue">Poradniki</div>
+<div class="content_white">
+ <ul>
+<li><a href="http://www.bankier.pl/wiadomosc/Jak-wypelnic-formularz-PIT-37-za-2012-rok-Instrukcja-krok-po-kroku-2483668.html">Rozlicz PIT 2012 krok po kroku</a></li>
+<li><a href="http://www.bankier.pl/wiadomosc/Zmiany-w-podatku-PIT-w-2013-r-2715032.html">Zmiany w podatku PIT 2013</a></li>
+<li><a href="http://www.pit.pl/ulgi-odliczenia/">Ulgi i odliczenia<span style="color: red; display: inline; float: none; width: auto; padding-left: 4px">pit.pl</span></a></li>
+<li><a href="http://www.pit.pl/roczne/">Dobór formularza do rozliczenia rocznego<span style="color: red; display: inline; float: none; width: auto; padding-left: 4px">pit.pl</span></a></li>
+<li><a href="http://www.pit.pl/malzonkowie-razem/">Rozliczenie ze współmałżonkiem<span style="color: red; display: inline; float: none; width: auto; padding-left: 4px">pit.pl</span></a></li>
+<li><a href="http://www.pit.pl/ulga-prorodzinna/">Ulga prorodzinna<span style="color: red; display: inline; float: none; width: auto; padding-left: 4px">pit.pl</span></a></li>
+<li><a href="http://www.pit.pl/ulga-internet/">Ulga na internet<span style="color: red; display: inline; float: none; width: auto; padding-left: 4px">pit.pl</span></a></li>
+ </ul>
+
+   <div class="clear"></div>
+
+</div>
+<div class="footer_white"></div>
+
+
+	</div>
+	<div class="box_window_336">
+		<div class="content_white_clear">
+<a href="http://gg.hit.gemius.pl/hitredir/id=zCtAhDvHs920gEQ1IfYz.2YmzSZ1sycs7ni1i4hnOWD.w7/stparam=ygdpbvefuo/fastid=1297036692684013715/url=http://download.e-pity.pl/down/setup_e-pity2012_bankier.exe" target="_blank"><img src="/gfx/pit/logo_program.png" border="0" alt="Pobierz program" style="margin: 5px 0 5px 10px"></a>
+</div> 
+<div class="footer_white"></div>
+
+	</div>
+	<div class="box_window_336"> 
+		
+    <div class="box_window_336">
+
+
+   
+      <div class="title_blue">Wiadomości – PIT 2012</div>
+
+
+
+      <div class="content_white">
+
+
+
+
+            <h2 class="item_list"><a href="/wiadomosc/Minister-Kudrycka-odpis-1-procenta-na-nauke-prawdopodobnie-w-2014-roku-2790347.html">Minister Kudrycka: odpis 1 procenta na naukę prawdopodobnie w 2014 roku</a></h2>
+
+
+
+<span style="font-size: 11px;line-height: 20px">
+
+</span>
+
+
+
+
+
+		<h2 class="item_list"><a style="font-size:11px;" href="/wiadomosc/Jak-zaoszczedzic-w-rozliczeniu-rocznym-PIT-2777846.html">Jak zaoszczędzić w rozliczeniu rocznym PIT</a></h2>
+
+
+
+
+		<h2 class="item_list"><a style="font-size:11px;" href="/wiadomosc/Pieniadze-z-OPP-na-glodne-dzieci-szly-do-Szwajcarii-2782647.html">Pieniądze z OPP na głodne dzieci szły do Szwajcarii</a></h2>
+
+
+
+
+		<h2 class="item_list"><a style="font-size:11px;" href="/wiadomosc/Przekazujesz-1-Sprawdz-komu-zasilasz-kase-2782612.html">Przekazujesz 1%? Sprawdź, komu zasilasz kasę</a></h2>
+
+
+
+
+		<h2 class="item_list"><a style="font-size:11px;" href="/wiadomosc/9-mln-podatnikow-wyslalo-PIT-przez-internet-2777523.html">9 mln podatników wysłało PIT przez internet</a></h2>
+
+
+
+
+		<h2 class="item_list"><a style="font-size:11px;" href="/wiadomosc/Mozna-miec-fiskusa-z-glowy-2777423.html">Można mieć fiskusa z głowy</a></h2>
+
+
+
+
+		<h2 class="item_list"><a style="font-size:11px;" href="/wiadomosc/Jak-mozna-zlozyc-zeznanie-za-2012-r-2775405.html">Jak można złożyć zeznanie za 2012 r.?</a></h2>
+
+
+
+
+		<h2 class="item_list"><a style="font-size:11px;" href="/wiadomosc/Kredyty-na-PIT-juz-w-ofercie-bankow-2773725.html">Kredyty na PIT już w ofercie banków</a></h2>
+
+
+
+
+		<h2 class="item_list"><a style="font-size:11px;" href="/wiadomosc/Co-robic-gdy-wspolmalzonek-odda-w-najem-wspolne-mieszkanie-bez-naszej-wiedzy-a-f-2773088.html">Co robić, gdy współmałżonek odda w najem wspólne mieszkanie bez naszej wiedzy, a fiskus zażąda zapłaty podatku?</a></h2>
+
+
+
+
+		<h2 class="item_list"><a style="font-size:11px;" href="/wiadomosc/Ulga-na-dzieci-ostatni-rok-jednakowa-dla-wszystkich-2772776.html">Ulga na dzieci - ostatni rok jednakowa dla wszystkich</a></h2>
+
+
+
+
+
+
+
+
+<div class="right" style="margin-top: 20px"><a href="http://www.bankier.pl/wiadomosci/news.html?thread_id=647">więcej</a></div>
+
+            
+          <div class="clear"></div>
+
+      </div>
+      <div class="footer_white" style="clear: both"></div>
+      
+    
+    </div>
+</%method>
+
+
+        </div>
+	<div class="box_window_336">
+         <div class="title_blue">Interwencje Bankier.pl</div>     
+<div class="content_white">
+
+	<h2 class="item_title"><a href="/wiadomosc/Interwencja-Bankier-pl-czy-pracownik-ma-placic-za-abonament-RTV-w-firmie-2759334.html">Interwencja Bankier.pl: czy pracownik ma płacić za abonament RTV w firmie?</a></h2>
+
+   <div class="image_left" style="margin-bottom: 5px"><img src="http://galeria.bankier.pl/p/6/8/fe385fcb2a330c-78-78-10-364-1344-1344.png" width="78" height="78" border="0" /></div>
+   <div class="simple_text"> Biura, urzędy, fabryki &ndash; to przykłady miejsc, w kt&oacute;rych pracownicy chętnie słuchają radia. Według danych Komitetu...</div>
+   <div class="line_top" style="clear: both;">
+      <ul>
+
+
+
+
+
+
+
+
+
+
+
+   <li><a href="/wiadomosc/Interwencja-Bankier-pl-odliczalem-wydatki-na-splate-odsetek-od-kredytu-hipoteczn-2749134.html">Interwencja Bankier.pl: odliczałem wydatki na spłatę odsetek od kredytu hipotecznego, fiskus to zakwestionował</a></li>
+
+
+
+   <li><a href="/wiadomosc/Interwencja-Bankier-pl-zostalem-oszukany-na-ubezpieczeniu-mieszkania-2743923.html">Interwencja Bankier.pl: zostałem oszukany na ubezpieczeniu mieszkania</a></li>
+
+
+
+   <li><a href="/wiadomosc/Interwencja-Bankier-pl-smierc-malzonka-a-rozliczenie-PIT-2733588.html">Interwencja Bankier.pl: śmierć małżonka a rozliczenie PIT</a></li>
+
+
+
+   <li><a href="/wiadomosc/Interwencja-Bankier-pl-jak-sobie-poradzic-z-utrata-pracy-2698626.html">Interwencja Bankier.pl: jak sobie poradzić z utratą pracy</a></li>
+
+
+
+   <li><a href="/wiadomosc/Interwencja-Bankier-pl-czy-mam-szanse-na-ugode-z-bankiem-2694959.html">Interwencja Bankier.pl: czy mam szansę na ugodę z bankiem?</a></li>
+
+
+      </ul>
+   <div class="clear"></div>
+   </div>
+<div class="right" style="margin-top: 20px"><a href="http://www.bankier.pl/wiadomosci/news.html?thread_id=515">więcej</a></div>
+
+</div>
+<div class="footer_white"></div>
+
+
+
+  
+	</div>
+	
+  	<div class="box_window_336">
+	</div>
+
+	<!-- code: /finanse/podatki/pit/sg | 336x280-1 | fo/podatki/pit/sg  | MTXT -->
+   <div class="advertisement ad-336-280">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/podatki/pozostale : rectangle_300x250 //-->
+<div id="adoceanggtdeedimgap"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.podatki.pozostale.pozostale rectangle 300x250 BKID:72209015164756630 */
+ado.slave('adoceanggtdeedimgap', {myMaster: 'eUo29GEPgirtHBBz5fbN0xhpIfYorF60EjMmd02u7bX.97' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+	<div class="box_window_336">
+	</div>
+
+  <div class="clear"></div>
+</div>
+
+		</div>
+		</div>
+	        <div style="clear: both"></div>
+	</div> <!-- /main_content -->
+	
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+<!-- google-analytics -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-325086-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- end google-analytics -->
+
+
+
+
+
+
+
+<!-- (c) 2008 Gemius SA / gemiusHeatMap(GHM+XY) / http://www.bankier.pl -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ghmxy_align = 'center';
+var ghmxy_type = 'absolute';
+var ghmxy_identifier = 'ndbq_HMBGwk6w9QTnR_FeGYmLXU1EM82cIVb5IqSO0D.f7';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://pro.hit.gemius.pl/hmapxy.js"></script>
+
+
+</div> <!-- /main -->
+<!-- code: /finanse/podatki/pit/sg | 0x0-master | fo/podatki/pit/sg  | DHTML -->
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/fo/podatki/pozostale : DHTML_1x1 //-->
+<div id="adoceanggspqtbwkpfg"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.finanse.podatki.pozostale.pozostale DHTML 1x1 BKID:72209015164756700 */
+ado.slave('adoceanggspqtbwkpfg', {myMaster: 'eUo29GEPgirtHBBz5fbN0xhpIfYorF60EjMmd02u7bX.97' });
+</script>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+<!-- (C)2005 Gemius SA - gemiusAudience  / bankier.pl / finanse_osobiste_Podatki -->
+<script language="javascript" type="text/javascript">
+<!--
+var pp_gemius_identifier = new String('cirlPUeOERcOuNPVzqWJoJew33jUUC9OvorESBnFR37.C7');
+//-->
+</script>
+<script language="javascript" type="text/javascript" src="http://arbo.hit.gemius.pl/pp_gemius.js"></script>
+
+
+
+
+
+
+
+
+
+
+<!-- (C) 2000-2005 Gemius SA - gemiusTraffic / ver 11.1 / fo_podatki_pozostale --> 
+<script type="text/javascript">
+var gemius_identifier = new String('.R2Qy6dtm0jJAW9bmln1U5QK7Dp6_d.WRnbG8nYKcVb..7');
+</script>
+<script type="text/javascript" src="/inc/js/gemius.js"></script> 
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+

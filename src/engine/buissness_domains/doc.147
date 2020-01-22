@@ -1,0 +1,1473 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl"> 
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+        <meta http-equiv="Content-Language" content="pl" />
+        <meta name="robots" content="index,follow" />
+        <meta name="description" content="Market Money to Nowoczesna Platforma Finansowa. Szukasz Konta, Kredytu lub Ubezpieczenia ? Por�wnaj Bezp�atnie, Sprawd� Szczeg�y i Zam�w On-Line Wybrany Przez Siebie Produkt." />
+        <meta name="keywords" content="kredyty, po�yczki, banki, finanse, doradztwo finansowe" />
+        
+
+        
+       
+        
+        <!-- (c) 2000-2005 Gemius SA ver pro 11.1 -->
+        
+        <script type="text/javascript">
+            <!--
+                        
+            var gemius_identifier = new String('nXdLADep9.Mo65mL.EInEMQ8j5z_uM9uNW.qcDyOeLj.j7/id=0sVA4icZR00EqK648JyaYcSrrmDyj6eIdo.mpYqOEtX.B7');
+            
+                        
+            //-->
+        </script>
+        
+        <script type='text/javascript' src="/d/716/j/gemius.js"></script>
+
+                
+        <link rel="stylesheet" type="text/css" media="screen" href="/d/716/s/market.css?v9" />
+        <link rel="stylesheet" type="text/css" media="print" href="/d/716/s/print.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="/d/716/s/uniform.default.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="/d/716/s/popup.css" />
+
+        <link rel="shortcut icon" href="/d/716/i/loga/favicon.ico" type="image/x-icon" />
+
+                <script type="text/javascript" src="/j/jquery-1.7.1.js"></script>
+
+                <script type='text/javascript' src="/j/jquery.tools.min.js"></script>
+
+        <script src="/j/cookie.js"></script>
+
+
+        <script src="/j/jquery.ui.core.js"></script>
+        <script src="/j/jquery.ui.widget.js"></script>
+        <script src="/j/jquery.ui.position.js"></script>
+        <script src="/j/jquery.ui.autocomplete.js"></script>
+        <script src="/j/jquery.ui.tabs.js"></script>
+
+                 <script type='text/javascript' src="/d/716/j/common.js?v7"></script>
+        <script type='text/javascript' src="/d/716/js/jquery.uniform.js"></script>
+                 <script src="/j/saleChannelSizeMap.js?v144"></script>
+
+        <title>Por�wnywarka Kredyt�w, Lokat, Kont Osobistych MarketMoney.pl</title>
+
+                    
+        <script type="text/javascript">
+            
+            var idDistributor = 716;
+            var idCustomerType = 1;
+            var idGroupType = 0;
+            var idType = 0;
+            var idOfferer = 0;
+
+                        
+                        
+
+        </script>
+
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAllowAnchor', 'true']);
+            _gaq.push(['_setAccount', 'UA-30986529-1']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_trackPageLoadTime']);	
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+        </script>
+        
+
+
+      
+
+        <!-- REMINDER: this function must be pasted inside the website pages. -->
+        
+        <script type="text/javascript">
+            sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+            function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+                if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+                document.write('<scr'+'ipt src="http://diff.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+            }
+        </script>
+        
+        
+        <!--usabilitytools-->        
+                        <script defer="defer" type="text/javascript" src="http://uvr.usabilitytools.com/uvr.js?id=35413"></script>         
+    </head>
+
+    <body>
+                    <div id="m2m_mod_popup6"></div>
+            <script type="text/javascript">document.getElementById('m2m_mod_popup6').innerHTML = getPopups();</script>
+                <div class="bin">        
+
+            <!-- menu -->
+<div id="mmHeader"> 
+
+    <a class="logo" href="/"><img src="/d/716/i/logo.png" alt="Market Money" /></a>
+
+
+
+
+
+
+    
+    <div id="fb-root"></div>
+
+    <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '350161051718406',
+                status     : true, 
+                cookie     : true,
+                xfbml      : true,
+                oauth      : true
+            });
+            $(document).ready(function(){
+                $('#fb-login').click(function(){
+        	
+    		
+                    FB.login(function(response) {
+                        if (response.authResponse) {
+                            document.location.href = 'http://marketmoney.pl/?facebook-login';
+                        }
+                    }, {scope:'publish_stream,user_birthday,user_location'});
+                });
+		
+            });
+            
+            
+            $(document).ready(function(){
+                $('#fb-logout').click(function(){
+        	
+                    
+                    FB.logout(function(response) {
+                        // user is now logged out
+                        document.location.href = 'http://marketmoney.pl/?facebook-logout';
+
+                    });
+                    
+                });
+		
+            });
+            
+        };
+        (function(d){
+            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/pl_PL/all.js";
+            d.getElementsByTagName('head')[0].appendChild(js);
+        }(document));
+    </script>
+
+    
+
+            <div id="private_policy">
+            <a style="background:none" href="/polityka-prywatnosci/" class="mymoney_log_ico mt10">Nowa polityka prywatno�ci <span>X</span></a>
+        </div>
+        <script type="text/javascript">
+           
+            $('#private_policy span').click(function(e){
+                    e.preventDefault();
+                    setCookieForTimer('box_cookies','1', 60*24*365, '/');                                    
+                   $(e.target).parent().hide();
+            });
+
+           
+        </script>     
+        
+    <div class="szukaj top">
+        <form action="/szukaj/" method="post" id="searchForm">
+            <p>
+                
+                <input id="tags"  type="text" name="searchPhrase" class="inp" value="znajd� produkt dla Ciebie" onclick="if(this.value=='znajd� produkt dla Ciebie'){this.value='';}" />
+                
+                <input type="submit" name="search" class="but" value="" />
+                <input type="hidden" name="customerType" value="1" />
+
+            </p>
+        </form>
+    </div>        
+
+    
+    <script type="text/javascript">
+        
+        //setting marginRight for div.szukaj for small resolution
+        if($(window).width() < 1120){
+            $('.szukaj').css('marginRight', 1120 - $(window).width()+'px');
+        }        
+        
+        
+        function openUrl(url) {
+            //console.log(url);
+            
+            //window.location = 'http://' + window.location.host + '/' + url + '/';
+            window.location = 'http://' + window.location.host +  url  ;
+            //window.location =  '/' + url + '/';
+            jQuery( "#tags" ).val('');
+            jQuery( "#tags" ).autocomplete( "destroy" )
+            return;
+            
+        }
+        
+        
+        
+        jQuery(function() {
+            
+            var availableTags = [
+                { label: "Konta osobiste", value: "kontaosobiste"},{ label: "Konta oszcz�dno�ciowe", value: "kontaoszczednosciowe"},{ label: "Konta m�odzie�owe", value: "kontamlodziezowe"},{ label: "Kredyty mieszkaniowe", value: "kredytymieszkaniowe"},{ label: "Kredyty konsolidacyjne", value: "kredytykonsolidacyjne"},{ label: "Po�yczki hipoteczne", value: "pozyczkihipoteczne"},{ label: "Kredyty got�wkowe", value: "kredytygotowkowe"},{ label: "Karty kredytowe", value: "kartykredytowe"},{ label: "Kredyty samochodowe", value: "kredytysamochodowe"},{ label: "Lokaty", value: "lokaty"},{ label: "Fundusze inwestycyjne", value: "funduszeinwestycyjne"},{ label: "Produkty strukturyzowane", value: "produktystrukturyzowane"},{ label: "Emerytury", value: "emerytury"},{ label: "Ubezpieczenie auta", value: "ubezpieczenieauta"},{ label: "Ubezpieczenia na �ycie", value: "ubezpieczenianazycie"},{ label: "Obligacje", value: "obligacjebankowe"},{ label: "Doradcy finansowi", value: "doradcyfinansowi"},{ label: "Domy maklerskie", value: "domymaklerskie"},{ label: "Ubezpieczenia turystyczne", value: "ubezpieczeniaturystyczne"},{ label: "Konta walutowe", value: "konta-walutowe"},{ label: "Kantor internetowy", value: "kantor-internetowy"},{ label: "Podatki", value: "euro-tax"},{ label: "Kredyty got�wkowe konsolidacyjne", value: "kredyty-gotowkowe-konsolidacyjne"},{ label: "Po�yczki pozabankowe", value: "pozyczkipozabankowe"},{ label: "Karty debetowe", value: "kartydebetowe"},{ label: "Forex", value: "forex"}
+            ];
+            
+            var types = {};
+            var dataFromAjax;
+            
+            jQuery( "#tags" ).autocomplete({
+                minLength: 2,
+                //source: availableTags,
+                
+                source: function(request, response){  
+                    //console.log(request.term);
+                    var suggestions = []; 
+                    
+                    jQuery.post('/d/716/autocompleteproducts.php', 
+                    {   'phrase': request.term, 
+                        customerType: 1,
+                        contentType: "application/x-www-form-urlencoded;charset=iso-8859-2"
+                    },
+                    function(data) {
+                            
+                        $.each(data, function(i, val){  
+                            suggestions.push(val);  
+                        });  
+                        //clear types    
+                        types = {};  
+                        //add sugestions
+                        response(suggestions);
+                            
+                           
+                    },'json'
+                );
+                    
+                },
+                
+                
+                appendTo: "#mmHeader", 
+                select: function(event, ui) {
+                     
+                    //jQuery('#tags').val(ui.item.label);
+                    //jQuery('#searchForm').submit();
+                    
+                    window.location = ui.item.value;
+                    jQuery( "#tags" ).autocomplete( "destroy" )
+                    return;
+                    
+                    //console.log(ui.item.value);
+                },
+                open: function(event, ui) {
+                   
+
+                    var len = jQuery('.ui-autocomplete > li').length;
+                    //console.log('liczba elementow: '+len);
+
+
+                    jQuery('.ui-autocomplete').css('position','absolute');
+                    jQuery('.ui-autocomplete').css('top','18px');
+                    jQuery('.ui-autocomplete').css('left','624px');
+                    jQuery('.ui-autocomplete').css('z-index','100');
+                    
+                    //setting left for ui-autocomplete for small resolution
+                    if($(window).width() < 1120){
+                        jQuery('.ui-autocomplete').css('left', 624 - 1120 + $(window).width() + 10 + 'px');
+                    }        
+
+                    
+                    if (len < 3) {
+                        
+                        
+                        jQuery('.ui-autocomplete').addClass('level2');
+                        
+                        jQuery('.ui-autocomplete li').each(function(index) {
+                            //console.log('typ: '+jQuery(this).text());
+                            types[jQuery(this).text()] = len;
+                            
+                        });
+                        
+                        jQuery.post('/d/716/autocompleteproducts.php', 
+                        {   'types': types, 
+                            customerType: 1,
+                            contentType: "application/x-www-form-urlencoded;charset=iso-8859-2"
+                        },
+                        function(data) {
+                            //console.log(data);
+                            dataFromAjax = data;
+                            
+                            //$('.ui-autocomplete li').first().addClass('tlo');
+                            
+                            jQuery('.ui-autocomplete li').each(function(index) {
+                                
+                                var html = '';
+                                
+                                for(var i=0; i<dataFromAjax[jQuery(this).text()].length; i++) {
+                                    
+                                    html += '<div>';
+                                    //html += '<div class="img">' + dataFromAjax[jQuery(this).text()][i]['offererImg']+'</div>';
+                                    html += '<div class="img"><a href="'+dataFromAjax[jQuery(this).text()][i]['productLink']+'" onclick="openUrl(\''+dataFromAjax[jQuery(this).text()][i]['productLink']+'\');">' + dataFromAjax[jQuery(this).text()][i]['offererImg2']+'</a></div>';
+                                    html += '<a class="ui-corner-all" href="'+dataFromAjax[jQuery(this).text()][i]['productLink']+'" onclick="openUrl(\''+dataFromAjax[jQuery(this).text()][i]['productLink']+'\');">'+dataFromAjax[jQuery(this).text()][i]['product']+'</a>';
+                                    
+                                    html += '<br />';
+                                    html += '<br />';
+                                    
+                                    if (dataFromAjax[jQuery(this).text()][i]['saleChannel']) {
+                                        html += '<span class="but but2"><a href="#" onclick="openSaleChannel('+dataFromAjax[jQuery(this).text()][i]['saleChannel']+');">zam�w teraz</a></span>';	
+                                    } else {
+                                        html += '<span class="but but2"><a href="'+dataFromAjax[jQuery(this).text()][i]['productLink']+'" onclick="openUrl(\''+dataFromAjax[jQuery(this).text()][i]['productLink']+'\');">zam�w teraz</a></span>';	
+                                    }
+                                    html += '</div>';          
+                                    
+                                }
+                                
+                                html += '<div class="more"><a href="#" onclick="openUrl(\'' +dataFromAjax[jQuery(this).text()][0]['typeLink']+'\');">zobacz wi�cej wynik�w</a></div>';
+                                
+                                $(this).append(html);
+                            
+                            });  
+                            
+                        },'json'
+                    );
+                        
+                    } else {
+                        $('.ui-autocomplete').removeClass('level2');
+                    }
+                }
+
+            })
+
+        });
+    </script>
+    
+
+
+
+
+
+    <div class="mmMenu">
+        <div class="taby">
+            <a href="/" idCustomerTypeHeader="1">Klienci indywidualni</a>
+            <a href="/finanse-dla-firm/" idCustomerTypeHeader="2">finanse dla firm</a>
+            <a href="/kantor-internetowy/" id="kantor">kantor internetowy</a>
+        </div>
+                <div idCustomerTypeMenu="1" style="display: none" class="mMenu">
+            <ul>
+                                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="21" class=" kredyty_hipoteczne"  href="/kredyty-hipoteczne/">Kredyty hipoteczne</a>
+                                        <div class="inmenu">
+                        <ul>
+                                                        <li><a href="/kredyty-mieszkaniowe/">Kredyty mieszkaniowe</a></li>
+                                                        <li><a href="/kredyty-konsolidacyjne/">Kredyty konsolidacyjne</a></li>
+                                                        <li><a href="/pozyczki-hipoteczne/">Po�yczki hipoteczne</a></li>
+                                                    </ul>
+                    </div>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="3" class=" kredyty"  href="/kredyty/">Kredyty</a>
+                                        <div class="inmenu">
+                        <ul>
+                                                        <li><a href="/kredyty-gotowkowe/">Kredyty got�wkowe</a></li>
+                                                        <li><a href="/kredyty-samochodowe/">Kredyty samochodowe</a></li>
+                                                        <li><a href="/pozyczki-poza-bankowe/">Po�yczki pozabankowe</a></li>
+                                                        <li><a href="/kredyty-gotowkowe-konsolidacyjne/">Kredyty got�wkowe konsolidacyjne</a></li>
+                                                    </ul>
+                    </div>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="4" class=" konta_bankowe"  href="/konta-bankowe/">Konta bankowe</a>
+                                        <div class="inmenu">
+                        <ul>
+                                                        <li><a href="/konta-osobiste/">Konta osobiste</a></li>
+                                                        <li><a href="/konta-oszczednosciowe/">Konta oszcz�dno�ciowe</a></li>
+                                                        <li><a href="/konta-mlodziezowe/">Konta m�odzie�owe</a></li>
+                                                        <li><a href="/konta-walutowe/">Konta walutowe</a></li>
+                                                    </ul>
+                    </div>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="22" class=" karty_platnicze"  href="/karty-platnicze/">Karty p�atnicze</a>
+                                        <div class="inmenu">
+                        <ul>
+                                                        <li><a href="/karty-kredytowe/">Karty kredytowe</a></li>
+                                                        <li><a href="/karty-debetowe/">Karty debetowe</a></li>
+                                                    </ul>
+                    </div>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="5" class=" inwestycje"  href="/inwestycje/">Oszcz�dno�ci i inwestycje</a>
+                                        <div class="inmenu">
+                        <ul>
+                                                        <li><a href="/lokaty/">Lokaty</a></li>
+                                                        <li><a href="/fundusze-inwestycyjne/">Fundusze inwestycyjne</a></li>
+                                                        <li><a href="/obligacje-bankowe/">Obligacje</a></li>
+                                                        <li><a href="/produkty-strukturyzowane/">Produkty strukturyzowane</a></li>
+                                                        <li><a href="/domy-maklerskie/">Domy maklerskie</a></li>
+                                                        <li><a href="/doradcy-finansowi/">Doradcy finansowi</a></li>
+                                                        <li><a href="/noble-bank/">Private Banking</a></li>
+                                                        <li><a href="/forex/">Forex</a></li>
+                                                    </ul>
+                    </div>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="7" class=" ubezpieczenia"  href="/ubezpieczenia/">Ubezpieczenia</a>
+                                        <div class="inmenu">
+                        <ul>
+                                                        <li><a href="/ubezpieczenie-auta/">Ubezpieczenie auta</a></li>
+                                                        <li><a href="/ubezpieczenia-na-zycie/">Ubezpieczenia na �ycie</a></li>
+                                                        <li><a href="/ubezpieczenia-turystyczne/">Ubezpieczenia turystyczne</a></li>
+                                                    </ul>
+                    </div>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="6" class=" grupa_emerytury"  href="/emerytury/">Emerytury</a>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="24" class=" podatki"  href="javascript:openSaleChannel(508)">Podatki</a>
+                                    </li>
+                                        
+                <li class="m"><a idGroupType="artykuly" href="/artykuly/">Artyku�y <br />i rankingi</a></li>
+                <li class="m"><a class="m_kalk" idGroupType="kalkulatory" href="/kalkulatory/">Kalkulatory</a></li>				                    
+            </ul>
+        </div>
+                <div idCustomerTypeMenu="2" style="display: none" class="mMenu">
+            <ul>
+                                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="18" class=" kredyty_dla_firm"  href="/kredyty_dla_firm/">Kredyty dla firm</a>
+                                        <div class="inmenu">
+                        <ul>
+                                                        <li><a href="/kredyty-na-start/">Kredyty na start</a></li>
+                                                        <li><a href="/kredyty-gotowkowe-dla-firm/">Kredyty got�wkowe dla firm</a></li>
+                                                        <li><a href="/kredyty-hipoteczne-dla-firm/">Kredyty hipoteczne</a></li>
+                                                        <li><a href="/kredyty-inwestycyjne-dla-firm/">Kredyty inwestycyjne</a></li>
+                                                        <li><a href="/kredyty-odnawialne-firmowe/">Kredyty odnawialne</a></li>
+                                                    </ul>
+                    </div>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="16" class=" grupa_leasing"  href="/leasing/">Leasing</a>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="17" class=" grupa_faktoring"  href="/faktoring/">Faktoring</a>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="15" class=" konta_firmowe"  href="/konta-firmowe/">Konta firmowe</a>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="19" class=" informacja_gospodarcza"  href="/informacja-gospodarcza/">Informacja gospodarcza</a>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="20" class=" grupa_windykacja"  href="/windykacja/">Windykacja</a>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="25" class=" rwe"  href="/energia/">Energia</a>
+                                    </li>
+                                 
+
+
+                <li class="m">  
+
+                    <a idGroupType="27" class=" taxcare923"  href="/ksiegowosc/">Ksi�gowo��</a>
+                                    </li>
+                                        
+                <li class="m"><a idGroupType="artykuly" href="/artykuly/">Artyku�y <br />i rankingi</a></li>
+                <li class="m"><a class="m_kalk" idGroupType="kalkulatory" href="/kalkulatory/">Kalkulatory</a></li>				                    
+            </ul>
+        </div>
+            </div>
+
+
+</div>
+
+<script type="text/javascript">
+    
+    
+    
+    $('[idCustomerTypeHeader="'+idCustomerType+'"]').addClass('sel');
+    $('[idCustomerTypeMenu="'+idCustomerType+'"]').show();
+    $('[idGroupType="'+idGroupType+'"]').addClass('sel');
+    if(window.location.pathname.indexOf('/kalkulatory/')>-1)$('[idGroupType="kalkulatory"]').addClass('sel');
+    if(window.location.pathname.indexOf('/artykuly/')>-1)$('[idGroupType="artykuly"]').addClass('sel');
+    if(window.location.pathname.indexOf('/kantor-internetowy/')>-1){
+        
+        $('#kantor').addClass('sel');
+        $('[idCustomerTypeHeader="1"]').removeClass('sel');
+        $('[idCustomerTypeHeader="2"]').removeClass('sel');
+        
+    } 
+        
+        
+</script>
+
+<!-- menu end -->
+
+<div id="mmPath">
+    
+    
+        <span>MarketMoney.pl</span>		
+    
+    
+    
+    <div class="fejs_box">
+        
+        <a href="#" id="fb-login"><img alt="zaloguj z facebookiem" src="/d/716/i/but_fejs.png" alt="Zaloguj do Facebooka"></a>
+    
+        </div>
+
+</div>
+
+
+            <!-- end header -->
+
+
+<!-- wlasciwea czesc strony glownej	--> 
+
+
+<div id="mmPage">
+
+    <div class="mm_left">
+
+
+        <div class="b636 box">
+
+            <div class="box b308 corner blok1">
+
+                <div class="hd tlo"><a class="no_pad" href="/kredyty-hipoteczne/"><span>Kredyty hipoteczne</span></a></div>
+                <ul class="lista">
+
+                                        <li><a href="/kredyty-mieszkaniowe/">Kredyty mieszkaniowe</a></li>
+                                        <li><a href="/kredyty-konsolidacyjne/">Kredyty konsolidacyjne</a></li>
+                                        <li><a href="/pozyczki-hipoteczne/">Po�yczki hipoteczne</a></li>
+                       
+                    
+                    <li><a href="/kantor-internetowy/">Kantor internetowy</a></li>
+
+                </ul>
+                <a href="/kredyty-hipoteczne/"><img src="/d/716/i/grupa_logo_21.png" alt="got�wka" class="img" /></a>
+                <a href="/kredyty-hipoteczne/" class="but but1"><span>zobacz wi�cej</span></a>				
+            </div> <!-- end box -->
+
+            <div class="box b308 corner blok2">
+
+
+                <div class="hd tlo"><a class="no_pad" href="/kredyty/"><span>Kredyty</span></a></div>
+                <ul class="lista">
+                                        <li><a href="/kredyty-gotowkowe/">Kredyty got�wkowe</a></li>
+                                        <li><a href="/kredyty-samochodowe/">Kredyty samochodowe</a></li>
+                                        <li><a href="/pozyczki-poza-bankowe/">Po�yczki pozabankowe</a></li>
+                       
+                    
+                    <li><a href="/kantor-internetowy/">Kantor internetowy</a></li>
+                    
+                </ul>
+                <a href="/kredyty/"><img src="/d/716/i/grupa_logo_3.png" alt="mieszkanie" class="img" /></a>
+                <a href="/kredyty/" class="but but1"><span>zobacz wi�cej</span></a>				
+            </div> <!-- end box -->	
+
+        </div> <!-- end box 636 bloki glowna -->
+
+
+
+
+
+        <div class="b636 box ad ad_max">	
+                        
+            <script type="text/javascript">
+                sas_pageid='37609/256415';	// Page : Marketmoney.pl/klienci_indywidualni/strona_glowna
+                sas_formatid=5782;		// Format : belka_570x50 570x50
+                sas_target='';			// Targeting
+                SmartAdServer(sas_pageid,sas_formatid,sas_target);
+            </script>
+            <noscript>
+            <a href="http://diff.smartadserver.com/call/pubjumpi/37609/256415/5782/M/[timestamp]/?" target="_blank">
+                <img src="http://diff.smartadserver.com/call/pubi/37609/256415/5782/M/[timestamp]/?" border="0" alt="" /></a>
+            </noscript>
+            
+            
+            
+        </div>
+
+
+
+        <div class="b636 box box_3">
+
+            
+            <div class="box b198 corner">
+
+                <div class="hd tlo"><a class="no_pad" href="/konta-bankowe/"><span>Konta bankowe</span></a></div>
+
+                <ul class="lista">
+                                        <li><a href="/konta-osobiste/">Konta osobiste</a></li>
+                                        <li><a href="/konta-oszczednosciowe/">Konta oszcz�dno�ciowe</a></li>
+                                        <li><a href="/konta-mlodziezowe/">Konta m�odzie�owe</a></li>
+                      
+
+                </ul>
+                <div class="more pl20"><a href="/konta-bankowe/" class="grey">zobacz wi�cej</a></div>				
+            </div> <!-- end box -->             		
+
+            
+            <div class="box b198 corner">
+
+                <div class="hd tlo"><a class="no_pad" href="/karty-platnicze/"><span>Karty p�atnicze</span></a></div>
+
+                <ul class="lista">
+                                        <li><a href="/karty-kredytowe/">Karty kredytowe</a></li>
+                                        <li><a href="/karty-debetowe/">Karty debetowe</a></li>
+                      
+
+                </ul>
+                <div class="more pl20"><a href="/karty-platnicze/" class="grey">zobacz wi�cej</a></div>				
+            </div> <!-- end box -->             		
+
+            
+            <div class="box b198 corner">
+
+                <div class="hd tlo"><a class="no_pad" href="/inwestycje/"><span>Oszcz�dno�ci i inwestycje</span></a></div>
+
+                <ul class="lista">
+                                        <li><a href="/lokaty/">Lokaty</a></li>
+                                        <li><a href="/fundusze-inwestycyjne/">Fundusze inwestycyjne</a></li>
+                                        <li><a href="/obligacje-bankowe/">Obligacje</a></li>
+                      
+
+                </ul>
+                <div class="more pl20"><a href="/inwestycje/" class="grey">zobacz wi�cej</a></div>				
+            </div> <!-- end box -->             		
+
+            
+
+        </div> <!-- 	-->			
+        <div class="b636 box box_3 small">
+
+            
+            <div class="box b198 corner">
+
+                <div class="hd tlo"><a class="no_pad" href="/grupa_emerytury/"><span>Emerytury</span></a></div>
+
+                <ul class="lista">
+                                                                    <li><a href="/emerytury/">Emerytury</a></li>
+                                              
+
+                </ul>
+                <div class="more pl20"><a href="/grupa_emerytury/" class="grey">zobacz wi�cej</a></div>				
+            </div> <!-- end box -->             		
+
+            
+            <div class="box b198 corner">
+
+                <div class="hd tlo"><a class="no_pad" href="/ubezpieczenia/"><span>Ubezpieczenia</span></a></div>
+
+                <ul class="lista">
+                                                                    <li><a href="/ubezpieczenie-auta/">Ubezpieczenie auta</a></li>
+                                                                                            <li><a href="/ubezpieczenia-na-zycie/">Ubezpieczenia na �ycie</a></li>
+                                                                                          
+
+                </ul>
+                <div class="more pl20"><a href="/ubezpieczenia/" class="grey">zobacz wi�cej</a></div>				
+            </div> <!-- end box -->             		
+
+            
+            <div class="box b198 corner">
+
+                <div class="hd tlo"><a class="no_pad" href="javascript:openSaleChannel(508)"><span>Zwrot podatku</span></a></div>
+
+                <ul class="lista">
+                                                                    <li><a href="javascript:openSaleChannel(508)">Zwrot podatku</a></li>
+                                              
+
+                </ul>
+                <div class="more pl20"><a href="javascript:openSaleChannel(508)" class="grey">zobacz wi�cej</a></div>				
+            </div> <!-- end box -->             		
+
+            
+        </div> <!-- 	-->
+
+
+        <div class="b636 box ad ad_max">	
+            
+            
+            <script type="text/javascript">
+                sas_pageid='37609/256415';	// Page : Marketmoney.pl/klienci_indywidualni/strona_glowna
+                sas_formatid=16194;		// Format : belka_570x50_dol_marketmoney 570x50
+                sas_target='';			// Targeting
+                SmartAdServer(sas_pageid,sas_formatid,sas_target);
+            </script>
+            <noscript>
+            <a href="http://diff.smartadserver.com/call/pubjumpi/37609/256415/16194/S/[timestamp]/?" target="_blank">
+                <img src="http://diff.smartadserver.com/call/pubi/37609/256415/16194/S/[timestamp]/?" border="0" alt="" /></a>
+            </noscript>
+            
+        </div>
+
+
+    </div> <!-- koniec lewa -->		
+
+
+    <div class="mm_right">
+
+        
+
+        
+<div class="box zapytanie">
+
+    <div class="inbox">
+        <div class="hd" id="sendInfo"><span>Zam�w rozmow� z doradc� i zapytaj<br/>o produkt</span></div>
+        <form class="form" method="POST" action="https://marketmoney.pl/d/716/askaboutproduct.php">
+            
+            <div>
+                <label>Imi�</label>
+                <input type="text" name="imie" class="inp" onclick="if(this.value=='Uzupe�nij pole'){this.value='';}$(this).css({color:'#000000'})"/>
+            </div>
+            <div>
+                <label>Nazwisko</label>
+                <input type="text" name="nazwisko" class="inp" onclick="if(this.value=='Uzupe�nij pole'){this.value='';}$(this).css({color:'#000000'})"/>
+            </div>            
+            <div>
+                <label>Telefon</label>
+                <input type="text" name="telefon" class="inp" value="+48" onclick="if(this.value=='Uzupe�nij pole'){this.value='+48';}$(this).css({color:'#000000'})" maxlength ="12"/>
+            </div>
+            <div>
+                <label>E-mail</label>
+                <input type="text" name="email" class="inp" onclick="if(this.value=='Uzupe�nij pole'){this.value='';}$(this).css({color:'#000000'})"/>
+            </div>
+            
+            <div>
+                <label class="select">Kontakt</label>
+                <select name="kontakt" class="sin b195" id="contactTime">
+                    <option value="kontakt" selected>preferowana pora kontaktu</option>                    
+                    <option value="9-11">9-11</option>
+                    <option value="11-13">11-13</option>
+                    <option value="13-15">13-15</option>
+                    <option value="15-17">15-17</option>
+                                    </select>
+            </div>            
+            
+            <div>
+                <label class="select" >Produkt</label>
+                <select name="typ" class="sin b195" id="product">
+                    <option value="produkt" selected>wybierz produkt</option>
+                                        <option value="Kredyt hipoteczny">Kredyt hipoteczny</option>
+                                        <option value="Kredyt got�wkowy">Kredyt got�wkowy</option>
+                                        <option value="Kredyt samochodowy">Kredyt samochodowy</option>
+                                        <option value="Leasing">Leasing</option>
+                                        <option value="Karty kredytowe">Karty kredytowe</option>
+                                        <option value="Kredyty dla firm">Kredyty dla firm</option>
+                                    </select>
+            </div>
+            <div>
+                <label></label>
+                <input type="button" class="but" name="#" id="sendQuestion"/>
+            </div>								            
+            <div>
+                <label class="big">
+                    <input type="checkbox" value="" name="zgoda1" class="fl" />
+                    Zgadzam si� na przetwarzanie i przekazywanie danych osobowych <a href="#" onclick="info(1);jQuery('#info2').slideUp();return false">(szczeg�y)</a>
+                </label>
+
+                <label class="big">
+                    <input type="checkbox" value="" name="zgoda2" class="fl" />
+                    Zgadzam si� na otrzymywanie informacji handlowych <a href="#" onclick="info(2);jQuery('#info1').slideUp();return false">(szczeg�y)</a>
+                </label>
+                <label class="big">
+                    Uprzejmie informujemy, �e od dnia 22 marca 2013 r. zmianie ulegnie regulamin �wiadczenia us�ug w zakresie zwi�zanym z przechowywaniem plik�w tekstowych w komputerze u�ytkownik�w (tzw. "cookie").
+                </label>
+            </div>	
+        </form>
+
+        <div id="info1" class="show_info1" style="display:none;">
+            Wyra�am zgod� na przetwarzanie podanych danych osobowych w celu  przedstawienia oferty przygotowanej przez partner�w portalu Money.pl dla  u�ytkownik�w portalu oraz w celach marketingowych administratora, jak  r�wnie� na przekazywanie podanych danych osobowych partnerom, w  szczeg�lno�ci instytucjom finansowym i ubezpieczeniowym, w celu  przedstawienia przez nich oferty przygotowanej dla u�ytkownik�w portalu. <br /><br />
+
+            Informujemy, �e administratorem danych osobowych jest <a href="http://www.money.pl">Money.pl</a> sp. z o.o. z siedzib� we Wroc�awiu, pl. Grunwaldzki 23, 50-365,
+            zarejestrowan� w S�dzie Rejonowym dla Wroc�awia-Fabrycznej VI Wydzia�  Gospodarczy KRS pod numerem KRS 45348, NIP 897-16-52-608, kapita�  zak�adowy 3509500 z�, a przetwarzanie danych osobowych b�dzie mia�o  miejsce zgodnie z ustaw� z 29 sierpnia 1997 r. o ochronie danych  osobowych (Dz.U. nr 101 poz. 926 z 2002 roku z p�n. zm.). Informujemy  ponadto, i� posiada Pan/Pani prawo dost�pu do tre�ci swoich danych oraz  ich poprawiania, a tak�e zwr�cenia si� z ��daniem usuni�cia podanych  danych osobowych przez administratora danych. Zbierane dane b�d�  przetwarzane, w tym przekazywane partnerom administratora, wy��cznie w  celach podanych powy�ej. Podanie przez Pana/Pani� danych osobowych jest  ca�kowicie dobrowolne.
+        </div>
+        <div id="info2"  class="show_info2"  style="display:none;">
+
+            Wyra�am zgod� na otrzymywanie od <a href="http://www.money.pl">Money.pl</a> sp. z o.o. informacji  handlowej w rozumieniu art. 10 ust. 2 Ustawy z dnia 18 lipca 2002 r. o  �wiadczeniu us�ug drog� elektroniczn� (Dz.U. Nr 144, poz. 1204) na  podany adres poczty elektronicznej.
+
+        </div>
+
+    </div> <!-- inbox -->
+</div> <!-- end box -->
+
+
+<script type="text/javascript" charset="utf-8">
+    
+    /*
+    $('#contactTime').click(function() {
+        if ($('#contactTime option').size() == 5) {
+            $("#contactTime option[value='kontakt']").remove();
+        }
+    });
+    
+    
+    $('#product').click(function() {
+        if ($('#product option').size() > 6) {
+            $("#product option[value='produkt']").remove();
+
+        }
+        
+    });
+    */
+    
+    $(function(){
+        $("input, select").uniform();
+    });
+        
+        
+    function info(i) {
+        jQuery('#info'+i).slideToggle();
+    } 
+        
+    jQuery('#info1').click(function(){ jQuery(this).slideToggle() })
+    jQuery('#info2').click(function(){ jQuery(this).slideToggle() }) 
+        
+        
+    $('input[name=telefon]').keydown(function(event) {
+        // Allow: backspace, delete, tab and escape
+        if ( event.keyCode == 46 || event.keyCode == 8 || event.keyCode == 9 || event.keyCode == 27 || event.keyCode == 107 || 
+             // Allow: Ctrl+A
+            (event.keyCode == 65 && event.ctrlKey === true) || 
+             // Allow: home, end, left, right
+            (event.keyCode >= 35 && event.keyCode <= 39)) {
+                 // let it happen, don't do anything
+                 return;
+        }
+        else {
+            // Ensure that it is a number and stop the keypress
+            if ((event.keyCode < 48 || event.keyCode > 57) && (event.keyCode < 96 || event.keyCode > 105 )) {
+                event.preventDefault(); 
+            }   
+        }
+    });
+    
+        
+        
+    jQuery('#sendQuestion').click(function(){
+          
+        var no_error = true;
+        var pola = ['imie', 'nazwisko', 'telefon', 'email'];
+        for (i=0; i<pola.length; i++) {
+            if (  jQuery('input[name='+pola[i]+']').val()=='+48' || jQuery('input[name='+pola[i]+']').val()=='uzupe�nij pole' || jQuery('input[name='+pola[i]+']').val()=='') {
+                jQuery('input[name='+pola[i]+']').val('Uzupe�nij pole').css({color:'#ff0000'});
+                //.css({color:'#ff0000'}
+                no_error = false;
+            }
+        } 
+          
+        if(no_error && String(parseInt( jQuery('input[name=telefon]').val().replace('+48','') )).length < 9){
+            alert('Telefon musi mie� minimum 9 znak�w');
+            no_error = false;            
+        }
+
+        //email
+        var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        if (no_error && !re.test(jQuery('input[name=email]').val())){
+            alert('Prosz� wpisa� poprawny adres E-mail');
+            no_error = false;            
+        }
+
+        if(no_error && jQuery('select[name=kontakt]').val().length < 1){
+            alert('Prosz� wybra� por� kontaktu');
+            no_error = false;            
+        }          
+         
+        if (no_error && (jQuery('input[name=zgoda1]:checked').length==0 || jQuery('input[name=zgoda2]:checked').length==0)) {
+            alert('Musisz zaznaczy� obie zgody');
+            no_error = false;
+        } 
+        
+       
+        if (no_error) {
+            $(this).parents('form')[0].submit();
+//            $.post("https://" + window.location.host + '/d/716/askaboutproduct.php', 
+//            {
+//                contentType: "application/x-www-form-urlencoded;charset=iso-8859-2",
+//                imie:jQuery('input[name=imie]').val(), 
+//                nazwisko:jQuery('input[name=nazwisko]').val(),                 
+//                telefon:jQuery('input[name=telefon]').val(),
+//                email:jQuery('input[name=email]').val(),
+//                typ:jQuery('select[name=typ]').val(),
+//            },
+//            function(data) {
+//                //console.log(data);
+//                //dataFromAjax = data;
+//                if (data['error']) {
+//                    alert(data['error_info']);
+//                } else {
+//                    $('#sendInfo').html('<a href="#">Zapytanie zosta�o wys�ane</a>');
+//                    jQuery('input[name=imie]').val(''); 
+//                    jQuery('input[name=nazwisko]').val('');                     
+//                    jQuery('input[name=telefon]').val('');
+//                    jQuery('input[name=email]').val('')
+//                }
+//                            
+//            },'json'
+//        );
+        }
+        else{
+            return false;
+        }
+        
+        
+        
+        
+        
+    })
+    
+    
+      $(document).ready(function(){
+      
+            $("#contactTime option[value='kontakt']").remove();
+            $("#product option[value='produkt']").remove();
+                
+      });
+    
+    
+    
+</script>
+
+
+
+
+        
+
+<div class="box linia artykuly" id="rightRanking">
+
+    <div class="hd"><span>Polecane produkty</span></div>                
+
+    <ul class="tab tab1">
+        
+                    
+        
+        <li ><a href="#ranking0">*</a></li>
+
+        
+        <li ><a href="#ranking1">*</a></li>
+
+        
+        <li ><a href="#ranking2">*</a></li>
+
+        
+        <li ><a href="#ranking3">*</a></li>
+
+        
+        <li ><a href="#ranking4">*</a></li>
+
+                
+        
+    </ul>
+    <ul>
+        
+        <li class="intab art" id="ranking0" >
+                    <a class="img"href="/nordea/"><img alt="Nordea Bank" src="/o/_logo2/16.gif" /></a>
+                    <div class="oh">
+                        <a href="http://direct.money.pl/o/salechannel.php?idSaleChannel=24&idDistributor=716&reff=8_481"><span class="autor">Nordea Bank</span></a>
+                        <h2>
+                            <a href="http://direct.money.pl/o/salechannel.php?idSaleChannel=24&idDistributor=716&reff=8_481">Konto dla firm Nordea</a>
+
+                        </h2>
+                    </div>
+
+
+       </li> 
+        
+        <li class="intab art" id="ranking1" style="display:none;">
+                    <a class="img"href="/mbank/"><img alt="mBank" src="/o/_logo2/1.gif" /></a>
+                    <div class="oh">
+                        <a href="https://direct.money.pl/o/salechannel.php?idSaleChannel=1&idDistributor=716&reff=9_156"><span class="autor">mBank</span></a>
+                        <h2>
+                            <a href="https://direct.money.pl/o/salechannel.php?idSaleChannel=1&idDistributor=716&reff=9_156">Za�� darmowe eKonto i odbierz nawet 600 z� rocznie!</a>
+
+                        </h2>
+                    </div>
+
+
+       </li> 
+        
+        <li class="intab art" id="ranking2" style="display:none;">
+                    <a class="img"href="/open-finance/"><img alt="Open Finance" src="/o/_logo2/56.gif" /></a>
+                    <div class="oh">
+                        <a href="https://direct.money.pl/o/salechannel.php?idSaleChannel=148&idDistributor=716"><span class="autor">Open Finance</span></a>
+                        <h2>
+                            <a href="https://direct.money.pl/o/salechannel.php?idSaleChannel=148&idDistributor=716">Sprawd� zdolno�� kredytow� w 27 bankach!</a>
+
+                        </h2>
+                    </div>
+
+
+       </li> 
+        
+        <li class="intab art" id="ranking3" style="display:none;">
+                    <a class="img"href="/getinbank/"><img alt="GETIN Bank" src="/o/_logo2/42.gif" /></a>
+                    <div class="oh">
+                        <a href="https://direct.money.pl/o/salechannel.php?idSaleChannel=489&idDistributor=716"><span class="autor">GETIN Bank</span></a>
+                        <h2>
+                            <a href="https://direct.money.pl/o/salechannel.php?idSaleChannel=489&idDistributor=716">Kredyt got�wkowy z prowizj� 0%</a>
+
+                        </h2>
+                    </div>
+
+
+       </li> 
+        
+        <li class="intab art" id="ranking4" style="display:none;">
+                    <a class="img"href="/expander/"><img alt="Expander" src="/o/_logo2/66.gif" /></a>
+                    <div class="oh">
+                        <a href="https://direct.money.pl/o/salechannel.php?idSaleChannel=185&idDistributor=716"><span class="autor">Expander</span></a>
+                        <h2>
+                            <a href="https://direct.money.pl/o/salechannel.php?idSaleChannel=185&idDistributor=716">Kredyty hipoteczne u niezale�nego doradcy</a>
+
+                        </h2>
+                    </div>
+
+
+       </li> 
+            </ul>
+
+</div>
+
+    
+    <script type="text/javascript">
+
+        $(function() {
+
+            $("#rightRanking").tabs({
+                fx: { opacity: 'toggle', duration: 'fast' },
+                
+                select: function(event, ui) {
+                        jQuery(this).css('height', jQuery(this).height());
+                        jQuery(this).css('overflow', 'hidden');
+                },
+                show: function(event, ui) {
+                    
+                        $("#rightRanking").animate({height:64+jQuery(ui.panel).height()},"fast");
+                        jQuery(this).css('height', 'auto');
+                        jQuery(this).css('overflow', 'visible');                            
+                }                                
+                
+            });
+
+            $("#rightRanking").tabs('rotate', 5000,true); 
+
+        });
+
+    </script> 
+    
+
+                    
+                    
+                    
+
+
+        <div class="box ad ad300">
+    
+        
+    
+<!-- List of tags for the site: Marketmoney.pl, Format "Standard" -->
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    sas_pageid='37609/256415';	// Page : Marketmoney.pl/klienci_indywidualni/strona_glowna
+    sas_formatid=5663;		// Format : rectangle 300x250
+    sas_target='';			// Targeting
+    SmartAdServer(sas_pageid,sas_formatid,sas_target);
+</script>
+<noscript>
+<a href="http://diff.smartadserver.com/call/pubjumpi/37609/256415/5663/S/[timestamp]/?" target="_blank">
+    <img src="http://diff.smartadserver.com/call/pubi/37609/256415/5663/S/[timestamp]/?" border="0" alt="" /></a>
+</noscript>
+
+
+
+
+
+
+
+
+    
+</div>
+
+
+
+
+        
+
+
+
+
+
+    </div> <!-- koniec prawa -->		
+
+</div> <!-- end page -->
+<!-- footer jest w folderze head_footer -->		
+
+
+
+
+<div id="mmFooter">
+
+    <div class="partnerzy">
+        <div class="hd">Nasi partnerzy</div>
+        <!-- tabela, mechanizm gotowiec z directa -->
+        
+
+        
+<div id="logos">
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/raiffeisen/"><img src="/o/_logo/12_g.gif" width="100" height="32" border="0" alt="Raiffeisen Polbank" /></a></td>
+                <td><a href="/mbank/"><img src="/o/_logo/1_g.gif" width="100" height="35" border="0" alt="mBank" /></a></td>
+                <td><a href="/inteligo/"><img src="/o/_logo/2_g.gif" width="90" height="33" border="0" alt="Inteligo" /></a></td>
+                <td><a href="/bz_wbk/"><img src="/o/_logo/44_g.gif" width="144" height="21" border="0" alt="Bank Zachodni WBK" /></a></td>
+                <td><a href="/open-finance/"><img src="/o/_logo/56_g.gif" width="120" height="47" border="0" alt="Open Finance" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/ingbsk/"><img src="/o/_logo/7_g.gif" width="110" height="21" border="0" alt="ING Bank �l�ski" /></a></td>
+                <td><a href="/pkobp/"><img src="/o/_logo/30_g.gif" width="57" height="65" border="0" alt="PKO BP" /></a></td>
+                <td><a href="/bph/"><img src="/o/_logo/40_g.gif" width="100" height="68" border="0" alt="Bank BPH" /></a></td>
+                <td><a href="/citibank/"><img src="/o/_logo/41_g.gif" width="130" height="22" border="0" alt="Citi Handlowy" /></a></td>
+                <td><a href="/link4/"><img src="/o/_logo/61_g.gif" width="100" height="68" border="0" alt="Link4" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/db/"><img src="/o/_logo/17_g.gif" width="130" height="25" border="0" alt="Deutsche Bank PBC" /></a></td>
+                <td><a href="/millennium/"><img src="/o/_logo/38_g.gif" width="107" height="34" border="0" alt="Bank Millennium" /></a></td>
+                <td><a href="/multibank/"><img src="/o/_logo/24_g.gif" width="100" height="68" border="0" alt="MultiBank" /></a></td>
+                <td><a href="/kasastefczyka/"><img src="/o/_logo/34_g.gif" width="80" height="43" border="0" alt="Kasy Stefczyka" /></a></td>
+                <td><a href="/getinbank/"><img src="/o/_logo/42_g.gif" width="102" height="32" border="0" alt="GETIN Bank" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/credit-agricole/"><img src="/o/_logo/18_g.gif" width="130" height="31" border="0" alt="Credit Agricole" /></a></td>
+                <td><a href="/nordea/"><img src="/o/_logo/16_g.gif" width="75" height="47" border="0" alt="Nordea Bank" /></a></td>
+                <td><a href="/ingnn/"  onmousedown="javascript:this.href='http://clk.tradedoubler.com/click?p=19133&amp;a=1097092&amp;g=16238056&amp;url=http://'+document.location.host+'/ingnn/'"><img src="/o/_logo/5_g.gif" width="85" height="29" border="0" alt="ING OFE" /></a></td>
+                <td><a href="/toyotabank/"><img src="/o/_logo/75_g.gif" width="120" height="24" border="0" alt="Toyota Bank" /></a></td>
+                <td><a href="/pocztowy/"><img src="/o/_logo/49_g.gif" width="130" height="23" border="0" alt="Bank Pocztowy" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/notus/"><img src="/o/_logo/45_g.gif" width="130" height="41" border="0" alt="Dom Kredytowy NOTUS" /></a></td>
+                <td><a href="/bnpparibas/"><img src="/o/_logo/27_g.gif" width="105" height="28" border="0" alt="BNP Paribas" /></a></td>
+                <td><a href="/krd/"><img src="/o/_logo/6_g.gif" width="60" height="46" border="0" alt="Krajowy Rejestr D�ug�w" /></a></td>
+                <td><a href="/bankowy/"><img src="/o/_logo/4_g.gif" width="90" height="53" border="0" alt="PKO Leasing" /></a></td>
+                <td><a href="/expander/"><img src="/o/_logo/66_g.gif" width="109" height="46" border="0" alt="Expander" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/noble-bank/"><img src="/o/_logo/73_g.gif" width="90" height="63" border="0" alt="Noble Bank" /></a></td>
+                <td><a href="/dmbzwbk/"><img src="/o/_logo/79_g.gif" width="130" height="23" border="0" alt="DM BZ WBK" /></a></td>
+                <td><a href="/getin_bank/"><img src="/o/_logo/83_g.gif" width="102" height="32" border="0" alt="GETIN Bank" /></a></td>
+                <td><a href="/bdm/"><img src="/o/_logo/89_g.gif" width="120" height="70" border="0" alt="Dom Maklerski BDM" /></a></td>
+                <td><a href="/xtb/"><img src="/o/_logo/91_g.gif" width="131" height="50" border="0" alt="Dom Maklerski X-Trade Brokers" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/libertydirect/"><img src="/o/_logo/94_g.gif" width="115" height="60" border="0" alt="Liberty Direct" /></a></td>
+                <td><a href="/bibby/"><img src="/o/_logo/96_g.gif" width="125" height="38" border="0" alt="Bibby" /></a></td>
+                <td><a href="/kruk/"><img src="/o/_logo/100_g.gif" width="90" height="43" border="0" alt="Rejestr D�u�nik�w ERIF BIG S.A." /></a></td>
+                <td><a href="/dbkredyt/"><img src="/o/_logo/102_g.gif" width="130" height="25" border="0" alt="Deutsche Bank" /></a></td>
+                <td><a href="/aliorbank/"><img src="/o/_logo/111_g.gif" width="100" height="49" border="0" alt="Alior Bank" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/provident/"><img src="/o/_logo/112_g.gif" width="120" height="25" border="0" alt="Provident" /></a></td>
+                <td><a href="/meritumbank/"><img src="/o/_logo/114_g.gif" width="110" height="36" border="0" alt="Meritum Bank" /></a></td>
+                <td><a href="/taxcare/"><img src="/o/_logo/115_g.gif" width="49" height="45" border="0" alt="Tax Care" /></a></td>
+                <td><a href="/fmbank/"><img src="/o/_logo/118_g.gif" width="120" height="35" border="0" alt="FM Bank" /></a></td>
+                <td><a href="/ideaexpert/"><img src="/o/_logo/120_g.gif" width="110" height="26" border="0" alt="Idea Expert" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/ideabank/"><img src="/o/_logo/123_g.gif" width="120" height="33" border="0" alt="Idea Bank" /></a></td>
+                <td><a href="/axa/"><img src="/o/_logo/124_g.gif" width="76" height="59" border="0" alt="AXA" /></a></td>
+                <td><a href="/euro-tax/"><img src="/o/_logo/127_g.gif" width="120" height="36" border="0" alt="EuroTax " /></a></td>
+                <td><a href="/faktoringbroker/"><img src="/o/_logo/135_g.gif" width="110" height="38" border="0" alt="FaktoringBroker" /></a></td>
+                <td><a href="/getinonline/"><img src="/o/_logo/136_g.gif" width="102" height="32" border="0" alt="Getin Online" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/santander/"><img src="/o/_logo/137_g.gif" width="100" height="38" border="0" alt="Santander Consumer Bank" /></a></td>
+                <td><a href="/noble-markets/"><img src="/o/_logo/148_g.gif" width="110" height="40" border="0" alt="Noble Markets" /></a></td>
+                <td><a href="/smskredyt/"><img src="/o/_logo/156_g.gif" width="110" height="22" border="0" alt="Sms Kredyt" /></a></td>
+                <td><a href="/netcredit/"><img src="/o/_logo/157_g.gif" width="100" height="24" border="0" alt="Net credit" /></a></td>
+                <td><a href="/sms365/"><img src="/o/_logo/161_g.gif" width="91" height="33" border="0" alt="Sms 365" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/cod/"><img src="/o/_logo/163_g.gif" width="56" height="70" border="0" alt="Centrum Ochrony D�u�nika" /></a></td>
+                <td><a href="/raiffeisenbrokers/"><img src="/o/_logo/166_g.gif" width="100" height="42" border="0" alt="Raiffeisen Brokers" /></a></td>
+                <td><a href="/fritzexchange/"><img src="/o/_logo/167_g.gif" width="100" height="68" border="0" alt="Fritz Exchange" /></a></td>
+                <td><a href="/go4x/"><img src="/o/_logo/171_g.gif" width="101" height="44" border="0" alt="GO4x" /></a></td>
+                <td><a href="/minicredit/"><img src="/o/_logo/172_g.gif" width="100" height="35" border="0" alt="MiniCredit" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/aliorsync/"><img src="/o/_logo/173_g.gif" width="95" height="52" border="0" alt="Alior Sync" /></a></td>
+                <td><a href="/okmoney/"><img src="/o/_logo/175_g.gif" width="100" height="43" border="0" alt="OK Money" /></a></td>
+                <td><a href="/asakredyt/"><img src="/o/_logo/177_g.gif" width="90" height="48" border="0" alt="Asa Kredyt" /></a></td>
+                <td><a href="/rwe/"><img src="/o/_logo/180_g.gif" width="90" height="55" border="0" alt="RWE" /></a></td>
+                <td><a href="/ekspreskasa/"><img src="/o/_logo/183_g.gif" width="100" height="22" border="0" alt="Ekspres Kasa" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/vivus/"><img src="/o/_logo/184_g.gif" width="101" height="44" border="0" alt="Vivus" /></a></td>
+                <td><a href="/ratomat/"><img src="/o/_logo/185_g.gif" width="100" height="31" border="0" alt="Ratomat" /></a></td>
+                <td><a href="/mastercard/"><img src="/o/_logo/187_g.gif" width="120" height="28" border="0" alt="Mastercard" /></a></td>
+                <td><a href="/noblesecurities/"><img src="/o/_logo/188_g.gif" width="100" height="48" border="0" alt="Noble Securities" /></a></td>
+                <td><a href="/tmsbrokers/"><img src="/o/_logo/189_g.gif" width="120" height="27" border="0" alt="TMS Brokers" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/allianz/"><img src="/o/_logo/193_g.gif" width="80" height="49" border="0" alt="Allianz" /></a></td>
+                <td><a href="/skbank/"><img src="/o/_logo/200_g.gif" width="85" height="45" border="0" alt="SK Bank" /></a></td>
+                <td><a href="/auxilia/"><img src="/o/_logo/201_g.gif" width="100" height="22" border="0" alt="Auxilia" /></a></td>
+                <td><a href="/kredito24/"><img src="/o/_logo/203_g.gif" width="110" height="22" border="0" alt="Kredito24" /></a></td>
+                <td><a href="/ipopema/"><img src="/o/_logo/208_g.gif" width="90" height="28" border="0" alt="IPOPEMA TFI" /></a></td>
+            </tr></table>
+<table class="logos_table" style="display:none;"><tr>
+                <td><a href="/financity/"><img src="/o/_logo/209_g.gif" width="90" height="23" border="0" alt="Financity" /></a></td>
+                <td><a href="/walutomat/"><img src="/o/_logo/210_g.gif" width="50" height="62" border="0" alt="Walutomat" /></a></td>
+                <td><a href="/ik/"><img src="/o/_logo/211_g.gif" width="100" height="37" border="0" alt="Internetowy Kantor" /></a></td>
+                <td><a href="/axadirect/"><img src="/o/_logo/212_g.gif" width="80" height="41" border="0" alt="Axa Direct" /></a></td>
+                <td><a href="/dobrapozyczka/"><img src="/o/_logo/213_g.gif" width="100" height="50" border="0" alt="Dobra po�yczka" /></a></td>
+            </tr></table>
+</div>
+
+
+
+
+<script type="text/javascript">
+    function show(i) {
+        jQuery('#logos table:visible').fadeOut('medium',function() {
+            jQuery('#logos table').eq(i).fadeIn('medium');
+        });
+        if (++i >= jQuery('#logos table').length){i=0};
+        setTimeout('show(' + i + ')',5000);	
+    }
+
+
+    if(jQuery('#logos table').length > 1){
+        jQuery(function() { jQuery('#logos table:first').show(); setTimeout('show(0)',5000); });
+    }
+    else{
+        jQuery('#logos table:first').show();
+    }
+</script>
+
+
+    </div> <!-- end partnerzy -->
+
+
+    <div class="linki">
+        <a href="/o-nas/">o nas</a>
+        <a href="/pomoc/">pomoc</a>
+
+        <a href="http://www.money.pl/d/my_money/MyMoney_regulamin.pdf">regulamin</a>
+        <a href="/kontakt/">kontakt</a>				
+        <a href="/poradnik-finansowy/">poradnik finansowy</a>
+        <a href="/centrum-webmastera/">centrum webmastera</a>
+        <a href="/polityka-prywatnosci/">POLITYKA PRYWATNO�CI</a>
+    </div> <!-- end linki -->
+
+    <div class="fr">
+        &copy; 2012 MarketMoney.pl. Wszelkie prawa zastrze�one 
+    </div> <!-- -->
+
+    <div class="like_box">
+
+        
+        
+        <div class="facebook">
+            <div class="fb-like" data-href="http://marketmoney.pl" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+         </div>
+        
+        
+        <div  class="google">
+            <!-- Place this tag where you want the +1 button to render -->
+            <div class="g-plusone" data-href="http://marketmoney.pl"></div>
+            <!-- Place this render call where appropriate -->
+            <script type="text/javascript">
+                window.___gcfg = {lang: 'pl'};
+                (function() {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+
+            </script>
+        </div>
+
+        <div class="linkedin">
+            <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+            <script type="IN/Share" data-url="http://marketmoney.pl" data-counter="right"></script>
+        </div>
+        
+       
+        
+    </div>
+
+</div> <!-- end foooter -->		
+</div> <!-- end bin -->
+<a href="http://firma.money.pl/" target="_blank"><div class="money_corner">Serwis grupy money.pl</div></a>
+
+
+<div id="globalBackground" style="display:none;background:#000;opacity:.8;width:100%;height:100%;position:fixed;top:0;left:0;z-index:102"></div>
+
+
+<div id="globalContactForm" style="display:none;" class="okno_formularz">
+    <div class="inbox">
+        <a href="#" class="closed" onclick="closeContactForm();">zamknij</a>
+
+        <h2>Formularz kontaktowy</h2>
+        <p>wy�lij pytanie e-mailem</p>
+
+        <form method="POST" action="https://marketmoney.pl/d/716/askaboutproduct.php">
+            <input type="hidden" id="askaboutproduct_url"  name="url" value="" />
+            <div>
+                <input type="text" name="email" class="inp" value="Tw�j adres e-mail" onfocus="if (this.value=='Tw�j adres e-mail') { this.value=''; }" onblur="if (this.value=='') { this.value='Tw�j adres e-mail'; }"/>
+            </div>
+            <div>
+                <textarea name="wiadomosc" onfocus="if (this.value=='Tre�� wiadomo�ci') { this.value=''; }" onblur="if (this.value=='') { this.value='Tre�� wiadomo�ci'; }">Tre�� wiadomo�ci</textarea>
+            </div>	
+            
+            <div>
+                
+                
+                
+        <div class="iWCaptcha">
+            <span>Podaj pierwszy znak kodu</span>&nbsp;<span class="red"><strong>dArda</strong></span>
+            <input type="text" size="2" maxlength="1" name="captcha_input" class="tf" style="width:50px !important"/>
+            <input type="hidden" name="captcha_token" value="dArda" />
+        </div>
+                    
+                
+            </div>
+            
+            <div>
+                <input id="sendMessage" type="button" name="sendMessage" class="but" value="wy�lij formularz" />
+            </div>            
+            <div>
+                <input type="checkbox" class="chb" name="zgoda" />
+                <span class="label">
+                    Wyra�am zgod� na gromadzenie, przetwarzanie i wykorzystywanie moich danych osobowych w celu wykonania zobowi�za� oraz w celu odpowiedzi na zapytanie oraz umieszczenie ich w bazie danych Money.pl sp. z o.o. z siedzib� we Wroc�awiu przy pl. Grunwaldzkim 23, kod poczt. 50-365, zarejestrowana w S�dzie Rejonowym dla Wroc�awia-Fabrycznej VI Wydzia� Gospodarczy KRS pod numerem 0000045348, NIP 897-16-52-608, kapita� zak�adowy 3509500,00 z�, zgodnie z ustaw� z 29 sierpnia 1997 r. o ochronie danych osobowych (tj. Dz.U. nr 101 poz. 926 z 2002 roku z p�n. zm.).Informujemy, i� posiada Pan/Pani prawo dost�pu do tre�ci swoich danych oraz ich poprawiania, a tak�e zwr�cenia si� z ��daniem usuni�cia podanych danych osobowych. Zbierane dane przetwarzane b�d� wy��cznie w celu �wiadczenia us�ug po�rednictwa finansowego przez Money.pl. Podanie przez Pana/Pani� danych osobowych jest ca�kowicie dobrowolne.
+                </span>
+                <a href="http://www.money.pl/d/my_money/MyMoney_regulamin.pdf" class="link" target="_blank">Polityka prywatno�ci</a>
+            </div>						
+        </form>
+
+    </div>			
+</div>
+
+<div id="globalErrorForm" style="display:none;" class="okno_formularz">
+    <div class="inbox">
+        <a href="#" class="closed" onclick="closeErrorForm();">zamknij</a>
+
+        <h2>Masz sugestie co do funkcjonalno�ci strony lub znalaz�e� jaki� b��d ?</h2>
+        <p>Napisz do nas i wsp�lnie z nami rozwijaj MarketMoney.pl.</p>
+         
+        
+         <form method="POST" action="http://marketmoney.pl/d/716/senderrorinfo.php">
+                            
+                
+                
+            <div>
+                <input type="hidden" id="senderror_url"  name="url" value="" />
+                <textarea name="zgloszony-blad" onfocus="if (this.value=='Tre�� wiadomo�ci') { this.value=''; }" onblur="if (this.value=='') { this.value='Tre�� wiadomo�ci'; }">Tre�� wiadomo�ci</textarea>
+            </div>
+            
+              <div>
+                
+                
+                
+        <div class="iWCaptcha">
+            <span>Podaj czwarty znak kodu</span>&nbsp;<span class="red"><strong>q4CEg</strong></span>
+            <input type="text" size="2" maxlength="1" name="captcha_input_error" class="tf" style="width:50px !important"/>
+            <input type="hidden" name="captcha_token_error" value="q4CEg" />
+        </div>
+                    
+                
+            </div>
+            
+            <div>
+                <input id="sendErrorMessage" type="button" name="senderror" class="but" value="wy�lij formularz" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    
+    </script>
+<script type="text/javascript" src="/o/_livechat/popup_bottom.php?params=distributor,716"></script>
+
+<script type="text/javascript" src="http://static1.interaktywnie.com/i/ankiety/script/ankieta_market.js?t=2273646"></script>
+
+
+
+</body>
+</html> 

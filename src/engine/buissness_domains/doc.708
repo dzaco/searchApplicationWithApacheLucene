@@ -1,0 +1,854 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+   <title>Rachunki oszczędnościowo rozliczeniowe - Finanse osobiste - Bankier.pl</title>
+   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+   <meta name="description" content="Bankier.pl - Największy i najlepszy portal finansowy. Informacje o gospodarce, inwestowaniu, finansach osobistych i prowadzeniu firmy. Kursy walut, notowania akcji, fundusze. Dane o wszystkich produktach bankowych: kredyty, konta, lokaty i karty kredytowej  oraz informacje na tematy: kredyty, kredyt, podatki, waluty, giełda, bank, fundusze, kursy walut, euro, mbank, rachunek, banki" />
+   <meta name="keywords" content="kredyty, kredyt, podatki, waluty, giełda, bank, fundusz, kursy walut, euro, mbank, rachunek, banki" />
+
+
+
+<link href="/media/finanse/stylesheets/finanse.css?20111216" rel="stylesheet" type="text/css" />
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Bankier.pl - Finanse osobiste" href="http://rss.bankier.pl/wiadomosci/finanse_osobiste.xml" />
+
+
+
+
+
+
+<!-- ADServer Header //-->
+<script type="text/javascript" src="http://gg.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "gg.adocean.pl", id: "JOcK7gzdoyrcIT2176iLzhCz8UoPOGcT6Y1ax8FNTPf.l7"});
+</script>
+
+
+<!-- bankier/firma/pozostale : MASTER //-->
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, MASTER: GaduGadu.Bankier.pl.firma.pozostale BKID:72209115166256610 */
+ado.master({id: 'Tc38VFO0jRxbEWPmLvG726uj4YYzXccvLcJd2XvzW.v.27', server: 'gg.adocean.pl' });
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bankier.pl/js/cf/cf.js"></script>
+<script type="text/javascript" src="/media/finanse/javascripts/jquery.tools.min.js"></script>
+<script src="/gfx/jedenprocent/jedenprocent_finanse.js" type="text/javascript"></script>
+
+</head><body>
+<script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+<noscript>
+<div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+<div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+</div>
+</div>
+</noscript>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-V82M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-V82M');</script>
+<!-- End Google Tag Manager -->
+
+
+<div id="main">
+	
+<div id="bn_header" style="position: relative; z-index: 100;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+
+
+
+
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB2.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi | Konkurs" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Ffirma%2Fkonta-firmowe%2F" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+    <area coords="392,0,455,10" href="http://www.systempartnerski.pl/nagrodomania.html" title="System Partnerski - konkurs" alt=""/>
+
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li class="selected"><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li ><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+ 	<div id="main_content"> 
+		<div id="center_content" >
+  <!-- code: /firma/konta-firmowe | 750x100-1 | /firma/konta-firmowe  | A -->
+   <div class="advertisement ad-750-100">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/firma/pozostale : billboard_750x100 //-->
+<div id="adoceanggyfjpowquoo"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.firma.pozostale.pozostale billboard 750x100 BKID:72209115166256610 */
+ado.slave('adoceanggyfjpowquoo', {myMaster: 'Tc38VFO0jRxbEWPmLvG726uj4YYzXccvLcJd2XvzW.v.27' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+    	   <!-- code: /firma/konta-firmowe | 770x30-1 | /firma/konta-firmowe  | BELKA -->
+   <div class="advertisement ad-770-30">
+   
+
+
+
+
+<div align="center" style="margin: 2px 0 6px 0">
+<!-- bankier/firma/pozostale : belka_770x50 //-->
+<div id="adoceangglfcjljhqlt"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.firma.pozostale.pozostale belka 770x50 BKID:72209115166295580 */
+ado.slave('adoceangglfcjljhqlt', {myMaster: 'Tc38VFO0jRxbEWPmLvG726uj4YYzXccvLcJd2XvzW.v.27' });
+</script>
+</div>
+
+
+
+
+
+
+</div>
+	   	
+	   	<div id="wrapper" style="clear: both">
+	   	   <!-- code: /firma/konta-firmowe | 160x600-1 | /firma/konta-firmowe  | HSKY -->
+   <div class="advertisement ad-160-600">
+   
+
+
+
+
+
+<!-- bankier/firma/pozostale : skyscraper_120x600 //-->
+<div id="adoceanggmjfjmlihoc"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.firma.pozostale.pozostale skyscraper 120x600 BKID:72209115166256620 */
+ado.slave('adoceanggmjfjmlihoc', {myMaster: 'Tc38VFO0jRxbEWPmLvG726uj4YYzXccvLcJd2XvzW.v.27' });
+</script>
+
+
+
+
+
+
+
+</div>
+
+	   	<div id="column_left">
+	      	
+<div class="box_menu">
+	<ul>
+		<li><a href="http://twoja-firma.pl/">Twoja-Firma.pl</a>
+		<li><a href="http://mambiznes.pl/">MamBiznes.pl</a>
+		<li><a href="/firma/uslugi_bankowe/">Bank dla firmy</a>
+		<li><a href="/firma/podatki/">Podatki</a>
+		<li><a href="/firma/ue/">Dotacje unijne</a>
+		<li><a href="/firma/windykacja/">Windykacja</a>
+		<li><a href="/firma/faktoring/">Faktoring</a>
+		<li class="last"><a href="/firma/leasing/">Leasing</a>
+		</li>
+  </ul>
+</div>
+<div class="clear"></div>
+
+
+
+
+
+<div class="box_ink_menu">
+  <ul>
+   <li><a href="http://www.bankier.pl/firma/news.html?type_id=1&category=90%2C91%2C92%2C95%2C96%2C97%2C203&display=9&order=&priority=1-20">Wiadomości</a></li>
+   <li><a href="http://www.bankier.pl/firma/news.html?type_id=67%202&display=9&order=priority&priority=1-20 ">Porady i komentarze</a></li>
+   <li><a href="http://www.bankier.pl/firma/uslugi_bankowe/raporty.html?&type_id=17&category=311&order=priority ">Poradniki</a></li>
+   <li><a href="http://www.bankier.pl/wiadomosci/news.html?thread_id=515 ">Interwencje Bankier.pl</a></li>
+
+    <li><a href="http://www.bankier.pl/forum/forum.html?forum_id=11">Forum</a></li>
+
+     <li class="last"><a href="http://ksiegarnia.bankier.pl">Księgarnia</a></li>
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clear"></div>
+<div class="box_menu" id="cf_finanse_menu">
+  <ul>
+	<li><span>Sprawdź ofertę</span>
+		<ul>
+   <li><a href="http://www.bankier.pl/cf/rachunki_firmowe.html">Rachunki firmowe</a></li>
+   <li><a href="http://www.bankier.pl/cf/kredyty_dla_firm.html">Kredyty dla firm</a></li>
+   <li><a href="http://www.bankier.pl/cf/ksiegowosc.html">Księgowość</a></li>
+   <li><a href="http://www.bankier.pl/cf/windykacja_naleznosci.html">Windykacja należności</a></li>
+   <li><a href="http://www.bankier.pl/cf/informacja_gospodarcza.html">Informacja gospodarcza</a></li>
+   <li><a href="http://www.bankier.pl/cf/leasing.html">Oferty leasingowe</a></li>
+   <li><a href="http://www.bankier.pl/cf/faktoring.html">Faktoring</a></li>
+ 	 </ul>
+	</li>
+	</ul>
+</div>
+
+
+
+
+
+
+	    	</div> <!-- /column_left -->
+    	   
+			
+<div id="column_right">
+  
+<link href="/static/kalkulatory/css/kf.css" rel="stylesheet" type="text/css" media="screen"/>
+<script type="text/javascript" src="/static/kalkulatory/js/jquery.js"></script>
+<script type="text/javascript" src="/static/kalkulatory/js/jquery.alphanumeric.js"></script>
+<script type="text/javascript"></script>
+<script type="text/javascript" src="/static/kalkulatory/js/wyszukiwarka_kf.js"></script>
+<script type="text/javascript" src="http://www.bankier.pl/js/cf/cf.js"></script>
+<script type="text/javascript" src="/static/kalkulatory/js/ph-tooltip.js"></script>
+<div id="kalkulator">
+	
+	<div id="result">
+
+
+
+
+
+
+
+
+</div>
+	<div class="calc">
+		<div class="ico_lupa"></div>
+		<h1>Porównywarka kont firmowych</h1>
+		<div class="content">
+			<div class="lead">
+Dopasuj konto do swoich potrzeb. Wybierz jeden z przygotowanych przez nas profilów klienta i uzupełnij go danymi dotyczącymi twoich comiesięcznych operacji na koncie. Otrzymasz ranking rekomendowanych kont osobistych.</div>
+			<form method="post" action="/firma/konta-firmowe/">
+				
+
+<style type="text/css">
+#kalkulator .calc input.text_short {width:100px;}
+</style>
+<table class="kredyty">
+	<tr class="profile">
+		<th>
+			<label for="id_profile">Profil klienta</label><a class="helper" style="float:right;" title="<p><strong>Start up</strong>&nbsp;&ndash;&nbsp;Firma rozpoczynająca działalność gospodarczą oraz podmioty prowadzące działalność gospodarczą nie dłużej niż 12 miesięcy.</p>
+			
+			<p><strong>Jednoosobowa działalność gospodarcza</strong>&ndash;&nbsp;Osoby fizyczne prowadzące własną działalność gospodarczą.</p>
+			
+			<p><strong>Internetowy</strong>&nbsp;&ndash;&nbsp;Firmy preferujące korzystanie z elektronicznych kanałów bankowości. Większość operacji bankowych załatwiają bez konieczności wizyty w placówce bankowej.</p>
+			
+			<p><strong>Gotówkowy</strong>&nbsp;&ndash;&nbsp;Firmy preferujące tradycyjny kontakt z bankiem, których profil wymaga obrotu gotówkowego.</p>
+			
+			<p><strong>Wolny zawód</strong>&nbsp;&ndash;&nbsp;Przedstawiciele wolnych zawodów: lekarze, farmaceuci, prawnicy, doradcy podatkowi, księgowi, biegli rewidenci, architekci, rzeczoznawcy, brokerzy ubezpieczeniowi.</p>"></a>
+			
+		</th>
+		<td> <select name="profile" id="id_profile">
+<option value="startup" selected="selected">Start up</option>
+<option value="jednoosobowa">Jednoosobowa działalność</option>
+<option value="internetowy">Internetowy</option>
+<option value="gotowkowy">Gotówkowy</option>
+<option value="wolny">Wolny zawód</option>
+</select> </td>
+	</tr>
+	<tr class="ksiegowosc">
+		<th>
+			<label for="id_ksiegowosc">Księgowość</label>
+		</th>
+		<td>
+		 <select name="ksiegowosc" id="id_ksiegowosc">
+<option value="u">Uproszczona</option>
+<option value="p">Pełna</option>
+</select> 
+		</td>
+	</tr>
+
+
+	<tr class="saldo">
+		<th></th>
+		<td>
+			<ul>
+				<li><label for="id_saldo">średnie saldo:</label>  <input type="text" name="saldo" value="3000" id="id_saldo" /><label for="id_saldo" class="zl">zł</label>
+				</li>
+
+
+		
+				<li><label for="id_wplywy">miesięczne wpływy:</label>  <input type="text" name="wplywy" value="4000" id="id_wplywy" /><label for="id_wplywy" class="zl">zł</label>
+				</li>
+			</ul>
+		</td>
+	</tr>
+	<tr class="liczba_kart">
+		<th>
+			Karty do konta
+		</th>
+		
+		<td>		
+
+		<input type="text" name="liczba_kart" value="1" id="id_liczba_kart" />	
+
+		</td>
+	
+	</tr>
+	<tr class="saldo">
+		<th>
+			Płatności kartą
+		</th>
+		
+		<td>
+			<ul>
+				
+				<li><label for="id_platnosci_karta">ogółem:</label>  <input type="text" name="platnosci_karta" value="500" id="id_platnosci_karta" /><label for="id_saldo" class="zl">zł</label></li>
+				
+		
+
+				<li><label for="id_platnosci_karta_stacja">na stacjach benz.:</label>  <input type="text" name="platnosci_karta_stacja" value="250" id="id_platnosci_karta_stacja" /><label for="id_saldo" class="zl">zł</label></li>
+			
+				
+			</ul>
+		</td>
+	
+	</tr>
+	<tr class="obcy">
+		<th>
+			Przelewy do innych banków
+		</th>
+		
+		<td>
+			<ul>
+				<li> <label for="id_przelew_internetowy_obcy">internetowe:</label>  <input type="text" name="przelew_internetowy_obcy" value="5" id="id_przelew_internetowy_obcy" />
+				</li>
+
+
+				<li><label for="id_przelew_oddzial_obcy">w oddziale:</label>  <input type="text" name="przelew_oddzial_obcy" value="1" id="id_przelew_oddzial_obcy" /></li>
+		
+				<li><label for="id_przelew_telefoniczny_obcy">telefoniczne:</label>  <input type="text" name="przelew_telefoniczny_obcy" value="1" id="id_przelew_telefoniczny_obcy" /></li>
+		</ul>
+	</tr>
+	<tr class="wlasny">
+		<th>
+			Przelewy w ramach banku
+		</th>
+		
+		<td>
+			<ul>
+				<li><label for="id_przelew_internetowy_wlasny">internetowe:</label>  <input type="text" name="przelew_internetowy_wlasny" value="5" id="id_przelew_internetowy_wlasny" /></li>
+
+				<li><label for="id_przelew_oddzial_wlasny">w oddziale:</label>  <input type="text" name="przelew_oddzial_wlasny" value="1" id="id_przelew_oddzial_wlasny" /></li>
+		
+				<li><label for="id_przelew_telefoniczny_wlasny">telefoniczne:</label>  <input type="text" name="przelew_telefoniczny_wlasny" value="1" id="id_przelew_telefoniczny_wlasny" /></li>
+			</ul>
+	</tr>
+	<tr class="zus">
+		<th>
+			Przelewy do ZUS
+		</th>
+		
+		<td>
+			<ul>
+				<li><label for="id_przelew_internetowy_zus">internetowe:</label>  <input type="text" name="przelew_internetowy_zus" value="3" id="id_przelew_internetowy_zus" /></li>
+
+				<li><label for="id_przelew_oddzial_zus">w oddziale:</label>  <input type="text" name="przelew_oddzial_zus" value="0" id="id_przelew_oddzial_zus" /></li>
+		
+				<li><label for="id_przelew_telefoniczny_zus">telefoniczne:</label>  <input type="text" name="przelew_telefoniczny_zus" value="0" id="id_przelew_telefoniczny_zus" /></li>
+			</ul>
+	</tr>
+	<tr class="us">
+		<th>
+			Przelewy do US
+		</th>
+		
+		<td>
+			<ul>
+				<li><label for="id_przelew_internetowy_us">internetowe:</label>  <input type="text" name="przelew_internetowy_us" value="2" id="id_przelew_internetowy_us" /></li>
+
+				<li><label for="id_przelew_oddzial_us">w oddziale:</label>  <input type="text" name="przelew_oddzial_us" value="0" id="id_przelew_oddzial_us" /></li>
+		
+				<li><label for="id_przelew_telefoniczny_us">telefoniczne:</label>  <input type="text" name="przelew_telefoniczny_us" value="0" id="id_przelew_telefoniczny_us" /></li>
+			</ul>
+	</tr>
+	<tr class="zlecenia">
+		<th>
+			Zlecenia stałe
+		</th>
+			
+		<td>
+			<ul>
+				<li><label for="id_zlecenia_stale_wlasne">w ramach banku:</label>  <input type="text" name="zlecenia_stale_wlasne" value="2" id="id_zlecenia_stale_wlasne" /></li>
+				
+
+				<li><label for="id_zlecenia_stale_obce">do innego banku:</label>  <input type="text" name="zlecenia_stale_obce" value="2" id="id_zlecenia_stale_obce" /></li>
+			</ul>
+		</td>
+	</tr>
+	
+	<tr class="wyplaty">
+		<th>Wypłaty gotówki</th>
+		<td>
+
+		<ul style="">
+		<li class="bankomaty"><label for="id_wyplaty_bankomat_wlasny">wypłaty z własnych:</label>  <input type="text" name="wyplaty_bankomat_wlasny" value="3" id="id_wyplaty_bankomat_wlasny" /></li><li class="kwota"><label for="id_wyplaty_bankomat_wlasny_kwota">zazwyczaj na kwotę:</label>  <input type="text" name="wyplaty_bankomat_wlasny_kwota" value="200" id="id_wyplaty_bankomat_wlasny_kwota" /><label for="id_wyplaty_bankomat_wlasny_kwota" class="zl">zł</label></li>	
+		</ul>
+		
+		<ul><li class="bankomaty"><label for="id_wyplaty_bankomat_krajowy">wypłaty z krajowych:</label> <input type="text" name="wyplaty_bankomat_krajowy" value="0" id="id_wyplaty_bankomat_krajowy" /></li><li class="kwota"><label for="id_wyplaty_bankomat_krajowy_kwota">zazwyczaj na kwotę:</label>  <input type="text" name="wyplaty_bankomat_krajowy_kwota" value="0" id="id_wyplaty_bankomat_krajowy_kwota" /><label for="id_wyplaty_bankomat_krajowy_kwota" class="zl">zł</label></li>
+		</ul>
+		<ul>
+		<li class="bankomaty"><label for="id_wyplaty_bankomat_zagraniczny">wypłaty za granicą:</label>  <input type="text" name="wyplaty_bankomat_zagraniczny" value="0" id="id_wyplaty_bankomat_zagraniczny" /></li><li class="kwota"><label for="id_wyplaty_bankomat_zagraniczny_kwota">zazwyczaj na kwotę:</label>  <input type="text" name="wyplaty_bankomat_zagraniczny_kwota" value="0" id="id_wyplaty_bankomat_zagraniczny_kwota" /><label for="id_wyplaty_bankomat_zagraniczny_kwota" class="zl">zł</label></li>
+		</ul>
+		<ul>
+		<li class="bankomaty"><label for="id_wyplata_oddzial">wypłata w oddziale:</label>  <input type="text" name="wyplata_oddzial" value="0" id="id_wyplata_oddzial" /></li><li class="kwota"><label for="id_wyplata_oddzial_kwota">zazwyczaj na kwotę:</label>  <input type="text" name="wyplata_oddzial_kwota" value="0" id="id_wyplata_oddzial_kwota" /><label for="id_wyplata_oddzial_kwota" class="zl">zł</label></li>
+		</ul>
+		
+		</ul>
+		
+		</td>
+	</tr>
+	
+	<tr class="wplaty">
+		<th>Wpłaty gotówki</th>
+		<td>
+		<ul>
+		<li class="bankomaty"><label for="id_wplata_oddzial">wpłata w oddziale:</label>  <input type="text" name="wplata_oddzial" value="1" id="id_wplata_oddzial" /></li><li class="kwota"><label for="id_wplata_oddzial_kwota">zazwyczaj na kwotę:</label>  <input type="text" name="wplata_oddzial_kwota" value="1000" id="id_wplata_oddzial_kwota" /><label for="id_wplata_oddzial_kwota" class="zl">zł</label></li>	
+		</ul>
+		<ul><li class="bankomaty"><label for="id_wplata_wplatomat">wpłata we wpłatomacie:</label> <input type="text" name="wplata_wplatomat" value="1" id="id_wplata_wplatomat" /></li><li class="kwota"><label for="id_wplata_wplatomat_kwota">zazwyczaj na kwotę:</label>  <input type="text" name="wplata_wplatomat_kwota" value="400" id="id_wplata_wplatomat_kwota" /><label for="id_wplata_wplatomat" class="zl">zł</label></li>
+		
+		</td>
+	</tr>
+	
+	<tr class="bankomaty">
+	<td colspan="2">
+		<table cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td>
+			<label for="id_bezplatny_rachunek">Bezpłatny rachunek pomocniczy</label>
+			<input type="checkbox" name="bezplatny_rachunek" id="id_bezplatny_rachunek" />
+			</td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	
+	
+</table>
+
+
+				<input type="submit" class="submit_long" value="Porównaj oferty"/>
+				
+			</form>
+		</div>
+		<div class="down"></div>
+	</div>
+	
+	<!-- reklama -->
+</div>
+
+
+<style>#kalkulator {min-height: 20px;}</style>
+
+<!-- code: /firma/konta-firmowe | 425x50-1 | /firma/konta-firmowe  | BELKA_SRODTEKSTOWA -->
+   <div class="advertisement ad-425-50">
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/firma/pozostale : belka_425x50 //-->
+<div id="adoceanggoelshmnlfy"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.firma.pozostale.pozostale belka 425x50 BKID:72209115166295590 */
+ado.slave('adoceanggoelshmnlfy', {myMaster: 'Tc38VFO0jRxbEWPmLvG726uj4YYzXccvLcJd2XvzW.v.27' });
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+  <div class="clear"></div>
+</div>
+<div id="column_center">
+  
+
+	<div class="box_window_336">
+		<div class="title_blue">Wiadomości dnia</div>     
+<div class="content_white">
+
+	<h2 class="item_title"><a href="/wiadomosc/Przedsiebiorcy-rzadko-korzystaja-z-preferencyjnych-kredytow-2888023.html">Przedsiębiorcy rzadko korzystają z preferencyjnych  kredytów</a></h2>
+
+   <div class="simple_text">Przedsiębiorcy rzadko korzystają z preferencyjnych poręczeń oraz kredytów. Takie instrumenty oferowane są w ramach programów...</div>
+   <div class="line_top" style="clear: both;">
+      <ul>
+
+
+
+
+
+<script language="javascript1.2" type="text/javascript"><!--
+var _gde_lioifvouqx = new Image(1,1);
+_gde_lioifvouqx.src='http://gg.hit.gemius.pl/redot.gif?l=8/tstamp='+(new Date()).getTime()+'/id=cjHgko8Uf9uTW_AG_p9gtnZGzUWNJ48wGcNwpFdHPYL.y7/stparam=lioifvouqx/fastid=jjrfvdskjdfcxikjxyhvktxnhgmc';
+//--></script>
+
+
+
+
+
+
+
+
+
+   <li class="artykul-sponsorowany"><a href="http://gg.hit.gemius.pl/hitredir/id=.ceVVKeTSaRJE32E55bEDMQLzZBKXkNDjjX89u_k7vv.R7/stparam=rdppcwkpol/fastid=ehdmykhmihjkxpevtkigtkjgdnkt/url=http://effnet.pl/scripts/click.php?a_aid=066&a_bid=cf18bfc4">Szukasz wsparcia dla firmy?<span style="color: #444; display: inline; float: none; width: auto; padding-left: 4px">(REKLAMA)</span></a></li>   
+<script language='javascript1.2' type='text/javascript'><!--
+var _gde_ucijpirkeq = new Image(1,1);
+_gde_ucijpirkeq.src='http://gg.hit.gemius.pl/redot.gif?l=8/tstamp='+(new Date()).getTime()+'/id=.ceVVKeTSaRJE32E55bEDMQLzZBKXkNDjjX89u_k7vv.R7/stparam=ucijpirkeq/fastid=dyxqicekcsdqfbikdwhazsrytflh';
+//--></script>
+
+
+
+
+
+
+
+
+
+
+   <li><a href="/wiadomosc/Nie-kazda-firma-potrzebuje-samochodu-2883932.html">Nie każda firma potrzebuje samochodu</a></li>
+
+
+
+   <li><a href="/wiadomosc/Jak-dlugo-trzeba-czekac-na-kredyt-z-gwarancja-de-minimis-2871616.html">Jak długo trzeba czekać na kredyt z gwarancją de minimis</a></li>
+
+
+
+   <li><a href="/wiadomosc/Ranking-szybkich-kredytow-dla-firm-lipiec-2013-2875036.html">Ranking szybkich kredytów dla firm - lipiec 2013</a></li>
+
+
+
+   <li><a href="/wiadomosc/Bank-Zachodni-WBK-wypowiedzial-Focie-umowy-kredytowe-2872779.html">Bank Zachodni WBK wypowiedział Focie umowy kredytowe</a></li>
+
+
+
+   <li><a href="/wiadomosc/Skad-pieniadze-na-wlasny-biznes-juz-na-studiach-2867569.html">Skąd pieniądze na własny biznes już na studiach?</a></li>
+
+
+
+   <li><a href="/wiadomosc/Jak-rozliczyc-koszty-i-przychody-zwiazane-z-firmowym-kontem-bankowym-2866131.html">Jak rozliczyć koszty i przychody związane z firmowym kontem bankowym?</a></li>
+
+
+
+   <li><a href="/wiadomosc/Kredyt-z-gwarancja-de-minimis-a-zwykly-kredyt-obrotowy-2864757.html">Kredyt z gwarancją de minimis a zwykły kredyt obrotowy</a></li>
+
+
+
+   <li><a href="/wiadomosc/KNF-zgodzila-sie-na-polaczenie-Polskiego-Banku-Przedsiebiorczosci-i-FM-Banku-2863757.html">KNF zgodziła się na połączenie Polskiego Banku Przedsiębiorczości i FM Banku</a></li>
+
+
+
+   <li><a href="/wiadomosc/FM-Bank-wspiera-Gwarancjami-de-minimis-Przedsiebiorcow-2863357.html">FM Bank wspiera Gwarancjami de minimis Przedsiębiorców</a></li>
+
+
+
+   <li><a href="/wiadomosc/POHiD-zakaz-handlu-w-niedziele-zmniejszy-zatrudnienie-w-branzy-o-40-55-tys-osob-2859563.html">POHiD: zakaz handlu w niedzielę zmniejszy zatrudnienie w branży o 40-55 tys. osób</a></li>
+
+
+
+      </ul>
+      
+   <div class="clear"></div>
+   </div>
+   <div class="right"><a href="http://www.bankier.pl/firma/uslugi_bankowe/news.html?type_id=1&category=91&order=timedesc&priority=2-20">więcej</a></div>
+
+</div>
+<div class="footer_white"></div>
+
+
+
+
+	</div>
+
+	<div class="box_window_336">
+	        <div class="title_darkblue">Rankingi produktów finansowych</div>
+<div class="content_blue">
+	   
+  <ul class="point_blue">
+        <li><a href="/wiadomosc/Ranking-szybkich-kredytow-dla-firm-lipiec-2013-2875036.html">Ranking szybkich kredytów dla firm - lipiec 2013</a></li>
+        <li><a href="/wiadomosc/Ranking-kont-dla-firm-Bankier-pl-czerwiec-2013-2855765.html">Ranking kont dla firm Bankier.pl - czerwiec 2013</a></li>
+        <li><a href="/wiadomosc/Ranking-kredytow-z-gwarancja-de-minimis-maj-2013-2836769.html">Ranking kredytów z gwarancją de minimis &#8211; maj 2013</a></li>
+        <li><a href="/wiadomosc/Ranking-kredytow-samochodowych-Bankier-pl-maj-2013-2817863.html">Ranking kredytów samochodowych Bankier.pl &#8211; maj 2013</a></li>
+        <li><a href="/wiadomosc/Ranking-kont-firmowych-kwiecien-2013-2796804.html">Ranking kont firmowych &#8211; kwiecień 2013</a></li>
+   </ul>
+   <div class="right"><a href="http://www.bankier.pl/wiadomosci/news.html?thread_id=530">więcej</a></div>
+
+      <div class="clear"></div>
+</div>
+<div class="footer_white"></div>
+
+
+	</div>
+
+	<div class="box_window_336">
+		  <div class="title_darkblue">Narzędzia</div>
+  <div class="icon"><img class="png" src="/media/finanse/images/ico_kalkulator_60.png" alt="Kalkulator" /></div>
+  <div class="content_blue">
+    <ul>
+   <li><a href="/fo/podatki/narzedzia/kalkulator_placowy/"><strong>Kalkulator płacowy</strong></a></li>
+         
+   <li><a href="http://www.bankier.pl/firma/podatki/narzedzia/niezbednik/"><strong>Niezbędnik podatnika i przedsiębiorcy</strong></a></li>
+         
+   <li><a href="/fo/kredyty/narzedzia/kalkulator_apr/"><strong>Oblicz rzeczywiste oprocentowanie kredytu</strong></a></li>
+         
+   <li><a href="/fo/podatki/narzedzia/kalendarium/"><strong>Kalendarium podatnika i przedsiębiorcy</strong></a></li>
+         
+   <li><a href="/firma/podatki/narzedzia/kal_podatkowy/"><strong>Kalkulator odsetek podatkowych i ustawowych</strong></a></li>
+         
+   <li><a href="/firma/narzedzia/vat/"><strong>Kalkulator podatku VAT</strong></a></li>
+         
+   </ul>
+    <div class="clear"></div>
+
+
+       <div class="right"><a href="http://www.bankier.pl/firma/niezbednik/index.html">więcej</a></div>
+
+
+
+   </div>
+  <div class="footer_white">
+  </div>
+
+	</div>
+
+
+   
+  <div class="clear"></div>
+</div>
+
+		</div>
+		</div>
+	        <div style="clear: both"></div>
+	</div> <!-- /main_content -->
+	
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+<!-- google-analytics -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-325086-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- end google-analytics -->
+
+
+
+
+
+
+
+<!-- (c) 2008 Gemius SA / gemiusHeatMap(GHM+XY) / http://www.bankier.pl -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ghmxy_align = 'center';
+var ghmxy_type = 'absolute';
+var ghmxy_identifier = 'ndbq_HMBGwk6w9QTnR_FeGYmLXU1EM82cIVb5IqSO0D.f7';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://pro.hit.gemius.pl/hmapxy.js"></script>
+
+
+</div> <!-- /main -->
+<!-- code: /firma/konta-firmowe | 0x0-master | /firma/konta-firmowe  | DHTML -->
+   
+
+
+
+
+<div align="center">
+
+<!-- bankier/firma/pozostale : DHTML_1x1 //-->
+<div id="adoceanggrdemepdhgd"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, GaduGadu.Bankier.pl.firma.pozostale.pozostale DHTML 1x1 BKID:72209115166256700 */
+ado.slave('adoceanggrdemepdhgd', {myMaster: 'Tc38VFO0jRxbEWPmLvG726uj4YYzXccvLcJd2XvzW.v.27' });
+</script>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- (C)2005 Gemius SA - gemiusAudience  / bankier.pl / firma_Pozostale -->
+<script language="javascript" type="text/javascript">
+<!--
+var pp_gemius_identifier = new String('zNDrOXAsbEQJcrLtERaQI5ewHeHUUEemHkTIj_nRckj.W7');
+//-->
+</script>
+<script language="javascript" type="text/javascript" src="http://arbo.hit.gemius.pl/pp_gemius.js"></script>
+ 
+
+
+
+
+
+
+
+
+
+
+
+<!-- (C) 2000-2005 Gemius SA - gemiusTraffic / ver 11.1 / firma_pozostale --> 
+<script type="text/javascript">
+var gemius_identifier = new String('B206sS9CZ2FtXv.AxX0O9oXD.qgdWLu3J7tIm1gNxk3.W7');
+</script>
+<script type="text/javascript" src="/inc/js/gemius.js"></script> 
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+< n%filter>
+  s{/static/}
+   {http://www.bankier.pl/static/};
+  s{/sg/jesien/najwazniejsze/}{/wiadomosci/}
+</%filter>
+
+
+
+
+

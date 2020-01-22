@@ -1,0 +1,1090 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl | Fundusze inwestycyjne i emerytalne</title>
+    <meta name="description" value="" />
+    <meta name="keywords" value="" />
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/pbjs/jquery-1.7.2.all.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/metadata.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    <script src="/pbjs/all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+var adoKeys = [];
+var adoVars = "";
+</script>
+<script type="text/javascript" src="http://myao.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009 */
+	if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+	ado.config({mode: "old", xml: false, characterEncoding: true});
+	ado.preview({enabled: true, emiter: "myao.adocean.pl", id: "y6g3tTbLJv6vLRZ.AfyeiXkCPM0gL3CNAik2rwTzhKD.N7"});
+</script>    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = -1;
+    </script>
+	<meta http-equiv="Cache-Control" content="max-age=220">
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var as1 = $("#as1").val();
+    var as2 = $("#as2").val();
+    $("#rq0").val(parseInt(as1) * parseInt(as2) % 1974);
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+cookies_alert();
+</script>
+<div id="site">
+<div id="header">
+<div id="logo"><a href="http://www.pb.pl"><img src="/img/pbpl.png" alt="Puls Biznesu" /></a></div>
+<div id="billboard">
+
+<div id="ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2012, pulsbiznesu.notowania.Panorama article */
+ado.placement({id: 'ado-cmJcPkcinW87BwP6eWw7k33BMgChq.48hnRgRpSA87z.l7', server: 'myao.adocean.pl', keys: adoKeys || [], vars: adoVars || {} });
+</script>
+
+
+</div><!-- /#billboard -->
+
+</div><!-- /#header -->
+<div id="ticker">
+<div id="selector">
+<select onchange="document.getElementById('tickerframe').src = this.value; ">
+   <option value="/ticker/MainPageIndexes">indeksy</option>
+   <option value="/ticker/WIG">WIG</option> 
+   <option value="/ticker/WIG20">WIG20</option>
+</select>
+</div>
+<iframe id="tickerframe" src="/ticker/MainPageIndexes" style="border: 0; width: 850px; height: 18px; padding: 0; " marginwidth="0" marginheight="0" frameborder="0" scrolling="no" ></iframe>
+</div>
+<div id="nav">
+<ul class="bigmenu">
+<li><a href="/" class=""><span class="pre"></span><span class="in">PRZEGLĄD</span><span class="post"></span></a></li>
+<li><a href="/gpw/" class=""><span class="pre"></span><span class="in">GPW</span><span class="post"></span></a></li>
+<li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA" class=""><span class="pre"></span><span class="in">TABELA SPÓŁEK</span><span class="post"></span></a></li>
+<li><a href="/funds/" class="selected"><span class="pre"></span><span class="in">FUNDUSZE</span><span class="post"></span></a></li>
+<li><a href="/foreign/" class=""><span class="pre"></span><span class="in">ZAGRANICA</span><span class="post"></span></a></li>
+<li><a href="/currencies/" class=""><span class="pre"></span><span class="in">WALUTY</span><span class="post"></span></a></li>
+<li><a href="/commodities/" class=""><span class="pre"></span><span class="in">SUROWCE</span><span class="post"></span></a></li>
+<li><a href="http://doradca.pb.pl" class=""><span class="pre"></span><span class="in">DORADCA</span><span class="post"></span></a></li>
+</ul>
+
+<div id="shortcuts">
+   <a href="#" class="menu_title" onmouseover="$('#shortcuts_menu').show(); " onmouseout="$('#shortcuts_menu').hide(); ">Na skróty</a>
+   <ul id="shortcuts_menu" onmouseover="this.style.display = 'block';"onmouseout="this.style.display = 'none'; ">   
+   <li><a href="/stocktable/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Spółki giełdowe - pełna tabela</a></li>
+   <li><a href="/krotkasprzedaz/AK,C1,C2,C3,C4,C5,C6,C7,C8,C9,S1,S5,DA">Krótka sprzedaż</a></li>
+   <li><a href="/currencies/">Fixing NBP</a></li>   
+   <li><a href="/akcjainwestor">Akcja Inwestor</a></li>   
+   <li><a href="/espis">Komunikaty ESPI</a></li>
+   <li><a href="/rekomendacje">Rekomendacje</a></li>
+   <li><a href="/technical">Analiza techniczna</a></li>
+   <li><a href="/analiza_techniczna">Encyklopedia analizy technicznej</a></li>
+   <li><a href="http://www.pb.pl/gielda/gielda_w_pigulce/index.html">Giełdowe ABC</a></li>
+   <li><a href="/stocktable/WIG">Wskaźniki</a></li>
+   <li><a href="/stocktable/00I,Wallets">Indeksy</a></li>
+   <li><a href="/currencies/">Stopy procentowe</a></li>
+   <li><a href="/instrument/PBWALLPB">Portfel PB</a></li>
+   
+   </ul>
+</div>
+
+<div id="search">
+<form action="/search/" method="get" name="search_form">
+	<input type="text" name="q" class="search_text" value="wpisz nazwę..." onfocus="this.value = ''; " />
+	<button type="submit">Szukaj</button>
+	</form>
+    </div><!-- / #search -->		
+</div><!-- / #nav -->
+<div id="main">
+<div id="widebox"></div>
+
+<div id="left">
+	<div class="head">
+		
+	</div>
+    <div id="kernel">
+    
+
+<div id="bigbox">
+<div class="left">
+<ul>
+
+
+
+
+
+<li id="_bigbox_CUN15" class="up c">
+<a href="/instrument/CUN15/aviva-investors-specjalistyczny-fundusz-inwestycyjny-otwarty-subfundusz-aviva-investors-akcyjny" class="up" onmouseover="bfl('CUN15', '/chart_daily/MediumChart/CUN15/270/200', 'bigbox');" id="bigbox_CUN15">
+			<span class="c1 long"><b>Aviva Investors... </b></span>
+	
+			<span class="number c2">+2.72%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_CUN14" class="down c">
+<a href="/instrument/CUN14/aviva-investors-specjalistyczny-fundusz-inwestycyjny-otwarty-subfundusz-aviva-investors-dluzny" class="down" onmouseover="bfl('CUN14', '/chart_daily/MediumChart/CUN14/270/200', 'bigbox');" id="bigbox_CUN14">
+			<span class="c1 long"><b>Aviva Investors... </b></span>
+	
+			<span class="number c2">-0.81%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PIO02" class="up c">
+<a href="/instrument/PIO02/pioneer-fundusz-inwestycyjny-otwarty-subfundusz-pioneer-obligacji-plus" class="up" onmouseover="bfl('PIO02', '/chart_daily/MediumChart/PIO02/270/200', 'bigbox');" id="bigbox_PIO02">
+			<span class="c1 long"><b>Pioneer Fundusz Inwestycyjny... </b></span>
+	
+			<span class="number c2">+0.31%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_ING11" class="up c">
+<a href="/instrument/ING11/ing-specjalistyczny-fundusz-inwestycyjny-otwarty-obligacji-2" class="up" onmouseover="bfl('ING11', '/chart_daily/MediumChart/ING11/270/200', 'bigbox');" id="bigbox_ING11">
+			<span class="c1 long"><b>ING Specjalistyczny Fundusz... </b></span>
+	
+			<span class="number c2">+0.57%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_MIL04" class="up c">
+<a href="/instrument/MIL04/millennium-fundusz-inwestycyjny-otwarty-subfundusz-depozytowy" class="up" onmouseover="bfl('MIL04', '/chart_daily/MediumChart/MIL04/270/200', 'bigbox');" id="bigbox_MIL04">
+			<span class="c1 long"><b>Millennium Fundusz... </b></span>
+	
+			<span class="number c2">+0.52%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_ING10" class="down c">
+<a href="/instrument/ING10/ing-specjalistyczny-fundusz-inwestycyjny-otwarty-akcji-2" class="down" onmouseover="bfl('ING10', '/chart_daily/MediumChart/ING10/270/200', 'bigbox');" id="bigbox_ING10">
+			<span class="c1 long"><b>ING Specjalistyczny Fundusz... </b></span>
+	
+			<span class="number c2">-0.32%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PZU05" class="down c">
+<a href="/instrument/PZU05/pzu-fundusz-inwestycyjny-otwarty-parasolowy-subfundusz-pzu-stabilnego-wzrostu-mazurek" class="down" onmouseover="bfl('PZU05', '/chart_daily/MediumChart/PZU05/270/200', 'bigbox');" id="bigbox_PZU05">
+			<span class="c1 long"><b>PZU Fundusz Inwestycyjny... </b></span>
+	
+			<span class="number c2">-0.83%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PZU05" class="down c">
+<a href="/instrument/PZU05/pzu-fundusz-inwestycyjny-otwarty-parasolowy-subfundusz-pzu-stabilnego-wzrostu-mazurek" class="down" onmouseover="bfl('PZU05', '/chart_daily/MediumChart/PZU05/270/200', 'bigbox');" id="bigbox_PZU05">
+			<span class="c1 long"><b>PZU Fundusz Inwestycyjny... </b></span>
+	
+			<span class="number c2">-0.83%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PCS05" class="up c">
+<a href="/instrument/PCS05/pko-skarbowy-fundusz-inwestycyjny-otwarty" class="up" onmouseover="bfl('PCS05', '/chart_daily/MediumChart/PCS05/270/200', 'bigbox');" id="bigbox_PCS05">
+			<span class="c1 long"><b>PKO Skarbowy Fundusz... </b></span>
+	
+			<span class="number c2">+0.24%</span>
+	
+</a></li>
+
+
+
+
+<li id="_bigbox_PCS24" class="up c">
+<a href="/instrument/PCS24/pko-parasolowy-fundusz-inwestycyjny-otwarty-subfundusz-papierow-dluznych-plus" class="up" onmouseover="bfl('PCS24', '/chart_daily/MediumChart/PCS24/270/200', 'bigbox');" id="bigbox_PCS24">
+			<span class="c1 long"><b>PKO Parasolowy Fundusz... </b></span>
+	
+			<span class="number c2">+0.47%</span>
+	
+</a></li>
+
+</ul>
+<br />
+<p class="bigbox_description">Miesięczna stopa zwrotu</p>
+</div>
+
+<div class="right">
+<a id="bigbox_chart_link" href="/instrument/CUN15/aviva-investors-specjalistyczny-fundusz-inwestycyjny-otwarty-subfundusz-aviva-investors-akcyjny"><img src="/chart_daily/MediumChart/CUN15/270/200" id="bigbox_chart" alt="wykres" /></a>
+</div>
+</div><!-- / #bigbox -->
+<script type="text/javascript">
+pbtools.apreload("/chart_daily/MediumChart/CUN15/270/200,/chart_daily/MediumChart/CUN14/270/200,/chart_daily/MediumChart/PIO02/270/200,/chart_daily/MediumChart/ING11/270/200,/chart_daily/MediumChart/MIL04/270/200,/chart_daily/MediumChart/ING10/270/200,/chart_daily/MediumChart/PZU05/270/200,/chart_daily/MediumChart/PZU05/270/200,/chart_daily/MediumChart/PCS05/270/200,/chart_daily/MediumChart/PCS24/270/200".split(','));
+</script>
+
+<div class="spacer">&nbsp;</div>
+
+<div>
+<div id="ado-wH3s50v9LUNZwKjzl90Mk7bU3O4wJL.hin5PLQQ_7XH.e7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.Pod boksem fundusze */
+ado.placement({id: 'ado-wH3s50v9LUNZwKjzl90Mk7bU3O4wJL.hin5PLQQ_7XH.e7', server: 'myao.adocean.pl' });
+</script>
+</div>
+
+    </div><!-- / #kernel -->
+
+    <div id="newsroom">
+    
+
+
+<!-- news1 -->
+<div id="news1">
+<div class="content">
+<h2>Wiadomości</h2>
+
+
+<div id="ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.1 kolumna news GPW */
+ado.placement({id: 'ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7', server: 'myao.adocean.pl' });
+</script>
+    <p class="first"><a href="http://www.pb.pl/3054305,64181" target="_blank"><span class="dt">22:02</span> Prezydent Cypru może być zmuszony do dymisji </a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054298,13949" target="_blank"><span class="dt">21:44</span> Rozmowy ostatniej szansy o ratowaniu Cypru </a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054225,54932" target="_blank"><span class="dt">21:19</span> Pieniądze mogą "zadusić" Norwegię</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054303,95498" target="_blank"><span class="dt">21:09</span> Kalendarium, poniedziałek 25 marca</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054302,13954" target="_blank"><span class="dt">21:02</span> Miliarder ostrzega grających na krótko przeciw niemu</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054300,49678" target="_blank"><span class="dt">20:40</span> Lou: Euroland może nie rozwiązać swoich problemów w ciągu dekady</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054234,69473" target="_blank"><span class="dt">19:46</span> Cypr: tylko do 100 EUR z bankomatów</a></p>
+    
+</div><!--  /.content -->
+<div id="ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.1 kolumna news przeglad dol */
+ado.placement({id: 'ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7', server: 'myao.adocean.pl' });
+</script>
+<a href="http://www.pb.pl/" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie wiadomości</a>
+
+</div><!-- /news1 -->
+
+
+<!--  news2 -->
+<div id="news2">
+<div class="content">
+<h2>Puls Biznesu</h2>
+<div id="ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.2 kolumna news */
+ado.placement({id: 'ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67', server: 'myao.adocean.pl' });
+</script>
+	
+	    <div class="box">
+	    	<h3><a href="http://www.pb.pl/3050336,28478" target="_blank">Gazela Biznesu nie trafi za kratki</a></h3>
+	    	<p><a href="http://www.pb.pl/3050336,28478" target="_blank">Przedsiębiorca, któremu prokuratura zarzuca wyłudzenie 11 mln zł VAT, zostanie na wolności. Na jego aresztowanie nie zgodził się już drugi...&nbsp;<img src="/style/pointer_red.gif" alt="..." /></a></p>
+	    </div>
+	    <div class="box">
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049885," target="_blank">W sprawie JTT każdy sąd wie swoje</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049881," target="_blank">BGK – ostatni bastion kominiarzy</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049878," target="_blank">Roman Karkosik chwyta za kielnię</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3047733," target="_blank">Neverending story w Straży Granicznej</a></p>
+	
+	</div>
+</div><!-- /.content -->
+<a href="http://prenumerata.pb.pl/Today" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />czytaj e-wydanie</a>
+</div><!-- /news2 -->
+
+
+<!--  news3 -->
+<div id="news3">
+<div class="content">
+<h2>Forum</h2>
+<h3><a href="http://www.pb.pl/3054225," >Pieniądze mogą "zadusić" Norwegię</a></h3>
+<p style="font-weight: bold; color: #816F43; margin: 6px 0 6px 5px;">komentarze:</p> 
+<div class="box">
+<p class="comment pointer">dokładnie "and" jak się niema problemów to się ich szuka na siłę!</p>
+<p class="author">Barkley</p>
+<p class="comment pointer">Żałuje że niemamy takich problemów...</p>
+<p class="author">and</p>
+<p class="comment pointer">Dokładnie lans ! Ideologia liberalna ważniejsza od zdrowego rozsądku :-)</p>
+<p class="author">abx</p>
+</div>
+</div><!--  /.content -->
+<a href="http://www.pb.pl/3054225,&amp;readcomment=1#comment" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news3 -->
+
+
+<!--  news4 -->
+<div id="news4">
+<div class="content">
+<h2>Komentarze</h2>
+
+    <div class="box">
+    		<h3>Tadeusz Stasiuk</h3>
+    	<img src="/img/people/stasiuk.jpg" class="head" alt="Tadeusz Stasiuk" />
+		<p class="head"><a href="http://www.pb.pl/3040606," target="_blank">W minionym tygodniu klienci amerykańskich funduszy powierniczych ulokowali w nich 2,94 mld USD,...</a></p>
+    </div>
+    <div class="box">
+
+    <p class="pointer"><a href="http://www.pb.pl/3039133," target="_blank">980 mln zł dodatkowych pieniędzy w TFI</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/3037151," target="_blank">Norweski fundusz naftowy zwiększył wartość o 13,4 proc. </a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/2980269," target="_blank">W 2021 roku 30 proc. inwestycji OFE poza Polską</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/2975205," target="_blank">Enterprise Investors będzie odżywiać sportowców</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/2959350," target="_blank">Avallon napełnił drugą kieszeń</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/2959251," target="_blank">Słaba sprzedaż Open Finance</a></p>
+
+</div>
+</div><!-- /.content -->
+<a href="http://www.pb.pl/forum" class="more" ><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news4 -->
+
+
+    </div><!-- / #newsroom -->
+
+</div><!-- / # left -->
+
+<div id="right">
+ 
+    <div class="spacer">&nbsp;</div>
+    <div id="varia">
+    
+
+<div class="funds">
+<p style="margin-top: 0px; ">
+<b>Pełna tabela funduszy:</b> <select onchange="if (this.value != '') {document.location = '/fundtable/' + this.value;} " style="font-size: 11px; ">
+<option value="">(wybierz)</option>
+<option value="166/fundusze-stabilnego-wzrostu-zagraniczne">stabilnego wzrostu zagraniczne</option>
+<option value="299/fundusze-gotowkowe-i-pieniezne-zagraniczne-pozostale">gotówkowe i pieniężne zagraniczne pozostałe</option>
+<option value="304/fundusze-stabilnego-wzrostu-globalnych-rynkow-rozwinietych-waluta">stabilnego wzrostu globalnych rynków rozwiniętych (waluta)</option>
+<option value="149/fundusze-dluzne-chf">dłużne CHF</option>
+<option value="278/fundusze-dluzne-chf-uniwersalne-waluta">dłużne CHF uniwersalne (waluta)</option>
+<option value="156/fundusze-dluzne-usa">dłużne USA</option>
+<option value="280/fundusze-dluzne-dkk-uniwersalne-waluta">dłużne DKK uniwersalne (waluta)</option>
+<option value="285/fundusze-dluzne-jpy-uniwersalne-waluta">dłużne JPY uniwersalne (waluta)</option>
+<option value="150/fundusze-"></option>
+<option value="153/fundusze-dluzne-jpy">dłużne JPY</option>
+<option value="155/fundusze-dluzne-sek">dłużne SEK</option>
+<option value="310/fundusze-stabilnego-wzrostu-zagraniczne-pozostale">stabilnego wzrostu zagraniczne pozostałe</option>
+<option value="309/fundusze-stabilnego-wzrostu-rynku-amerykanskiego">stabilnego wzrostu rynku amerykańskiego</option>
+<option value="288/fundusze-dluzne-sek-uniwersalne-waluta">dłużne SEK uniwersalne (waluta)</option>
+<option value="279/fundusze-dluzne-chf-uniwersalne">dłużne CHF uniwersalne</option>
+<option value="165/fundusze-stabilnego-wzrostu-polskie">stabilnego wzrostu polskie</option>
+<option value="303/fundusze-stabilnego-wzrostu-europejskich-rynkow-rozwinietych-waluta">stabilnego wzrostu europejskich rynków rozwiniętych (waluta)</option>
+<option value="306/fundusze-stabilnego-wzrostu-zagraniczne-pozostale-waluta">stabilnego wzrostu zagraniczne pozostałe (waluta)</option>
+<option value="257/fundusze-mieszane-polskie-sektorowe-pozostale">mieszane polskie sektorowe pozostałe</option>
+<option value="260/fundusze-mieszane-rynku-azjatyckiego-bez-japonii-waluta">mieszane rynku azjatyckiego bez Japonii (waluta)</option>
+<option value="263/fundusze-mieszane-europejskich-rynkow-wschodzacych-waluta">mieszane europejskich rynków wschodzących (waluta)</option>
+<option value="256/fundusze-mieszane-polskie-sektora-nieruchomosci">mieszane polskie sektora nieruchomości</option>
+<option value="219/fundusze-akcji-afryki">akcji Afryki</option>
+<option value="222/fundusze-akcji-bric">akcji BRIC</option>
+<option value="250/fundusze-akcji-ukrainskich">akcji ukraińskich</option>
+<option value="214/fundusze-akcji-ukrainskich-waluta">akcji ukraińskich (waluta)</option>
+<option value="307/fundusze-stabilnego-wzrostu-europejskich-rynkow-rozwinietych">stabilnego wzrostu europejskich rynków rozwiniętych</option>
+<option value="208/fundusze-akcji-szwedzkich-waluta">akcji szwedzkich (waluta)</option>
+<option value="305/fundusze-stabilnego-wzrostu-rynku-amerykanskiego-waluta">stabilnego wzrostu rynku amerykańskiego (waluta)</option>
+<option value="302/fundusze-stabilnego-wzrostu-polskie-pozostale">stabilnego wzrostu polskie pozostałe</option>
+<option value="271/fundusze-mieszane-rynku-amerykanskiego">mieszane rynku amerykańskiego</option>
+<option value="266/fundusze-mieszane-rynku-azjatyckiego-bez-japonii">mieszane rynku azjatyckiego bez Japonii</option>
+<option value="267/fundusze-mieszane-rynku-chinskiego">mieszane rynku chińskiego</option>
+<option value="270/fundusze-mieszane-europejskich-rynkow-wschodzacych">mieszane europejskich rynków wschodzących</option>
+<option value="301/fundusze-stabilnego-wzrostu-polskie-uniwersalne">stabilnego wzrostu polskie uniwersalne</option>
+<option value="308/fundusze-stabilnego-wzrostu-globalnych-rynkow-rozwinietych">stabilnego wzrostu globalnych rynków rozwiniętych</option>
+<option value="221/fundusze-akcji-azjatyckich-bez-japonii">akcji azjatyckich bez Japonii</option>
+<option value="224/fundusze-akcji-chinskich">akcji chińskich</option>
+<option value="235/fundusze-akcji-koreanskich">akcji koreańskich</option>
+<option value="240/fundusze-akcji-pakistanskich">akcji pakistańskich</option>
+<option value="244/fundusze-akcji-singapurskich">akcji singapurskich</option>
+<option value="239/fundusze-akcji-pacyfiku">akcji Pacyfiku</option>
+<option value="247/fundusze-akcji-tajskich">akcji tajskich</option>
+<option value="258/fundusze-mieszane-polskie-uniwersalne">mieszane polskie uniwersalne</option>
+<option value="269/fundusze-mieszane-globalnych-rynkow-rozwinietych">mieszane globalnych rynków rozwiniętych</option>
+<option value="268/fundusze-mieszane-europejskich-rynkow-rozwinietych">mieszane europejskich rynków rozwiniętych</option>
+<option value="210/fundusze-akcji-tajskich-waluta">akcji tajskich (waluta)</option>
+<option value="220/fundusze-akcji-azjatyckich-bez-japonii-mis">akcji azjatyckich bez Japonii MIŚ</option>
+<option value="223/fundusze-akcji-brazylijskich">akcji brazylijskich</option>
+<option value="173/fundusze-akcji-afryki-waluta">akcji Afryki (waluta)</option>
+<option value="199/fundusze-akcji-pakistanskich-waluta">akcji pakistańskich (waluta)</option>
+<option value="259/fundusze-mieszane-polskie-pozostale">mieszane polskie pozostałe</option>
+<option value="273/fundusze-nieruchomosci-uniwersalne">nieruchomości uniwersalne</option>
+<option value="274/fundusze-ochrony-kapitalu-polskie-z-gwarancja">ochrony kapitału polskie z gwarancją</option>
+<option value="275/fundusze-ochrony-kapitalu-polskie-uniwersalne">ochrony kapitału polskie uniwersalne</option>
+<option value="164/fundusze-sekurytyzacyjne">sekurytyzacyjne</option>
+<option value="264/fundusze-mieszane-rynku-amerykanskiego-waluta">mieszane rynku amerykańskiego (waluta)</option>
+<option value="186/fundusze-akcji-niemieckich-waluta">akcji niemieckich (waluta)</option>
+<option value="180/fundusze-akcji-dunskich-waluta">akcji duńskich (waluta)</option>
+<option value="183/fundusze-akcji-europejskich-rynkow-wschodzacych-mis-waluta">akcji europejskich rynków wschodzących MIŚ (waluta)</option>
+<option value="151/fundusze-dluzne-europejskie">dłużne europejskie</option>
+<option value="152/fundusze-dluzne-globalne">dłużne globalne</option>
+<option value="160/fundusze-gotowkowe-i-pieniezne-gbp">gotówkowe i pieniężne GBP</option>
+<option value="162/fundusze-gotowkowe-i-pieniezne-usd">gotówkowe i pieniężne USD</option>
+<option value="163/fundusze-gotowkowe-i-pieniezne-zagraniczne">gotówkowe i pieniężne zagraniczne</option>
+<option value="157/fundusze-dluzne-zagraniczne">dłużne zagraniczne</option>
+<option value="158/fundusze-gotowkowe-i-pieniezne-chf">gotówkowe i pieniężne CHF</option>
+<option value="159/fundusze-gotowkowe-i-pieniezne-eur">gotówkowe i pieniężne EUR</option>
+<option value="281/fundusze-dluzne-europejskie-uniwersalne-waluta">dłużne europejskie uniwersalne (waluta)</option>
+<option value="297/fundusze-gotowkowe-i-pieniezne-usd-waluta">gotówkowe i pieniężne USD (waluta)</option>
+<option value="298/fundusze-gotowkowe-i-pieniezne-zagraniczne-pozostale-waluta">gotówkowe i pieniężne zagraniczne pozostałe (waluta)</option>
+<option value="282/fundusze-dluzne-europejskie-uniwersalne">dłużne europejskie uniwersalne</option>
+<option value="283/fundusze-dluzne-globalne-uniwersalne-waluta">dłużne globalne uniwersalne (waluta)</option>
+<option value="284/fundusze-dluzne-globalne-uniwersalne">dłużne globalne uniwersalne</option>
+<option value="289/fundusze-dluzne-usa-uniwersalne-waluta">dłużne USA uniwersalne (waluta)</option>
+<option value="290/fundusze-dluzne-usa-uniwersalne">dłużne USA uniwersalne</option>
+<option value="291/fundusze-dluzne-zagraniczne-pozostale-waluta">dłużne zagraniczne pozostałe (waluta)</option>
+<option value="292/fundusze-dluzne-zagraniczne-pozostale">dłużne zagraniczne pozostałe</option>
+<option value="293/fundusze-gotowkowe-i-pieniezne-chf-waluta">gotówkowe i pieniężne CHF (waluta)</option>
+<option value="294/fundusze-gotowkowe-i-pieniezne-eur-waluta">gotówkowe i pieniężne EUR (waluta)</option>
+<option value="295/fundusze-gotowkowe-i-pieniezne-gbp-waluta">gotówkowe i pieniężne GBP (waluta)</option>
+<option value="225/fundusze-akcji-globalnych-rynkow-wschodzacych">akcji globalnych rynków wschodzących</option>
+<option value="144/fundusze-mieszane-polskie">mieszane polskie</option>
+<option value="154/fundusze-dluzne-pln">dłużne PLN</option>
+<option value="142/fundusze-rynku-surowcow">rynku surowców</option>
+<option value="145/fundusze-mieszane-zagraniczne">mieszane zagraniczne</option>
+<option value="146/fundusze-nieruchomosci">nieruchomości</option>
+<option value="147/fundusze-ochrony-kapitalu-polskie">ochrony kapitału polskie</option>
+<option value="148/fundusze-ochrony-kapitalu-zagraniczne">ochrony kapitału zagraniczne</option>
+<option value="161/fundusze-gotowkowe-i-pieniezne-pln">gotówkowe i pieniężne PLN</option>
+<option value="140/fundusze-akcji-polskich">akcji polskich</option>
+<option value="141/fundusze-akcji-zagranicznych">akcji zagranicznych</option>
+<option value="277/fundusze-ochrony-kapitalu-zagraniczne-uniwersalne">ochrony kapitału zagraniczne uniwersalne</option>
+<option value="174/fundusze-akcji-azjatyckich-z-japonia-waluta">akcji azjatyckich z Japonią (waluta)</option>
+<option value="262/fundusze-mieszane-globalnych-rynkow-rozwinietych-waluta">mieszane globalnych rynków rozwiniętych (waluta)</option>
+<option value="175/fundusze-akcji-azjatyckich-bez-japonii-mis-waluta">akcji azjatyckich bez Japonii MIŚ (waluta)</option>
+<option value="276/fundusze-ochrony-kapitalu-zagraniczne-uniwersalne-waluta">ochrony kapitału zagraniczne uniwersalne (waluta)</option>
+<option value="178/fundusze-akcji-brazylijskich-waluta">akcji brazylijskich (waluta)</option>
+<option value="185/fundusze-akcji-brytyjskich-waluta">akcji brytyjskich (waluta)</option>
+<option value="203/fundusze-akcji-singapurskich-waluta">akcji singapurskich (waluta)</option>
+<option value="209/fundusze-akcji-szwajcarskich-waluta">akcji szwajcarskich (waluta)</option>
+<option value="226/fundusze-akcji-zagranicznych-sektora-energetycznego">akcji zagranicznych sektora energetycznego</option>
+<option value="206/fundusze-akcji-szwajcarskich-mis-waluta">akcji szwajcarskich MIŚ (waluta)</option>
+<option value="286/fundusze-dluzne-polskie-uniwersalne">dłużne polskie uniwersalne</option>
+<option value="287/fundusze-dluzne-polskie-pozostale">dłużne polskie pozostałe</option>
+<option value="218/fundusze-akcji-zagranicznych-sektora-zdrowia-i-biotechnologii-waluta">akcji zagranicznych sektora zdrowia i biotechnologii (waluta)</option>
+<option value="188/fundusze-akcji-globalnych-rynkow-wschodzacych-mis-waluta">akcji globalnych rynków wschodzących MIŚ (waluta)</option>
+<option value="194/fundusze-akcji-koreanskich-waluta">akcji koreańskich (waluta)</option>
+<option value="189/fundusze-akcji-greckich-waluta">akcji greckich (waluta)</option>
+<option value="213/fundusze-akcji-tajwanskich-waluta">akcji tajwańskich (waluta)</option>
+<option value="216/fundusze-akcji-wloskich-waluta">akcji włoskich (waluta)</option>
+<option value="230/fundusze-akcji-greckich">akcji greckich</option>
+<option value="227/fundusze-akcji-europejskich-rynkow-wschodzacych-mis">akcji europejskich rynków wschodzących MIŚ</option>
+<option value="228/fundusze-akcji-europejskich-rynkow-rozwinietych">akcji europejskich rynków rozwiniętych</option>
+<option value="229/fundusze-akcji-globalnych-rynkow-rozwinietych">akcji globalnych rynków rozwiniętych</option>
+<option value="231/fundusze-akcji-globalnych-rynkow-rozwinietych-mis">akcji globalnych rynków rozwiniętych MIŚ</option>
+<option value="232/fundusze-akcji-indyjskich">akcji indyjskich</option>
+<option value="233/fundusze-akcji-japonskich">akcji japońskich</option>
+<option value="234/fundusze-akcji-japonskich-mis">akcji japońskich MIŚ</option>
+<option value="236/fundusze-akcji-ameryki-lacinskiej">akcji Ameryki Łacińskiej</option>
+<option value="237/fundusze-akcji-bliskiego-wschodu-i-afryki">akcji Bliskiego Wschodu i Afryki</option>
+<option value="238/fundusze-akcji-europejskich-rynkow-wschodzacych">akcji europejskich rynków wschodzących</option>
+<option value="243/fundusze-akcji-europejskich-rynkow-rozwinietych-mis">akcji europejskich rynków rozwiniętych MIŚ</option>
+<option value="246/fundusze-akcji-zagranicznych-sektora-surowcow-mieszanych">akcji zagranicznych sektora surowców mieszanych</option>
+<option value="248/fundusze-akcji-zagranicznych-sektora-technologicznego">akcji zagranicznych sektora technologicznego</option>
+<option value="249/fundusze-akcji-tureckich">akcji tureckich</option>
+<option value="251/fundusze-akcji-amerykanskich">akcji amerykańskich</option>
+<option value="252/fundusze-akcji-zagranicznych-pozostale">akcji zagranicznych pozostałe</option>
+<option value="253/fundusze-rynku-surowcow-pozostale-waluta">rynku surowców pozostałe (waluta)</option>
+<option value="254/fundusze-rynku-surowcow-pozostale">rynku surowców pozostałe</option>
+<option value="255/fundusze-rynku-surowcow-metale-szlachetne">rynku surowców - metale szlachetne</option>
+<option value="143/fundusze-emerytalne">emerytalne</option>
+<option value="217/fundusze-akcji-zagranicznych-pozostale-waluta">akcji zagranicznych pozostałe (waluta)</option>
+<option value="242/fundusze-akcji-rosyjskich">akcji rosyjskich</option>
+<option value="245/fundusze-akcji-zagranicznych-sektorowych-pozostale">akcji zagranicznych sektorowych pozostałe</option>
+<option value="296/fundusze-gotowkowe-i-pieniezne-pln-uniwersalne">gotówkowe i pieniężne PLN uniwersalne</option>
+<option value="300/fundusze-sekurytyzacyjne-uniwersalne">sekurytyzacyjne uniwersalne</option>
+<option value="241/fundusze-akcji-zagranicznych-sektora-nieruchomosci">akcji zagranicznych sektora nieruchomości</option>
+<option value="192/fundusze-akcji-japonskich-waluta">akcji japońskich (waluta)</option>
+<option value="167/fundusze-akcji-polskich-malych-i-srednich-spolek-waluta">akcji polskich małych i średnich spółek (waluta)</option>
+<option value="168/fundusze-akcji-polskich-uniwersalne-waluta">akcji polskich uniwersalne (waluta)</option>
+<option value="169/fundusze-akcji-polskich-malych-i-srednich-spolek">akcji polskich małych i średnich spółek</option>
+<option value="170/fundusze-akcji-polskich-sektora-nieruchomosci">akcji polskich sektora nieruchomości</option>
+<option value="171/fundusze-akcji-polskich-sektorowych-pozostale">akcji polskich sektorowych pozostałe</option>
+<option value="172/fundusze-akcji-polskich-uniwersalne">akcji polskich uniwersalne</option>
+<option value="176/fundusze-akcji-azjatyckich-bez-japonii-waluta">akcji azjatyckich bez Japonii (waluta)</option>
+<option value="177/fundusze-akcji-bric-waluta">akcji BRIC (waluta)</option>
+<option value="179/fundusze-akcji-chinskich-waluta">akcji chińskich (waluta)</option>
+<option value="181/fundusze-akcji-globalnych-rynkow-wschodzacych-waluta">akcji globalnych rynków wschodzących (waluta)</option>
+<option value="182/fundusze-akcji-zagranicznych-sektora-energetycznego-waluta">akcji zagranicznych sektora energetycznego (waluta)</option>
+<option value="184/fundusze-akcji-europejskich-rynkow-rozwinietych-waluta">akcji europejskich rynków rozwiniętych (waluta)</option>
+<option value="187/fundusze-akcji-globalnych-rynkow-rozwinietych-waluta">akcji globalnych rynków rozwiniętych (waluta)</option>
+<option value="190/fundusze-akcji-globalnych-rynkow-rozwinietych-mis-waluta">akcji globalnych rynków rozwiniętych MIŚ (waluta)</option>
+<option value="191/fundusze-akcji-indyjskich-waluta">akcji indyjskich (waluta)</option>
+<option value="195/fundusze-akcji-ameryki-lacinskiej-waluta">akcji Ameryki Łacińskiej (waluta)</option>
+<option value="196/fundusze-akcji-bliskiego-wschodu-i-afryki-waluta">akcji Bliskiego Wschodu i Afryki (waluta)</option>
+<option value="197/fundusze-akcji-europejskich-rynkow-wschodzacych-waluta">akcji europejskich rynków wschodzących (waluta)</option>
+<option value="198/fundusze-akcji-pacyfiku-waluta">akcji Pacyfiku (waluta)</option>
+<option value="200/fundusze-akcji-zagranicznych-sektora-nieruchomosci-waluta">akcji zagranicznych sektora nieruchomości (waluta)</option>
+<option value="201/fundusze-akcji-rosyjskich-waluta">akcji rosyjskich (waluta)</option>
+<option value="204/fundusze-akcji-zagranicznych-sektorowych-pozostale-waluta">akcji zagranicznych sektorowych pozostałe (waluta)</option>
+<option value="205/fundusze-akcji-zag-sektora-surowcow-przemyslowych-waluta">akcji zag. sektora surowców przemysłowych (waluta)</option>
+<option value="207/fundusze-akcji-amerykanskich-mis-waluta">akcji amerykańskich MIŚ (waluta)</option>
+<option value="211/fundusze-akcji-zagranicznych-sektora-technologicznego-waluta">akcji zagranicznych sektora technologicznego (waluta)</option>
+<option value="212/fundusze-akcji-tureckich-waluta">akcji tureckich (waluta)</option>
+<option value="215/fundusze-akcji-amerykanskich-waluta">akcji amerykańskich (waluta)</option>
+<option value="265/fundusze-mieszane-zagraniczne-pozostale-waluta">mieszane zagraniczne pozostałe (waluta)</option>
+<option value="272/fundusze-mieszane-zagraniczne-pozostale">mieszane zagraniczne pozostałe</option>
+<option value="193/fundusze-akcji-japonskich-mis-waluta">akcji japońskich MIŚ (waluta)</option>
+<option value="202/fundusze-akcji-europejskich-rynkow-rozwinietych-mis-waluta">akcji europejskich rynków rozwiniętych MIŚ (waluta)</option>
+<option value="261/fundusze-mieszane-europejskich-rynkow-rozwinietych-waluta">mieszane europejskich rynków rozwiniętych (waluta)</option>
+</select>
+</p>
+<h1>Najwyższe stopy zwrotu</h1>
+<p>Dane funduszy dostarczają <a href="http://www.analizy.pl" target="_blank">Analizy Online</a></p>
+<table>
+	<tr>
+		<th>nazwa</th>
+		<th>wartość jedn.</th>
+		<th>tydzień</th>
+		<th>1&nbsp;mies.</th>
+		<th>6&nbsp;mies.</th>
+		<th>rok</th>
+	</tr>
+	<tr>
+		<th colspan="6" class="time">FUNDUSZE INWESTYCYJNE</th>
+	</tr>
+		
+	
+	
+
+	
+	
+		<tr>
+			<th colspan="6"><a href="/fundtable/140/fundusze-akcji-polskich">akcji polskich &raquo;</a></th>
+		</tr>
+		
+	<tr>
+		<td class="up"><a href="/instrument/KAH10/legg-mason-akcji-skoncentrowany-fiz">Legg Mason Akcji Skoncentrowany FIZ</a></td>
+		<td class="number">         1237.86&nbsp;PLN</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+11.19%</td>
+		<td class="number up">+21.66%</td>
+		<td class="number up">+19.14%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/LU0265040153/wiof-polish-opportunities-fund-class-a-eur">WIOF Polish Opportunities Fund - Class A (EUR)</a></td>
+		<td class="number">            2.22&nbsp;EUR</td>
+		<td class="number up">+2.61%</td>
+		<td class="number up">+8.17%</td>
+		<td class="number up">+25.59%</td>
+		<td class="number up">+69.20%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/LU0267828217/wiof-polish-opportunities-fund-class-b-eur">WIOF Polish Opportunities Fund - Class B (EUR)</a></td>
+		<td class="number">            2.06&nbsp;EUR</td>
+		<td class="number up">+2.60%</td>
+		<td class="number up">+8.12%</td>
+		<td class="number up">+25.29%</td>
+		<td class="number up">+68.36%</td>
+	</tr>
+	
+
+	
+	
+		<tr>
+			<th colspan="6"><a href="/fundtable/141/fundusze-akcji-zagranicznych">akcji zagranicznych &raquo;</a></th>
+		</tr>
+		
+	<tr>
+		<td class="up"><a href="/instrument/LU0188437817/schroder-isf-asian-equity-alpha-i-acc-usd">Schroder ISF Asian Equity Alpha I (Acc) (USD)</a></td>
+		<td class="number">           13.82&nbsp;USD</td>
+		<td class="number up">+3.10%</td>
+		<td class="number up">+24.59%</td>
+		<td class="number down">-46.90%</td>
+		<td class="number down">-46.90%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/LU0239662553/sgam-fund-equities-global-technology-ae-eur">SGAM Fund Equities Global Technology AE (EUR)</a></td>
+		<td class="number">           58.66&nbsp;EUR</td>
+		<td class="number up">+1.88%</td>
+		<td class="number up">+18.73%</td>
+		<td class="number down">-23.42%</td>
+		<td class="number down">-23.42%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/LU0317021946/dexia-equities-l-emerging-europe-v-cap-eur">Dexia Equities L Emerging Europe V (Cap) (EUR)</a></td>
+		<td class="number">           49.89&nbsp;EUR</td>
+		<td class="number up">+4.42%</td>
+		<td class="number up">+16.62%</td>
+		<td class="number up">+40.85%</td>
+		<td class="number down">-48.85%</td>
+	</tr>
+	
+
+	
+	
+		<tr>
+			<th colspan="6"><a href="/fundtable/142/fundusze-rynku-surowcow">rynku surowców &raquo;</a></th>
+		</tr>
+		
+	<tr>
+		<td class="up"><a href="/instrument/QRS10/quercus-gold-lev-parasolowy-sfio">Quercus Gold lev (Parasolowy SFIO)</a></td>
+		<td class="number">           98.60&nbsp;PLN</td>
+		<td class="number up">+3.42%</td>
+		<td class="number up">+5.20%</td>
+		<td class="number down">-19.52%</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/SUP08/superfund-goldfuture-superfund-sfio">Superfund Goldfuture (Superfund SFIO)</a></td>
+		<td class="number">          803.00&nbsp;PLN</td>
+		<td class="number up">+2.88%</td>
+		<td class="number up">+4.53%</td>
+		<td class="number down">-10.50%</td>
+		<td class="number down">-2.72%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/SUP08_E/superfund-goldfuture-eur-superfund-sfio">Superfund Goldfuture (EUR) (Superfund SFIO)</a></td>
+		<td class="number">          192.08&nbsp;EUR</td>
+		<td class="number up">+2.00%</td>
+		<td class="number up">+4.42%</td>
+		<td class="number down">-11.50%</td>
+		<td class="number down">-3.75%</td>
+	</tr>
+	
+
+	
+	
+		<tr>
+			<th colspan="6"><a href="/fundtable/144/fundusze-mieszane-polskie">mieszane polskie &raquo;</a></th>
+		</tr>
+		
+	<tr>
+		<td class="up"><a href="/instrument/UUNI4/uniqa-zrownowazony-quot-r-quot-ufk-w-likwidacji">UNIQA - Zrównoważony &quot;R&quot; UFK (w likwidacji)</a></td>
+		<td class="number">           97.75&nbsp;PLN</td>
+		<td class="number up">+28.27%</td>
+		<td class="number up">+22.01%</td>
+		<td class="number up">+31.53%</td>
+		<td class="number up">+69.11%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/UING11/ing-ufk-portfel-inwestycyjny-aktywnej-strategii">ING UFK Portfel Inwestycyjny Aktywnej Strategii</a></td>
+		<td class="number">            9.09&nbsp;PLN</td>
+		<td class="number up">+11.67%</td>
+		<td class="number up">+10.58%</td>
+		<td class="number up">+10.58%</td>
+		<td class="number up">+30.23%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/UAXA37/axa-ing-srodkowoeuropejski-budownictwa-i-nieruchomosci-plus-ufk">AXA - ING Środkowoeuropejski Budownictwa i Nieruchomości Plus UFK</a></td>
+		<td class="number">           67.95&nbsp;PLN</td>
+		<td class="number up">+1.71%</td>
+		<td class="number up">+6.01%</td>
+		<td class="number down">-1.56%</td>
+		<td class="number up">+71.89%</td>
+	</tr>
+	
+
+	
+	
+		<tr>
+			<th colspan="6"><a href="/fundtable/145/fundusze-mieszane-zagraniczne">mieszane zagraniczne &raquo;</a></th>
+		</tr>
+		
+	<tr>
+		<td class="up"><a href="/instrument/SKR37/prologis-poland-development-fiz-an-w-likwidacji">Prologis Poland Development FIZ AN (w likwidacji)</a></td>
+		<td class="number">            1.81&nbsp;PLN</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+2485.71%</td>
+		<td class="number up">+465.62%</td>
+		<td class="number up">+16.03%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/GTI15/idea-1-fiz-an">Idea 1 FIZ AN</a></td>
+		<td class="number">         8515.56&nbsp;PLN</td>
+		<td class="number up">+153.20%</td>
+		<td class="number up">+153.20%</td>
+		<td class="number up">+178.52%</td>
+		<td class="number up">+260.81%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/GTI24/idea-5-fiz-an">Idea 5 FIZ AN</a></td>
+		<td class="number">           30.47&nbsp;PLN</td>
+		<td class="number up">+52.58%</td>
+		<td class="number up">+52.58%</td>
+		<td class="number up">+73.52%</td>
+		<td class="number down">-16.34%</td>
+	</tr>
+	
+
+	
+	
+		<tr>
+			<th colspan="6"><a href="/fundtable/146/fundusze-nieruchomosci">nieruchomości &raquo;</a></th>
+		</tr>
+		
+	<tr>
+		<td class="up"><a href="/instrument/MCI08/mci-creditventures-fiz">MCI.CreditVentures FIZ</a></td>
+		<td class="number">         1213.07&nbsp;PLN</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+19.65%</td>
+		<td class="number up">+4.74%</td>
+		<td class="number up">+2.68%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/COP03/forum-fiz-sektora-nieruchomosci-2">Forum FIZ Sektora Nieruchomości 2</a></td>
+		<td class="number">      2317926.29&nbsp;PLN</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+17.69%</td>
+		<td class="number up">+15.42%</td>
+		<td class="number up">+9.81%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/SKR47/eci-skarbiec-real-estate-fiz-an">ECI - Skarbiec Real Estate FIZ AN</a></td>
+		<td class="number">         2603.36&nbsp;PLN</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.32%</td>
+		<td class="number up">+4.28%</td>
+		<td class="number up">+15.52%</td>
+	</tr>
+	
+
+	
+	
+		<tr>
+			<th colspan="6"><a href="/fundtable/147/fundusze-ochrony-kapitalu-polskie">ochrony kapitału polskie &raquo;</a></th>
+		</tr>
+		
+	<tr>
+		<td class="up"><a href="/instrument/UERG30/ergo-hestia-zlota-inwestycja-ufk">Ergo Hestia Złota Inwestycja UFK</a></td>
+		<td class="number">          115.34&nbsp;PLN</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+5.10%</td>
+		<td class="number down">-3.96%</td>
+		<td class="number down">-4.66%</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/UING84/ing-inwestycja-w-polskie-spolki-ufk">ING Inwestycja w Polskie Spółki UFK</a></td>
+		<td class="number">           96.05&nbsp;PLN</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+5.02%</td>
+		<td class="number ">&ndash;</td>
+		<td class="number ">&ndash;</td>
+	</tr>
+	
+
+	
+	
+	<tr>
+		<td class="up"><a href="/instrument/UERG31/ergo-hestia-zlota-inwestycja-ii-ufk">Ergo Hestia Złota Inwestycja II UFK</a></td>
+		<td class="number">          111.55&nbsp;PLN</td>
+		<td class="number ">&ndash;</td>
+		<td class="number up">+4.68%</td>
+		<td class="number down">-2.06%</td>
+		<td class="number down">-3.39%</td>
+	</tr>
+	<tr>
+		<th colspan="6" class="time"><a href="/fundtable/143/fundusze-emerytalne-wyniki">FUNDUSZE EMERYTALNE &raquo;</a></th>
+	</tr>
+	
+	<tr>
+	
+<td class="up"><a href="/instrument/ENNE1/ing-ofe">ING OFE</a></td>
+		<td class="number">           36.51&nbsp;PLN</td>
+		<td class="number down">-1.03%</td>
+		<td class="number up">+1.00%</td>
+		<td class="number up">+5.76%</td>
+		<td class="number up">+9.97%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EPEK1/pekao-ofe">Pekao OFE</a></td>
+		<td class="number">           31.96&nbsp;PLN</td>
+		<td class="number down">-1.24%</td>
+		<td class="number up">+0.95%</td>
+		<td class="number up">+6.07%</td>
+		<td class="number up">+9.79%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EALL1/allianz-polska-ofe">Allianz Polska OFE</a></td>
+		<td class="number">           32.50&nbsp;PLN</td>
+		<td class="number down">-1.01%</td>
+		<td class="number up">+0.87%</td>
+		<td class="number up">+6.63%</td>
+		<td class="number up">+11.57%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EPCZ1/ofe-pocztylion">OFE Pocztylion</a></td>
+		<td class="number">           30.83&nbsp;PLN</td>
+		<td class="number down">-1.03%</td>
+		<td class="number up">+0.85%</td>
+		<td class="number up">+5.37%</td>
+		<td class="number up">+9.56%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EDOM1/ofe-warta">OFE WARTA</a></td>
+		<td class="number">           34.35&nbsp;PLN</td>
+		<td class="number down">-1.04%</td>
+		<td class="number up">+0.79%</td>
+		<td class="number up">+5.59%</td>
+		<td class="number up">+10.17%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EWIN1/axa-ofe">AXA OFE</a></td>
+		<td class="number">           33.49&nbsp;PLN</td>
+		<td class="number down">-0.92%</td>
+		<td class="number up">+0.78%</td>
+		<td class="number up">+5.15%</td>
+		<td class="number up">+9.70%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/ECUN1/aviva-ofe">Aviva OFE</a></td>
+		<td class="number">           33.46&nbsp;PLN</td>
+		<td class="number down">-1.09%</td>
+		<td class="number up">+0.72%</td>
+		<td class="number up">+5.59%</td>
+		<td class="number up">+9.92%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/ESAM1/nordea-ofe">Nordea OFE</a></td>
+		<td class="number">           35.03&nbsp;PLN</td>
+		<td class="number down">-0.91%</td>
+		<td class="number up">+0.69%</td>
+		<td class="number up">+6.06%</td>
+		<td class="number up">+11.14%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EPZU1/ofe-pzu-quot-zlota-jesien-quot">OFE PZU &quot;Złota Jesień&quot;</a></td>
+		<td class="number">           33.79&nbsp;PLN</td>
+		<td class="number down">-1.05%</td>
+		<td class="number up">+0.69%</td>
+		<td class="number up">+5.83%</td>
+		<td class="number up">+9.49%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EAIG1/amplico-ofe">Amplico OFE</a></td>
+		<td class="number">           32.94&nbsp;PLN</td>
+		<td class="number down">-0.99%</td>
+		<td class="number up">+0.67%</td>
+		<td class="number up">+5.98%</td>
+		<td class="number up">+11.10%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EBAN1/pko-bp-bankowy-ofe">PKO BP Bankowy OFE</a></td>
+		<td class="number">           32.74&nbsp;PLN</td>
+		<td class="number down">-1.03%</td>
+		<td class="number up">+0.65%</td>
+		<td class="number up">+5.92%</td>
+		<td class="number up">+10.12%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EORZ1/aegon-ofe">AEGON OFE</a></td>
+		<td class="number">           32.87&nbsp;PLN</td>
+		<td class="number down">-1.05%</td>
+		<td class="number up">+0.64%</td>
+		<td class="number up">+5.76%</td>
+		<td class="number up">+9.46%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EZUR1/generali-ofe">Generali OFE</a></td>
+		<td class="number">           35.03&nbsp;PLN</td>
+		<td class="number down">-0.96%</td>
+		<td class="number up">+0.46%</td>
+		<td class="number up">+5.13%</td>
+		<td class="number up">+8.38%</td>
+	</tr>
+	<tr>
+	
+<td class="up"><a href="/instrument/EPST1/ofe-polsat">OFE Polsat</a></td>
+		<td class="number">           35.22&nbsp;PLN</td>
+		<td class="number down">-1.18%</td>
+		<td class="number up">+0.34%</td>
+		<td class="number up">+5.99%</td>
+		<td class="number up">+8.14%</td>
+	</tr>
+</table>
+
+</div>
+
+    </div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+</div><!-- / #main -->
+</div><!-- / #site -->
+
+
+<script type="text/javascript">
+$('.sortable').tablesorter({sortList: sortList});
+$(document).ready(function(){
+	  $(".microtabs").tabs({ fx: { opacity: 'toggle' } });
+	});
+
+$('.datepicker').datepicker();
+
+// autorefresh
+if(refreshPeriod > 0)
+{
+	window.setInterval('window.location.reload();', refreshPeriod);
+}
+
+</script>
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+      
+
+<!-- PB_d93ndf4d058fgkf569504kf9s0 -->
+<!-- $Rev: 5097 $ -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:34602,domain:"notowania.pb.pl"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+</body>
+</html>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1121769-2");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

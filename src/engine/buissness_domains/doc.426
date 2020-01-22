@@ -1,0 +1,923 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+
+<title>Galeria MAPIC, Wydarzenia - Poznań, BiznesPolska.pl</title>
+<meta name="keywords" content="Biznes, BiznesPolska, Polska, B2B, wiadomości, przetargi, komunikaty prasowe, ludzie, Network, zdjecie dnia, krs, firmy, nowe krs, analizy, kalendarium, rankingi, komentarze" />
+<meta name="description" content="BiznesPolska.pl jest wiodącym portalem B2B, który obecnie odnotowuje ok. 14,000 odwiedzających dziennie. Z portalu korzystają przede wszystkim mieszkańcy wszystkich większych miast w Polsce, reprezentujący kadrę zarządzającą wyższego i średniego szczebla. W portalu BiznesPolska.pl znajdują źródło najświeższych informacji prasowych, bazę danych firm (również tych nowo utworzonych), raporty biznesowe oraz kontakt do innych osób świata biznesu." />
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="http://biznespolska.pl/www/css/style-1.css" type="text/css" />
+<link rel="stylesheet" href="http://biznespolska.pl/www/css/style-old.css" type="text/css" />
+<link rel="shortcut icon" href="BiznesPolska.ico" type="image/x-icon" />
+<script src="http://biznespolska.pl/www/js/tiny.ddmenu.js" type="text/javascript"></script>
+<script src="http://biznespolska.pl/www/js/register_functions.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26440187-1']);
+  _gaq.push(['_setDomainName', 'biznespolska.pl']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><!-- Start of Woopra Code -->
+
+<script type="text/javascript">
+
+function woopraReady(tracker) {
+
+    tracker.setDomain('biznespolska.pl');
+
+    tracker.setIdleTimeout(300000);
+
+    tracker.track();
+
+    return false;
+
+}
+
+(function() {
+
+    var wsc = document.createElement('script');
+
+    wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+
+    wsc.type = 'text/javascript';
+
+    wsc.async = true;
+
+    var ssc = document.getElementsByTagName('script')[0];
+
+    ssc.parentNode.insertBefore(wsc, ssc);
+
+})();
+
+</script>
+
+<!-- End of Woopra Code -->
+</head>
+<body>
+
+
+<div id="section-top">
+  <div class="wrapper">
+    <div id="nav">
+      <div class="f-l">
+	    <ul id="navTopList">
+	      <li class="level-1 home"><a href="/"></a></li>
+	      <li class="level-1"><a href="/przeglad/">News</a>
+			  <ul>
+				<li class="level-2"><a href="/poznan/przeglad/">Nowe Inwestycje - <span class="c-red">NOWOŚĆ!</span></a></li>
+				<li class="level-2"><a href="/poznan/wywiad/">10 pytań do zagranicznego inwestora - <span class="c-red">NOWOŚĆ!</span></a></li>
+				<li class="level-2"><a href="/poznan/komunikaty/">Komunikaty prasowe</a></li>
+				<li class="level-2"><a href="/poznan/kalendarium/">Kalendarium</a></li>
+				<li class="level-2"><a href="/poznan/wydarzenia/">Wydarzenia</a></li>
+				<!-- <li class="level-2"><a href="/przetargi/">Przetargi</a></li> -->
+				<!-- <li class="level-2"><a href="/poznan/krs/">Nowe firmy KRS</a></li> -->
+				<li class="level-2"><a href="/poznan/rankingi/">Rankingi</a></li>
+				<li class="level-2"><a href="/poznan/bizbaza/">Biz Baza</a></li>
+				<li class="level-2"><a href="/poznan/analizy/">Analizy i raporty</a></li>
+			  </ul>
+		  </li>
+	      <li class="level-1"><a href="/przewodniki/">Przewodniki</a>
+			<ul>
+				<li class="level-2"><a href="/przewodniki/officebuildings/">Top Office Buildings</a></li>
+				<li class="level-2"><a href="/przewodniki/windenergy/">Wind Energy</a></li>
+				<li class="level-2"><a href="/przewodniki/equities/">Equities Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/outsourcing/">Outsourcing Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/aviation/">Aviation Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/foodexports/">Food Exports Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/cityinvest/">CityInvest Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/shoppingcentres/">Top Shopping Centres</a></li>
+				<!-- <li class="level-2"><a href="/przewodniki/energiawiatrowa/">Energia Wiatrowa</a></li> -->
+			</ul>
+		  </li>
+	      <li class="level-1"><a href="/reklama/">Reklama</a>
+			<ul>
+				<li class="level-2"><a href="/autoreklama/">AutoReklama</a></li>
+				<li class="level-2"><a href="/reklama/a/internet/">Reklama w internecie</a></li>
+				<li class="level-2"><a href="/reklama/a/newsletter/">Reklama w newsletterze</a></li>
+				<li class="level-2"><a href="/reklama/a/mailing/">Reklama w mailingu celowym</a></li>
+				<li class="level-2"><a href="/reklama/a/dodatki/">Reklama w dodatkach</a></li>
+			</ul>
+		  </li>
+	      <li class="level-1"><a href="/network/">BP Network</a>
+			<ul>
+				<li class="level-2"><a href="/network/a/jaktodziala/">Jak to działa</a></li>
+				<li class="level-2"><a href="/network/a/nowaosoba/">Dodaj inną osobę</a></li>
+			</ul>
+
+		  </li>
+	      <li class="level-1"><a href="#">Usługi</a>
+			  <ul>
+				<li class="level-2"><a href="/regulamin/">Regulamin</a></li>
+				<li class="level-2"><a href="/newsletter/">Newsletter</a></li>
+				<li class="level-2"><a href="/formularz/">Formularze</a></li>
+				<li class="level-2"><a href="/szukaj/">Szukaj</a></li>
+				<li class="level-2"><a href="/mojekonto/">Strona użytkownika</a></li>
+				<li class="level-2"><a href="/kontakt/">Kontakt</a></li>
+				<li class="level-2"><a href="/onas/">O Nas</a></li>
+			  </ul>
+			</li>
+			<li class="level-1"><a href="#">Regiony</a>
+				<ul>
+					<li class="level-2"><a href="/warszawa/">Warszawa</a></li>
+					<li class="level-2"><a href="/wroclaw/">Wrocław</a></li>
+					<li class="level-2"><a href="/poznan/">Poznań</a></li>
+					<li class="level-2"><a href="/krakow/">Kraków</a></li>
+					<li class="level-2"><a href="/szczecin/">Szczecin</a></li>
+					<li class="level-2"><a href="/trojmiasto/">Trójmiasto</a></li>
+					<li class="level-2"><a href="/lodz/">Łódź</a></li>
+					<li class="level-2"><a href="/katowice/">Katowice</a></li>
+				</ul>
+			</li>
+	    </ul>
+	  </div>
+      <div class="f-r">
+	    <ul>
+	      <!-- <li class="i1"><a href="/autoreklama/">AutoReklama</a></li> -->
+	      <li class="i2"><a href="/newsletter/">Newsletter</a></li>
+	      <li class="i3"><a href="/rejestracja/">Rejestracja</a></li>
+	      <li class="i4"><a href="/logowanie/">Zaloguj się</a></li>
+	    </ul>
+	  </div>
+	  <div class="clear"></div>
+	</div>
+			<div id="logo-city"><a href="/">BiznesPolska.pl</a></div>
+		<div id="city-name"><a href="/poznan/">Poznań</a></div>
+	
+	<!-- boxAd -->
+	<div class="advert">
+		<!-- BBelements AdServer one2many Position: BiznesPolska(2087) / Strona głowna(16) / Billboard(1) / billboard 750x100 750x100(30) -->
+		<!-- HowTo: Place this code into the html page there the ad should appear. -->
+		<div id='bmone2n-2087.16.1.30'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/30/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/30/?typkodu=img&amp;keywords=' width='750' height='100' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	</div>
+	<!-- END boxAd -->
+
+	<div class="clear"></div>
+  </div>
+</div>
+<div id="section-content">
+  <div class="wrapper">
+  
+    <!-- main left col -->
+	<div class="w-670 f-l">
+  
+      <!-- box -->
+	  <div class="box">
+	    <div class="boxInner">
+		  <!-- <div class="boxHdr-bt"><div class="inner"><a href="url">Zobacz następny artykuł <span>&raquo;</span></a></div></div> -->
+		  <div class="boxHdr">
+		    <h2>Wydarzenia</h2>
+		  </div>
+		  <div id="content">
+			<div class="inner">
+					    
+				<h2>Galeria MAPIC</h2>
+				<p>2011-11-28</p>
+				<p>Jednym z istotnych punktów tegorocznej konferencji MAPIC było wręczenie nagrody Echo Investment "Best enlarged retail development" dla centrum w Kielcach, które pokonało dwóch zachodnioeuropejskich rywali. Polska Rada Centrów Handlowych jak zwykle obecna na konferencji monitowała najważniejsze spotkania dla tego sektora w Polsce.</p>
+				<div id="articleGallery">	
+										
+															
+															
+															
+															
+															
+															
+															
+															
+															
+													
+
+										
+						  <div class="galleryZoom">
+						  						  						  						  						  						  						  
+							<div class="photo_nav"><p>
+								<span class="photo_prev">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>								<a href="/poznan/wydarzenia/528/4789/Galeria-MAPIC.html" title="Galeria MAPIC"><span class="photo_next">następne</span></a>							</p></div>
+							<!-- <a href="/wydarzenia///.html"><img src="http://" style="max-width: 620px;" alt="" /></a> -->
+							<img src="http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_038.jpg" style="max-width: 620px;" alt="Galeria MAPIC" />
+															<p></p>
+																												<br />
+						  </div>
+												
+																
+																
+																
+																
+																
+																
+																
+																
+																
+								
+					<div class="galleryThumbs">
+						<ul>
+										
+																
+										
+							  <li style="background-image: url('http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_037_s.jpg');">
+								<a href="/poznan/wydarzenia/528/4789/Galeria-MAPIC.html" title="Galeria MAPIC"></a>							
+							  </li>
+																
+										
+							  <li style="background-image: url('http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_025_s.jpg');">
+								<a href="/poznan/wydarzenia/528/4790/Galeria-MAPIC.html" title="Galeria MAPIC"></a>							
+							  </li>
+																
+										
+							  <li style="background-image: url('http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_023_s.jpg');">
+								<a href="/poznan/wydarzenia/528/4791/Galeria-MAPIC.html" title="Galeria MAPIC"></a>							
+							  </li>
+																
+										
+							  <li style="background-image: url('http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_018_s.jpg');">
+								<a href="/poznan/wydarzenia/528/4792/Galeria-MAPIC.html" title="Galeria MAPIC"></a>							
+							  </li>
+																
+										
+							  <li style="background-image: url('http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_015_s.jpg');">
+								<a href="/poznan/wydarzenia/528/4793/Galeria-MAPIC.html" title="Galeria MAPIC"></a>							
+							  </li>
+																
+										
+							  <li style="background-image: url('http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_013_s.jpg');">
+								<a href="/poznan/wydarzenia/528/4794/Galeria-MAPIC.html" title="Galeria MAPIC"></a>							
+							  </li>
+																
+										
+							  <li style="background-image: url('http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_012_s.jpg');">
+								<a href="/poznan/wydarzenia/528/4795/Galeria-MAPIC.html" title="Galeria MAPIC"></a>							
+							  </li>
+																
+										
+							  <li style="background-image: url('http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_011_s.jpg');">
+								<a href="/poznan/wydarzenia/528/4796/Galeria-MAPIC.html" title="Galeria MAPIC"></a>							
+							  </li>
+																
+										
+							  <li style="background-image: url('http://biznespolska.pl/upload/pictures/gallery/2011/11/524_mapic_webmapic_009_s.jpg');">
+								<a href="/poznan/wydarzenia/528/4797/Galeria-MAPIC.html" title="Galeria MAPIC"></a>							
+							  </li>
+																	</ul>	
+						<div class="clear"></div>					
+					</div>
+				</div>
+				      </div>
+		</div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	  </div>
+	  </div>
+	  <div class="clear"></div>
+	
+      <!-- box -->
+	  <div class="box">
+	    <div class="boxInner">
+		    <div class="boxHdr-bt"><div class="inner"><a href="/archiwum/wydarzenia/">Więcej <span>&raquo;</span></a></div></div>				
+		  <div class="boxHdr">
+		    <h2>Archiwum wydarzeń</h2>
+		  </div>
+		  
+							<div class="inner-20">  
+				<div class="div-c w-580">
+					<div class="f-l w-280">
+					<ul class="list-cityArticles">
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+																	<li>
+							<p><a class="blue" href="/poznan/wydarzenia/630/Wrocław-Global-Forum-2013.html">Wrocław Global Forum 2013</a> 2013-07-11</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/628/Kongres-Regionów-2013.html">Kongres Regionów 2013</a> 2013-07-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/626/IPO-Summit-Warsaw-2013.html">IPO Summit Warsaw 2013</a> 2013-07-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/624/Private-Equity-Forum-&amp;-Awards-Gala-2013.html">Private Equity Forum & Awards Gala 2013</a> 2013-07-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/622/Acting-Local-Winning-Global-2013.html">Acting Local Winning Global 2013</a> 2013-07-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/620/Apetyt-na-Outsourcing.html">Apetyt na Outsourcing</a> 2013-04-25</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/617/II-Forum-Branży-Mięsnej.html">II Forum Branży Mięsnej</a> 2013-03-12</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/615/Champ-Awards.html">Champ Awards</a> 2013-02-15</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/613/III---Winners-awarded---Poland-Outsourcing-and-Shared-Services-Awards-Gala.html">III - Winners awarded - Poland Outsourcing and Shared Services Awards Gala</a> 2013-02-11</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/611/Winners-awarded---Poland-Outsourcing-and-Shared-Services-Awards-Gala.html">Winners awarded - Poland Outsourcing and Shared Services Awards Gala</a> 2013-02-11</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/609/Wigilia-2012-V.I.P.-Stars.html">Wigilia 2012 V.I.P. Stars</a> 2012-12-21</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/607/SIAL-Paris-2012---cz.1.html">SIAL Paris 2012 - cz.1</a> 2012-12-06</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/605/II-Kongres-Branży-Spożywczej-w-Opolu.html">II Kongres Branży Spożywczej w Opolu</a> 2012-10-30</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/603/Konferencja:-Szanse,-problemy-i-wyzwania-branży-nieruchomości.html">Konferencja: Szanse, problemy i wyzwania branży nieruchomości</a> 2012-10-05</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/601/Gala-Firma-Roku-2012.html">Gala Firma Roku 2012</a> 2012-09-28</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/595/Macaroni-Tomato-Warszawa-zaczyna-się-dziś.-.html">Macaroni Tomato Warszawa zaczyna się dziś. </a> 2012-09-25</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/592/Konferencja---ABSL.html">Konferencja - ABSL</a> 2012-09-12</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/590/Forum-Ekonomiczne---Krynica.html">Forum Ekonomiczne - Krynica</a> 2012-09-06</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/586/Mistrostwa-Polski-Polo---Warsaw-Polo-Club.html">Mistrostwa Polski Polo - Warsaw Polo Club</a> 2012-09-05</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/584/Romney:-niech-Bóg-błogosławi-wielkiemu-polskiemu-narodowi.-.html">Romney: niech Bóg błogosławi wielkiemu polskiemu narodowi. </a> 2012-07-31</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/581/AmCham---święto-niepodległości-US-4-lipca.html">AmCham - święto niepodległości US 4 lipca</a> 2012-07-25</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/577/World-BPO-Forum-–-Nowy-Jork.html">World BPO Forum – Nowy Jork</a> 2012-07-16</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/563/Wrocław-Global-Forum-2012.html">Wrocław Global Forum 2012</a> 2012-06-06</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/559/Konferencja-BPO-zorganizowana-przez-ASPIRE.html">Konferencja BPO zorganizowana przez ASPIRE</a> 2012-05-29</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/555/Warsaw-Fashion-Weekend.html">Warsaw Fashion Weekend</a> 2012-04-15</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/553/Poland-&amp;-CEE-Retail-Summit-2012.html">Poland & CEE Retail Summit 2012</a> 2012-04-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/550/MIPIM---Warszawa-lepsza-niż-Paryż.html">MIPIM - Warszawa lepsza niż Paryż</a> 2012-03-14</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/546/CEE-Retail-Awards.html">CEE Retail Awards</a> 2012-02-21</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/541/ISM-Sweets-w-Kolonii-.html">ISM Sweets w Kolonii </a> 2012-02-01</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/537/Gala---gaz-łupkowy-(-Shale-Gas-Awards).html">Gala - gaz łupkowy ( Shale Gas Awards)</a> 2012-01-23</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/533/Business-Mixer-Polskiej-Rady-Centrów-Handlowych.html">Business Mixer Polskiej Rady Centrów Handlowych</a> 2011-12-05</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/529/Galeria-MAPIC-II.html">Galeria MAPIC II</a> 2011-11-28</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/523/Polityka-a-biznes---Executive-Club.html">"Polityka a biznes" - Executive Club</a> 2011-11-21</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/521/Quo-vadis-PKP.html">Quo vadis PKP?</a> 2011-10-27</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/516/Targi-Expo-Real-w-Monachium.html">Targi Expo Real w Monachium</a> 2011-10-10</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/511/Oktoberfest-we-Wrocławiu.html">Oktoberfest we Wrocławiu</a> 2011-09-23</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/506/Kolejne-spotkanie-najbardziej-wpływowych-kobiet-polskiego-biznesu.html">Kolejne spotkanie najbardziej wpływowych kobiet polskiego biznesu</a> 2011-09-22</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/502/Forum-Ekonomiczne-w-Krynicy---rekord-gości.html">Forum Ekonomiczne w Krynicy - rekord gości</a> 2011-09-09</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/496/AIP-Beach-Volleyball-Cup.html">AIP Beach Volleyball Cup</a> 2011-09-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/493/Dni-Konia-Arabskiego---Janów-Podlaski.html">Dni Konia Arabskiego - Janów Podlaski</a> 2011-08-08</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/485/AmCham-świętuje-amerykański-Independence-Day.html">AmCham świętuje amerykański Independence Day</a> 2011-07-06</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/475/Samsung-ze-swoim--nowym-smartphonem-Galaxy-S-II-.html">Samsung ze swoim  nowym smartphonem Galaxy S II </a> 2011-05-27</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/472/Dzień-Południowej-Afryki.html">Dzień Południowej Afryki</a> 2011-05-06</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/468/Konferencj-Shale-Gas-Eastern-Europe-2011-.html">Konferencj Shale Gas Eastern Europe 2011 </a> 2011-04-28</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/462/Li-Parie---ekskluzywny-pokaz-tendencji-wiosna/-lato-2011-ORIENT-et-OCCIDENT.html">Li Parie &#8211; ekskluzywny pokaz tendencji wiosna/ lato 2011 ORIENT et OCCIDENT</a> 2011-04-04</p>
+							</li>
+						
+					</ul>
+					</div>
+					<div class="f-r w-280">
+					<ul class="list-cityArticles">
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/629/Inwestorzy-z-USA-świętują-w-Warszawie.html">Inwestorzy z USA świętują w Warszawie</a> 2013-07-10</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/627/Konferencja-WallStreet-17.html">Konferencja WallStreet 17</a> 2013-07-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/625/IV-Konferencja-ABSL.html">IV Konferencja ABSL</a> 2013-07-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/623/Top10:-Rynki-dla-polskiego-eksportu-2013---2015.html">Top10: Rynki dla polskiego eksportu 2013 - 2015</a> 2013-07-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/621/Fleet-Derby-2013.html">Fleet Derby 2013</a> 2013-05-07</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/618/European-Executive-Forum.html">European Executive Forum</a> 2013-03-28</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/616/Gala-Finałowa-Konkursów-Branżowych-CBCK-2012.html">Gala Finałowa Konkursów Branżowych CBCK 2012</a> 2013-03-12</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/614/IV---Winners-awarded---Poland-Outsourcing-and-Shared-Services-Awards-Gala.html">IV - Winners awarded - Poland Outsourcing and Shared Services Awards Gala</a> 2013-02-11</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/612/II---Winners-awarded---Poland-Outsourcing-and-Shared-Services-Awards-Gala.html">II - Winners awarded - Poland Outsourcing and Shared Services Awards Gala</a> 2013-02-11</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/610/Miss-Polonia-2012.html">Miss Polonia 2012</a> 2013-02-11</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/608/SIAL-Paris-2012---cz.2.html">SIAL Paris 2012 - cz.2</a> 2012-12-06</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/606/V-Europejskie-Forum-Gospodarcze.html">V Europejskie Forum Gospodarcze</a> 2012-11-21</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/604/Sopot.-Konferencja-International-Outsourcing-Forum-2012.html">Sopot. Konferencja International Outsourcing Forum 2012</a> 2012-10-12</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/602/Warsztaty-Energetyki-Wiatrowej.html">Warsztaty Energetyki Wiatrowej</a> 2012-10-01</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/597/Outsourcing-w-hotelu-Hyatt.html">Outsourcing w hotelu Hyatt</a> 2012-09-27</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/593/Zakończyły-się-targi-lotnicze-ILA-Berlin-Air-Show-2012-.html">Zakończyły się targi lotnicze ILA Berlin Air Show 2012 </a> 2012-09-21</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/591/Krynica-podczas-XXII-Forum-Ekonomicznego-.html">Krynica podczas XXII Forum Ekonomicznego </a> 2012-09-10</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/588/GPP-oddaje-do-użytku-pierwszy-z-budynków-kompleksu.html">GPP oddaje do użytku pierwszy z budynków kompleksu</a> 2012-09-05</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/585/VI--Forum-Marketingu-Internetowego.html">VI  Forum Marketingu Internetowego</a> 2012-08-07</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/583/Sluzewiec.html">Sluzewiec</a> 2012-07-31</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/580/Gala-Firma-Roku-2011.html">Gala Firma Roku 2011</a> 2012-07-17</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/565/Fashion-Loves-Football.html">Fashion Loves Football</a> 2012-06-13</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/561/CEE-IPO-Summit.html">CEE IPO Summit</a> 2012-06-06</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/558/Warszawski-Piknik-Poznaj-Dobrą-Żywność-.html">Warszawski Piknik Poznaj Dobrą Żywność </a> 2012-05-28</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/554/Nowa-ustawa-o-OZE-daje-nadzieję-na-rozwój-zielonej-energii-.html">Nowa ustawa o OZE daje nadzieję na rozwój zielonej energii </a> 2012-04-15</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/552/Office-and-Facility-Management-Conference.html">Office and Facility Management Conference</a> 2012-03-29</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/548/GulFood-Expo---ponad-30-polskich-firm-w-Dubaju.html">GulFood Expo - ponad 30 polskich firm w Dubaju</a> 2012-02-23</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/544/Złota-44-osiągnęła-ostateczną-wysokość---54-piętra.html">Złota 44 osiągnęła ostateczną wysokość - 54 piętra</a> 2012-02-15</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/539/Green-Week-Berlin.html">Green Week Berlin</a> 2012-01-24</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/535/Polska-Gala-Ślubna.html">"Polska Gala Ślubna"</a> 2012-01-17</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/531/Nagrody-Fleet-Leader-2011-na-targach-flotowych-Fleet-Market.html">Nagrody Fleet Leader 2011 na targach flotowych Fleet Market</a> 2011-12-02</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/528/Galeria-MAPIC.html">Galeria MAPIC</a> 2011-11-28</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/522/Warszawska-konferencja--NowyAdres.pl.html">Warszawska konferencja  NowyAdres.pl</a> 2011-10-31</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/519/Anuga-Food-Fair,-Kolonia,-Niemcy.html">Anuga Food Fair, Kolonia, Niemcy</a> 2011-10-19</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/513/Jones-Lang-Lasalle---przyjęcie-dla-klientów.html">Jones Lang Lasalle - przyjęcie dla klientów</a> 2011-09-27</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/509/Konferencja-TEDxGdynia.html">Konferencja TEDxGdynia</a> 2011-09-23</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/503/Nowy-sezon-na-biznes-we-Wrocławiu-rozpoczęty-z-UEFĄ.html">Nowy sezon na biznes we Wrocławiu rozpoczęty z UEFĄ</a> 2011-09-14</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/500/Targi-militarne-w-Kielcach.html">Targi militarne w Kielcach</a> 2011-09-08</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/494/Dni-Konia-Arabskiego---Janów-Podlaski.html">Dni Konia Arabskiego - Janów Podlaski</a> 2011-08-08</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/489/Polska-bielizna-na-MODE-CITY-2011-w-Paryżu.html">Polska bielizna na MODE CITY 2011 w Paryżu</a> 2011-08-04</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/478/CEE-IPO-Summit.html">CEE IPO Summit</a> 2011-05-30</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/474/Doroczne-Forum-Inwestycyjne-w-Dubaju.html">Doroczne Forum Inwestycyjne w Dubaju</a> 2011-05-17</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/470/Polsko-Arabskie-Forum-Inwestycyjne.html">Polsko-Arabskie Forum Inwestycyjne</a> 2011-05-05</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/466/Konferencja-PSEW-w-Warszawie.html">Konferencja PSEW w Warszawie</a> 2011-04-27</p>
+							</li>
+												<li>
+							<p><a class="blue" href="/poznan/wydarzenia/461/MIPIM-targi-nieruchomosci-w-Cannes.html">MIPIM targi nieruchomosci w Cannes</a> 2011-03-13</p>
+							</li>
+						
+					</ul>
+					</div>
+					<div class="clear"></div>
+				</div>
+				</div>		
+				      
+		</div>
+		<div class="boxBottomLink">
+		  <div class="button"><div class="inner"><a href="/archiwum/wydarzenia/"><span class="black">zobacz pełne</span> archiwum</a></div></div>
+		</div>		  
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	  </div>
+	  
+	  <div class="clear"></div>
+
+	
+    </div>
+    <!-- END main left col -->
+  
+    <!-- main right col -->
+    <div class="w-300 f-r">
+	<!-- boxAd rectangle -->
+	<div class="advert">
+		<!-- BBelements AdServer one2many Position: go.arbopl.bbelements.com BiznesPolska(2087) / Strona głowna(16) / Box(1) / box 300x250 300x250(36)-->
+		<!-- HowTo: Place this code into the html page where the ad should appear. -->
+		<div id='bmone2n-2087.16.1.36'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/36/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/36/?typkodu=img&keywords=' width='300' height='250' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	</div>
+	<!-- END boxAd rectangle -->	
+	<!-- szukaj  -->
+<div class="boxSearch">
+<div class="boxInner">
+  <div class="inner">
+	<form action="/szukaj/" method="post" id="formSearch">
+	  <input type="hidden" name="rodzaj" value="Wszystkie" />
+	  <input type="hidden" name="jakszukac" value="niedokladnie" />
+	  <div class="input shd-in-1"><input type="text" name="szukaj" value="" /></div>
+	  <input type="image" class="submit" src="/www/img/tpl/bt/szukaj.png" value="" />
+	  <div class="clear"></div>
+	</form>
+  </div>
+</div>
+</div>
+<!-- koniec szukaj  -->  				
+        <!-- newsletter  -->
+	    <div class="box">
+	      <div class="boxInner">
+		    <div class="boxHdr">
+		      <h2>Biznes Polska Newsletter</h2>
+		    </div>
+		    <div class="inner-15">
+				<form action="/rejestracja/" method="post" id="formNl">
+					<input type="hidden" name="step" value="1" />
+				  <div class="input shd-in-1"><input type="text" name="email" value="E-mail" /></div>
+				  <input type="image" class="submit" src="/www/img/tpl/bt/nl.png" value="" />
+				  <div class="clear"></div>
+				</form>
+		    </div>
+		    <div class="boxBottomLink">
+		      <div class="button"><div class="inner"><a href="/newsletter/">Więcej</a></div></div>
+		    </div>
+	      </div>
+		  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+        <!-- koniec newsletter  -->
+		
+	
+	  
+      <!-- box -->
+	  <div class="box">
+	    <div class="boxInner">
+		  <div class="boxHdr">
+		    <h2>Ostatnie wydarzenia</h2>
+		  </div>
+		  <div class="inner">
+              <div id="relatedGalleries">
+                <ul>
+				                  <li>
+					<p><a href="/poznan/wydarzenia/630/Wrocław-Global-Forum-2013.html">
+					<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/630_1_m.jpg" alt="Wrocław Global Forum 2013" />
+					</a></p>
+                    <h4><a href="/poznan/wydarzenia/630/Wrocław-Global-Forum-2013.html" title="Wrocław Global Forum 2013">Wrocław Global Forum 2013</a></h4>
+                    <div class="clear"></div>
+                  </li>
+				                  <li>
+					<p><a href="/poznan/wydarzenia/629/Inwestorzy-z-USA-świętują-w-Warszawie.html">
+					<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/629_aiwa3300_m.jpg" alt="Inwestorzy z USA świętują w Warszawie" />
+					</a></p>
+                    <h4><a href="/poznan/wydarzenia/629/Inwestorzy-z-USA-świętują-w-Warszawie.html" title="Inwestorzy z USA świętują w Warszawie">Inwestorzy z USA świętują w Warszawie</a></h4>
+                    <div class="clear"></div>
+                  </li>
+				                  <li>
+					<p><a href="/poznan/wydarzenia/628/Kongres-Regionów-2013.html">
+					<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/628_1_m.jpg" alt="Kongres Regionów 2013" />
+					</a></p>
+                    <h4><a href="/poznan/wydarzenia/628/Kongres-Regionów-2013.html" title="Kongres Regionów 2013">Kongres Regionów 2013</a></h4>
+                    <div class="clear"></div>
+                  </li>
+				                  <li>
+					<p><a href="/poznan/wydarzenia/627/Konferencja-WallStreet-17.html">
+					<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/627_1_m.jpg" alt="Konferencja WallStreet 17" />
+					</a></p>
+                    <h4><a href="/poznan/wydarzenia/627/Konferencja-WallStreet-17.html" title="Konferencja WallStreet 17">Konferencja WallStreet 17</a></h4>
+                    <div class="clear"></div>
+                  </li>
+				                  <li>
+					<p><a href="/poznan/wydarzenia/626/IPO-Summit-Warsaw-2013.html">
+					<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/626_1_m.jpg" alt="IPO Summit Warsaw 2013" />
+					</a></p>
+                    <h4><a href="/poznan/wydarzenia/626/IPO-Summit-Warsaw-2013.html" title="IPO Summit Warsaw 2013">IPO Summit Warsaw 2013</a></h4>
+                    <div class="clear"></div>
+                  </li>
+				                  <li>
+					<p><a href="/poznan/wydarzenia/625/IV-Konferencja-ABSL.html">
+					<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/625_1_m.jpg" alt="IV Konferencja ABSL" />
+					</a></p>
+                    <h4><a href="/poznan/wydarzenia/625/IV-Konferencja-ABSL.html" title="IV Konferencja ABSL">IV Konferencja ABSL</a></h4>
+                    <div class="clear"></div>
+                  </li>
+				                  <li>
+					<p><a href="/poznan/wydarzenia/624/Private-Equity-Forum-&amp;-Awards-Gala-2013.html">
+					<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/624_1_m.jpg" alt="Private Equity Forum & Awards Gala 2013" />
+					</a></p>
+                    <h4><a href="/poznan/wydarzenia/624/Private-Equity-Forum-&amp;-Awards-Gala-2013.html" title="Private Equity Forum & Awards Gala 2013">Private Equity Forum & Awards Gala 2013</a></h4>
+                    <div class="clear"></div>
+                  </li>
+				                  <li>
+					<p><a href="/poznan/wydarzenia/623/Top10:-Rynki-dla-polskiego-eksportu-2013---2015.html">
+					<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/623_top10_1_m.jpg" alt="Top10: Rynki dla polskiego eksportu 2013 - 2015" />
+					</a></p>
+                    <h4><a href="/poznan/wydarzenia/623/Top10:-Rynki-dla-polskiego-eksportu-2013---2015.html" title="Top10: Rynki dla polskiego eksportu 2013 - 2015">Top10: Rynki dla polskiego eksportu 2013 - 2015</a></h4>
+                    <div class="clear"></div>
+                  </li>
+				                </ul>
+              </div>
+			<div class="clear"></div>
+		  </div>
+	    </div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+      </div>
+	  	    
+      <!-- boxAd -->
+	  <div class="advert">
+		<!-- BBelements AdServer one2many Position: BiznesPolska(2087) / Strona glowna(16) / Skyscraper(1) / skyscraper_pl 160x600 160x600(31) -->
+		<!-- HowTo: Place this code into the html page there the ad should appear. -->
+		<div id='bmone2n-2087.16.1.31'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/31/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/31/?typkodu=img&amp;keywords=' width='160' height='600' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	  </div>
+	
+    </div>
+    <!-- END main right col -->
+	
+	<div class="clear"></div>
+	
+			  
+<!-- box bp magazine bottom -->
+<div class="box">
+  <div class="boxInner">
+	<div class="boxHdr-bt"><div class="inner"><a href="http://biznespolska.pl/unassigned/download.php?target=LZIIJDBSDPON7HD4BB4M9ACX4Y.pdf">Zamów prenumeratę<span>&raquo;</span></a></div></div>
+	<div class="boxHdr">
+	  <h2>BizPoland Magazine - our monthly magazine for Foreign Investors.</h2>
+	</div>
+	<div class="inner">
+	  <ul class="list-przewodniki">
+		<li>
+			<div class="img"><a href="http://issuu.com/biznespolska/docs/bizpolandmag_may2013_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_134/bizpol_mag_134_Covers/bizpol_mag_134_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/biznespolska/docs/bizpolandmag_may2013_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_133/bizpol_mag_133_Covers/bizpol_mag_133_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/biznespolska/docs/bizpolandmag_april2013_pdf_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_132/bizpol_mag_132_Covers/bizpol_mag_132_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_nov2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_131/bizpol_mag_131_Covers/bizpol_mag_131_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_nov2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_130/bizpol_mag_130_Covers/bizpol_mag_130_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_nov2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_129/bizpol_mag_129_Covers/bizpol_mag_129_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_sept2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_128/bizpol_mag_128_Covers/bizpol_mag_128_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpoland_july_2012_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_127/bizpol_mag_127_Covers/bizpol_mag_127_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+	  </ul>
+	  <div class="clear"></div>
+	</div>
+  </div>
+  <div class="boxBottomLink">
+	<div class="button"><div class="inner"><a href="/przewodniki/bizpolandmag/">Szczegóły reklamowe</a></div></div>
+  </div>
+  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+</div>
+<!-- End box bp magazine bottom -->	
+  </div>
+</div>
+
+
+<!-- BBelements AdServer one2many code -->
+<!-- HowTo: All the ad codes must be above this code! -->	
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<script type='text/javascript' src='http://go.arbopl.bbelements.com/bb/bb_one2n.js'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+var bbkeywords=''; //fill in: 'key1;key2;..'
+bmone2n.addPosition('2087.16.1.30','');
+bmone2n.addPosition('2087.16.1.36','');
+bmone2n.addPosition('2087.16.1.31','');
+bmone2n.getAd('go.arbopl.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''));
+/* ]]> */</script>
+<div id='bmone2t-2087.16.1.30' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.30'); /* ]]> */</script></div>
+<div id='bmone2t-2087.16.1.36' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.36'); /* ]]> */</script></div>
+<div id='bmone2t-2087.16.1.31' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.31'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+
+<div id="section-foot">
+  <div class="wrapper">
+    <div class="inner">
+      <div class="navFoot">
+	    <ul>
+		  <li><a href="/przeglad/">News</a></li>
+		  <li><a href="/przewodniki/">Przewodniki biznesowe</a></li>
+		  <li><a href="/reklama/">Reklama</a></li>
+		  <li><a href="/network/">BP network</a></li>
+		  <li><a href="/kontakt/">Kontakt</a></li>
+		  <li><a href="http://ceeoutsourcingawards.com/" target="_blank">CEE Outsourcing and Shared Services Awards</a></li>
+		  <li><a href="http://fdipolandawards.pl/" target="_blank">FDI Poland Investor Awards</a></li>
+		  <!--<li><a href="http://equitiespoland.pl/" target="_blank">EquitiesPoland.pl</a></li>-->
+		</ul>
+		<div class="clear"></div>
+	  </div>
+	  <div class="clear"></div>
+	  <div class="f-l"><p>Copyright &copy; 2013 <a class="copy" href="/">Biznes<span>Polska.pl</span></a></p></div>
+	  <div class="f-r w-140"><p class="f-l">Design by</p><a class="gv" href="http://www.globalvanet.com">Globalvanet.pl</a></div>
+	  <div class="clear"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  var menu=new menu.dd("menu");
+  menu.init("navTopList","menuhover")
+</script> 
+
+</body>
+</html>

@@ -1,0 +1,1155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+
+<title>BiznesPolska.pl, Wiadomości, Przegląd Prasy, Komunikaty Prasowe, Baza Firm, Ludzie, Analizy i Raporty, Kalendarium</title>
+<meta name="keywords" content="Biznes, BiznesPolska, Polska, B2B, wiadomości, przetargi, komunikaty prasowe, ludzie, Network, zdjecie dnia, krs, firmy, nowe krs, analizy, kalendarium, rankingi, komentarze" />
+<meta name="description" content="BiznesPolska.pl jest wiodącym portalem B2B, który obecnie odnotowuje ok. 14,000 odwiedzających dziennie. Z portalu korzystają przede wszystkim mieszkańcy wszystkich większych miast w Polsce, reprezentujący kadrę zarządzającą wyższego i średniego szczebla. W portalu BiznesPolska.pl znajdują źródło najświeższych informacji prasowych, bazę danych firm (również tych nowo utworzonych), raporty biznesowe oraz kontakt do innych osób świata biznesu." />
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="http://biznespolska.pl/www/css/style-1.css" type="text/css" />
+<link rel="stylesheet" href="http://biznespolska.pl/www/css/style-old.css" type="text/css" />
+<link rel="shortcut icon" href="BiznesPolska.ico" type="image/x-icon" />
+<script src="http://biznespolska.pl/www/js/tiny.ddmenu.js" type="text/javascript"></script>
+<script src="http://biznespolska.pl/www/js/register_functions.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26440187-1']);
+  _gaq.push(['_setDomainName', 'biznespolska.pl']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><!-- Start of Woopra Code -->
+
+<script type="text/javascript">
+
+function woopraReady(tracker) {
+
+    tracker.setDomain('biznespolska.pl');
+
+    tracker.setIdleTimeout(300000);
+
+    tracker.track();
+
+    return false;
+
+}
+
+(function() {
+
+    var wsc = document.createElement('script');
+
+    wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+
+    wsc.type = 'text/javascript';
+
+    wsc.async = true;
+
+    var ssc = document.getElementsByTagName('script')[0];
+
+    ssc.parentNode.insertBefore(wsc, ssc);
+
+})();
+
+</script>
+
+<!-- End of Woopra Code -->
+</head>
+<body>
+
+
+<div id="section-top">
+  <div class="wrapper">
+    <div id="nav">
+      <div class="f-l">
+	    <ul id="navTopList">
+	      <li class="level-1 home"><a href="/"></a></li>
+	      <li class="level-1"><a href="/przeglad/">News</a>
+			  <ul>
+				<li class="level-2"><a href="/przeglad/">Nowe Inwestycje - <span class="c-red">NOWOŚĆ!</span></a></li>
+				<li class="level-2"><a href="/wywiad/">10 pytań do zagranicznego inwestora - <span class="c-red">NOWOŚĆ!</span></a></li>
+				<li class="level-2"><a href="/komunikaty/">Komunikaty prasowe</a></li>
+				<li class="level-2"><a href="/kalendarium/">Kalendarium</a></li>
+				<li class="level-2"><a href="/wydarzenia/">Wydarzenia</a></li>
+				<!-- <li class="level-2"><a href="/przetargi/">Przetargi</a></li> -->
+				<!-- <li class="level-2"><a href="/krs/">Nowe firmy KRS</a></li> -->
+				<li class="level-2"><a href="/rankingi/">Rankingi</a></li>
+				<li class="level-2"><a href="/bizbaza/">Biz Baza</a></li>
+				<li class="level-2"><a href="/analizy/">Analizy i raporty</a></li>
+			  </ul>
+		  </li>
+	      <li class="level-1"><a href="/przewodniki/">Przewodniki</a>
+			<ul>
+				<li class="level-2"><a href="/przewodniki/officebuildings/">Top Office Buildings</a></li>
+				<li class="level-2"><a href="/przewodniki/windenergy/">Wind Energy</a></li>
+				<li class="level-2"><a href="/przewodniki/equities/">Equities Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/outsourcing/">Outsourcing Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/aviation/">Aviation Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/foodexports/">Food Exports Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/cityinvest/">CityInvest Poland</a></li>
+				<li class="level-2"><a href="/przewodniki/shoppingcentres/">Top Shopping Centres</a></li>
+				<!-- <li class="level-2"><a href="/przewodniki/energiawiatrowa/">Energia Wiatrowa</a></li> -->
+			</ul>
+		  </li>
+	      <li class="level-1"><a href="/reklama/">Reklama</a>
+			<ul>
+				<li class="level-2"><a href="/autoreklama/">AutoReklama</a></li>
+				<li class="level-2"><a href="/reklama/a/internet/">Reklama w internecie</a></li>
+				<li class="level-2"><a href="/reklama/a/newsletter/">Reklama w newsletterze</a></li>
+				<li class="level-2"><a href="/reklama/a/mailing/">Reklama w mailingu celowym</a></li>
+				<li class="level-2"><a href="/reklama/a/dodatki/">Reklama w dodatkach</a></li>
+			</ul>
+		  </li>
+	      <li class="level-1"><a href="/network/">BP Network</a>
+			<ul>
+				<li class="level-2"><a href="/network/a/jaktodziala/">Jak to działa</a></li>
+				<li class="level-2"><a href="/network/a/nowaosoba/">Dodaj inną osobę</a></li>
+			</ul>
+
+		  </li>
+	      <li class="level-1"><a href="#">Usługi</a>
+			  <ul>
+				<li class="level-2"><a href="/regulamin/">Regulamin</a></li>
+				<li class="level-2"><a href="/newsletter/">Newsletter</a></li>
+				<li class="level-2"><a href="/formularz/">Formularze</a></li>
+				<li class="level-2"><a href="/szukaj/">Szukaj</a></li>
+				<li class="level-2"><a href="/mojekonto/">Strona użytkownika</a></li>
+				<li class="level-2"><a href="/kontakt/">Kontakt</a></li>
+				<li class="level-2"><a href="/onas/">O Nas</a></li>
+			  </ul>
+			</li>
+			<li class="level-1"><a href="#">Regiony</a>
+				<ul>
+					<li class="level-2"><a href="/warszawa/">Warszawa</a></li>
+					<li class="level-2"><a href="/wroclaw/">Wrocław</a></li>
+					<li class="level-2"><a href="/poznan/">Poznań</a></li>
+					<li class="level-2"><a href="/krakow/">Kraków</a></li>
+					<li class="level-2"><a href="/szczecin/">Szczecin</a></li>
+					<li class="level-2"><a href="/trojmiasto/">Trójmiasto</a></li>
+					<li class="level-2"><a href="/lodz/">Łódź</a></li>
+					<li class="level-2"><a href="/katowice/">Katowice</a></li>
+				</ul>
+			</li>
+	    </ul>
+	  </div>
+      <div class="f-r">
+	    <ul>
+	      <!-- <li class="i1"><a href="/autoreklama/">AutoReklama</a></li> -->
+	      <li class="i2"><a href="/newsletter/">Newsletter</a></li>
+	      <li class="i3"><a href="/rejestracja/">Rejestracja</a></li>
+	      <li class="i4"><a href="/logowanie/">Zaloguj się</a></li>
+	    </ul>
+	  </div>
+	  <div class="clear"></div>
+	</div>
+			<div id="logo"><a href="/">BiznesPolska.pl</a></div><div class="clear"></div>
+		<div id="logo_underscore">Inwestycje zagraniczne w Polsce</div>
+	
+	<!-- boxAd -->
+	<div class="advert">
+		<!-- BBelements AdServer one2many Position: BiznesPolska(2087) / Strona głowna(16) / Billboard(1) / billboard 750x100 750x100(30) -->
+		<!-- HowTo: Place this code into the html page there the ad should appear. -->
+		<div id='bmone2n-2087.16.1.30'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/30/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/30/?typkodu=img&amp;keywords=' width='750' height='100' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	</div>
+	<!-- END boxAd -->
+
+	<div class="clear"></div>
+  </div>
+</div>
+
+<div id="section-content">
+  <div class="wrapper">
+  
+    <!-- main left col -->
+	<div class="w-670 f-l">
+  
+      <!-- box -->
+	  <div class="box w-300 f-l">
+	    <div class="boxInner">
+		  <div class="boxHdr">
+		    <h2>Zdjęcie dnia</h2>
+		  </div>
+					  
+		  <div class="inner-0">
+			<img src="http://biznespolska.pl/admin/upload/pictures/potd/2013/07/283_modlin_m.jpg" width="296" alt="Zdjęcie dnia" />
+		  </div>
+		  <div class="boxHdr2">
+		    <!-- <h3><a href="/zdjeciednia/"></a></h3> -->
+		    <h3>Lotnisko w Modlinie będzie sprywatyzowane. Przewoźnicy prowadzą swoistą grę ze spółką Port Lotniczy Modlin licząc na obniżenie opłat, na to, że właściciele dopłacą do funkcjonowania lotniska. Nic z tego przekonuje Adam Struzik.</h3>
+		  </div>
+												  
+	    </div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	  </div>
+	  <!-- END box -->
+  
+      <!-- box -->
+	  <div class="box w-350 f-r">
+	    <div class="boxInner">
+		    <div class="boxHdr-bt"><div class="inner"><a href="/przeglad/">Więcej <span>&raquo;</span></a></div></div>				
+        <div class="boxHdr">
+          <h2>Nowe inwestycje</h2>
+        </div>
+        <div class="inner">
+          <ul class="list-pp-articles">
+				  
+				<li>
+				  <div class="innerLocal">
+										<div class="img"><a href="/przeglad/218895/Świat-degustuje-alkohole-z-Polski.html"><img class="img-brd-bt" src="/admin/upload/pictures/articles/218895_nalewki_s.jpg" alt="Świat degustuje alkohole z Polski" /></a></div>
+										<h4><a href="/przeglad/218895/Świat-degustuje-alkohole-z-Polski.html">Świat degustuje alkohole z Polski</a></h4>
+					<p>Polskie nalewki testują Niemcy, Chińczycy, Amerykanie. Lokalny producent – Z. Kozuba i Synowie, próbuje przebić się na zagraniczne rynki</p>
+					<div class="clear"></div>
+				  </div>
+				</li>
+				  
+				<li>
+				  <div class="innerLocal">
+										<h4><a href="/przeglad/218894/Chevron-kończy-z-odwiertem-na-koncesji-Frampol-.html">Chevron kończy z odwiertem na koncesji Frampol </a></h4>
+					<p>Amerykański koncern Chevron nie będzie kontynuował prac na odwiercie w koncesji Frampol, informuje Reuters na swojej stronie internetowej. </p>
+					<div class="clear"></div>
+				  </div>
+				</li>
+				  
+				<li>
+				  <div class="innerLocal">
+										<h4><a href="/przeglad/218893/Copa-Cogeca-ostrzega-przed-importem-taniego-miodu-z-Chin.html">Copa-Cogeca ostrzega przed importem taniego miodu z Chin</a></h4>
+					<p>Unijna organizacja rolników Copa-Cogeca zaapelowała do Komisji Europejskiej o podjęcie działań w sprawie wwozu na teren UE taniego miodu z Chin.</p>
+					<div class="clear"></div>
+				  </div>
+				</li>
+			          </ul>
+        </div>
+      </div>
+      <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	  </div>
+	  <!-- END box -->
+
+	  <div class="clear"></div>
+  
+      <!-- boxTabbed -->
+	  <div class="box">
+	    <div class="boxInner">
+		  <div class="boxHdrTabs">
+		    <div class="inner">
+		    <ul>
+			  <li class="current"><a href="/">Wszystkie</a></li>
+			  <li ><a href="/warszawa/">Warszawa</a></li>
+			  <li ><a href="/wroclaw/">Wrocław</a></li>
+			  <li ><a href="/poznan/">Poznań</a></li>
+			  <li ><a href="/krakow/">Kraków</a></li>
+			  <li ><a href="/szczecin/">Szczecin</a></li>
+			  <li ><a href="/trojmiasto/">Trójmiasto</a></li>
+			  <li ><a href="/lodz/">Łódź</a></li>
+			  <li ><a href="/katowice/">Katowice</a></li>
+			</ul>
+		    </div>
+		  </div>
+		<div class="inner-20">  
+		<div class="div-c w-580">
+			<div class="f-l w-280">
+				<ul class="list-cityArticles">
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+												  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218892/FX-Energy-rozczarowany-wynikami-odwiertu.html">FX Energy rozczarowany wynikami odwiertu</a></h4>					
+									  
+					<p>FX Energy poinformował, że test odwiertu Pławce-2 dał rozczarowujące wyniki. </p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+								  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218890/Lotnisko-w-Modlinie-będzie-sprywatyzowane:-Samorząd-nie-chce-dokładać.html">Lotnisko w Modlinie będzie sprywatyzowane: Samorząd nie chce dokładać</a></h4>					
+									  
+					<p>Choć lotnisko w Modlinie znów może przyjmować duże samoloty, przewoźnicy wciąż wahają się, czy wznowić tam rejsy. Przewoźników do powrotu zachęcić mogą niższe opłaty niż na lotnisku Okęcie, choć dalszych zniżek nie będzie, bo samorząd nie chce dopłacać do lotniska. Lotnisko mysli o prywatyzacji. </p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+								  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218888/Miliardy-z-OFE-do-ZUS-u:-Ubezpieczeniowy-moloch-wstrząśnie-giełdą,-a-nasze-pieniądze-trafią-w-ręce-urzędników.html">Miliardy z OFE do ZUS-u: Ubezpieczeniowy moloch wstrząśnie giełdą, a nasze pieniądze trafią w ręce urzędników?</a></h4>					
+									  
+					<p>Państwo weźmie akcje od OFE? Eksperci widzą same minusy takiej zmiany systemu emerytalnego. Nie wyobrażają sobie, jak Zakład Ubezpieczeń Społecznych miałby zarządzać wielomiliardowym portfelem aktywów spółek publicznych</p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+								  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218885/Gminy-dopłacą-do-śmieci,-bo-nie-zbiorą-wszystkich-opłat.html">Gminy dopłacą do śmieci, bo nie zbiorą wszystkich opłat</a></h4>					
+										<div class="img"><a href="/przeglad/218885/Gminy-dopłacą-do-śmieci,-bo-nie-zbiorą-wszystkich-opłat.html"><img class="img-brd-bt" src="/admin/upload/pictures/articles/218885_smieci_s.jpg" alt="Gminy dopłacą do śmieci, bo nie zbiorą wszystkich opłat" /></a></div>
+									  
+					<p>Miasta już wiedzą: nie uda się ściągnąć nowego parapodatku śmieciowego od 100 proc. mieszkańców.</p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+								  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218883/Zmiany-w-OFE-przygniotą-warszawską-giełdę.html">Zmiany w OFE przygniotą warszawską giełdę</a></h4>					
+									  
+					<p>Każde z przestawionych przez rząd rozwiązań, zwanych reformą systemu emerytalnego, będzie miało negatywne konsekwencje dla polskiego rynku kapitałowego. </p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+								  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218881/Pendolino-nie-pojedzie-przy-dużym-mrozie.-Czy-nowoczesne-pociągi-sparaliżują-PKP.html">Pendolino nie pojedzie przy dużym mrozie. Czy nowoczesne pociągi sparaliżują PKP?</a></h4>					
+									  
+					<p>Ta informacja przy upałach panujących dziś za oknem brzmi egzotycznie, ale pociągi Pendolino zamówione przez PKP Intercity nie są przystosowane do kursowania w temperaturze niższej niż minus 25 st. C. Producent przyznał się, że większy mróz zatrzyma je w zajezdni. To stwarza ryzyko, że w Polsce powtórzy się scenariusz z Czech. Jedną z przyczyn licznych awarii trapiących siedem pociągów zamówionych przez Koleje Czeskie były właśnie rekordowe mrozy.</p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+								</ul>
+			</div>
+			<div class="f-r w-280">
+				<ul class="list-cityArticles">
+												  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218891/UOKiK-mówi:-basta.html">UOKiK mówi: basta</a></h4>
+									  
+					<p>Urzędnicy zamierzają ograniczyć możliwość łatwego zarobku na błędach przedsiębiorców. Każdy, kto uzna, że ma do czynienia z zabronionym przez prawo zapisem, np. w umowie podsuniętej przez bank, firmę ubezpieczeniową, biuro podróży czy regulaminie sklepu internetowego, może wnieść pozew do Sądu Ochrony Konkurencji i Konsumentów (SOKiK).</p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+												  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218889/Stocznia-Gdańsk-wciąż-bez-pieniędzy.-Widmo-bankructwa-coraz-bliżej.html">Stocznia Gdańsk wciąż bez pieniędzy. Widmo bankructwa coraz bliżej?</a></h4>
+									  
+					<p>Wczorajsze ZWZ Stoczni Gdańsk nie podjęło uchwał w sprawie dokapitalizowania spółki i dalszego jej istnienia, bo zostało przerwane do 8 sierpnia.</p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+												  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218886/Dziura-budżetowa-wciągnie-spółki-komandytowe.-Dodatkowe-opodatkowanie-doprowadzi-do-wzrostu-bezrobocia.html">Dziura budżetowa wciągnie spółki komandytowe. Dodatkowe opodatkowanie doprowadzi do wzrostu bezrobocia</a></h4>
+									  
+					<p>Resort pracy alarmuje, że pomysł Ministerstwa Finansów dodatkowego opodatkowania tego typu działalności doprowadzi do wzrostu bezrobocia i osłabienia gospodarki.<img src="http://biznespolska.pl/upload/pictures/bp2/coment.jpg" alt="Komentarz" align="right" /></p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+												  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218884/Janosikowe-złupiło-samorządy.-Mazowsze-zbankrutuje.html">Janosikowe złupiło samorządy. Mazowsze zbankrutuje?</a></h4>
+									  
+					<p>Mazowsze wstrzymuje wypłaty janosikowego. Nie ono jedno jest na liście potencjalnych bankrutów.<img src="http://biznespolska.pl/upload/pictures/bp2/coment.jpg" alt="Komentarz" align="right" /></p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+												  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218882/Shell-bierze-Neste-.html">Shell bierze Neste </a></h4>
+									  
+					<p> Koncern Shell, który za 80 mln euro przejął w Polsce 106 tanich stacji paliw fińskiego Neste, rozpoczął prace nad zmianą wyglądu tych placówek – informuje „Gazeta Wyborcza”. </p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+												  <li>
+					<div class="innerLocal">
+					<h4><a href="/przeglad/218880/Problemy-polskich-fabryk-motoryzacyjnych:-Volkswagen-na-plusie,-Fiat-na-minusie.html">Problemy polskich fabryk motoryzacyjnych: Volkswagen na plusie, Fiat na minusie</a></h4>
+									  
+					<p>Fabryki motoryzacyjne w naszym kraju zakończyły półrocze w kiepskich nastrojach. Tylko poznański zakład niemieckiego koncernu wyprodukował w pierwszym półroczu więcej samochodów niż przed rokiem.</p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+					
+				<!-- artykul sponsorowany -->
+				<!--
+				<li>
+					<div class="innerLocal" style="margin: 2px 2px 2px 2px; padding: 3px 3px 3px 3px; border: 1px solid #9D270E;">
+					<h4><a href="http://biznespolska.pl/unassigned/click.php?source=biginfo&target=http://www.biznespolska.pl/przeglad/218352/BIG-InfoMonitor-mobilizuje-przedsiębiorców!.html">BIG InfoMonitor mobilizuje przedsiębiorców!</a></h4>
+										<div class="img"><a href="http://biznespolska.pl/unassigned/click.php?source=biginfo&target=http://www.biznespolska.pl/przeglad/218352/BIG-InfoMonitor-mobilizuje-przedsiębiorców!.html"><img class="img-brd-bt" src="/admin/upload/pictures/articles/218352_infomonitor_rgb-logo podstawowe-1 cien_s.jpg" alt="BIG InfoMonitor mobilizuje przedsiębiorców!" /></a></div>
+									  
+					<p>Zrób pierwszy krok aby odzyskać swoje należności. Wpisz swojego dłużnika do Rejestru BIG, a zapłata Twojej faktury stanie się dla niego priorytetem.</p>
+					<div class="clear"></div>					
+					</div>
+				  </li>
+				  -->
+				<!-- artykul sponsorowany END -->			
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="div-c w-300">
+					
+		</div>
+		</div>		
+	    </div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	  </div>
+	  <!-- END boxTabbed -->
+
+	  <!-- przeglad prasy, wydarzenia, nowe firmy, rankingi -->
+	  <div class="w-430 f-l">
+	  
+        <!-- box -->
+	    <div class="box">
+	      <div class="boxInner">
+		    <div class="boxHdr-bt"><div class="inner"><a href="/komunikaty/">Więcej <span>&raquo;</span></a></div></div>
+		    <div class="boxHdr">
+		      <h2>Komunikaty prasowe</h2>
+		    </div>
+		    <div class="inner">
+		      <div class="w-150 f-l">
+			  			  									
+		        <p class="ppIntro"><a href="/komunikaty/218819/Wakacyjni-stażyści-–-te-błędy-firmy-popełniają-najczęściej.html">Wakacyjni stażyści – te błędy firmy popełniają najczęściej</a></p>
+				<a href="/komunikaty/218819/Wakacyjni-stażyści-–-te-błędy-firmy-popełniają-najczęściej.html">
+					<img class='img-brd-bt2' src="/admin/upload/pictures/articles/218819_hr24_s.jpg" width='130' alt="" />
+				</a>
+   			  				
+			  </div>
+		      <!--<div class="w-250 f-r"> -->
+		        <ul class="list-articlesSimple">
+														<li><h4><a href="/komunikaty/218820/Expedycja-IV-Kongo-–-czas-start!.html">Expedycja IV Kongo – czas start!</a></h4></li>
+																												<li><h4><a href="/komunikaty/218806/Nowe-Centrum-Logistyczne-Krakvet.html">Nowe Centrum Logistyczne Krakvet</a></h4></li>
+																			<li><h4><a href="/komunikaty/218729/Po-raz-piąty-dla-najlepszych-w-sprzedaży.html">Po raz piąty dla najlepszych w sprzedaży</a></h4></li>
+																			<li><h4><a href="/komunikaty/218737/Biznes-kupuje-waluty-w-sieci.html">Biznes kupuje waluty w sieci</a></h4></li>
+																			<li><h4><a href="/komunikaty/218763/Zarządzanie-podróżami-służbowymi-–-efektywniej,-taniej-i-bardziej-mobilnie.html">Zarządzanie podróżami służbowymi – efektywniej, taniej i bardziej mobilnie</a></h4></li>
+																			<li><h4><a href="/komunikaty/218779/Debata-„Państwo-2.0:-Obywatele-źródłem-wiedzy-i-rozwiązań”.html">Debata „Państwo 2.0: Obywatele źródłem wiedzy i rozwiązań”</a></h4></li>
+																			<li><h4><a href="/komunikaty/218762/Deltamarin-wybiera-BCB-Business-Park-w-Gdańsku.html">Deltamarin wybiera BCB Business Park w Gdańsku</a></h4></li>
+												    </ul>
+		      <!--</div> -->
+			  <div class="clear"></div>
+		    </div>
+	      </div>
+  			<div class="boxBottomLink">
+			  <div class="button"><div class="inner"><a href="/komunikaty/"><span class="black">wyślij</span> komunikat</a></div></div>
+			</div>		  
+		  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+		<!-- END box -->
+		
+        <!-- box wydarzenia -->
+	    <div class="box">
+	      <div class="boxInner">
+		    <div class="boxHdr-bt"><div class="inner"><a href="/wydarzenia/">Więcej <span>&raquo;</span></a></div></div>
+		    <div class="boxHdr">
+		      <h2>Wydarzenia</h2>
+		    </div>
+		    <div class="inner">
+								  <div class="f-l w-190">
+					<p style="text-align: center"><a href="/wydarzenia/629/Inwestorzy-z-USA-świętują-w-Warszawie.html">
+										
+						<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/629_aiwa3378_m.jpg" width='190' alt="Inwestorzy z USA świętują w Warszawie" />
+					</a></p>
+					<h4><a class="blue" href="/wydarzenia/629/Inwestorzy-z-USA-świętują-w-Warszawie.html">Inwestorzy z USA świętują w Warszawie</a></h4>
+				  </div>
+										
+				  <div class="f-r w-190">
+					<p style="text-align: center"><a href="/wydarzenia/628/Kongres-Regionów-2013.html">
+										
+						<img class="img-brd-bt" src="http://www.biznespolska.pl/admin/upload/pictures/gallery/2013/07/628_17_m.jpg" width='190' alt="Kongres Regionów 2013" />
+					</a></p>
+					<h4><a class="blue" href="/wydarzenia/628/Kongres-Regionów-2013.html">Kongres Regionów 2013</a></h4>
+				  </div>
+								<div class="clear"></div>
+		    </div>
+	      </div>
+		  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+		<!-- END box wydarzenia -->
+				
+	  </div>
+	  <!-- END przeglad prasy, wydarzenia, nowe firmy, rankingi -->
+	  
+	  <!-- kalendarium, porady -->
+	  <div class="w-220 f-r">
+	  
+        <!-- box kalendarium-->
+	    <div class="box">
+	      <div class="boxInner">
+		    <div class="boxHdr-bt"><div class="inner"><a href="/kalendarium/">Więcej <span>&raquo;</span></a></div></div>
+		    <div class="boxHdr">
+		      <h2>Kalendarium</h2>
+		    </div>
+		    <div class="inner">
+		        <ul class="list-kalendarium">
+			      					<li><p>14.07, Ogólnopolski</p><h4><a href="/kalendarium/30508/Dzień-Francuski-w-Warszawie.html">Dzień Francuski w Warszawie</a></h4></li>
+				  					<li><p>1.08, Ogólnopolski</p><h4><a href="/kalendarium/30507/VII-Forum-Marketingu-Internetowego.html">VII Forum Marketingu Internetowego</a></h4></li>
+				  					<li><p>2.09, Ogólnopolski</p><h4><a href="/kalendarium/30433/XXI-MSPO-2013.html">XXI MSPO 2013</a></h4></li>
+				  					<li><p>2.09, Ogólnopolski</p><h4><a href="/kalendarium/30515/VI-Forum-Inwestycyjne.html">VI Forum Inwestycyjne</a></h4></li>
+				  					<li><p>3.09, Ogólnopolski</p><h4><a href="/kalendarium/30510/Forum-Ekonomiczne-w-Krynicy.html">Forum Ekonomiczne w Krynicy</a></h4></li>
+				  					<li><p>3.09, Ogólnopolski</p><h4><a href="/kalendarium/30514/VII-Forum-Regionów-Forum-Ekonomicznego.html">VII Forum Regionów Forum Ekonomicznego</a></h4></li>
+				  					<li><p>12.09, Ogólnopolski</p><h4><a href="/kalendarium/30435/China-Expo-2013.html">China Expo 2013</a></h4></li>
+				  					<li><p>23.09, Ogólnopolski</p><h4><a href="/kalendarium/30434/Polagra-Food.html">Polagra Food</a></h4></li>
+				  			    </ul>
+			  <div class="clear"></div>
+		    </div>
+		    <div class="boxBottomLink">
+		      <div class="button"><div class="inner"><a href="/kalendarium/"><span class="black">Dodaj</span> do kalendarium</a></div></div>
+		    </div>
+	      </div>
+		  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+        <!-- END box kalendarium-->
+			  		
+	  </div>
+	  <!-- END kalendarium, przetargi -->
+	  
+	  <div class="clear"></div>
+	  
+			  
+<!-- box -->
+<div class="box">
+	<div class="boxInner">
+		<div class="boxHdr-bt"><div class="inner"><a href="/przewodniki/">Więcej <span>&raquo;</span></a></div></div>
+	  <div class="boxHdr">
+	  <h2>Przewodniki biznesowe</h2>
+	  </div>
+	  <div id="content">	  	  
+	  <div class="inner-20">
+		<h3>Reklama w naszych dodatkach biznesowych:</h3>
+		<ul class="list-przewodniki-main">
+		<li>
+			<div class="img"><a href="/przewodniki/windenergy/"><img src="/admin/upload/pictures/gazety/energy/WindEnergy_2012_Cov_100px.jpg" alt="Wind Energy" /></a></div>
+			<h3 class="c-red">Wind Energy</h3><p>Wydanie: Kwiecień 2013</p>
+			<p><a href="/przewodniki/windenergy/">* szczegóły reklamowe</a><br />
+				<a href="http://biznespolska.pl/unassigned/download.php?target=W2J9O6KR20648AK7F0Y4W3IXMD.pdf">* zamów egzemplarz</a><br />
+				<a href="http://issuu.com/biznespolska/docs/windenpoland_may2012_eng_final_pdf" target="_blank">* czytaj online</a>
+			</p>																
+			<p class="c-black"><strong>Dystrybucja:</strong><br />PSEW Wind Expo (Warszawa)
+			</p>
+			<div class="clear"></div>
+		</li>
+		<li>
+			<div class="img"><a href="/przewodniki/equities/"><img src="/admin/upload/pictures/gazety/equities/EquitiesPoland_Winter_2013_Cov_100px.jpg" alt="Equities Poland 2012" /></a></div>
+			<h3 class="c-red">Equities Poland</h3><p>Wydanie: Maj 2013</p>
+			<p><a href="/przewodniki/equities/">* szczegóły reklamowe</a><br />
+				<a href="http://biznespolska.pl/unassigned/download.php?target=W2J9O6KR20648AK7F0Y4W3IXMD.pdf">* zamów egzemplarz</a><br />
+				<a href="http://issuu.com/biznespolska/docs/equitiespoland_winter2013_final?mode=window" target="_blank">* czytaj online</a>
+			</p>
+			<p class="c-black"><strong>Dystrybucja:</strong><br />CEE IPO Summit (GPW, Warszawa)
+			</p>
+			<div class="clear"></div>
+		</li>	
+		<li>
+			<div class="img"><a href="/przewodniki/outsourcing/"><img src="/admin/upload/pictures/gazety/outsourcing/Outsourcing_2012_Cov_100px.jpg" alt="Outsourcing Poland" /></a></div>
+			<h3 class="c-red">Outsourcing Poland</h3><p>Wydanie: Czerwiec 2013</p>
+			<p><a href="/przewodniki/outsourcing/">* szczegóły reklamowe</a><br />
+				<a href="http://biznespolska.pl/unassigned/download.php?target=W2J9O6KR20648AK7F0Y4W3IXMD.pdf">* zamów egzemplarz</a><br />
+				<a href="http://issuu.com/biznespolska/docs/bpo_final_pdf_2012" target="_blank">* czytaj online</a>
+			</p>																
+			<p class="c-black"><strong>Dystrybucja:</strong><br />World BPO Forum (Nowy Jork)
+			</p>
+			<div class="clear"></div>
+		</li>
+		<li>
+			<div class="img"><a href="/przewodniki/aviation/"><img src="/admin/upload/pictures/gazety/aviation/AviationPoland_2013_Cov_100px.jpg" alt="Aviation Poland 2013" /></a></div>
+			<h3 class="c-red">Aviation Poland</h3><p>Wydanie: Czerwiec 2013</p>
+			<p>
+				<a href="/przewodniki/aviation/">* szczegóły reklamowe</a><br />
+				<a href="http://biznespolska.pl/unassigned/download.php?target=W2J9O6KR20648AK7F0Y4W3IXMD.pdf">* zamów egzemplarz</a><br />
+				<a href="http://issuu.com/biznespolska/docs/aviation_poland_2012_final_pdf" target="_blank">* czytaj online</a>
+			</p>
+			<p class="c-black"><strong>Dystrybucja:</strong><br />Paris Air Show, Kielce Defence Fair (MSPO)
+			</p>			
+			<div class="clear"></div>
+		</li>
+		<li>
+			<div class="img"><a href="/przewodniki/foodexports/"><img src="/admin/upload/pictures/gazety/food/Food_2013_Cov_100px.jpg" alt="Food Exports Poland" /></a></div>
+			<h3 class="c-red">Food Exports Poland</h3><p>Wydanie: Wrzesień 2013</p>
+			<p><a href="/przewodniki/foodexports/">* szczegóły reklamowe</a><br />
+				<a href="http://biznespolska.pl/unassigned/download.php?target=W2J9O6KR20648AK7F0Y4W3IXMD.pdf">* zamów egzemplarz</a><br />
+				<a href="http://issuu.com/biznespolska/docs/foodexportspoland_final_spring2012" target="_blank">* czytaj online</a>
+			</p>												
+			<p class="c-black"><strong>Dystrybucja:</strong><br />GulFood (Dubai), ISM Sweets (Koln), EuroSeafood (Brussels), Fancy Foods (Nowy Jork)
+			</p>
+			<div class="clear"></div>
+		</li>			
+		<li>
+			<div class="img"><a href="/przewodniki/cityinvest/"><img src="/admin/upload/pictures/gazety/cip/CIP_2013_Cov_100px.jpg" alt="CityInvestPoland" /></a></div>
+			<h3 class="c-red">CityInvestPoland</h3><p>Wydanie: Październik 2013</p>
+			<p><a href="/przewodniki/cityinvest/">* szczegóły reklamowe</a><br />
+				<a href="http://biznespolska.pl/unassigned/download.php?target=W2J9O6KR20648AK7F0Y4W3IXMD.pdf">* zamów egzemplarz</a><br />
+				<a href="http://issuu.com/biznespolska/docs/cityinvestpoland_2012_final_pdf" target="_blank">* czytaj online</a>
+			</p>
+			<p class="c-black"><strong>Dystrybucja:</strong><br />ExpoReal (monachium)
+			</p>
+			<div class="clear"></div>
+		</li>		
+		<li>
+			<div class="img"><a href="/przewodniki/shoppingcentres/"><img src="/admin/upload/pictures/gazety/shopcent/Shopping_2013_Cov_100px.jpg" alt="Top Shopping Centres" /></a></div>
+			<h3 class="c-red">Top Shopping Centres</h3><p>Wydanie: Listopad 2013</p>
+			<p><a href="/przewodniki/shoppingcentres/">* szczegóły reklamowe</a><br />
+				<a href="http://biznespolska.pl/unassigned/download.php?target=W2J9O6KR20648AK7F0Y4W3IXMD.pdf">* zamów egzemplarz</a><br />
+				<a href="http://issuu.com/biznespolska/docs/topshoppingcentrespoland_final_2013?mode=window" target="_blank">* czytaj online</a>
+			</p>				
+			<p class="c-black"><strong>Dystrybucja:</strong><br />MAPIC (Cannes)
+			</p>
+			<div class="clear"></div>
+		</li>
+		<li>
+			<div class="img"><a href="/przewodniki/officebuildings/"><img src="/admin/upload/pictures/gazety/office/Office_2013_Cov_100px.jpg" alt="Top Office Buildings" /></a></div>
+			<h3 class="c-red">Top Office Buildings</h3><p>Wydanie: Marzec 2013</p>
+			<p><a href="/przewodniki/officebuildings/">* szczegóły reklamowe</a><br />
+				<a href="http://biznespolska.pl/unassigned/download.php?target=W2J9O6KR20648AK7F0Y4W3IXMD.pdf">* zamów egzemplarz</a><br />
+				<a href="http://issuu.com/biznespolska/docs/topoffices_2013_finalfinal_pdf?mode=window" target="_blank">* czytaj online</a>
+			</p>																
+			<p class="c-black"><strong>Dystrybucja:</strong><br />MIPIM (Cannes)
+			</p>
+			<div class="clear"></div>
+		</li>			
+		</ul>
+		<div class="clear"></div>
+	  </div>
+	  </div>
+	</div>
+	<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+</div>
+<!-- end box -->
+	  
+	  
+	    <!-- bizbaza -->
+	    <div class="box">
+	      <div class="boxInner">
+		    <div class="boxHdr-bt"><div class="inner"><a href="/bizbaza/">Więcej <span>&raquo;</span></a></div></div>
+		    <div class="boxHdr">
+		      <h2>Biz Baza</h2>
+		    </div>
+		    <div class="inner-20">
+			  <div class="f-l w-310">
+		        <p class="f-w-b">25 najnowszych zmian</p>
+				<ul class="list-bizbaza">
+				                  <li><a href="/bizbaza/44176/Akademia-Angielskiego-OLYMP.html">Akademia Angielskiego OLYMP</a></li>
+				                  <li><a href="/bizbaza/72378/P.Z-projekt-Piotr-Życki.html">P.Z-projekt Piotr Życki</a></li>
+				                  <li><a href="/bizbaza/72377/Grupa-Gastro-Plus.html">Grupa Gastro Plus</a></li>
+				                  <li><a href="/bizbaza/61246/Mirosław-Wagner---tłumacz-przysięgły-języka-niemieckiego.html">Mirosław Wagner - tłumacz przysięgły języka niemieckiego</a></li>
+				                  <li><a href="/bizbaza/72376/EkoMeritum.html">EkoMeritum</a></li>
+				                  <li><a href="/bizbaza/24137/City-Security.html">City Security</a></li>
+				                  <li><a href="/bizbaza/72375/Centrum-Medyczne-MML-Sp.-z-o.o..html">Centrum Medyczne MML Sp. z o.o.</a></li>
+				                  <li><a href="/bizbaza/72374/Mr-Wallet-Sp.-z-o.-o..html">Mr Wallet Sp. z o. o.</a></li>
+				                  <li><a href="/bizbaza/72373/noRISK---Odszkodowania.html">noRISK - Odszkodowania</a></li>
+				                  <li><a href="/bizbaza/72359/Agencja-Content-Marketingu-|-Eagle-Way.html">Agencja Content Marketingu | Eagle Way</a></li>
+				                  <li><a href="/bizbaza/59264/Biuro-Rachunkowe-Monika-Kaca.html">Biuro Rachunkowe Monika Kaca</a></li>
+				                  <li><a href="/bizbaza/72353/WENA-BIURO-RACHUNKOWE.html">WENA BIURO RACHUNKOWE</a></li>
+				                  <li><a href="/bizbaza/72352/AMA-EXCLUSIVE.html">AMA EXCLUSIVE</a></li>
+				                  <li><a href="/bizbaza/44770/Antidotum-Agencja-Zatrudnienia.html">Antidotum Agencja Zatrudnienia</a></li>
+				                  <li><a href="/bizbaza/72350/Guma-i-Plastik-Recykling-Sp.-z.o.o.html">Guma i Plastik Recykling Sp. z.o.o</a></li>
+				                  <li><a href="/bizbaza/72349/LogisPro.html">LogisPro</a></li>
+				                  <li><a href="/bizbaza/72348/Demps-Sp.-z-o.o.-s.k..html">Demps Sp. z o.o. s.k.</a></li>
+				                  <li><a href="/bizbaza/72347/Elokon-Consulting.html">Elokon Consulting</a></li>
+				                  <li><a href="/bizbaza/72346/BPCo-Sp.-z-o.o.---Przedstawiciel-Gartner-w-Polsce.html">BPCo Sp. z o.o. - Przedstawiciel Gartner w Polsce</a></li>
+				                  <li><a href="/bizbaza/72343/ATM-Elektronika.html">ATM Elektronika</a></li>
+				                  <li><a href="/bizbaza/59748/ALEKSANDER-BĄK.html">ALEKSANDER BĄK</a></li>
+				                  <li><a href="/bizbaza/72345/Murgic-and-Partners.html">Murgic and Partners</a></li>
+				                  <li><a href="/bizbaza/72344/The-Blue-Oleander.html">The Blue Oleander</a></li>
+				                  <li><a href="/bizbaza/72342/Kancelaria-Kowalski-i-Wspólnicy-Sp.-z-o.o..html">Kancelaria Kowalski i Wspólnicy Sp. z o.o.</a></li>
+				                  <li><a href="/bizbaza/72341/Doradca-Aviva.-Ubezpieczenia-Mrągowo,-Pisz,-Giżycko.html">Doradca Aviva. Ubezpieczenia Mrągowo, Pisz, Giżycko</a></li>
+							    </ul>
+			  </div>
+			  <div class="f-r w-310">
+		        <p class="f-w-b">Branże</p>
+				<ul class="list-bizbaza">
+									<li><a href="/bizbaza/b/Budownictw/">Budownictwo i architektura  (1527)</a></li>
+									<li><a href="/bizbaza/b/DORADZTWO/">Doradztwo i badania  (1722)</a></li>
+									<li><a href="/bizbaza/b/EDUKACJA/">Edukacja i szkolenia  (1587)</a></li>
+									<li><a href="/bizbaza/b/ElektU/">Elektryczne i elektroniczne urządzenia  (74)</a></li>
+									<li><a href="/bizbaza/b/FINANSE/">Finanse  (1551)</a></li>
+									<li><a href="/bizbaza/b/FRANCHIS/">Franchising  (94)</a></li>
+									<li><a href="/bizbaza/b/handel/">Handel  (702)</a></li>
+									<li><a href="/bizbaza/b/Inne/">Inne  (702)</a></li>
+									<li><a href="/bizbaza/b/IT/">Internet / Informatyka  (682)</a></li>
+									<li><a href="/bizbaza/b/LSB/">LSB  (2377)</a></li>
+									<li><a href="/bizbaza/b/MARKETING/">Marketing / Reklama  (2208)</a></li>
+									<li><a href="/bizbaza/b/MEDIA/">Media  (648)</a></li>
+									<li><a href="/bizbaza/b/NIERUCH/">Nieruchomości  (1275)</a></li>
+									<li><a href="/bizbaza/b/ORGSPOLECZ/">Organizacje społeczne i pozarządowe  (166)</a></li>
+									<li><a href="/bizbaza/b/PAKSWIADCZ/">Pakiety świadczeń pozapłacowych  (322)</a></li>
+									<li><a href="/bizbaza/b/PLACDYPLOM/">Placówki dyplomatyczne  (130)</a></li>
+									<li><a href="/bizbaza/b/BIZNPODROZ/">Podróże biznesowe  (891)</a></li>
+									<li><a href="/bizbaza/b/PRAWO/">Prawo  (393)</a></li>
+									<li><a href="/bizbaza/b/PRZEMYSL/">Przemysł  (588)</a></li>
+									<li><a href="/bizbaza/b/PRZEMSTOCZ/">Przemysł stoczniowy  (588)</a></li>
+									<li><a href="/bizbaza/b/Rozrywka/">Rozrywka, wypoczynek  (375)</a></li>
+									<li><a href="/bizbaza/b/SEKTPALIW/">Sektor paliwowy  (375)</a></li>
+									<li><a href="/bizbaza/b/TELEKOM/">Telekomunikacja  (359)</a></li>
+									<li><a href="/bizbaza/b/TRANSPORT/">Transport  (1163)</a></li>
+									<li><a href="/bizbaza/b/URZEDYCENT/">Urzędy centralne i regionalne  (1163)</a></li>
+									<li><a href="/bizbaza/b/USLUGIFIRM/">Usługi dla firm  (1248)</a></li>
+									<li><a href="/bizbaza/b/WYPBIUR/">Wyposażenie biur  (491)</a></li>
+							    </ul>
+			  </div>
+			  <div class="clear"></div>
+			  <div class="w-430 div-c">			    
+				<form action="/szukaj/" method="post" id="formSearchBiz">
+					<input type="hidden" name="rodzaj" value="Firmy" />
+					<input type="hidden" name="jakszukac" value="niedokladnie" />
+				  <p class="f-l m-t-5">Wyszukaj (nazwa firmy lub fraza):</p>
+				  <div class="input shd-in-1"><input type="text" name="szukaj" value="" /></div>
+				  <input type="image" class="submit" src="/www/img/tpl/bt/szukaj.png" value="" />
+				  <div class="clear"></div>
+				</form>
+				<div class="clear"></div>
+			  </div>
+		    </div>
+		    <div class="boxBottomLink">
+		      <div class="button"><div class="inner">
+									<a href="/logowanie/"><span class="black">Dodaj</span> swoją firmę</a>				
+							  </div></div>
+		    </div>
+	      </div>
+		  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+	    <!-- END bizbaza -->
+	  	  	
+    </div>
+    <!-- END main left col -->
+  
+    <!-- main right col -->
+    <div class="w-300 f-r">
+  
+	<!-- szukaj  -->
+<div class="boxSearch">
+<div class="boxInner">
+  <div class="inner">
+	<form action="/szukaj/" method="post" id="formSearch">
+	  <input type="hidden" name="rodzaj" value="Wszystkie" />
+	  <input type="hidden" name="jakszukac" value="niedokladnie" />
+	  <div class="input shd-in-1"><input type="text" name="szukaj" value="" /></div>
+	  <input type="image" class="submit" src="/www/img/tpl/bt/szukaj.png" value="" />
+	  <div class="clear"></div>
+	</form>
+  </div>
+</div>
+</div>
+<!-- koniec szukaj  -->	
+	<!-- boxAd rectangle -->
+	<div class="advert">
+		<!-- BBelements AdServer one2many Position: go.arbopl.bbelements.com BiznesPolska(2087) / Strona głowna(16) / Box(1) / box 300x250 300x250(36)-->
+		<!-- HowTo: Place this code into the html page where the ad should appear. -->
+		<div id='bmone2n-2087.16.1.36'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/36/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/36/?typkodu=img&amp;keywords=' width='300' height='250' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	</div>
+	<!-- END boxAd rectangle -->	
+				
+        <!-- newsletter  -->
+	    <div class="box">
+	      <div class="boxInner">
+		    <div class="boxHdr">
+		      <h2>Biznes Polska Newsletter</h2>
+		    </div>
+		    <div class="inner-15">
+				<form action="/rejestracja/" method="post" id="formNl">
+					<input type="hidden" name="step" value="1" />
+				  <div class="input shd-in-1"><input type="text" name="email" value="E-mail" /></div>
+				  <input type="image" class="submit" src="/www/img/tpl/bt/nl.png" value="" />
+				  <div class="clear"></div>
+				</form>
+		    </div>
+		    <div class="boxBottomLink">
+		      <div class="button"><div class="inner"><a href="/newsletter/">Więcej</a></div></div>
+		    </div>
+	      </div>
+		  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	    </div>
+        <!-- koniec newsletter  -->
+		
+	
+	<!-- box 10 questions -->
+	<div class="box">
+	<div class="boxInner">
+	  <div class="boxHdr">
+		<h4>10 pytań do zagranicznego inwestora</h4>
+	  </div>
+	  <div class="inner">		  
+		<ul class="list-wywiad">
+				  <li>
+		    <h5><a class="c-red" href="/wywiad/1003/Polish-Hotel-Company,-we-współpracy-z-InterContinetal-Hotel-Group,-rozwija-w-Polsce-sieć-hotelową-pod-marką-Holiday-Inn-Express..html">Polish Hotel Company, we współpracy z InterContinetal Hotel Group, rozwija w Polsce sieć hotelową pod marką Holiday Inn Express.</a></h5><br />
+			<div class="f-l"><img class="img-brd-bt" src="http://biznespolska.pl/admin/upload/pictures/articles/interview1003_s.jpg" alt="Miguel Martins" /></div>
+			<div class="f-r w-170">
+			  <p class="lh-16"><span class="f-w-b">Miguel Martins</span></p>
+			  <p class="lh-16"><span class="t-up f-s-11">General Manager</span><br /><span class="f-w-b">Polish Hotel Company</span></p>
+			</div>
+			<div class="clear"></div>
+			<br />
+			<div class="f-l">
+				<ul>
+					<li><span class="c-black">Jakiej skali inwestycje robicie w Polsce? Czy macie partnerów?</span></li>
+					<li><span class="c-black">Jakie są pierwszorzędne źródła Waszych dochodów?</span></li>
+					<li><span class="c-black">Proszę powiedzieć o Waszych planach zatrudnienia oraz rozwoju.</span></li>
+					<li><a href="/wywiad/1003/Polish-Hotel-Company,-we-współpracy-z-InterContinetal-Hotel-Group,-rozwija-w-Polsce-sieć-hotelową-pod-marką-Holiday-Inn-Express..html"><span class="f-s-12">czytaj więcej</span></a></li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		  </li>
+			
+		</ul>			
+	  </div>
+	  <div class="boxBottomLink">
+		<div class="button"><div class="inner"><a href="/wywiad/">Więcej</a></div></div>
+	  </div>
+	</div>
+	<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	</div>
+	<!-- End box 10 questions -->
+	
+	<!-- box network new -->
+	<div class="box">
+	<div class="boxInner">
+	  <div class="boxHdr">
+		<h2><a href="/network/"><img src="/www/img/tpl/h/bpn-header.png" alt="BiznesPolska Network" /></a></h2>
+	  </div>
+	  <div class="inner">		  
+		<h5 class="t-up c-red">Ostatnio edytowane profile</h5>
+		<ul class="list-network">
+				  <li>
+			<div class="f-l"><a href="/network/41629/Monika-Krzakiewicz.html"><img class="img-brd-bt" src="http://biznespolska.pl/admin/upload/pictures/persons/122908small.jpg" alt="" /></a></div>
+			<div class="f-r w-190">
+			  <p class="lh-14"><span class="f-w-b"><a href="/network/41629/Monika-Krzakiewicz.html">Monika Krzakiewicz</a></span></p>
+			  <p class="lh-14"><span class="t-up f-s-11">Prezes Zarządu</span><br /><span class="f-w-b">ToroGroup Sp.z o.o.</span></p>
+			</div>
+			<div class="clear"></div>
+		  </li>
+				  <li>
+			<div class="f-l"><a href="/network/41695/Amanda-Morris.html"><img class="img-brd-bt" src="http://biznespolska.pl/admin/upload/pictures/persons/123049small.jpg" alt="" /></a></div>
+			<div class="f-r w-190">
+			  <p class="lh-14"><span class="f-w-b"><a href="/network/41695/Amanda-Morris.html">Amanda Morris</a></span></p>
+			  <p class="lh-14"><span class="t-up f-s-11">Dyrektor Kreatywny</span><br /><span class="f-w-b">AMA EXCLUSIVE</span></p>
+			</div>
+			<div class="clear"></div>
+		  </li>
+				  <li>
+			<div class="f-l"><a href="/network/41560/Marcin-Książak.html"><img class="img-brd-bt" src="http://biznespolska.pl/admin/upload/pictures/persons/122704small.jpg" alt="" /></a></div>
+			<div class="f-r w-190">
+			  <p class="lh-14"><span class="f-w-b"><a href="/network/41560/Marcin-Książak.html">Marcin Książak</a></span></p>
+			  <p class="lh-14"><span class="t-up f-s-11">DIRECTOR</span><br /><span class="f-w-b">MANAGEMENT &amp; CONSULTING GROUP MARCIN KSIĄŻAK</span></p>
+			</div>
+			<div class="clear"></div>
+		  </li>
+			
+		</ul>			
+	  </div>
+	  <div class="boxBottomLink">
+		<div class="button"><div class="inner"><a href="/network/"><span class="black">Dołącz do Biznes</span> Polska Network</a></div></div>
+	  </div>
+	</div>
+	<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	</div>
+	<!-- End box network new -->
+
+	<!-- box wse indices -->
+	<div class="box">
+	    <div class="boxInner">
+			<div class="boxHdr-bt"><div class="inner">2013-07-10</div></div>				
+		  <div class="boxHdr">
+		    <h2>Indeksy GPW</h2>
+		  </div>
+		  <div id="wse_ind_r_column" class="inner-0">
+				<br />
+							<table class="indices">
+				<tr><th>Indeks</th><th>Wartość</th><th>Zmiana</th><th>Czas</th></tr>
+															<tr>
+							<td>WIG20</td>
+							<td>2244,63</td>
+							<td><span >+1,17 %</span></td>
+							<td>17:15</td>
+						</tr>
+																				<tr>
+							<td>WIG</td>
+							<td>45068,55</td>
+							<td><span >+1,64 %</span></td>
+							<td>17:15</td>
+						</tr>
+																													<tr>
+							<td>sWIG80</td>
+							<td>11643,94</td>
+							<td><span >+0,29 %</span></td>
+							<td>17:15</td>
+						</tr>
+																																																																																																																																																																																																																										<tr>
+							<td>NCIndex</td>
+							<td>301,08</td>
+							<td><span class="c-red">-0,36 %</span></td>
+							<td>17:15</td>
+						</tr>
+																						</table>
+					  </div>
+		    <!--<div class="boxBottomLink"><div class="button"><div class="inner"><a href="/indices/">See all indices <span>&raquo;</span></a></div></div></div>-->
+	    </div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	</div>
+	<!-- end box wse indices -->
+
+	<!-- box wse companies prices -->
+	<div class="box">
+	    <div class="boxInner">
+			<div class="boxHdr-bt"><div class="inner">2013-07-10</div></div>				
+		  <div class="boxHdr">
+		    <h2>Spółki GPW</h2>
+		  </div>
+		  <div id="wse_pri_r_column" class="inner-0">
+				<br />
+				<h3>5 największych wzrostów</h3>
+							<table class="indices">
+				<tr><th>Nazwa</th><th>Wartość</th><th>Zmiana</th></tr>
+														<tr><td>PAMAPOL SA</td><td>2,30</td><td><span >+13,30 %</span></td></tr>
+																			<tr><td>ALTERCO</td><td>0,79</td><td><span >+12,86 %</span></td></tr>
+																			<tr><td>GROCLIN</td><td>20,99</td><td><span >+9,32 %</span></td></tr>
+																			<tr><td>CYFROWY POLSAT</td><td>20,40</td><td><span >+7,37 %</span></td></tr>
+																			<tr><td>PBG</td><td>2,45</td><td><span >+6,52 %</span></td></tr>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									</table>				
+				
+				<h3>5 największych spadków</h3>
+							<table class="indices">
+				<tr><th>Nazwa</th><th>Wartość</th><th>Zmiana</th></tr>
+														<tr><td>RUBICON PARTNERS</td><td>0,08</td><td><span class="c-red">-11,11 %</span></td></tr>
+																			<tr><td>INVESTMENT FRIENDS CAPITAL</td><td>0,18</td><td><span class="c-red">-10,00 %</span></td></tr>
+																			<tr><td>BBI ZENERIS</td><td>0,10</td><td><span class="c-red">-9,09 %</span></td></tr>
+																			<tr><td>ASSECO SOUTH</td><td>9,21</td><td><span class="c-red">-9,44 %</span></td></tr>
+																			<tr><td>INTERNET GROUP</td><td>0,11</td><td><span class="c-red">-8,33 %</span></td></tr>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									</table>				
+				
+		  </div>
+		    <!--<div class="boxBottomLink"><div class="button"><div class="inner"><a href="/coprices/">See all companies <span>&raquo;</span></a></div></div></div>-->
+	    </div>
+		<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	</div>
+	<!-- end box wse companies prices -->
+	  
+	<!-- box komentowane -->
+	<div class="box">
+	  <div class="boxInner">
+		<div class="boxHdr">
+		  <h2>Komentowane</h2>
+		</div>
+		<div class="inner">
+			<ul class="list-komentowane">
+						  <!--<li><p><span></span> <a href="url"></a></p></li> -->
+			  <li><p><span>9.07</span> <a href="/przeglad/218886/Dziura-budżetowa-wciągnie-spółki-komandytowe.-Dodatkowe-opodatkowanie-doprowadzi-do-wzrostu-bezrobocia.html">Dziura budżetowa wciągnie spółki komandytowe. Dodatkowe opodatkowanie doprowadzi do wzrostu bezrobocia</a></p></li>
+						  <!--<li><p><span></span> <a href="url"></a></p></li> -->
+			  <li><p><span>9.07</span> <a href="/przeglad/218884/Janosikowe-złupiło-samorządy.-Mazowsze-zbankrutuje.html">Janosikowe złupiło samorządy. Mazowsze zbankrutuje?</a></p></li>
+						  <!--<li><p><span></span> <a href="url"></a></p></li> -->
+			  <li><p><span>26.06</span> <a href="/przeglad/218755/Fiskus-kładzie-łapę-na-kontach-i-majątkach-firm.html">Fiskus kładzie łapę na kontach i majątkach firm</a></p></li>
+						  <!--<li><p><span></span> <a href="url"></a></p></li> -->
+			  <li><p><span>24.06</span> <a href="/przeglad/218722/Rekordowy-spadek-oglądalności-TVP,-TVN-u-i-Polsatu.-Czy-to-koniec-tradycyjnej-telewizji.html">Rekordowy spadek oglądalności TVP, TVN-u i Polsatu. Czy to koniec tradycyjnej telewizji?</a></p></li>
+						  <!--<li><p><span></span> <a href="url"></a></p></li> -->
+			  <li><p><span>8.07</span> <a href="/przeglad/218871/Boegl&amp;amp;Krysl-w-tarapatach.-GDDKiA-bezlitosna-dla-firmy-budującej-A2.html">Boegl&amp;Krysl w tarapatach. GDDKiA bezlitosna dla firmy budującej A2</a></p></li>
+						  <!--<li><p><span></span> <a href="url"></a></p></li> -->
+			  <li><p><span>5.07</span> <a href="/przeglad/218849/Działalność-Specjalnych-Stref-Ekonomicznych-przedłużona-do-2025-r..html">Działalność Specjalnych Stref Ekonomicznych przedłużona do 2025 r.</a></p></li>
+						</ul>
+		  <div class="clear"></div>
+		</div>
+	  </div>
+	  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	</div>
+	<!-- END box komentowane -->		
+  	
+	<!-- box rankingi -->
+	<div class="box">
+	  <div class="boxInner">
+		<div class="boxHdr-bt"><div class="inner"><a href="/rankingi/">Więcej <span>&raquo;</span></a></div></div>
+		<div class="boxHdr">
+		  <h2>Rankingi</h2>
+		</div>
+		<div class="inner">
+			<ul class="list-rankingi">
+						  <li><h4><a href="/rankingi/210666/Ranking-kont-firmowych-(sierpień-2011).html">Ranking kont firmowych (sierpień 2011)</a></h4></li>
+						  <li><h4><a href="/rankingi/210543/Trzy-polskie-banki-w-czołówce-najbezpieczniejszych-w-regionie-.html">Trzy polskie banki w czołówce najbezpieczniejszych w regionie </a></h4></li>
+						  <li><h4><a href="/rankingi/210258/Najpopularniejsze-lokalizacje-biznesowe-w-rynkach-wschodzących.html">Najpopularniejsze lokalizacje biznesowe w rynkach wschodzących</a></h4></li>
+						  <li><h4><a href="/rankingi/210127/Ranking-kredytów-hipotecznych-lipiec-2011-wg.-skali-oprocentowania.html">Ranking kredytów hipotecznych lipiec 2011 wg. skali oprocentowania</a></h4></li>
+						  <li><h4><a href="/rankingi/208300/Ranking-wyższych-uczelni-2011.html">Ranking wyższych uczelni 2011</a></h4></li>
+						</ul>
+		  <div class="clear"></div>
+		</div>
+	  </div>
+	  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	</div>
+	<!-- END box rankingi -->	
+
+	<!-- box analizy -->
+	<div class="box">
+	  <div class="boxInner">
+		<div class="boxHdr-bt"><div class="inner"><a href="/analizy/">Więcej <span>&raquo;</span></a></div></div>
+		<div class="boxHdr">
+		  <h2>Analizy i raporty</h2>
+		</div>
+		<div class="inner">
+			<ul class="list-raporty">
+						  <li><h4><a href="/analizy/12731/ENERGIA-WIATROWA-W-POLSCE.html">ENERGIA WIATROWA W POLSCE</a></h4><p>Wydawca: <span>BiznesPolska</span></p></li>
+						  <li><h4><a href="/analizy/1/Rynek-biurowy-w-I-poł.-2012-r.-wg-Colliers-International.html">Rynek biurowy w I poł. 2012 r. wg Colliers International</a></h4><p>Wydawca: <span>Colliers International</span></p></li>
+						  <li><h4><a href="/analizy/12720/Rynek-Handlowy-w-Polsce-w-I-kw.-2012.html">Rynek Handlowy w Polsce w I kw. 2012</a></h4><p>Wydawca: <span>Jones Lang LaSalle</span></p></li>
+						  <li><h4><a href="/analizy/12716/Raport-z-rynku-nieruchomości---marzec-2012.html">Raport z rynku nieruchomości - marzec 2012</a></h4><p>Wydawca: <span>Oferty.net</span></p></li>
+						</ul>
+		  <div class="clear"></div>
+		</div>
+	  </div>
+	  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	</div>	
+	<!-- END box analizy -->		
+	
+	<!-- boxAd -->
+	<div class="advert">
+		<!-- BBelements AdServer one2many Position: BiznesPolska(2087) / Strona głowna(16) / Skyscraper(1) / skyscraper_pl 160x600 160x600(31) -->
+		<!-- HowTo: Place this code into the html page there the ad should appear. -->
+		<div id='bmone2n-2087.16.1.31'>
+		<noscript><div style='display:inline'><a href='http://go.arbopl.bbelements.com/please/redirect/2087/16/1/31/'><img src='http://go.arbopl.bbelements.com/please/showit/2087/16/1/31/?typkodu=img&amp;keywords=' width='160' height='600' style='border-width:0' alt='' /></a></div></noscript>
+		</div>
+	</div>
+	<!-- END boxAd -->	
+	
+	<!-- box equitiespoland.pl -->
+	<div class="box">
+	<div class="boxInner">
+	  <div class="boxHdr">
+		<h2><a href="http://equitiespoland.pl"><img src="/www/img/tpl/h/eqp-header.png" alt="BiznesPolska Network" /></a></h2>
+	  </div>
+	  <div class="inner">		  
+		<ul class="list-network">
+				  <li><a href="http://equitiespoland.pl/content/218910/Marvipol,-Echo-are-allegedly-interested-in-developing-rail-station-in-Warsaw-.html">Marvipol, Echo are allegedly interested in developing rail station in Warsaw </a></li>
+				  <li><a href="http://equitiespoland.pl/content/218909/Inter-Cars-sales-up-by-17.7%-y/y-to-PLN-295.6mn-in-June-.html">Inter Cars sales up by 17.7% y/y to PLN 295.6mn in June </a></li>
+				  <li><a href="http://equitiespoland.pl/content/218908/Libet-to-buy-plants-in-Poland-and-Czech-Republic-.html">Libet to buy plants in Poland and Czech Republic </a></li>
+				  <li><a href="http://equitiespoland.pl/content/218907/Action-takes-over-bankrupt-IT-firm-in-Germany-.html">Action takes over bankrupt IT firm in Germany </a></li>
+				  <li><a href="http://equitiespoland.pl/content/218906/CCC-expands-in-Germany,-on-heels-of-Turkey-move-.html">CCC expands in Germany, on heels of Turkey move </a></li>
+				  <li><a href="http://equitiespoland.pl/content/218905/Footwear-firm-Wojas-boosts-revenue-by-38.3%-y/y-in-June-.html">Footwear firm Wojas boosts revenue by 38.3% y/y in June </a></li>
+				  <li><a href="http://equitiespoland.pl/content/218904/Hawe\`s-subsidiary-submits-sole-offer-to-build-broadband-network-in-Podkarpacie-.html">Hawe`s subsidiary submits sole offer to build broadband network in Podkarpacie </a></li>
+				  <li><a href="http://equitiespoland.pl/content/218903/Global-Cosmed-to-debut-on-WSE\`s-main-market-on-10-July-.html">Global Cosmed to debut on WSE`s main market on 10 July </a></li>
+			
+		</ul>			
+	  </div>
+	  <div class="boxBottomLink">
+		<div class="button"><div class="inner"><a href="http://equitiespoland.pl">Read more</a></div></div>
+	  </div>
+	</div>
+	<div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+	</div>
+	<!-- End box equitiespoland.pl -->	
+	
+	<!-- box validacja -->
+	<div class="advert">
+	<p><a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a></p>	
+	</div>
+	<!-- END box validacja -->
+	
+    </div>
+    <!-- END main right col -->
+	
+	<div class="clear"></div>
+	
+			  
+<!-- box bp magazine bottom -->
+<div class="box">
+  <div class="boxInner">
+	<div class="boxHdr-bt"><div class="inner"><a href="http://biznespolska.pl/unassigned/download.php?target=LZIIJDBSDPON7HD4BB4M9ACX4Y.pdf">Zamów prenumeratę<span>&raquo;</span></a></div></div>
+	<div class="boxHdr">
+	  <h2>BizPoland Magazine - our monthly magazine for Foreign Investors.</h2>
+	</div>
+	<div class="inner">
+	  <ul class="list-przewodniki">
+		<li>
+			<div class="img"><a href="http://issuu.com/biznespolska/docs/bizpolandmag_may2013_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_133/bizpol_mag_133_Covers/bizpol_mag_133_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/biznespolska/docs/bizpolandmag_april2013_pdf_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_132/bizpol_mag_132_Covers/bizpol_mag_132_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_nov2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_131/bizpol_mag_131_Covers/bizpol_mag_131_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_nov2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_130/bizpol_mag_130_Covers/bizpol_mag_130_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_nov2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_129/bizpol_mag_129_Covers/bizpol_mag_129_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_sept2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_128/bizpol_mag_128_Covers/bizpol_mag_128_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpoland_july_2012_final?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_127/bizpol_mag_127_Covers/bizpol_mag_127_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+		<li>
+			<div class="img"><a href="http://issuu.com/BiznesPolska/docs/bizpolandmag_may2012_final_pdf?mode=window"><img src="http://biznespolska.pl/admin/upload/pictures/gazety/bizpol_mag/bizpol_mag_126/bizpol_mag_126_Covers/bizpol_mag_126_Cov_100px.jpg" alt="BizPoland Magazine" /></a></div>
+			<div class="txt"><a href="/przewodniki/bizpolandmag/">BizPoland Magazine</a><br />
+			</div>
+		</li>
+	  </ul>
+	  <div class="clear"></div>
+	</div>
+  </div>
+  <div class="boxBottomLink">
+	<div class="button"><div class="inner"><a href="/przewodniki/bizpolandmag/">Szczegóły reklamowe</a></div></div>
+  </div>
+  <div class="boxFtr"><div class="boxFtrL"></div><div class="boxFtrR"></div></div>
+</div>
+<!-- End box bp magazine bottom -->	
+  </div>
+</div>
+
+<!-- BBelements AdServer one2many code -->
+<!-- HowTo: All the ad codes must be above this code! -->	
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<script type='text/javascript' src='http://go.arbopl.bbelements.com/bb/bb_one2n.js'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+var bbkeywords=''; //fill in: 'key1;key2;..'
+bmone2n.addPosition('2087.16.1.30','');
+bmone2n.addPosition('2087.16.1.36','');
+bmone2n.addPosition('2087.16.1.31','');
+bmone2n.getAd('go.arbopl.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''));
+/* ]]> */</script>
+<div id='bmone2t-2087.16.1.30' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.30'); /* ]]> */</script></div>
+<div id='bmone2t-2087.16.1.36' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.36'); /* ]]> */</script></div>
+<div id='bmone2t-2087.16.1.31' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('2087.16.1.31'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+
+<div id="section-foot">
+  <div class="wrapper">
+    <div class="inner">
+      <div class="navFoot">
+	    <ul>
+		  <li><a href="/przeglad/">News</a></li>
+		  <li><a href="/przewodniki/">Przewodniki biznesowe</a></li>
+		  <li><a href="/reklama/">Reklama</a></li>
+		  <li><a href="/network/">BP network</a></li>
+		  <li><a href="/kontakt/">Kontakt</a></li>
+		  <li><a href="http://ceeoutsourcingawards.com/" target="_blank">CEE Outsourcing and Shared Services Awards</a></li>
+		  <li><a href="http://fdipolandawards.pl/" target="_blank">FDI Poland Investor Awards</a></li>
+		  <!--<li><a href="http://equitiespoland.pl/" target="_blank">EquitiesPoland.pl</a></li>-->
+		</ul>
+		<div class="clear"></div>
+	  </div>
+	  <div class="clear"></div>
+	  <div class="f-l"><p>Copyright &copy; 2013 <a class="copy" href="/">Biznes<span>Polska.pl</span></a></p></div>
+	  <div class="f-r w-140"><p class="f-l">Design by</p><a class="gv" href="http://www.globalvanet.com">Globalvanet.pl</a></div>
+	  <div class="clear"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  var menu=new menu.dd("menu");
+  menu.init("navTopList","menuhover")
+</script> 
+
+</body>
+</html>

@@ -1,0 +1,196 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl</title>
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/js/jquery.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+	var sortList = [[0,0]];
+	var refreshPeriod = 10 * 60 * 1000;
+    </script>
+
+</head>
+<body>
+
+<div id="newsroom">
+
+<!-- news1 -->
+<div id="news1">
+<div class="content">
+<h2>Wiadomości</h2>
+
+
+<div id="ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2010, pulsbiznesu.notowania.1 kolumna news GPW */
+ado.placement({id: 'ado-OWf25gFqMnfoxYT_ygS.FifXodj4Okeu6IV9n0uAB2f.E7', server: 'myao.adocean.pl' });
+</script>
+    <p class="first"><a href="http://www.pb.pl/3054355,14068" target="_blank"><span class="dt">08:06</span> Opolskie: Urząd pracy przeszkoli opiekunki dzieci i zapewni im pensje</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054353,34818" target="_blank"><span class="dt">08:06</span> Bail-out dla Cypru wsparciem dla walut CEE</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054330,43425" target="_blank"><span class="dt">07:27</span> Rozbito grupę, która wyłudziła 50 mln zł VAT</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054319,19945" target="_blank"><span class="dt">07:21</span> PO-PIS konstytucyjny?</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054321,92261" target="_blank"><span class="dt">07:05</span> Cypr: data ponownego otwarcia banków na razie nieznana</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054320,52125" target="_blank"><span class="dt">07:04</span> Nieprzeciętne Mazowsze</a></p>
+    
+    <p class=""><a href="http://www.pb.pl/3054313,65230" target="_blank"><span class="dt">06:51</span> Salomonowe rozwiązanie Piechocińskiego</a></p>
+    
+</div><!--  /.content -->
+<div id="ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.1 kolumna news przeglad dol */
+ado.placement({id: 'ado-GVcKfIDIo7PtDdJu84Syj4hQ3Mlo_bCTIqNfYJ.13BL.r7', server: 'myao.adocean.pl' });
+</script>
+<a href="http://www.pb.pl/" class="more" target="_blank"><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie wiadomości</a>
+
+</div><!-- /news1 -->
+
+
+<!--  news2 -->
+<div id="news2">
+<div class="content">
+<h2>Puls Biznesu</h2>
+<div id="ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.2 kolumna news */
+ado.placement({id: 'ado-DW81gyOI3Y9rAcAebN5G3ke3UbjwVybit9xNhctGtgf.67', server: 'myao.adocean.pl' });
+</script>
+	
+	    <div class="box">
+	    	<h3><a href="http://www.pb.pl/3050336,28478" target="_blank">Gazela Biznesu nie trafi za kratki</a></h3>
+	    	<p><a href="http://www.pb.pl/3050336,28478" target="_blank">Przedsiębiorca, któremu prokuratura zarzuca wyłudzenie 11 mln zł VAT, zostanie na wolności. Na jego aresztowanie nie zgodził się już drugi...&nbsp;<img src="/style/pointer_red.gif" alt="..." /></a></p>
+	    </div>
+	    <div class="box">
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049885," target="_blank">W sprawie JTT każdy sąd wie swoje</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049881," target="_blank">BGK – ostatni bastion kominiarzy</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3049878," target="_blank">Roman Karkosik chwyta za kielnię</a></p>
+	
+	    <p class="pointer"><a href="http://www.pb.pl/3047733," target="_blank">Neverending story w Straży Granicznej</a></p>
+	
+	</div>
+</div><!-- /.content -->
+<a href="http://prenumerata.pb.pl/Today" class="more" target="_blank"><img src="/img/nurse.gif" height="6" width="6" alt="" />czytaj e-wydanie</a>
+</div><!-- /news2 -->
+
+
+<!--  news3 -->
+<div id="news3">
+<div class="content">
+<h2>Forum</h2>
+<h3><a href="http://www.pb.pl/3054225," target="_blank">Pieniądze mogą "zadusić" Norwegię</a></h3>
+<p style="font-weight: bold; color: #816F43; margin: 6px 0 6px 5px;">komentarze:</p> 
+<div class="box">
+<p class="comment pointer">Jak dobrze,że takiego problemu nie ma rządząca dziś mafia platfusowa !Rostowskiemu i tak by zabrakło !</p>
+<p class="author">RICO</p>
+<p class="comment pointer">dokładnie "and" jak się niema problemów to się ich szuka na siłę!</p>
+<p class="author">Barkley</p>
+<p class="comment pointer">Żałuje że niemamy takich problemów...</p>
+<p class="author">and</p>
+</div>
+</div><!--  /.content -->
+<a href="http://www.pb.pl/3054225,&amp;readcomment=1#comment" class="more" target="_blank"><img src="/img/nurse.gif" height="6" width="6" alt="" />wszystkie komentarze</a>
+</div><!-- /news3 -->
+
+
+<!--  news4 -->
+<div id="news4">
+<div class="content">
+<h2>Doradca pb.pl</h2>
+
+    <div class="box">
+    	<h3>Chwilówka godna polecenia</h3>
+    	<p class="head"><a href="http://www.pb.pl/3019091," target="_blank">Pożyczkodawcy postanowili sprawdzić, co o nich myślą ich klienci. Otóż są bardziej...</a></p>
+    </div>
+    <div class="box">
+
+    <p class="pointer"><a href="http://www.pb.pl/2841220," target="_blank">Spadła dostępność kredytów hipotecznych </a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/2658479," target="_blank">Socket Resources, czyli kopalnia wątpliwości</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/2635919," target="_blank">Kowalski ma w banku 12 tys. zł, a Schmidt... (WYKRES DNIA)</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/2621586," target="_blank">Które banki najwięcej zarabiają na spreadzie</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/2612582," target="_blank">Przyglądamy się ofercie Amber Gold</a></p>
+
+    <p class="pointer"><a href="http://www.pb.pl/2596284," target="_blank">Alior Bank rzuca rękawicę kantorom</a></p>
+
+</div>
+</div><!-- /.content -->
+<a href="http://www.pb.pl/forum" class="more" target="_blank"><img src="/img/nurse.gif" height="6" width="6" alt="" />więcej</a>
+</div><!-- /news4 -->
+</div><!-- / #newsroom -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pbpl_gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1121769-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

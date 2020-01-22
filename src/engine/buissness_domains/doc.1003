@@ -1,0 +1,2766 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Zarządzanie: Księgarnia Bankier.pl</title>
+	<meta name="description" content="Księgarnia bankier.pl - książki dla biznesu i nie tylko."/>
+	<link rel="shortcut icon" href="http://www.bankier.pl/favicon.ico" type="image/x-icon"/>
+	<link href="/s/style.css?v=7" rel="stylesheet" type="text/css" media="screen"/>
+    <script type="text/javascript" src="http://www.bankier.pl/js/cookiepolicy.js"></script>
+    <noscript>
+        <div style="padding-top: 10px; height: 60px; width: 100%;background: #dddddd;line-height: 24px; 
+            text-align: center; color: #042E64;font-size: 14px; font-family: sans-serif; font-weight: bold; 
+            text-shadow: 0 1px 0 #94CAFF;  box-shadow: 0 0 15px #00214B; position: fixed; bottom: 0; z-index: 999">
+            <div style="text-align: center; margin: auto; width: 960px;line-height: 24px">
+                Strona korzysta z plik&oacute;w cookies w celu realizacji us&#322;ug i zgodnie
+                z <a style="text-decoration: underline" target="_blank" href="http://www.bankier.pl/gfx/polityka_plikow_cookies.pdf">Polityk&#261; Plik&oacute;w Cookies</a>.
+                Mo&#380esz okre&#347;li&#263; warunki przechowywania lub dost&#281;pu do plik&oacute;w cookies w Twojej przegl&#261;darce.
+            </div>
+        </div>
+    </noscript>
+
+
+
+	
+	
+	<!-- (C)2000-2009 Gemius SA - gemiusTraffic / ver 11.1 / ksiegarnia_pozostale --> 
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var gemius_identifier = new String('AkTrsutX7HoCGwslBuULPsRpLVVKKmbNbDo489YWyfv.k7');
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://www.bankier.pl/inc/js/gemius.js"></script>
+	
+	
+	
+	<!-- (C) 2000-2009 Gemius SA - gemiusAudience / ver 11.1 / adnet.bankier / Ksiegarnia-->
+	<script type="text/javascript">
+	 <!--//--><![CDATA[//><!--
+	var pp_gemius_identifier ='za01ZONWwSNq9wS8lPPx4reOLd_kNOcSlGWIIc19ul7.F7';
+	//--><!]]>
+	</script>
+	<script type="text/javascript" src="http://arbo.hit.gemius.pl/xgemius.js"></script>
+
+
+</head>
+<body id="bn_lifestyle">
+
+<link href="http://s01.bankier.pl/s/ksiegarnia.css" rel="stylesheet" type="text/css" />
+
+<div id="bn_header" style="position: relative; z-index: 100; height:120px;">
+  <div id="bn_background"></div>
+  <div id="bn_header_center">
+    <a title="Portal Finansowy Bankier.pl" href="http://www.bankier.pl/" class="logo"><img alt="Portal Finansowy Bankier.pl"  src="http://s01.bankier.pl/i/sg/bankier_logo.png" width="158" height="72" /></a>
+  <img src="http://s01.bankier.pl/i/sg/top_menuBB.gif" alt="Zarabiaj z nami | Logowanie | Newsletter | Forum | Blogi" id="bn_top_menu" usemap="#bn_topmenu_map"/>
+  <map name="bn_topmenu_map" id="bn_topmenu_map">
+    <area coords="10,0,135,10" href="http://www.bankier.pl/zarabianie/" title="Zarabiaj z nami" alt="" />
+    <area coords="135,0,220,10" href="http://www.bankier.pl/personal/logowanie.html?url=%2Fcontent%2Fksiegarnia%2Fheader_new.html" title="Zaloguj się" alt=""/>
+    <area coords="220,0,298,10" href="http://www.bankier.pl/personal/dziennik/index.html" title="Zapisz się na newsletter" alt=""/>
+    <area coords="298,0,345,10" href="http://www.bankier.pl/forum/" title="Przejdz do forum Bankier.pl" alt=""/>
+    <area coords="345,0,390,10" href="http://blogbank.pl/" title="Blogbank.pl - blog o: biznes, gospodarka, finanse i nie tylko..." alt=""/>
+  </map>
+
+  <div id="bn_search_box">	
+    <form method="get" action="http://www.bankier.pl/szukaj/bankiertv-index.html">
+    <div>
+        <input type="text" name="query" class="text" onclick="this.value=''; return true;" />
+	<input type="image" src="http://s01.bankier.pl/i/sg/search_button.png" class="submit" alt="Wyszukaj w serwisie Bankier.pl"/>
+    </div>
+    </form>	  
+
+  </div>
+  
+    <ul id="bn_section">
+    <li ><a href="http://www.bankier.pl/wiadomosci/">Wiadomości</a></li>
+    <li ><a href="http://www.bankier.pl/inwestowanie/">Inwestowanie</a></li>
+    <li ><a href="http://www.bankier.pl/finanse/">Finanse Osobiste</a></li>
+    <li ><a href="http://www.bankier.pl/firma/">Firma</a></li>
+    <li ><a href="http://bankier.tv">Bankier.tv</a></li>
+    <li class="selected"><a href="http://ksiegarnia.bankier.pl">Książki</a></li>
+    <li ><a href="http://www.bankier.pl/cf/">Produkty finansowe</a></li>
+    <li ><a href="http://www.bankier.pl/forum/">Forum</a></li>
+  </ul>
+
+
+
+  </div>
+</div> <!-- bn_header -->
+
+
+
+
+
+<div id="ksiegarnia">
+	<div id="content">
+		<div id="search">
+			<div class="top"></div>
+			<form action="/szukaj/">
+				<div>
+					Szukaj:
+					<input name="q" size="30"/>
+					<input type="submit" value="szukaj" />
+				</div>
+			</form>
+			<div class="bottom"></div>
+		</div>
+		
+
+
+
+
+
+
+<p class="lead">Wiosenne porządki na Onepress.pl [20% rabatu na całą ofertę]</p>
+
+
+
+
+<div class="box">
+	<div class="pre-title"></div><div class="box-title">Zarządzanie</div><div class="post-title"></div>
+	<div class="content">
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1366/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<img class="cover" src="/s/cover/small/1366.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego"/>
+		</a>
+		<a class="boo " href="/ksiazka1366/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1071/czas-52-sposoby-na-to-by-zaczal-pracowac-dla-ciebie.html">
+			<img class="cover" src="/s/cover/small/1071.jpg" alt="Czas. 52 sposoby na to, by zaczął pracować dla Ciebie"/>
+		</a>
+		<a class="boo " href="/ksiazka1071/czas-52-sposoby-na-to-by-zaczal-pracowac-dla-ciebie.html">
+			<span class="title">Czas. 52 sposoby na to, by zaczął pracować dla Ciebie</span>
+		</a>
+			<span class="author">David Allen</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1072/sztuka-wojny-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1072.jpg" alt="Sztuka Wojny. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1072/sztuka-wojny-wydanie-ii.html">
+			<span class="title">Sztuka Wojny. Wydanie II</span>
+		</a>
+			<span class="author">Sun Pin, Sun Tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1377/marketing-narracyjny-jak-budowac-historie-ktore-sprzedaja.html">
+			<img class="cover" src="/s/cover/small/1377.jpg" alt="Marketing narracyjny. Jak budować historie, które sprzedają"/>
+		</a>
+		<a class="boo " href="/ksiazka1377/marketing-narracyjny-jak-budowac-historie-ktore-sprzedaja.html">
+			<span class="title">Marketing narracyjny. Jak budować historie, które sprzedają</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka730/filozofia-kaizen-w-biurze.html">
+			<img class="cover" src="/s/cover/small/730.jpg" alt="Filozofia Kaizen w biurze"/>
+		</a>
+		<a class="boo " href="/ksiazka730/filozofia-kaizen-w-biurze.html">
+			<span class="title">Filozofia Kaizen w biurze</span>
+		</a>
+			<span class="author">William Lareau</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka920/mount-everest-biznesu.html">
+			<img class="cover" src="/s/cover/small/920.jpg" alt="Mount Everest biznesu"/>
+		</a>
+		<a class="boo " href="/ksiazka920/mount-everest-biznesu.html">
+			<span class="title">Mount Everest biznesu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					39&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka266/sztuka-wojny-wydanie-ekskluzywne.html">
+			<img class="cover" src="/s/cover/small/266.jpg" alt="Sztuka wojny (wydanie ekskluzywne)"/>
+		</a>
+		<a class="boo " href="/ksiazka266/sztuka-wojny-wydanie-ekskluzywne.html">
+			<span class="title">Sztuka wojny (wydanie ekskluzywne)</span>
+		</a>
+			<span class="author">Sun Pin, Sun Tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">79&nbsp;zł</span>
+					<span class="promo">63,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka732/sto-niekonwencjonalnych-strategii-zasady-sztuki-wojennej.html">
+			<img class="cover" src="/s/cover/small/732.jpg" alt="Sto niekonwencjonalnych strategii. Zasady sztuki wojennej"/>
+		</a>
+		<a class="boo " href="/ksiazka732/sto-niekonwencjonalnych-strategii-zasady-sztuki-wojennej.html">
+			<span class="title">Sto niekonwencjonalnych strategii. Zasady sztuki wojennej</span>
+		</a>
+			<span class="author">Chi Liu, Ralph D. Sawyer</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka663/manifest-wikingow-sekrety-sukcesu-skandynawskiego-biznesu.html">
+			<img class="cover" src="/s/cover/small/663.jpg" alt="Manifest Wikingów. Sekrety sukcesu skandynawskiego biznesu "/>
+		</a>
+		<a class="boo " href="/ksiazka663/manifest-wikingow-sekrety-sukcesu-skandynawskiego-biznesu.html">
+			<span class="title">Manifest Wikingów. Sekrety sukcesu skandynawskiego biznesu </span>
+		</a>
+			<span class="author">Claes Andréasson, Steve Strid</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1969/sztuka-wojny-wydanie-iii.html">
+			<img class="cover" src="/s/cover/small/1969.jpg" alt="Sztuka wojny. Wydanie III"/>
+		</a>
+		<a class="boo " href="/ksiazka1969/sztuka-wojny-wydanie-iii.html">
+			<span class="title">Sztuka wojny. Wydanie III</span>
+		</a>
+			<span class="author">Sun-tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka926/sztuka-podejmowania-decyzji-dlaczego-madrzy-ludzie-dokonuja-zlych-wyborow.html">
+			<img class="cover" src="/s/cover/small/926.jpg" alt="Sztuka podejmowania decyzji. Dlaczego mądrzy ludzie dokonują złych wyborów"/>
+		</a>
+		<a class="boo " href="/ksiazka926/sztuka-podejmowania-decyzji-dlaczego-madrzy-ludzie-dokonuja-zlych-wyborow.html">
+			<span class="title">Sztuka podejmowania decyzji. Dlaczego mądrzy ludzie dokonują złych wyborów</span>
+		</a>
+			<span class="author">Gary Klein</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka949/firma-jak-kamorra-11-strategicznych-zasad-mafii-w-legalnym-biznesie.html">
+			<img class="cover" src="/s/cover/small/949.jpg" alt="Firma jak kamorra. 11 strategicznych zasad mafii w legalnym biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka949/firma-jak-kamorra-11-strategicznych-zasad-mafii-w-legalnym-biznesie.html">
+			<span class="title">Firma jak kamorra. 11 strategicznych zasad mafii w legalnym biznesie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1364/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-wideowyklad.html">
+			<img class="cover" src="/s/cover/small/1364.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Wideowykład"/>
+		</a>
+		<a class="boo " href="/ksiazka1364/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-wideowyklad.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Wideowykład</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1546/mbo-prosta-i-skuteczna-technika-zarzadzania-twoja-firma.html">
+			<img class="cover" src="/s/cover/small/1546.jpg" alt="MBO - prosta i skuteczna technika zarzadzania Twoja firmą"/>
+		</a>
+		<a class="boo " href="/ksiazka1546/mbo-prosta-i-skuteczna-technika-zarzadzania-twoja-firma.html">
+			<span class="title">MBO - prosta i skuteczna technika zarzadzania Twoja firmą</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka417/sztuka-rozpoczynania.html">
+			<img class="cover" src="/s/cover/small/417.jpg" alt="Sztuka rozpoczynania"/>
+		</a>
+		<a class="boo " href="/ksiazka417/sztuka-rozpoczynania.html">
+			<span class="title">Sztuka rozpoczynania</span>
+		</a>
+			<span class="author">Guy Kawasaki</span>
+			
+			<span class="price">
+				Cena:
+				
+					37&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1962/sztuka-wojny-wydanie-iii-twarda-oprawa.html">
+			<img class="cover" src="/s/cover/small/1962.jpg" alt="Sztuka wojny. Wydanie III (twarda oprawa)"/>
+		</a>
+		<a class="boo " href="/ksiazka1962/sztuka-wojny-wydanie-iii-twarda-oprawa.html">
+			<span class="title">Sztuka wojny. Wydanie III (twarda oprawa)</span>
+		</a>
+			<span class="author">Sun-tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka154/inwestycje-zagraniczne-jak-wejsc-na-polski-rynek-z-obcym-kapitalem.html">
+			<img class="cover" src="/s/cover/small/154.jpg" alt="Inwestycje zagraniczne. Jak wejść na polski rynek z obcym kapitałem"/>
+		</a>
+		<a class="boo " href="/ksiazka154/inwestycje-zagraniczne-jak-wejsc-na-polski-rynek-z-obcym-kapitalem.html">
+			<span class="title">Inwestycje zagraniczne. Jak wejść na polski rynek z obcym kapitałem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka48/blyskotliwosc-to-za-malo-dlaczego-nie-masz-jeszcze-strategii-e-biznesu.html">
+			<img class="cover" src="/s/cover/small/48.jpg" alt="Błyskotliwość to za mało! Dlaczego nie masz jeszcze strategii e-biznesu?"/>
+		</a>
+		<a class="boo " href="/ksiazka48/blyskotliwosc-to-za-malo-dlaczego-nie-masz-jeszcze-strategii-e-biznesu.html">
+			<span class="title">Błyskotliwość to za mało! Dlaczego nie masz jeszcze strategii e-biznesu?</span>
+		</a>
+			<span class="author">Matt Haig</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">33&nbsp;zł</span>
+					<span class="promo">26,40&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka304/harvard-business-review-zarzadzanie-innowacja.html">
+			<img class="cover" src="/s/cover/small/304.jpg" alt="Harvard Business Review. Zarządzanie innowacją"/>
+		</a>
+		<a class="boo " href="/ksiazka304/harvard-business-review-zarzadzanie-innowacja.html">
+			<span class="title">Harvard Business Review. Zarządzanie innowacją</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka374/sedno-zmian-autentyczne-historie-transformacji-ktore-odmienily-oblicza-firm-na-calym-swiecie.html">
+			<img class="cover" src="/s/cover/small/374.jpg" alt="Sedno zmian. Autentyczne historie transformacji, które odmieniły oblicza firm na całym świecie"/>
+		</a>
+		<a class="boo " href="/ksiazka374/sedno-zmian-autentyczne-historie-transformacji-ktore-odmienily-oblicza-firm-na-calym-swiecie.html">
+			<span class="title">Sedno zmian. Autentyczne historie transformacji, które odmieniły oblicza firm na całym świecie</span>
+		</a>
+			<span class="author">Dan S. Cohen, John P. Kotter</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka723/delegowanie-obowiazkow-osobisty-mentor-harvard-business.html">
+			<img class="cover" src="/s/cover/small/723.jpg" alt="Delegowanie obowiązków. Osobisty mentor - Harvard Business"/>
+		</a>
+		<a class="boo " href="/ksiazka723/delegowanie-obowiazkow-osobisty-mentor-harvard-business.html">
+			<span class="title">Delegowanie obowiązków. Osobisty mentor - Harvard Business</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka549/zarzadzanie-projektem-szkoleniowym.html">
+			<img class="cover" src="/s/cover/small/549.jpg" alt="Zarządzanie projektem szkoleniowym"/>
+		</a>
+		<a class="boo " href="/ksiazka549/zarzadzanie-projektem-szkoleniowym.html">
+			<span class="title">Zarządzanie projektem szkoleniowym</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka307/harvard-business-review-fuzje-i-przejecia.html">
+			<img class="cover" src="/s/cover/small/307.jpg" alt="Harvard Business Review. Fuzje i przejęcia"/>
+		</a>
+		<a class="boo " href="/ksiazka307/harvard-business-review-fuzje-i-przejecia.html">
+			<span class="title">Harvard Business Review. Fuzje i przejęcia</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka639/podejmowanie-trafnych-decyzji.html">
+			<img class="cover" src="/s/cover/small/639.jpg" alt="Podejmowanie trafnych decyzji."/>
+		</a>
+		<a class="boo " href="/ksiazka639/podejmowanie-trafnych-decyzji.html">
+			<span class="title">Podejmowanie trafnych decyzji.</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka50/blyskotliwosc-to-za-malo-skuteczne-techniki-pozyskiwania-kluczowych-klientow.html">
+			<img class="cover" src="/s/cover/small/50.jpg" alt="Błyskotliwość to za mało! Skuteczne techniki pozyskiwania kluczowych klientów"/>
+		</a>
+		<a class="boo " href="/ksiazka50/blyskotliwosc-to-za-malo-skuteczne-techniki-pozyskiwania-kluczowych-klientow.html">
+			<span class="title">Błyskotliwość to za mało! Skuteczne techniki pozyskiwania kluczowych klientów</span>
+		</a>
+			<span class="author">Peter Cheverton</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">33&nbsp;zł</span>
+					<span class="promo">26,40&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka489/franczyza-droga-do-sukcesu.html">
+			<img class="cover" src="/s/cover/small/489.jpg" alt="Franczyza - droga do sukcesu"/>
+		</a>
+		<a class="boo " href="/ksiazka489/franczyza-droga-do-sukcesu.html">
+			<span class="title">Franczyza - droga do sukcesu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1344/menedzer-do-zadan-specjalnych-czasowe-zarzadzanie-przedsiebiorstwem.html">
+			<img class="cover" src="/s/cover/small/1344.jpg" alt="Menedżer do zadań specjalnych. Czasowe zarządzanie przedsiębiorstwem"/>
+		</a>
+		<a class="boo " href="/ksiazka1344/menedzer-do-zadan-specjalnych-czasowe-zarzadzanie-przedsiebiorstwem.html">
+			<span class="title">Menedżer do zadań specjalnych. Czasowe zarządzanie przedsiębiorstwem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka548/harvard-business-review-podejmowanie-wlasciwych-decyzji.html">
+			<img class="cover" src="/s/cover/small/548.jpg" alt="Harvard Business Review. Podejmowanie właściwych decyzji"/>
+		</a>
+		<a class="boo " href="/ksiazka548/harvard-business-review-podejmowanie-wlasciwych-decyzji.html">
+			<span class="title">Harvard Business Review. Podejmowanie właściwych decyzji</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1867/zarzadzanie-wynikami-firmy-podrecznik-menedzera.html">
+			<img class="cover" src="/s/cover/small/1867.jpg" alt="Zarządzanie wynikami firmy. Podręcznik menedżera"/>
+		</a>
+		<a class="boo " href="/ksiazka1867/zarzadzanie-wynikami-firmy-podrecznik-menedzera.html">
+			<span class="title">Zarządzanie wynikami firmy. Podręcznik menedżera</span>
+		</a>
+			<span class="author">Mike Bourne, Pippa Bourne</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">57&nbsp;zł</span>
+					<span class="promo">45,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1870/stworzona-do-sprzedazy-zbuduj-firme-ktora-przetrwa-bez-ciebie.html">
+			<img class="cover" src="/s/cover/small/1870.jpg" alt="Stworzona do sprzedaży. Zbuduj firmę, która przetrwa bez Ciebie"/>
+		</a>
+		<a class="boo " href="/ksiazka1870/stworzona-do-sprzedazy-zbuduj-firme-ktora-przetrwa-bez-ciebie.html">
+			<span class="title">Stworzona do sprzedaży. Zbuduj firmę, która przetrwa bez Ciebie</span>
+		</a>
+			<span class="author">John Warrillow</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka641/zarzadzanie-projektami-kariera-w-kieszeni.html">
+			<img class="cover" src="/s/cover/small/641.jpg" alt="Zarządzanie projektami. Kariera w kieszeni"/>
+		</a>
+		<a class="boo " href="/ksiazka641/zarzadzanie-projektami-kariera-w-kieszeni.html">
+			<span class="title">Zarządzanie projektami. Kariera w kieszeni</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1890/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<img class="cover" src="/s/cover/small/1890.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego"/>
+		</a>
+		<a class="boo " href="/ksiazka1890/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego</span>
+		</a>
+			<span class="author">Ph.D., Robert B. Cialdini</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">24,90&nbsp;zł</span>
+					<span class="promo">19,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka126/zagrozenia-do-przewidzenia-jak-wykrywac-oznaki-kryzysow-w-firmie-i-gospodarce.html">
+			<img class="cover" src="/s/cover/small/126.jpg" alt="Zagrożenia do przewidzenia. Jak wykrywać oznaki kryzysów w firmie i gospodarce"/>
+		</a>
+		<a class="boo " href="/ksiazka126/zagrozenia-do-przewidzenia-jak-wykrywac-oznaki-kryzysow-w-firmie-i-gospodarce.html">
+			<span class="title">Zagrożenia do przewidzenia. Jak wykrywać oznaki kryzysów w firmie i gospodarce</span>
+		</a>
+			<span class="author">Max H. Bazerman, Michael D. Watkins</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka760/kobiecy-styl-zarzadzania.html">
+			<img class="cover" src="/s/cover/small/760.jpg" alt="Kobiecy styl zarzadzania"/>
+		</a>
+		<a class="boo " href="/ksiazka760/kobiecy-styl-zarzadzania.html">
+			<span class="title">Kobiecy styl zarzadzania</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka51/od-pomyslu-do-zysku-jak-spieniezyc-innowacyjnosc.html">
+			<img class="cover" src="/s/cover/small/51.jpg" alt="Od pomysłu do zysku. Jak spieniężyć innowacyjność"/>
+		</a>
+		<a class="boo " href="/ksiazka51/od-pomyslu-do-zysku-jak-spieniezyc-innowacyjnosc.html">
+			<span class="title">Od pomysłu do zysku. Jak spieniężyć innowacyjność</span>
+		</a>
+			<span class="author">Adam Jolly</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1622/komandosi-w-bialych-kolnierzykach-metody-zarzadzania-stosowane-przez-najlepszych-menedzerow.html">
+			<img class="cover" src="/s/cover/small/1622.jpg" alt="Komandosi w białych kołnierzykach. Metody zarządzania stosowane przez najlepszych menedżerów"/>
+		</a>
+		<a class="boo " href="/ksiazka1622/komandosi-w-bialych-kolnierzykach-metody-zarzadzania-stosowane-przez-najlepszych-menedzerow.html">
+			<span class="title">Komandosi w białych kołnierzykach. Metody zarządzania stosowane przez najlepszych menedżerów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka803/strategiczny-podstep-umiejetnosc-wygrywania-w-biznesie.html">
+			<img class="cover" src="/s/cover/small/803.jpg" alt="Strategiczny podstęp. Umiejętność wygrywania w biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka803/strategiczny-podstep-umiejetnosc-wygrywania-w-biznesie.html">
+			<span class="title">Strategiczny podstęp. Umiejętność wygrywania w biznesie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka357/wikipedia.html">
+			<img class="cover" src="/s/cover/small/357.jpg" alt="Wikipedia"/>
+		</a>
+		<a class="boo " href="/ksiazka357/wikipedia.html">
+			<span class="title">Wikipedia</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1535/rabin-i-ceo-wskazowki-dla-lidera-biznesu-xxi-wieku.html">
+			<img class="cover" src="/s/cover/small/1535.jpg" alt="Rabin i CEO. Wskazówki dla lidera biznesu XXI wieku"/>
+		</a>
+		<a class="boo " href="/ksiazka1535/rabin-i-ceo-wskazowki-dla-lidera-biznesu-xxi-wieku.html">
+			<span class="title">Rabin i CEO. Wskazówki dla lidera biznesu XXI wieku</span>
+		</a>
+			<span class="author">Aaron L. Raskin, Thomas D. Zweifel</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1350/realizacja-genialnych-pomyslow-jak-sprawic-by-nie-skonczylo-sie-na-gadaniu.html">
+			<img class="cover" src="/s/cover/small/1350.jpg" alt="Realizacja genialnych pomysłów. Jak sprawić, by nie skończyło się na gadaniu"/>
+		</a>
+		<a class="boo " href="/ksiazka1350/realizacja-genialnych-pomyslow-jak-sprawic-by-nie-skonczylo-sie-na-gadaniu.html">
+			<span class="title">Realizacja genialnych pomysłów. Jak sprawić, by nie skończyło się na gadaniu</span>
+		</a>
+			<span class="author">Scott Belsky</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1095/zarzadzanie-jakoscia-podstawy-systemy-i-narzedzia.html">
+			<img class="cover" src="/s/cover/small/1095.jpg" alt="Zarządzanie jakością. Podstawy, systemy i narzędzia"/>
+		</a>
+		<a class="boo " href="/ksiazka1095/zarzadzanie-jakoscia-podstawy-systemy-i-narzedzia.html">
+			<span class="title">Zarządzanie jakością. Podstawy, systemy i narzędzia</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka635/gdy-gora-lodowa-topnieje-wprowadzanie-zmian-w-kazdych-okolicznosciach.html">
+			<img class="cover" src="/s/cover/small/635.jpg" alt="Gdy góra lodowa topnieje. Wprowadzanie zmian w każdych okolicznościach"/>
+		</a>
+		<a class="boo " href="/ksiazka635/gdy-gora-lodowa-topnieje-wprowadzanie-zmian-w-kazdych-okolicznosciach.html">
+			<span class="title">Gdy góra lodowa topnieje. Wprowadzanie zmian w każdych okolicznościach</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34&nbsp;zł</span>
+					<span class="promo">27,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka312/harvard-business-review-podejmowanie-decyzji.html">
+			<img class="cover" src="/s/cover/small/312.jpg" alt="Harvard Business Review. Podejmowanie decyzji"/>
+		</a>
+		<a class="boo " href="/ksiazka312/harvard-business-review-podejmowanie-decyzji.html">
+			<span class="title">Harvard Business Review. Podejmowanie decyzji</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka642/zarzadzanie-zespolami.html">
+			<img class="cover" src="/s/cover/small/642.jpg" alt="Zarządzanie zespołami"/>
+		</a>
+		<a class="boo " href="/ksiazka642/zarzadzanie-zespolami.html">
+			<span class="title">Zarządzanie zespołami</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka405/potega-wartosci-jak-zbudowac-niesmiertelna-firme.html">
+			<img class="cover" src="/s/cover/small/405.jpg" alt="Potęga wartości. Jak zbudować nieśmiertelną firmę"/>
+		</a>
+		<a class="boo " href="/ksiazka405/potega-wartosci-jak-zbudowac-niesmiertelna-firme.html">
+			<span class="title">Potęga wartości. Jak zbudować nieśmiertelną firmę</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka712/zarzadzanie-w-plaskim-swiecie-budowanie-relacji-w-dobie-globalizacji.html">
+			<img class="cover" src="/s/cover/small/712.jpg" alt="Zarządzanie w płaskim świecie. Budowanie relacji w dobie globalizacji"/>
+		</a>
+		<a class="boo " href="/ksiazka712/zarzadzanie-w-plaskim-swiecie-budowanie-relacji-w-dobie-globalizacji.html">
+			<span class="title">Zarządzanie w płaskim świecie. Budowanie relacji w dobie globalizacji</span>
+		</a>
+			<span class="author">Philip Whiteley, Susan Bloch</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1422/radykalna-rewolucja-w-zarzadzaniu-przewodnik-menedzera.html">
+			<img class="cover" src="/s/cover/small/1422.jpg" alt="Radykalna rewolucja w zarządzaniu. Przewodnik menedżera"/>
+		</a>
+		<a class="boo " href="/ksiazka1422/radykalna-rewolucja-w-zarzadzaniu-przewodnik-menedzera.html">
+			<span class="title">Radykalna rewolucja w zarządzaniu. Przewodnik menedżera</span>
+		</a>
+			<span class="author">Stephen Denning</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka422/przewodnik-po-franczyzie-jak-wybrac-najlepsza-dla-twojego-biznesu.html">
+			<img class="cover" src="/s/cover/small/422.jpg" alt="Przewodnik po franczyzie. Jak wybrać najlepszą dla Twojego biznesu?"/>
+		</a>
+		<a class="boo " href="/ksiazka422/przewodnik-po-franczyzie-jak-wybrac-najlepsza-dla-twojego-biznesu.html">
+			<span class="title">Przewodnik po franczyzie. Jak wybrać najlepszą dla Twojego biznesu?</span>
+		</a>
+			<span class="author">Iain Murray</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1290/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swojej-marki.html">
+			<img class="cover" src="/s/cover/small/1290.jpg" alt="Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki"/>
+		</a>
+		<a class="boo " href="/ksiazka1290/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swojej-marki.html">
+			<span class="title">Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka451/harvard-business-review-zarzadzanie-lancuchem-dostaw.html">
+			<img class="cover" src="/s/cover/small/451.jpg" alt="Harvard Business Review. Zarządzanie łańcuchem dostaw"/>
+		</a>
+		<a class="boo " href="/ksiazka451/harvard-business-review-zarzadzanie-lancuchem-dostaw.html">
+			<span class="title">Harvard Business Review. Zarządzanie łańcuchem dostaw</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka545/harvard-business-review-strategiczne-zarzadzenie-sprzedaza.html">
+			<img class="cover" src="/s/cover/small/545.jpg" alt="Harvard Business Review. Strategiczne zarządzenie sprzedażą"/>
+		</a>
+		<a class="boo " href="/ksiazka545/harvard-business-review-strategiczne-zarzadzenie-sprzedaza.html">
+			<span class="title">Harvard Business Review. Strategiczne zarządzenie sprzedażą</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1326/zarzadzanie-lancuchem-dostaw-podstawy-wydanie-ii.html">
+			<img class="cover" src="/s/cover/small/1326.jpg" alt="Zarządzanie łańcuchem dostaw. Podstawy. Wydanie II"/>
+		</a>
+		<a class="boo " href="/ksiazka1326/zarzadzanie-lancuchem-dostaw-podstawy-wydanie-ii.html">
+			<span class="title">Zarządzanie łańcuchem dostaw. Podstawy. Wydanie II</span>
+		</a>
+			<span class="author">Michael Hugos</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">54,90&nbsp;zł</span>
+					<span class="promo">43,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka943/propozycja-nie-do-odrzucenia-tajemnice-i-rady-bylego-szefa-mafii.html">
+			<img class="cover" src="/s/cover/small/943.jpg" alt="Propozycja nie do odrzucenia. Tajemnice i rady byłego szefa mafii"/>
+		</a>
+		<a class="boo " href="/ksiazka943/propozycja-nie-do-odrzucenia-tajemnice-i-rady-bylego-szefa-mafii.html">
+			<span class="title">Propozycja nie do odrzucenia. Tajemnice i rady byłego szefa mafii</span>
+		</a>
+			<span class="author">Michael Franzese</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">32,90&nbsp;zł</span>
+					<span class="promo">26,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1558/kierownik-w-instytucji-publicznej-znajdz-swoj-wlasny-skuteczny-styl-zarzadzania.html">
+			<img class="cover" src="/s/cover/small/1558.jpg" alt="Kierownik w instytucji publicznej. Znajdź swój własny, skuteczny styl zarządzania"/>
+		</a>
+		<a class="boo " href="/ksiazka1558/kierownik-w-instytucji-publicznej-znajdz-swoj-wlasny-skuteczny-styl-zarzadzania.html">
+			<span class="title">Kierownik w instytucji publicznej. Znajdź swój własny, skuteczny styl zarządzania</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1079/zarzadzanie-w-stylu-warrena-buffetta-sprawdzone-narzedzia-sukcesu-w-zyciu-osobistym-i-biznesie.html">
+			<img class="cover" src="/s/cover/small/1079.jpg" alt="Zarządzanie w stylu Warrena Buffetta. Sprawdzone narzędzia sukcesu w życiu osobistym i biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka1079/zarzadzanie-w-stylu-warrena-buffetta-sprawdzone-narzedzia-sukcesu-w-zyciu-osobistym-i-biznesie.html">
+			<span class="title">Zarządzanie w stylu Warrena Buffetta. Sprawdzone narzędzia sukcesu w życiu osobistym i biznesie</span>
+		</a>
+			<span class="author">David Clark, Mary Buffett</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka769/komandosi-w-bialych-kolnierzykach-metody-zarzadzania-stosowane-przez-najlepszych-menedzerow.html">
+			<img class="cover" src="/s/cover/small/769.jpg" alt="Komandosi w białych kołnierzykach. Metody zarządzania stosowane przez najlepszych menedżerów"/>
+		</a>
+		<a class="boo " href="/ksiazka769/komandosi-w-bialych-kolnierzykach-metody-zarzadzania-stosowane-przez-najlepszych-menedzerow.html">
+			<span class="title">Komandosi w białych kołnierzykach. Metody zarządzania stosowane przez najlepszych menedżerów</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1352/analiza-i-prezentacja-danych-w-microsoft-excel-vademecum-walkenbacha.html">
+			<img class="cover" src="/s/cover/small/1352.jpg" alt="Analiza i prezentacja danych w Microsoft Excel. Vademecum Walkenbacha"/>
+		</a>
+		<a class="boo " href="/ksiazka1352/analiza-i-prezentacja-danych-w-microsoft-excel-vademecum-walkenbacha.html">
+			<span class="title">Analiza i prezentacja danych w Microsoft Excel. Vademecum Walkenbacha</span>
+		</a>
+			<span class="author">John Walkenbach, Michael Alexander</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka610/6-nawykow-wydajnego-zespolu.html">
+			<img class="cover" src="/s/cover/small/610.jpg" alt="6 nawyków wydajnego zespołu"/>
+		</a>
+		<a class="boo " href="/ksiazka610/6-nawykow-wydajnego-zespolu.html">
+			<span class="title">6 nawyków wydajnego zespołu</span>
+		</a>
+			<span class="author">Stephen E. Kohn, Vincent D. OConnell</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka975/odpornosc-na-zmiany-jak-uwolnic-potencjal-tkwiacy-w-tobie-i-twoim-miejscu-pracy.html">
+			<img class="cover" src="/s/cover/small/975.jpg" alt="Odporność na zmiany. Jak uwolnić potencjał tkwiący w Tobie i Twoim miejscu pracy"/>
+		</a>
+		<a class="boo " href="/ksiazka975/odpornosc-na-zmiany-jak-uwolnic-potencjal-tkwiacy-w-tobie-i-twoim-miejscu-pracy.html">
+			<span class="title">Odporność na zmiany. Jak uwolnić potencjał tkwiący w Tobie i Twoim miejscu pracy</span>
+		</a>
+			<span class="author">Lisa Laskow Lahey, Robert Kegan</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1743/jak-zarzadzac-zespolem-handlowym-i-przetrwac-poradnik-dla-szefow-sprzedazy-i-handlowcow-wydanie-iii.html">
+			<img class="cover" src="/s/cover/small/1743.jpg" alt="Jak zarządzać zespołem handlowym i przetrwać. Poradnik dla szefów sprzedaży i handlowców. Wydanie III"/>
+		</a>
+		<a class="boo " href="/ksiazka1743/jak-zarzadzac-zespolem-handlowym-i-przetrwac-poradnik-dla-szefow-sprzedazy-i-handlowcow-wydanie-iii.html">
+			<span class="title">Jak zarządzać zespołem handlowym i przetrwać. Poradnik dla szefów sprzedaży i handlowców. Wydanie III</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1656/realizacja-genialnych-pomyslow-jak-sprawic-by-nie-skonczylo-sie-na-gadaniu.html">
+			<img class="cover" src="/s/cover/small/1656.jpg" alt="Realizacja genialnych pomysłów. Jak sprawić, by nie skończyło się na gadaniu"/>
+		</a>
+		<a class="boo " href="/ksiazka1656/realizacja-genialnych-pomyslow-jak-sprawic-by-nie-skonczylo-sie-na-gadaniu.html">
+			<span class="title">Realizacja genialnych pomysłów. Jak sprawić, by nie skończyło się na gadaniu</span>
+		</a>
+			<span class="author">Scott Belsky</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka23/nektar-tworcze-paliwo-wynalazczosci-i-innowacji.html">
+			<img class="cover" src="/s/cover/small/23.jpg" alt="Nektar. Twórcze paliwo wynalazczości i innowacji"/>
+		</a>
+		<a class="boo " href="/ksiazka23/nektar-tworcze-paliwo-wynalazczosci-i-innowacji.html">
+			<span class="title">Nektar. Twórcze paliwo wynalazczości i innowacji</span>
+		</a>
+			<span class="author">Evan I. Schwartz</span>
+			
+			<span class="price">
+				Cena:
+				
+					55&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1076/zacznij-od-zera-jak-przy-mniejszym-budzecie-osiagnac-lepsze-wyniki.html">
+			<img class="cover" src="/s/cover/small/1076.jpg" alt="Zacznij od zera. Jak przy mniejszym budżecie osiągnąć lepsze wyniki"/>
+		</a>
+		<a class="boo " href="/ksiazka1076/zacznij-od-zera-jak-przy-mniejszym-budzecie-osiagnac-lepsze-wyniki.html">
+			<span class="title">Zacznij od zera. Jak przy mniejszym budżecie osiągnąć lepsze wyniki</span>
+		</a>
+			<span class="author">Nancy Lublin</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1630/mbo-prosta-i-skuteczna-technika-zarzadzania-twoja-firma.html">
+			<img class="cover" src="/s/cover/small/1630.jpg" alt="MBO - prosta i skuteczna technika zarządzania Twoją firmą"/>
+		</a>
+		<a class="boo " href="/ksiazka1630/mbo-prosta-i-skuteczna-technika-zarzadzania-twoja-firma.html">
+			<span class="title">MBO - prosta i skuteczna technika zarządzania Twoją firmą</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39,90&nbsp;zł</span>
+					<span class="promo">31,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka260/strategia-zrownowazonego-wzrostu-dla-twojej-firmy-czesc-ii-globalna-ekspansja-i-nowe-modele-dzialalnosci.html">
+			<img class="cover" src="/s/cover/small/260.jpg" alt="Strategia zrównoważonego wzrostu dla Twojej firmy. Część II: Globalna ekspansja i nowe modele działalności"/>
+		</a>
+		<a class="boo " href="/ksiazka260/strategia-zrownowazonego-wzrostu-dla-twojej-firmy-czesc-ii-globalna-ekspansja-i-nowe-modele-dzialalnosci.html">
+			<span class="title">Strategia zrównoważonego wzrostu dla Twojej firmy. Część II: Globalna ekspansja i nowe modele działalności</span>
+		</a>
+			<span class="author">Chris Zook</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49,90&nbsp;zł</span>
+					<span class="promo">39,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1755/kierownik-w-instytucji-publicznej-znajdz-swoj-wlasny-skuteczny-styl-zarzadzania.html">
+			<img class="cover" src="/s/cover/small/1755.jpg" alt="Kierownik w instytucji publicznej. Znajdź swój własny, skuteczny styl zarządzania"/>
+		</a>
+		<a class="boo " href="/ksiazka1755/kierownik-w-instytucji-publicznej-znajdz-swoj-wlasny-skuteczny-styl-zarzadzania.html">
+			<span class="title">Kierownik w instytucji publicznej. Znajdź swój własny, skuteczny styl zarządzania</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1620/kobiecy-styl-zarzadzania.html">
+			<img class="cover" src="/s/cover/small/1620.jpg" alt="Kobiecy styl zarzadzania"/>
+		</a>
+		<a class="boo " href="/ksiazka1620/kobiecy-styl-zarzadzania.html">
+			<span class="title">Kobiecy styl zarzadzania</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1567/rozgromic-konkurencje-sprawdzone-w-boju-strategie-dowodzenia-motywowania-i-zwyciezania-twarda-oprawa.html">
+			<img class="cover" src="/s/cover/small/1567.jpg" alt="RozGROMić konkurencję. Sprawdzone w boju strategie dowodzenia, motywowania i zwyciężania (twarda oprawa)"/>
+		</a>
+		<a class="boo " href="/ksiazka1567/rozgromic-konkurencje-sprawdzone-w-boju-strategie-dowodzenia-motywowania-i-zwyciezania-twarda-oprawa.html">
+			<span class="title">RozGROMić konkurencję. Sprawdzone w boju strategie dowodzenia, motywowania i zwyciężania (twarda oprawa)</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">57&nbsp;zł</span>
+					<span class="promo">45,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka477/efekt-lojalnosci-ukryta-sila-rozwojowa-twojej-firmy.html">
+			<img class="cover" src="/s/cover/small/477.jpg" alt="Efekt lojalności. Ukryta siła rozwojowa Twojej firmy"/>
+		</a>
+		<a class="boo " href="/ksiazka477/efekt-lojalnosci-ukryta-sila-rozwojowa-twojej-firmy.html">
+			<span class="title">Efekt lojalności. Ukryta siła rozwojowa Twojej firmy</span>
+		</a>
+			<span class="author">Frederick F. Reichheld, Thomas Teal</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">67&nbsp;zł</span>
+					<span class="promo">53,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka626/bezbledne-zarzadzanie-koniec-z-syndromem-skazanego-na-porazke.html">
+			<img class="cover" src="/s/cover/small/626.jpg" alt="Bezbłędne zarządzanie. Koniec z syndromem skazanego na porażkę "/>
+		</a>
+		<a class="boo " href="/ksiazka626/bezbledne-zarzadzanie-koniec-z-syndromem-skazanego-na-porazke.html">
+			<span class="title">Bezbłędne zarządzanie. Koniec z syndromem skazanego na porażkę </span>
+		</a>
+			<span class="author">Jean-Francois Manzoni, Jean-Louis Barsoux</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">57&nbsp;zł</span>
+					<span class="promo">45,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka625/sedno-zmian-narzedzia-i-taktyki-pozytywnej-transformacji-twojej-firmy.html">
+			<img class="cover" src="/s/cover/small/625.jpg" alt="Sedno zmian. Narzędzia i taktyki pozytywnej transformacji Twojej firmy"/>
+		</a>
+		<a class="boo " href="/ksiazka625/sedno-zmian-narzedzia-i-taktyki-pozytywnej-transformacji-twojej-firmy.html">
+			<span class="title">Sedno zmian. Narzędzia i taktyki pozytywnej transformacji Twojej firmy</span>
+		</a>
+			<span class="author">Dan S. Cohen</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka310/harvard-business-review-doskonalenie-strategii.html">
+			<img class="cover" src="/s/cover/small/310.jpg" alt="Harvard Business Review. Doskonalenie strategii"/>
+		</a>
+		<a class="boo " href="/ksiazka310/harvard-business-review-doskonalenie-strategii.html">
+			<span class="title">Harvard Business Review. Doskonalenie strategii</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1914/personal-branding-20-cztery-kroki-do-zbudowania-osobistej-marki.html">
+			<img class="cover" src="/s/cover/small/1914.jpg" alt="Personal branding 2.0. Cztery kroki do zbudowania osobistej marki"/>
+		</a>
+		<a class="boo " href="/ksiazka1914/personal-branding-20-cztery-kroki-do-zbudowania-osobistej-marki.html">
+			<span class="title">Personal branding 2.0. Cztery kroki do zbudowania osobistej marki</span>
+		</a>
+			<span class="author">Dan Schawbel</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1785/w-biznesie-przetrwaja-nieliczni-dlaczego-wiekszosc-firm-zniknie-z-rynku-i-jak-sie-przed-tym-bronic.html">
+			<img class="cover" src="/s/cover/small/1785.jpg" alt="W biznesie przetrwają nieliczni. Dlaczego większość firm zniknie z rynku i jak się przed tym bronić?"/>
+		</a>
+		<a class="boo " href="/ksiazka1785/w-biznesie-przetrwaja-nieliczni-dlaczego-wiekszosc-firm-zniknie-z-rynku-i-jak-sie-przed-tym-bronic.html">
+			<span class="title">W biznesie przetrwają nieliczni. Dlaczego większość firm zniknie z rynku i jak się przed tym bronić?</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka452/harvard-business-review-zarzadzanie-w-sytuacjach-kryzysowych.html">
+			<img class="cover" src="/s/cover/small/452.jpg" alt="Harvard Business Review. Zarządzanie w sytuacjach kryzysowych"/>
+		</a>
+		<a class="boo " href="/ksiazka452/harvard-business-review-zarzadzanie-w-sytuacjach-kryzysowych.html">
+			<span class="title">Harvard Business Review. Zarządzanie w sytuacjach kryzysowych</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka99/harvard-business-review-zarzadzanie-wzrostem-przychodow.html">
+			<img class="cover" src="/s/cover/small/99.jpg" alt="Harvard Business Review. Zarządzanie wzrostem przychodów"/>
+		</a>
+		<a class="boo " href="/ksiazka99/harvard-business-review-zarzadzanie-wzrostem-przychodow.html">
+			<span class="title">Harvard Business Review. Zarządzanie wzrostem przychodów</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1372/wspolczesne-systemy-zarzadzania-jakosc-bezpieczenstwo-ryzyko.html">
+			<img class="cover" src="/s/cover/small/1372.jpg" alt="Współczesne systemy zarządzania. Jakość, bezpieczeństwo, ryzyko"/>
+		</a>
+		<a class="boo " href="/ksiazka1372/wspolczesne-systemy-zarzadzania-jakosc-bezpieczenstwo-ryzyko.html">
+			<span class="title">Współczesne systemy zarządzania. Jakość, bezpieczeństwo, ryzyko</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1628/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swojej-marki.html">
+			<img class="cover" src="/s/cover/small/1628.jpg" alt="Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki"/>
+		</a>
+		<a class="boo " href="/ksiazka1628/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swojej-marki.html">
+			<span class="title">Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka701/innowacja-droga-do-wzrostu-zyskow.html">
+			<img class="cover" src="/s/cover/small/701.jpg" alt="Innowacja. Droga do wzrostu zysków"/>
+		</a>
+		<a class="boo " href="/ksiazka701/innowacja-droga-do-wzrostu-zyskow.html">
+			<span class="title">Innowacja. Droga do wzrostu zysków</span>
+		</a>
+			<span class="author">Tom Gorman</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka123/od-zastoju-do-rozwoju-strategie-trwalego-wzrostu.html">
+			<img class="cover" src="/s/cover/small/123.jpg" alt="Od zastoju do rozwoju. Strategie trwałego wzrostu"/>
+		</a>
+		<a class="boo " href="/ksiazka123/od-zastoju-do-rozwoju-strategie-trwalego-wzrostu.html">
+			<span class="title">Od zastoju do rozwoju. Strategie trwałego wzrostu</span>
+		</a>
+			<span class="author">Adrian J. Slywotzky, Karl Weber, Richard Wise</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka261/strategia-zrownowazonego-wzrostu-dla-twojej-firmy-czesc-i-strategia-wzrostu-w-erze-zmian.html">
+			<img class="cover" src="/s/cover/small/261.jpg" alt="Strategia zrównoważonego wzrostu dla Twojej firmy. Część I: Strategia wzrostu w erze zmian"/>
+		</a>
+		<a class="boo " href="/ksiazka261/strategia-zrownowazonego-wzrostu-dla-twojej-firmy-czesc-i-strategia-wzrostu-w-erze-zmian.html">
+			<span class="title">Strategia zrównoważonego wzrostu dla Twojej firmy. Część I: Strategia wzrostu w erze zmian</span>
+		</a>
+			<span class="author">Chris Zook, James Allen</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49,90&nbsp;zł</span>
+					<span class="promo">39,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2035/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swojej-marki.html">
+			<img class="cover" src="/s/cover/small/2035.jpg" alt="Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki"/>
+		</a>
+		<a class="boo " href="/ksiazka2035/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swojej-marki.html">
+			<span class="title">Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka640/zarzadzanie-szefem.html">
+			<img class="cover" src="/s/cover/small/640.jpg" alt="Zarządzanie szefem"/>
+		</a>
+		<a class="boo " href="/ksiazka640/zarzadzanie-szefem.html">
+			<span class="title">Zarządzanie szefem</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">19,90&nbsp;zł</span>
+					<span class="promo">15,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1799/rabin-i-ceo-wskazowki-dla-lidera-biznesu-xxi-wieku.html">
+			<img class="cover" src="/s/cover/small/1799.jpg" alt="Rabin i CEO. Wskazówki dla lidera biznesu XXI wieku"/>
+		</a>
+		<a class="boo " href="/ksiazka1799/rabin-i-ceo-wskazowki-dla-lidera-biznesu-xxi-wieku.html">
+			<span class="title">Rabin i CEO. Wskazówki dla lidera biznesu XXI wieku</span>
+		</a>
+			<span class="author">Aaron L. Raskin, Thomas D. Zweifel</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka450/harvard-business-review-sprawna-i-efektywna-organizacja.html">
+			<img class="cover" src="/s/cover/small/450.jpg" alt="Harvard Business Review. Sprawna i efektywna organizacja"/>
+		</a>
+		<a class="boo " href="/ksiazka450/harvard-business-review-sprawna-i-efektywna-organizacja.html">
+			<span class="title">Harvard Business Review. Sprawna i efektywna organizacja</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka166/wielki-biznes-czego-mozesz-nauczyc-sie-od-najwiekszych-firm.html">
+			<img class="cover" src="/s/cover/small/166.jpg" alt="Wielki biznes. Czego możesz nauczyć się od największych firm"/>
+		</a>
+		<a class="boo " href="/ksiazka166/wielki-biznes-czego-mozesz-nauczyc-sie-od-najwiekszych-firm.html">
+			<span class="title">Wielki biznes. Czego możesz nauczyć się od największych firm</span>
+		</a>
+			<span class="author">Mark Brownley</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">33&nbsp;zł</span>
+					<span class="promo">26,40&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka140/niespokojna-organizacja-dlaczego-inteligentne-firmy-robia-glupie-rzeczy.html">
+			<img class="cover" src="/s/cover/small/140.jpg" alt="Niespokojna organizacja. Dlaczego inteligentne firmy robią głupie rzeczy"/>
+		</a>
+		<a class="boo " href="/ksiazka140/niespokojna-organizacja-dlaczego-inteligentne-firmy-robia-glupie-rzeczy.html">
+			<span class="title">Niespokojna organizacja. Dlaczego inteligentne firmy robią głupie rzeczy</span>
+		</a>
+			<span class="author">Jeffrey A. Miller</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka338/jak-lepiej-i-taniej-kupowac-przetargi-on-line-w-zaopatrzeniu-firm.html">
+			<img class="cover" src="/s/cover/small/338.jpg" alt="Jak lepiej i taniej kupować. Przetargi on-line w zaopatrzeniu firm"/>
+		</a>
+		<a class="boo " href="/ksiazka338/jak-lepiej-i-taniej-kupowac-przetargi-on-line-w-zaopatrzeniu-firm.html">
+			<span class="title">Jak lepiej i taniej kupować. Przetargi on-line w zaopatrzeniu firm</span>
+		</a>
+			<span class="author">Josef Zrnik, Milan Kaplan</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44&nbsp;zł</span>
+					<span class="promo">35,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1729/know-how-w-dzialaniu-jak-zdobyc-przewage-konkurencyjna-dzieki-zarzadzaniu-wiedza.html">
+			<img class="cover" src="/s/cover/small/1729.jpg" alt="KNOW-HOW w działaniu! Jak zdobyć przewagę konkurencyjną dzięki zarządzaniu wiedzą"/>
+		</a>
+		<a class="boo " href="/ksiazka1729/know-how-w-dzialaniu-jak-zdobyc-przewage-konkurencyjna-dzieki-zarzadzaniu-wiedza.html">
+			<span class="title">KNOW-HOW w działaniu! Jak zdobyć przewagę konkurencyjną dzięki zarządzaniu wiedzą</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2241/zarzadzanie-wynikami-firmy-podrecznik-menedzera.html">
+			<img class="cover" src="/s/cover/small/2241.jpg" alt="Zarządzanie wynikami firmy. Podręcznik menedżera"/>
+		</a>
+		<a class="boo " href="/ksiazka2241/zarzadzanie-wynikami-firmy-podrecznik-menedzera.html">
+			<span class="title">Zarządzanie wynikami firmy. Podręcznik menedżera</span>
+		</a>
+			<span class="author">Mike Bourne, Pippa Bourne</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2238/radykalna-rewolucja-w-zarzadzaniu-przewodnik-menedzera.html">
+			<img class="cover" src="/s/cover/small/2238.jpg" alt="Radykalna rewolucja w zarządzaniu. Przewodnik menedżera"/>
+		</a>
+		<a class="boo " href="/ksiazka2238/radykalna-rewolucja-w-zarzadzaniu-przewodnik-menedzera.html">
+			<span class="title">Radykalna rewolucja w zarządzaniu. Przewodnik menedżera</span>
+		</a>
+			<span class="author">Stephen Denning</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1337/zarzadzanie-lancuchem-dostaw-jak-podejmowac-decyzje-logistyczne-z-wykorzystaniem-excela.html">
+			<img class="cover" src="/s/cover/small/1337.jpg" alt="Zarządzanie łańcuchem dostaw. Jak podejmować decyzje logistyczne z wykorzystaniem Excela"/>
+		</a>
+		<a class="boo " href="/ksiazka1337/zarzadzanie-lancuchem-dostaw-jak-podejmowac-decyzje-logistyczne-z-wykorzystaniem-excela.html">
+			<span class="title">Zarządzanie łańcuchem dostaw. Jak podejmować decyzje logistyczne z wykorzystaniem Excela</span>
+		</a>
+			<span class="author">Zdzisław Sarjusz-Wolski</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka492/wielka-formula-maksimum-zysku-minimum-strat.html">
+			<img class="cover" src="/s/cover/small/492.jpg" alt="Wielka Formuła. Maksimum zysku, minimum strat"/>
+		</a>
+		<a class="boo " href="/ksiazka492/wielka-formula-maksimum-zysku-minimum-strat.html">
+			<span class="title">Wielka Formuła. Maksimum zysku, minimum strat</span>
+		</a>
+			<span class="author">Mark Joyner</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka305/harvard-business-review-zarzadzanie-w-warunkach-niepewnosci.html">
+			<img class="cover" src="/s/cover/small/305.jpg" alt="Harvard Business Review. Zarządzanie w warunkach niepewności"/>
+		</a>
+		<a class="boo " href="/ksiazka305/harvard-business-review-zarzadzanie-w-warunkach-niepewnosci.html">
+			<span class="title">Harvard Business Review. Zarządzanie w warunkach niepewności</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1365/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-audiotrening.html">
+			<img class="cover" src="/s/cover/small/1365.jpg" alt="Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Audiotrening"/>
+		</a>
+		<a class="boo " href="/ksiazka1365/zasady-wywierania-wplywu-na-ludzi-szkola-cialdiniego-audiotrening.html">
+			<span class="title">Zasady wywierania wpływu na ludzi. Szkoła Cialdiniego. Audiotrening</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					21,99&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka46/organizacja-jutra-zarzadzanie-talentem-wspolpraca-i-specjalizacja.html">
+			<img class="cover" src="/s/cover/small/46.jpg" alt="Organizacja jutra. Zarządzanie talentem, współpracą i specjalizacją"/>
+		</a>
+		<a class="boo " href="/ksiazka46/organizacja-jutra-zarzadzanie-talentem-wspolpraca-i-specjalizacja.html">
+			<span class="title">Organizacja jutra. Zarządzanie talentem, współpracą i specjalizacją</span>
+		</a>
+			<span class="author">John Hagel III, John Seely Brown</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka127/sztuka-konkurowania-w-gospodarce-xxi-wieku-plan-dzialania.html">
+			<img class="cover" src="/s/cover/small/127.jpg" alt="Sztuka konkurowania w gospodarce XXI wieku. Plan działania"/>
+		</a>
+		<a class="boo " href="/ksiazka127/sztuka-konkurowania-w-gospodarce-xxi-wieku-plan-dzialania.html">
+			<span class="title">Sztuka konkurowania w gospodarce XXI wieku. Plan działania</span>
+		</a>
+			<span class="author">Michael Hammer</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1340/nowoczesna-logistyka-wydanie-x.html">
+			<img class="cover" src="/s/cover/small/1340.jpg" alt="Nowoczesna logistyka. Wydanie X"/>
+		</a>
+		<a class="boo " href="/ksiazka1340/nowoczesna-logistyka-wydanie-x.html">
+			<span class="title">Nowoczesna logistyka. Wydanie X</span>
+		</a>
+			<span class="author">Donald F. Wood, Paul R. Murphy Jr.</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">79&nbsp;zł</span>
+					<span class="promo">63,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka692/skuteczna-transformacja-firmy-w-90-dni.html">
+			<img class="cover" src="/s/cover/small/692.jpg" alt="Skuteczna transformacja firmy w 90 dni "/>
+		</a>
+		<a class="boo " href="/ksiazka692/skuteczna-transformacja-firmy-w-90-dni.html">
+			<span class="title">Skuteczna transformacja firmy w 90 dni </span>
+		</a>
+			<span class="author">Behnam N. Tabrizi</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1309/organizacje-pozarzadowe-zarzadzanie-kreowanie-wizerunku-i-wspolpraca-z-mediami-w-iii-sektorze.html">
+			<img class="cover" src="/s/cover/small/1309.jpg" alt="Organizacje pozarządowe. Zarządzanie, kreowanie wizerunku i współpraca z mediami w III sektorze"/>
+		</a>
+		<a class="boo " href="/ksiazka1309/organizacje-pozarzadowe-zarzadzanie-kreowanie-wizerunku-i-wspolpraca-z-mediami-w-iii-sektorze.html">
+			<span class="title">Organizacje pozarządowe. Zarządzanie, kreowanie wizerunku i współpraca z mediami w III sektorze</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2022/sztuka-wojny-wydanie-iii.html">
+			<img class="cover" src="/s/cover/small/2022.jpg" alt="Sztuka wojny. Wydanie III"/>
+		</a>
+		<a class="boo " href="/ksiazka2022/sztuka-wojny-wydanie-iii.html">
+			<span class="title">Sztuka wojny. Wydanie III</span>
+		</a>
+			<span class="author">Sun-tzu</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">23,90&nbsp;zł</span>
+					<span class="promo">19,12&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka989/trzy-prawa-skutecznego-dzialania-ksztaltuj-przyszlosc-swoja-i-swojej-firmy.html">
+			<img class="cover" src="/s/cover/small/989.jpg" alt="Trzy prawa skutecznego działania. Kształtuj przyszłość swoją i swojej firmy"/>
+		</a>
+		<a class="boo " href="/ksiazka989/trzy-prawa-skutecznego-dzialania-ksztaltuj-przyszlosc-swoja-i-swojej-firmy.html">
+			<span class="title">Trzy prawa skutecznego działania. Kształtuj przyszłość swoją i swojej firmy</span>
+		</a>
+			<span class="author">Dave Logan, Steve Zaffron</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37,89&nbsp;zł</span>
+					<span class="promo">30,31&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1612/firma-jak-kamorra-11-strategicznych-zasad-mafii-w-legalnym-biznesie.html">
+			<img class="cover" src="/s/cover/small/1612.jpg" alt="Firma jak kamorra. 11 strategicznych zasad mafii w legalnym biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka1612/firma-jak-kamorra-11-strategicznych-zasad-mafii-w-legalnym-biznesie.html">
+			<span class="title">Firma jak kamorra. 11 strategicznych zasad mafii w legalnym biznesie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka449/harvard-business-review-spoleczna-odpowiedzialnosc-przedsiebiorstw.html">
+			<img class="cover" src="/s/cover/small/449.jpg" alt="Harvard Business Review. Społeczna odpowiedzialność przedsiębiorstw"/>
+		</a>
+		<a class="boo " href="/ksiazka449/harvard-business-review-spoleczna-odpowiedzialnosc-przedsiebiorstw.html">
+			<span class="title">Harvard Business Review. Społeczna odpowiedzialność przedsiębiorstw</span>
+		</a>
+			<span class="author">Harvard Business</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">69&nbsp;zł</span>
+					<span class="promo">55,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka366/sztuka-osiagania-zysku.html">
+			<img class="cover" src="/s/cover/small/366.jpg" alt="Sztuka osiągania zysku"/>
+		</a>
+		<a class="boo " href="/ksiazka366/sztuka-osiagania-zysku.html">
+			<span class="title">Sztuka osiągania zysku</span>
+		</a>
+			<span class="author">Adrian Slywotzky</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44&nbsp;zł</span>
+					<span class="promo">35,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka67/alianse-strategiczne-sztuka-zdobywania-korzysci-poprzez-wspolprace.html">
+			<img class="cover" src="/s/cover/small/67.jpg" alt="Alianse strategiczne. Sztuka zdobywania korzyści poprzez współpracę"/>
+		</a>
+		<a class="boo " href="/ksiazka67/alianse-strategiczne-sztuka-zdobywania-korzysci-poprzez-wspolprace.html">
+			<span class="title">Alianse strategiczne. Sztuka zdobywania korzyści poprzez współpracę</span>
+		</a>
+			<span class="author">Gary Hamel, Yves L. Doz</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">59&nbsp;zł</span>
+					<span class="promo">47,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka594/50-dziel-klasyki-sukcesu-inspirujace-mysli-wielkie-nazwiska-wybitne-idee.html">
+			<img class="cover" src="/s/cover/small/594.jpg" alt="50 dzieł klasyki sukcesu. Inspirujące myśli, wielkie nazwiska, wybitne idee"/>
+		</a>
+		<a class="boo " href="/ksiazka594/50-dziel-klasyki-sukcesu-inspirujace-mysli-wielkie-nazwiska-wybitne-idee.html">
+			<span class="title">50 dzieł klasyki sukcesu. Inspirujące myśli, wielkie nazwiska, wybitne idee</span>
+		</a>
+			<span class="author">Tom Butler-Bowdon</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">37&nbsp;zł</span>
+					<span class="promo">29,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka595/50-duchowych-klasykow-50-ksiazek-ktore-zmienily-nasz-sposob-myslenia.html">
+			<img class="cover" src="/s/cover/small/595.jpg" alt="50 duchowych klasyków. 50 książek, które zmieniły nasz sposób myślenia"/>
+		</a>
+		<a class="boo " href="/ksiazka595/50-duchowych-klasykow-50-ksiazek-ktore-zmienily-nasz-sposob-myslenia.html">
+			<span class="title">50 duchowych klasyków. 50 książek, które zmieniły nasz sposób myślenia</span>
+		</a>
+			<span class="author">Tom Butler-Bowdon</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">34,90&nbsp;zł</span>
+					<span class="promo">27,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1906/bilans-w-firmie-cztery-rzeczy-ktore-przedsiebiorca-powinien-wiedziec-o-finansach.html">
+			<img class="cover" src="/s/cover/small/1906.jpg" alt="Bilans w firmie. Cztery rzeczy, które przedsiębiorca powinien wiedzieć o  finansach"/>
+		</a>
+		<a class="boo " href="/ksiazka1906/bilans-w-firmie-cztery-rzeczy-ktore-przedsiebiorca-powinien-wiedziec-o-finansach.html">
+			<span class="title">Bilans w firmie. Cztery rzeczy, które przedsiębiorca powinien wiedzieć o  finansach</span>
+		</a>
+			<span class="author">David Frodsham, Heinrich Liechtenstein</span>
+			
+			<span class="price">
+				Cena:
+				
+					54,90&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka373/jak-przeprowadzic-transformacje-firmy.html">
+			<img class="cover" src="/s/cover/small/373.jpg" alt="Jak przeprowadzić transformację firmy"/>
+		</a>
+		<a class="boo " href="/ksiazka373/jak-przeprowadzic-transformacje-firmy.html">
+			<span class="title">Jak przeprowadzić transformację firmy</span>
+		</a>
+			<span class="author">John P. Kotter</span>
+			
+			<span class="price">
+				Cena:
+				
+					57&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1700/algorytm-sukcesu-wprowadz-swoja-firme-na-sciezke-rozwoju.html">
+			<img class="cover" src="/s/cover/small/1700.jpg" alt="Algorytm sukcesu. Wprowadź swoją firmę na ścieżkę rozwoju"/>
+		</a>
+		<a class="boo " href="/ksiazka1700/algorytm-sukcesu-wprowadz-swoja-firme-na-sciezke-rozwoju.html">
+			<span class="title">Algorytm sukcesu. Wprowadź swoją firmę na ścieżkę rozwoju</span>
+		</a>
+			<span class="author">Les McKeown</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1936/mount-everest-biznesu.html">
+			<img class="cover" src="/s/cover/small/1936.jpg" alt="Mount Everest biznesu"/>
+		</a>
+		<a class="boo " href="/ksiazka1936/mount-everest-biznesu.html">
+			<span class="title">Mount Everest biznesu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1873/w-biznesie-przetrwaja-nieliczni-dlaczego-wiekszosc-firm-zniknie-z-rynku-i-jak-sie-przed-tym-bronic.html">
+			<img class="cover" src="/s/cover/small/1873.jpg" alt="W biznesie przetrwają nieliczni. Dlaczego większość firm zniknie z rynku i jak się przed tym bronić?"/>
+		</a>
+		<a class="boo " href="/ksiazka1873/w-biznesie-przetrwaja-nieliczni-dlaczego-wiekszosc-firm-zniknie-z-rynku-i-jak-sie-przed-tym-bronic.html">
+			<span class="title">W biznesie przetrwają nieliczni. Dlaczego większość firm zniknie z rynku i jak się przed tym bronić?</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27,90&nbsp;zł</span>
+					<span class="promo">22,32&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1753/jak-zarzadzac-zespolem-handlowym-i-przetrwac-poradnik-dla-szefow-sprzedazy-i-handlowcow-wydanie-iii.html">
+			<img class="cover" src="/s/cover/small/1753.jpg" alt="Jak zarządzać zespołem handlowym i przetrwać. Poradnik dla szefów sprzedaży i handlowców. Wydanie III"/>
+		</a>
+		<a class="boo " href="/ksiazka1753/jak-zarzadzac-zespolem-handlowym-i-przetrwac-poradnik-dla-szefow-sprzedazy-i-handlowcow-wydanie-iii.html">
+			<span class="title">Jak zarządzać zespołem handlowym i przetrwać. Poradnik dla szefów sprzedaży i handlowców. Wydanie III</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1981/o-wojnie-podrecznik-stratega.html">
+			<img class="cover" src="/s/cover/small/1981.jpg" alt="O wojnie. Podręcznik stratega"/>
+		</a>
+		<a class="boo " href="/ksiazka1981/o-wojnie-podrecznik-stratega.html">
+			<span class="title">O wojnie. Podręcznik stratega</span>
+		</a>
+			<span class="author">Carl von Clausewitz, Colonel J. J. Graham</span>
+			
+			<span class="price">
+				Cena:
+				
+					59&nbsp;zł
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1723/zarzadzanie-jakoscia-podstawy-systemy-i-narzedzia.html">
+			<img class="cover" src="/s/cover/small/1723.jpg" alt="Zarządzanie jakością. Podstawy, systemy i narzędzia"/>
+		</a>
+		<a class="boo " href="/ksiazka1723/zarzadzanie-jakoscia-podstawy-systemy-i-narzedzia.html">
+			<span class="title">Zarządzanie jakością. Podstawy, systemy i narzędzia</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1351/algorytm-sukcesu-wprowadz-swoja-firme-na-sciezke-rozwoju.html">
+			<img class="cover" src="/s/cover/small/1351.jpg" alt="Algorytm sukcesu. Wprowadź swoją firmę na ścieżkę rozwoju"/>
+		</a>
+		<a class="boo " href="/ksiazka1351/algorytm-sukcesu-wprowadz-swoja-firme-na-sciezke-rozwoju.html">
+			<span class="title">Algorytm sukcesu. Wprowadź swoją firmę na ścieżkę rozwoju</span>
+		</a>
+			<span class="author">Les McKeown</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka802/know-how-w-dzialaniu-jak-zdobyc-przewage-konkurencyjna-dzieki-zarzadzaniu-wiedza.html">
+			<img class="cover" src="/s/cover/small/802.jpg" alt="KNOW-HOW w działaniu! Jak zdobyć przewagę konkurencyjną dzięki zarządzaniu wiedzą"/>
+		</a>
+		<a class="boo " href="/ksiazka802/know-how-w-dzialaniu-jak-zdobyc-przewage-konkurencyjna-dzieki-zarzadzaniu-wiedza.html">
+			<span class="title">KNOW-HOW w działaniu! Jak zdobyć przewagę konkurencyjną dzięki zarządzaniu wiedzą</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka322/mistrzowie-rynku-40-strategicznych-ruchow-ktore-przyniosa-szybki-wzrost-twojej-firmie.html">
+			<img class="cover" src="/s/cover/small/322.jpg" alt="Mistrzowie rynku. 40 strategicznych ruchów, które przyniosą szybki wzrost Twojej firmie"/>
+		</a>
+		<a class="boo " href="/ksiazka322/mistrzowie-rynku-40-strategicznych-ruchow-ktore-przyniosa-szybki-wzrost-twojej-firmie.html">
+			<span class="title">Mistrzowie rynku. 40 strategicznych ruchów, które przyniosą szybki wzrost Twojej firmie</span>
+		</a>
+			<span class="author">Ian C. Macmillan, Rita Gunther McGrath</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">44,90&nbsp;zł</span>
+					<span class="promo">35,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1416/mount-everest-biznesu.html">
+			<img class="cover" src="/s/cover/small/1416.jpg" alt="Mount everest biznesu"/>
+		</a>
+		<a class="boo " href="/ksiazka1416/mount-everest-biznesu.html">
+			<span class="title">Mount everest biznesu</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka456/sztuka-znajdowania-dobrych-doradcow-o-czym-nie-mowia-konsultanci.html">
+			<img class="cover" src="/s/cover/small/456.jpg" alt="Sztuka znajdowania dobrych doradców. O czym nie mówią konsultanci"/>
+		</a>
+		<a class="boo " href="/ksiazka456/sztuka-znajdowania-dobrych-doradcow-o-czym-nie-mowia-konsultanci.html">
+			<span class="title">Sztuka znajdowania dobrych doradców. O czym nie mówią konsultanci</span>
+		</a>
+			<span class="author">Dan Ciampa</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">49&nbsp;zł</span>
+					<span class="promo">39,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka6/stretching-w-biznesie-rozwijanie-dzialalnosci-w-lepszych-i-gorszych-czasach.html">
+			<img class="cover" src="/s/cover/small/6.jpg" alt="Stretching w biznesie. Rozwijanie działalności w lepszych i gorszych czasach"/>
+		</a>
+		<a class="boo " href="/ksiazka6/stretching-w-biznesie-rozwijanie-dzialalnosci-w-lepszych-i-gorszych-czasach.html">
+			<span class="title">Stretching w biznesie. Rozwijanie działalności w lepszych i gorszych czasach</span>
+		</a>
+			<span class="author">Fritz Kroeger, Graeme K. Deans</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">57&nbsp;zł</span>
+					<span class="promo">45,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka29/jak-uniknac-pomylek-ktore-moga-zniszczyc-twoja-organizacje.html">
+			<img class="cover" src="/s/cover/small/29.jpg" alt="Jak uniknąć pomyłek, które mogą zniszczyć Twoją organizację"/>
+		</a>
+		<a class="boo " href="/ksiazka29/jak-uniknac-pomylek-ktore-moga-zniszczyc-twoja-organizacje.html">
+			<span class="title">Jak uniknąć pomyłek, które mogą zniszczyć Twoją organizację</span>
+		</a>
+			<span class="author">Robert E. Mittelstaedt</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">47&nbsp;zł</span>
+					<span class="promo">37,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1806/atlas-strategiczny-inspiracje-dla-menedzera.html">
+			<img class="cover" src="/s/cover/small/1806.jpg" alt="Atlas strategiczny. Inspiracje dla menedżera"/>
+		</a>
+		<a class="boo " href="/ksiazka1806/atlas-strategiczny-inspiracje-dla-menedzera.html">
+			<span class="title">Atlas strategiczny. Inspiracje dla menedżera</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">27&nbsp;zł</span>
+					<span class="promo">21,60&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1832/diagnoza-organizacji-pierwszy-krok-do-uzdrowienia-firmy.html">
+			<img class="cover" src="/s/cover/small/1832.jpg" alt="Diagnoza organizacji. Pierwszy krok do uzdrowienia firmy"/>
+		</a>
+		<a class="boo " href="/ksiazka1832/diagnoza-organizacji-pierwszy-krok-do-uzdrowienia-firmy.html">
+			<span class="title">Diagnoza organizacji. Pierwszy krok do uzdrowienia firmy</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1797/marketing-narracyjny-jak-budowac-historie-ktore-sprzedaja.html">
+			<img class="cover" src="/s/cover/small/1797.jpg" alt="Marketing narracyjny. Jak budować historie, które sprzedają"/>
+		</a>
+		<a class="boo " href="/ksiazka1797/marketing-narracyjny-jak-budowac-historie-ktore-sprzedaja.html">
+			<span class="title">Marketing narracyjny. Jak budować historie, które sprzedają</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1647/organizacje-pozarzadowe-zarzadzanie-kreowanie-wizerunku-i-wspolpraca-z-mediami-w-iii-sektorze.html">
+			<img class="cover" src="/s/cover/small/1647.jpg" alt="Organizacje pozarządowe. Zarządzanie, kreowanie wizerunku i współpraca z mediami w III sektorze"/>
+		</a>
+		<a class="boo " href="/ksiazka1647/organizacje-pozarzadowe-zarzadzanie-kreowanie-wizerunku-i-wspolpraca-z-mediami-w-iii-sektorze.html">
+			<span class="title">Organizacje pozarządowe. Zarządzanie, kreowanie wizerunku i współpraca z mediami w III sektorze</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1720/rewolucja-marki-jak-tworzyc-marki-i-zarzadzac-nimi-w-xxi-wieku.html">
+			<img class="cover" src="/s/cover/small/1720.jpg" alt="(R)ewolucja marki. Jak tworzyć marki i zarządzać nimi w XXI wieku"/>
+		</a>
+		<a class="boo " href="/ksiazka1720/rewolucja-marki-jak-tworzyc-marki-i-zarzadzac-nimi-w-xxi-wieku.html">
+			<span class="title">(R)ewolucja marki. Jak tworzyć marki i zarządzać nimi w XXI wieku</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka1738/strategiczny-podstep-umiejetnosc-wygrywania-w-biznesie.html">
+			<img class="cover" src="/s/cover/small/1738.jpg" alt="Strategiczny podstęp. Umiejętność wygrywania w biznesie"/>
+		</a>
+		<a class="boo " href="/ksiazka1738/strategiczny-podstep-umiejetnosc-wygrywania-w-biznesie.html">
+			<span class="title">Strategiczny podstęp. Umiejętność wygrywania w biznesie</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">31,99&nbsp;zł</span>
+					<span class="promo">25,59&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book ">
+		<a class="boo " href="/ksiazka2084/stworzona-do-sprzedazy-zbuduj-firme-ktora-przetrwa-bez-ciebie.html">
+			<img class="cover" src="/s/cover/small/2084.jpg" alt="Stworzona do sprzedaży. Zbuduj firmę, która przetrwa bez Ciebie"/>
+		</a>
+		<a class="boo " href="/ksiazka2084/stworzona-do-sprzedazy-zbuduj-firme-ktora-przetrwa-bez-ciebie.html">
+			<span class="title">Stworzona do sprzedaży. Zbuduj firmę, która przetrwa bez Ciebie</span>
+		</a>
+			<span class="author">John Warrillow</span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">39&nbsp;zł</span>
+					<span class="promo">31,20&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka1875/wspolczesne-systemy-zarzadzania-jakosc-bezpieczenstwo-ryzyko.html">
+			<img class="cover" src="/s/cover/small/1875.jpg" alt="Współczesne systemy zarządzania. Jakość, bezpieczeństwo, ryzyko"/>
+		</a>
+		<a class="boo last" href="/ksiazka1875/wspolczesne-systemy-zarzadzania-jakosc-bezpieczenstwo-ryzyko.html">
+			<span class="title">Współczesne systemy zarządzania. Jakość, bezpieczeństwo, ryzyko</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">35,90&nbsp;zł</span>
+					<span class="promo">28,72&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+		<div class="book last">
+		<a class="boo last" href="/ksiazka2066/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swojej-marki.html">
+			<img class="cover" src="/s/cover/small/2066.jpg" alt="Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki"/>
+		</a>
+		<a class="boo last" href="/ksiazka2066/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swojej-marki.html">
+			<span class="title">Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki</span>
+		</a>
+			<span class="author"></span>
+			
+			<span class="price">
+				Cena:
+				
+					<span class="old">29,90&nbsp;zł</span>
+					<span class="promo">23,92&nbsp;zł</span>
+				
+			</span>
+			
+		</div>
+		
+	</div>
+</div>
+
+
+	</div>
+	<div id="menu">
+		<div class="top"></div>
+			
+			
+			<a href="/promocje/">Promocje</a>
+			
+			<a href="/nowosci/">Nowości</a>
+			
+			<a href="/bestsellery/">Bestsellery</a>
+			
+			<a href="/przedsprzedaz/">Przedsprzedaż</a>
+		
+			
+			<a href="/temat12/bizneswoman.html">Bizneswoman</a>
+		
+			
+			<a href="/temat18/controlling.html">Controlling</a>
+		
+			
+			<a href="/temat15/e-biznes.html">E-biznes</a>
+		
+			
+			<a href="/temat22/ebooki.html">eBooki</a>
+		
+			
+			<a href="/temat17/ekonomia.html">Ekonomia</a>
+		
+			
+			<a href="/temat13/finanse.html">Finanse</a>
+		
+			
+			<a href="/temat16/gielda-i-inwestycje.html">Giełda i inwestycje</a>
+		
+			
+			<a href="/temat8/kompetencje-osobiste.html">Kompetencje osobiste</a>
+		
+			
+			<a href="/temat4/komputer-w-biurze.html">Komputer w biurze</a>
+		
+			
+			<a href="/temat2/komunikacja-i-negocjacje.html">Komunikacja i negocjacje</a>
+		
+			
+			<a href="/temat7/mala-firma.html">Mała firma</a>
+		
+			
+			<a href="/temat6/marketing.html">Marketing</a>
+		
+			
+			<a href="/temat19/multimedialne-szkolenia.html">Multimedialne szkolenia</a>
+		
+			
+			<a href="/temat11/obsluga-klienta.html">Obsługa klienta</a>
+		
+			
+			<a href="/temat20/perswazja-i-nlp.html">Perswazja i NLP</a>
+		
+			
+			<a href="/temat10/przywodztwo.html">Przywództwo</a>
+		
+			
+			<a href="/temat21/public-relations.html">Public Relations</a>
+		
+			
+			<a href="/temat24/sekret.html">Sekret</a>
+		
+			
+			<a href="/temat28/social-media.html">Social Media</a>
+		
+			
+			<a href="/temat1/sprzedaz.html">Sprzedaż</a>
+		
+			
+			<a href="/temat9/twoja-kariera.html">Twoja kariera</a>
+		
+			
+			<a href="/temat5/zarzadzanie.html" class="active">Zarządzanie</a>
+		
+			
+			<a href="/temat14/zarzadzanie-projektami.html">Zarządzanie projektami</a>
+		
+			
+			<a href="/temat3/zasoby-ludzkie-hr.html">Zasoby ludzkie (HR)</a>
+		
+		<div class="bottom"></div>
+	</div>
+</div>
+
+
+
+
+
+<div id="bn_footer">
+  <div class="top">
+     <a href="http://www.bankier.pl/info/mapa/">Mapa serwisu</a> |
+     <a href="http://www.bankier.pl/info/reklama.html">Reklama</a> |
+     <a href="http://www.bankier.pl/cf/oferta.html" title="Produkty finansowe">Produkty finansowe</a> |
+     <a href="http://www.bankier.pl/info/b2b/index.html">Oferta B2B</a> |
+     <a href="http://media.bankier.pl">Centrum prasowe</a> |
+     <a href="http://akcje.bankier.pl">Relacje inwestorskie</a> |   
+     <a href="http://spolka.bankier.pl/kontakt.html">Kontakt</a> |   
+     <a href="http://www.bankier.pl/info/praca.html">Praca</a> |
+     <a href="http://spolka.bankier.pl/o_spolce/analitycy.html">Analitycy Bankier.pl</a> |
+     <a href="http://rss.bankier.pl"><img src="http://www.bankier.pl/i/rss_icon.png" style="vertical-align: middle; border: 0" alt="RSS" /></a> <br />
+  </div>
+
+  <div class="middle">
+  <link rel="stylesheet" href="http://www.bankier.pl/s/grupa_bankier_style.css" type="text/css">
+<div id="gbpl">
+   <a id="gbpl-0" href="http://spolka.bankier.pl">Grupa Bankier.pl</a>
+   <a id="gbpl-1" href="http://www.vat.pl">VAT.pl</a>
+   <a id="gbpl-2" href="http://www.pit.pl">PIT.pl</a>
+   <a id="gbpl-9" href="http://www.ecommerce.edu.pl">Ecommerce.edu.pl</a>
+   <a id="gbpl-3" href="http://www.systempartnerski.pl/?kampania=logosp_stopka">systempartnerski.pl</a>
+   <a id="gbpl-4" href="http://www.twoja-firma.pl">Twoja-Firma.pl</a>
+   <a id="gbpl-5" href="http://www.prnews.pl">PRNews.pl</a>
+   <a id="gbpl-7" href="http://www.mambiznes.pl">MamBiznes.pl</a>
+   <a id="gbpl-8" href="http://www.bankier.pl">Bankier.pl</a>
+</div>
+
+  </div>
+
+  <div class="bottom">
+    Korzystanie z portalu oznacza akceptację <a href="http://www.bankier.pl/regulamin.html">regulaminu</a>. &nbsp<a href="/gfx/polityka_plikow_cookies.pdf" >Informacja o cookies </a>
+  </div>
+</div> <!-- bn_footer -->  
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-325086-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+

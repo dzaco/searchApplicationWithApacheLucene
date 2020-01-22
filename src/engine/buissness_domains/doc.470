@@ -1,0 +1,1375 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<link rel="shortcut icon" href="http://www.pb.pl/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>notowania.pb.pl</title>
+    <link rel="stylesheet" type="text/css" href="/style/style.css" />
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/ie6.css" /><![endif]-->
+    <script src="/js/jquery.js" type="text/javascript"></script>   
+    <script src="/js/ui/ui.core.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.tabs.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker.js" type="text/javascript"></script>
+    <script src="/js/ui/ui.datepicker-pl.js" type="text/javascript"></script>
+    <script src="/js/popup.js" type="text/javascript"></script>
+    <script src="/js/tools.js" type="text/javascript"></script>
+    <script src="/js/jquery.tablesorter.js" type="text/javascript"></script>
+
+
+</head>
+<body>
+
+
+<div id="right">
+ 
+<div class="spacer">&nbsp;</div>
+<div id="varia">
+<!--  WIBORY -->
+<h1 class="first">Międzybankowe stopy procentowe</h1>
+
+<table id="wibory" width="100%" style="margin-bottom: 5px; ">
+<tr><th>w proc.</th>
+<th>ON</th>
+<th>SW</th>
+<th>2W</th>
+<th>1M</th>
+<th>2M</th>
+<th>3M</th>
+<th>6M</th>
+<th>9M</th>
+<th>1Y</th>
+</tr>
+
+<tr>
+<th>WIBID</th>
+	
+		
+		<td><a href="/instrument/WIBID_ON" target="_blank">4.21</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_SW" target="_blank">3.15</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_2W" target="_blank">4.41</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_1M" target="_blank">4.51</a></td>	
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/WIBID_3M" target="_blank">4.74</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_6M" target="_blank">4.76</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_9M" target="_blank">4.76</a></td>	
+	
+		
+		<td><a href="/instrument/WIBID_1Y" target="_blank">4.76</a></td>	
+</tr>
+<tr>
+<th>WIBOR</th>
+	
+		
+		<td><a href="/instrument/WIBOR_ON" target="_blank">4.51</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_SW" target="_blank">3.34</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_2W" target="_blank">4.61</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_1M" target="_blank">4.71</a></td>	
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/WIBOR_3M" target="_blank">4.94</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_6M" target="_blank">4.96</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_9M" target="_blank">4.96</a></td>	
+	
+		
+		<td><a href="/instrument/WIBOR_1Y" target="_blank">4.96</a></td>	
+</tr>
+<tr>
+<th>LIBOR USD</th>
+	
+		
+		<td><a href="/instrument/LIBOR_USD_ON" target="_blank">0.15</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_SW" target="_blank">0.26</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_2W" target="_blank">0.21</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_1M" target="_blank">0.24</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_2M" target="_blank">0.35</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_3M" target="_blank">0.47</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_6M" target="_blank">0.73</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_9M" target="_blank">0.72</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_USD_1Y" target="_blank">1.05</a></td>	
+</tr>
+<tr>
+<th>LIBOR EUR</th>
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_ON" target="_blank">0.26</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_SW" target="_blank">0.31</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_2W" target="_blank">0.29</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_1M" target="_blank">0.36</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_2M" target="_blank">0.48</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_3M" target="_blank">0.67</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_6M" target="_blank">1.01</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_9M" target="_blank">1.07</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_EUR_1Y" target="_blank">1.37</a></td>	
+</tr>
+<tr>
+<th>LIBOR CHF</th>
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_SW" target="_blank">0.06</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_2W" target="_blank">0.06</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_1M" target="_blank">0.08</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_2M" target="_blank">0.10</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_3M" target="_blank">0.11</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_6M" target="_blank">0.18</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_9M" target="_blank">0.49</a></td>	
+	
+		
+		<td><a href="/instrument/LIBOR_CHF_1Y" target="_blank">0.39</a></td>	
+</tr>
+<tr>
+<th>EURIBOR360</th>
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/EURIBOR360_SW" target="_blank">0.35</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_2W" target="_blank">0.36</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_1M" target="_blank">0.40</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_2M" target="_blank">0.50</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_3M" target="_blank">0.64</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_6M" target="_blank">0.95</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_9M" target="_blank">1.09</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR360_1Y" target="_blank">1.22</a></td>	
+</tr>
+<tr>
+<th>EURIBOR365</th>
+	
+		
+		<td></td>
+	
+		
+		<td><a href="/instrument/EURIBOR365_SW" target="_blank">0.35</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_2W" target="_blank">0.36</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_1M" target="_blank">0.41</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_2M" target="_blank">0.51</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_3M" target="_blank">0.65</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_6M" target="_blank">0.97</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_9M" target="_blank">1.11</a></td>	
+	
+		
+		<td><a href="/instrument/EURIBOR365_1Y" target="_blank">1.24</a></td>	
+</tr>
+</table>
+<!-- /WIBORY -->
+
+
+
+
+
+
+
+<div class="charter">
+<div class="head">
+<h1><a href="/gpw">GPW</a> <small></small></h1>
+<ul class="tabs">
+	<li><a href="#tur_gpw" onclick="pbtools.apreload(images_cache['tur_gpw']);"><span>obroty</span></a></li>
+	
+	
+	<li><a href="#ris_gpw" onclick="pbtools.apreload(images_cache['ris_gpw']);"><span>wzrosty</span></a></li>
+	
+	
+	<li><a href="#fal_gpw" onclick="pbtools.apreload(images_cache['fal_gpw']);"><span>spadki</span></a></li>
+	
+	
+</ul>
+</div><!-- /.head -->
+<div class="body">
+
+	
+	<div id="tur_gpw" class="box" >
+	<ul class="left">
+		
+		<li	id="_tur_gpw_PL0000103602">
+		<a id="tur_gpw_PL0000103602" href="/instrument/PL0000103602/ds1015" onmouseover="bfl('PL0000103602','/chart_hourly/SmallChart/PL0000103602/110/90','tur_gpw')" class=" hover"
+		target="_blank">
+		<span class="c1"><b>DS1015</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_gpw_PL0000102646">
+		<a id="tur_gpw_PL0000102646" href="/instrument/PL0000102646/ws0922" onmouseover="bfl('PL0000102646','/chart_hourly/SmallChart/PL0000102646/110/90','tur_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>WS0922</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_gpw_PL0000104543">
+		<a id="tur_gpw_PL0000104543" href="/instrument/PL0000104543/ds1017" onmouseover="bfl('PL0000104543','/chart_hourly/SmallChart/PL0000104543/110/90','tur_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>DS1017</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_gpw_PL0000105391">
+		<a id="tur_gpw_PL0000105391" href="/instrument/PL0000105391/ws0429" onmouseover="bfl('PL0000105391','/chart_hourly/SmallChart/PL0000105391/110/90','tur_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>WS0429</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_tur_gpw_PL0000102836">
+		<a id="tur_gpw_PL0000102836" href="/instrument/PL0000102836/ds1013" onmouseover="bfl('PL0000102836','/chart_hourly/SmallChart/PL0000102836/110/90','tur_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>DS1013</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/WIG?sort=[10,1]"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PL0000102836/ds1013" id="tur_gpw_chart_link" target="_blank"><img id="tur_gpw_chart" src="/chart_hourly/SmallChart/PL0000102836/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="ris_gpw" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_ris_gpw_PL0000103602">
+		<a id="ris_gpw_PL0000103602" href="/instrument/PL0000103602/ds1015" onmouseover="bfl('PL0000103602','/chart_hourly/SmallChart/PL0000103602/110/90','ris_gpw')" class=" hover"
+		target="_blank">
+		<span class="c1"><b>DS1015</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_gpw_PL0000102646">
+		<a id="ris_gpw_PL0000102646" href="/instrument/PL0000102646/ws0922" onmouseover="bfl('PL0000102646','/chart_hourly/SmallChart/PL0000102646/110/90','ris_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>WS0922</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_gpw_PL0000104543">
+		<a id="ris_gpw_PL0000104543" href="/instrument/PL0000104543/ds1017" onmouseover="bfl('PL0000104543','/chart_hourly/SmallChart/PL0000104543/110/90','ris_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>DS1017</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_gpw_PL0000105391">
+		<a id="ris_gpw_PL0000105391" href="/instrument/PL0000105391/ws0429" onmouseover="bfl('PL0000105391','/chart_hourly/SmallChart/PL0000105391/110/90','ris_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>WS0429</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_gpw_PL0000102836">
+		<a id="ris_gpw_PL0000102836" href="/instrument/PL0000102836/ds1013" onmouseover="bfl('PL0000102836','/chart_hourly/SmallChart/PL0000102836/110/90','ris_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>DS1013</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/WIG?sort=[3,1]"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PL0000102836/ds1013" id="ris_gpw_chart_link" target="_blank"><img id="ris_gpw_chart" src="/chart_hourly/SmallChart/PL0000102836/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="fal_gpw" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_fal_gpw_PL0000103602">
+		<a id="fal_gpw_PL0000103602" href="/instrument/PL0000103602/ds1015" onmouseover="bfl('PL0000103602','/chart_hourly/SmallChart/PL0000103602/110/90','fal_gpw')" class=" hover"
+		target="_blank">
+		<span class="c1"><b>DS1015</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_gpw_PL0000102646">
+		<a id="fal_gpw_PL0000102646" href="/instrument/PL0000102646/ws0922" onmouseover="bfl('PL0000102646','/chart_hourly/SmallChart/PL0000102646/110/90','fal_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>WS0922</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_gpw_PL0000104543">
+		<a id="fal_gpw_PL0000104543" href="/instrument/PL0000104543/ds1017" onmouseover="bfl('PL0000104543','/chart_hourly/SmallChart/PL0000104543/110/90','fal_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>DS1017</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_gpw_PL0000105391">
+		<a id="fal_gpw_PL0000105391" href="/instrument/PL0000105391/ws0429" onmouseover="bfl('PL0000105391','/chart_hourly/SmallChart/PL0000105391/110/90','fal_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>WS0429</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_gpw_PL0000102836">
+		<a id="fal_gpw_PL0000102836" href="/instrument/PL0000102836/ds1013" onmouseover="bfl('PL0000102836','/chart_hourly/SmallChart/PL0000102836/110/90','fal_gpw')" class=" "
+		target="_blank">
+		<span class="c1"><b>DS1013</b></span>
+		<span class="number c2">&ndash;</span>
+		<span class="number c3">&ndash;</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/stocktable/WIG?sort=[3,0]"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PL0000102836/ds1013" id="fal_gpw_chart_link" target="_blank"><img id="fal_gpw_chart" src="/chart_hourly/SmallChart/PL0000102836/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+</div><!-- / .body -->
+</div><!-- / .charter -->
+<div id="rectangle" style="clear: both; /* width: 300px; height: 250px; border: 1px solid #aaa; */ margin: 10px 0; ">
+</div>
+
+
+
+<div class="charter">
+<div class="head">
+<h1><a href="/foreign">Świat</a> <small></small></h1>
+<ul class="tabs">
+	<li><a href="#top_foreign" onclick="pbtools.apreload(images_cache['top_foreign']);"><span>przegląd</span></a></li>
+	
+	
+	<li><a href="#ris_foreign" onclick="pbtools.apreload(images_cache['ris_foreign']);"><span>wzrosty</span></a></li>
+	
+	
+	<li><a href="#fal_foreign" onclick="pbtools.apreload(images_cache['fal_foreign']);"><span>spadki</span></a></li>
+	
+	
+</ul>
+</div><!-- /.head -->
+<div class="body">
+
+	
+	<div id="top_foreign" class="box" >
+	<ul class="left">
+		
+		<li	id="_top_foreign_PBFNIKKEI225INDEX">
+		<a id="top_foreign_PBFNIKKEI225INDEX" href="/instrument/PBFNIKKEI225INDEX/nikkei-225-index" onmouseover="bfl('PBFNIKKEI225INDEX','/chart_hourly/SmallChart/PBFNIKKEI225INDEX/110/90','top_foreign')" class="up hover"
+		target="_blank">
+		<span class="c1"><b>NIKKEI 225 INDEX</b></span>
+		<span class="number c2">12546.46</span>
+		<span class="number c3">+1.69%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_foreign_PBFRTSINDEX">
+		<a id="top_foreign_PBFRTSINDEX" href="/instrument/PBFRTSINDEX/rts-index" onmouseover="bfl('PBFRTSINDEX','/chart_hourly/SmallChart/PBFRTSINDEX/110/90','top_foreign')" class="up "
+		target="_blank">
+		<span class="c1"><b>RTS INDEX</b></span>
+		<span class="number c2">1490.30</span>
+		<span class="number c3">+1.36%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/foreign"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PBFRTSINDEX/rts-index" id="top_foreign_chart_link" target="_blank"><img id="top_foreign_chart" src="/chart_hourly/SmallChart/PBFRTSINDEX/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="ris_foreign" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_ris_foreign_PBFNIKKEI225INDEX">
+		<a id="ris_foreign_PBFNIKKEI225INDEX" href="/instrument/PBFNIKKEI225INDEX/nikkei-225-index" onmouseover="bfl('PBFNIKKEI225INDEX','/chart_hourly/SmallChart/PBFNIKKEI225INDEX/110/90','ris_foreign')" class="up hover"
+		target="_blank">
+		<span class="c1"><b>NIKKEI 225 INDEX</b></span>
+		<span class="number c2">12546.46</span>
+		<span class="number c3">+1.69%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_foreign_PBFPSEi">
+		<a id="ris_foreign_PBFPSEi" href="/instrument/PBFPSEi/psei" onmouseover="bfl('PBFPSEi','/chart_hourly/SmallChart/PBFPSEi/110/90','ris_foreign')" class="up "
+		target="_blank">
+		<span class="c1"><b>PSEi</b></span>
+		<span class="number c2">6581.31</span>
+		<span class="number c3">+1.67%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_foreign_PBFKOSPI200INDEX">
+		<a id="ris_foreign_PBFKOSPI200INDEX" href="/instrument/PBFKOSPI200INDEX/kospi-200-index" onmouseover="bfl('PBFKOSPI200INDEX','/chart_hourly/SmallChart/PBFKOSPI200INDEX/110/90','ris_foreign')" class="up "
+		target="_blank">
+		<span class="c1"><b>KOSPI 200 INDEX</b></span>
+		<span class="number c2">259.58</span>
+		<span class="number c3">+1.66%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_foreign_PBFKOSPI">
+		<a id="ris_foreign_PBFKOSPI" href="/instrument/PBFKOSPI/kospi" onmouseover="bfl('PBFKOSPI','/chart_hourly/SmallChart/PBFKOSPI/110/90','ris_foreign')" class="up "
+		target="_blank">
+		<span class="c1"><b>KOSPI</b></span>
+		<span class="number c2">1977.67</span>
+		<span class="number c3">+1.47%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_foreign_PBFRTSINDEX">
+		<a id="ris_foreign_PBFRTSINDEX" href="/instrument/PBFRTSINDEX/rts-index" onmouseover="bfl('PBFRTSINDEX','/chart_hourly/SmallChart/PBFRTSINDEX/110/90','ris_foreign')" class="up "
+		target="_blank">
+		<span class="c1"><b>RTS INDEX</b></span>
+		<span class="number c2">1490.30</span>
+		<span class="number c3">+1.36%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/foreign"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PBFRTSINDEX/rts-index" id="ris_foreign_chart_link" target="_blank"><img id="ris_foreign_chart" src="/chart_hourly/SmallChart/PBFRTSINDEX/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="fal_foreign" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_fal_foreign_PBFALLSHAREIDX">
+		<a id="fal_foreign_PBFALLSHAREIDX" href="/instrument/PBFALLSHAREIDX/all-share-idx" onmouseover="bfl('PBFALLSHAREIDX','/chart_hourly/SmallChart/PBFALLSHAREIDX/110/90','fal_foreign')" class="down hover"
+		target="_blank">
+		<span class="c1"><b>ALL SHARE IDX</b></span>
+		<span class="number c2">1110.65</span>
+		<span class="number c3">-0.41%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_foreign_PBFKOSDAQINDEX">
+		<a id="fal_foreign_PBFKOSDAQINDEX" href="/instrument/PBFKOSDAQINDEX/kosdaq-index" onmouseover="bfl('PBFKOSDAQINDEX','/chart_hourly/SmallChart/PBFKOSDAQINDEX/110/90','fal_foreign')" class="down "
+		target="_blank">
+		<span class="c1"><b>KOSDAQ INDEX</b></span>
+		<span class="number c2">549.56</span>
+		<span class="number c3">-0.31%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_foreign_PBFNZX50PORTGR">
+		<a id="fal_foreign_PBFNZX50PORTGR" href="/instrument/PBFNZX50PORTGR/nzx-50-port-gr" onmouseover="bfl('PBFNZX50PORTGR','/chart_hourly/SmallChart/PBFNZX50PORTGR/110/90','fal_foreign')" class="up "
+		target="_blank">
+		<span class="c1"><b>NZX 50 PORT GR</b></span>
+		<span class="number c2">2622.47</span>
+		<span class="number c3">+0.18%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_foreign_PBFSSECOMPOSITE">
+		<a id="fal_foreign_PBFSSECOMPOSITE" href="/instrument/PBFSSECOMPOSITE/sse-composite" onmouseover="bfl('PBFSSECOMPOSITE','/chart_hourly/SmallChart/PBFSSECOMPOSITE/110/90','fal_foreign')" class="up "
+		target="_blank">
+		<span class="c1"><b>SSE COMPOSITE</b></span>
+		<span class="number c2">2326.71</span>
+		<span class="number c3">+0.23%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_foreign_PBFKARACHI100INDX">
+		<a id="fal_foreign_PBFKARACHI100INDX" href="/instrument/PBFKARACHI100INDX/karachi-100-indx" onmouseover="bfl('PBFKARACHI100INDX','/chart_hourly/SmallChart/PBFKARACHI100INDX/110/90','fal_foreign')" class="up "
+		target="_blank">
+		<span class="c1"><b>KARACHI 100 INDX</b></span>
+		<span class="number c2">17977.13</span>
+		<span class="number c3">+0.39%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/foreign"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PBFKARACHI100INDX/karachi-100-indx" id="fal_foreign_chart_link" target="_blank"><img id="fal_foreign_chart" src="/chart_hourly/SmallChart/PBFKARACHI100INDX/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+</div><!-- / .body -->
+</div><!-- / .charter -->
+
+
+
+<div class="charter">
+<div class="head">
+<h1><a href="/funds">Fundusze</a> <small>(ost. miesiąc)</small></h1>
+<ul class="tabs">
+	<li><a href="#top_funds" onclick="pbtools.apreload(images_cache['top_funds']);"><span>przegląd</span></a></li>
+	
+	
+	<li><a href="#ris_funds" onclick="pbtools.apreload(images_cache['ris_funds']);"><span>wzrosty</span></a></li>
+	
+	
+	<li><a href="#fal_funds" onclick="pbtools.apreload(images_cache['fal_funds']);"><span>spadki</span></a></li>
+	
+	
+</ul>
+</div><!-- /.head -->
+<div class="body">
+
+	
+	<div id="top_funds" class="box" >
+	<ul class="left">
+		
+		<li	id="_top_funds_CUN15">
+		<a id="top_funds_CUN15" href="/instrument/CUN15/aviva-investors-specjalistyczny-fundusz-inwestycyjny-otwarty-subfundusz-aviva-investors-akcyjny" onmouseover="bfl('CUN15','/chart_daily/SmallChart/CUN15/110/90','top_funds')" class="up hover"
+		target="_blank">
+		<span class="c1"><b>Aviva Investors...</b></span>
+		<span class="number c2">1846.50</span>
+		<span class="number c3">+2.72%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_funds_CUN14">
+		<a id="top_funds_CUN14" href="/instrument/CUN14/aviva-investors-specjalistyczny-fundusz-inwestycyjny-otwarty-subfundusz-aviva-investors-dluzny" onmouseover="bfl('CUN14','/chart_daily/SmallChart/CUN14/110/90','top_funds')" class="down "
+		target="_blank">
+		<span class="c1"><b>Aviva Investors...</b></span>
+		<span class="number c2">1162.53</span>
+		<span class="number c3">-0.81%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_funds_PIO02">
+		<a id="top_funds_PIO02" href="/instrument/PIO02/pioneer-fundusz-inwestycyjny-otwarty-subfundusz-pioneer-obligacji-plus" onmouseover="bfl('PIO02','/chart_daily/SmallChart/PIO02/110/90','top_funds')" class="up "
+		target="_blank">
+		<span class="c1"><b>Pioneer Fundusz...</b></span>
+		<span class="number c2">52.56</span>
+		<span class="number c3">+0.31%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_funds_ING11">
+		<a id="top_funds_ING11" href="/instrument/ING11/ing-specjalistyczny-fundusz-inwestycyjny-otwarty-obligacji-2" onmouseover="bfl('ING11','/chart_daily/SmallChart/ING11/110/90','top_funds')" class="up "
+		target="_blank">
+		<span class="c1"><b>ING...</b></span>
+		<span class="number c2">238.10</span>
+		<span class="number c3">+0.57%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_funds_MIL04">
+		<a id="top_funds_MIL04" href="/instrument/MIL04/millennium-fundusz-inwestycyjny-otwarty-subfundusz-depozytowy" onmouseover="bfl('MIL04','/chart_daily/SmallChart/MIL04/110/90','top_funds')" class="up "
+		target="_blank">
+		<span class="c1"><b>Millennium...</b></span>
+		<span class="number c2">167.19</span>
+		<span class="number c3">+0.52%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/funds"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/MIL04/millennium-fundusz-inwestycyjny-otwarty-subfundusz-depozytowy" id="top_funds_chart_link" target="_blank"><img id="top_funds_chart" src="/chart_daily/SmallChart/MIL04/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="ris_funds" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_ris_funds_SKR13">
+		<a id="ris_funds_SKR13" href="/instrument/SKR13/sezam-fundusz-inwestycyjny-zamkniety" onmouseover="bfl('SKR13','/chart_daily/SmallChart/SKR13/110/90','ris_funds')" class="up hover"
+		target="_blank">
+		<span class="c1"><b>Sezam Fundusz...</b></span>
+		<span class="number c2">3538794.20</span>
+		<span class="number c3">+8.34%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_funds_PIO10">
+		<a id="ris_funds_PIO10" href="/instrument/PIO10/pioneer-obligacji-dolarowych-plus-fundusz-inwestycyjny-otwarty" onmouseover="bfl('PIO10','/chart_daily/SmallChart/PIO10/110/90','ris_funds')" class="up "
+		target="_blank">
+		<span class="c1"><b>Pioneer Obligacji...</b></span>
+		<span class="number c2">63.18</span>
+		<span class="number c3">+2.75%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_funds_PIO10">
+		<a id="ris_funds_PIO10" href="/instrument/PIO10/pioneer-obligacji-dolarowych-plus-fundusz-inwestycyjny-otwarty" onmouseover="bfl('PIO10','/chart_daily/SmallChart/PIO10/110/90','ris_funds')" class="up "
+		target="_blank">
+		<span class="c1"><b>Pioneer Obligacji...</b></span>
+		<span class="number c2">63.18</span>
+		<span class="number c3">+2.75%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_funds_CUN15">
+		<a id="ris_funds_CUN15" href="/instrument/CUN15/aviva-investors-specjalistyczny-fundusz-inwestycyjny-otwarty-subfundusz-aviva-investors-akcyjny" onmouseover="bfl('CUN15','/chart_daily/SmallChart/CUN15/110/90','ris_funds')" class="up "
+		target="_blank">
+		<span class="c1"><b>Aviva Investors...</b></span>
+		<span class="number c2">1846.50</span>
+		<span class="number c3">+2.72%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_funds_PIO35">
+		<a id="ris_funds_PIO35" href="/instrument/PIO35/pioneer-fundusze-globalne-specjalistyczny-fundusz-inwestycyjny-otwarty-subfundusz-obligacji-strategicznych" onmouseover="bfl('PIO35','/chart_daily/SmallChart/PIO35/110/90','ris_funds')" class="up "
+		target="_blank">
+		<span class="c1"><b>Pioneer Fundusze...</b></span>
+		<span class="number c2">16.25</span>
+		<span class="number c3">+1.06%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/funds"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PIO35/pioneer-fundusze-globalne-specjalistyczny-fundusz-inwestycyjny-otwarty-subfundusz-obligacji-strategicznych" id="ris_funds_chart_link" target="_blank"><img id="ris_funds_chart" src="/chart_daily/SmallChart/PIO35/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="fal_funds" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_fal_funds_COP08">
+		<a id="fal_funds_COP08" href="/instrument/COP08/sowiniec-fundusz-inwestycyjny-zamkniety" onmouseover="bfl('COP08','/chart_daily/SmallChart/COP08/110/90','fal_funds')" class="down hover"
+		target="_blank">
+		<span class="c1"><b>Sowiniec Fundusz...</b></span>
+		<span class="number c2">554484.36</span>
+		<span class="number c3">-7.47%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_funds_COP16">
+		<a id="fal_funds_COP16" href="/instrument/COP16/switalski-fundusz-inwestycyjny-zamkniety" onmouseover="bfl('COP16','/chart_daily/SmallChart/COP16/110/90','fal_funds')" class="down "
+		target="_blank">
+		<span class="c1"><b>Świtalski...</b></span>
+		<span class="number c2">10507504.13</span>
+		<span class="number c3">-3.18%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_funds_PIO03">
+		<a id="fal_funds_PIO03" href="/instrument/PIO03/pioneer-fundusz-inwestycyjny-otwarty-subfundusz-pioneer-akcji-polskich" onmouseover="bfl('PIO03','/chart_daily/SmallChart/PIO03/110/90','fal_funds')" class="down "
+		target="_blank">
+		<span class="c1"><b>Pioneer Fundusz...</b></span>
+		<span class="number c2">22.13</span>
+		<span class="number c3">-2.25%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_funds_PIO01">
+		<a id="fal_funds_PIO01" href="/instrument/PIO01/pioneer-fundusz-inwestycyjny-otwarty-subfundusz-pioneer-zrownowazony" onmouseover="bfl('PIO01','/chart_daily/SmallChart/PIO01/110/90','fal_funds')" class="down "
+		target="_blank">
+		<span class="c1"><b>Pioneer Fundusz...</b></span>
+		<span class="number c2">115.67</span>
+		<span class="number c3">-1.33%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_funds_UNI04">
+		<a id="fal_funds_UNI04" href="/instrument/UNI04/unifundusze-fundusz-inwestycyjny-otwarty-subfundusz-unikorona-akcje" onmouseover="bfl('UNI04','/chart_daily/SmallChart/UNI04/110/90','fal_funds')" class="down "
+		target="_blank">
+		<span class="c1"><b>UniFundusze...</b></span>
+		<span class="number c2">179.64</span>
+		<span class="number c3">-1.26%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/funds"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/UNI04/unifundusze-fundusz-inwestycyjny-otwarty-subfundusz-unikorona-akcje" id="fal_funds_chart_link" target="_blank"><img id="fal_funds_chart" src="/chart_daily/SmallChart/UNI04/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+</div><!-- / .body -->
+</div><!-- / .charter -->
+
+
+<div id="comm_1" style="color:#999999;display:none;">Reklama</div>
+
+<div class="empty_comm" id="ado-JsRL5uNum.GKdmg1jmkXTa9BsOtJw4M6BoRjgrZN5nT._7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2009, pulsbiznesu.notowania.Rectangle */
+ado.placement({id: 'ado-JsRL5uNum.GKdmg1jmkXTa9BsOtJw4M6BoRjgrZN5nT._7', server: 'myao.adocean.pl' });
+</script>
+<div>
+<div class="empty_comm" id="ado-hp3xmcMCDMLvktHcLjKuZ6O37rdKtprqdJKIUWq.mqf.R7"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2011, pulsbiznesu.notowania.Pod boksem fundusze 2 */
+ado.placement({id: 'ado-hp3xmcMCDMLvktHcLjKuZ6O37rdKtprqdJKIUWq.mqf.R7', server: 'myao.adocean.pl' });
+if ($('div.empty_comm').length >0)
+{
+	$('#comm_1').css('display','block');
+}
+</script>
+</div>
+
+<div class="charter">
+<div class="head">
+<h1><a href="/currencies">Waluty</a> <small></small></h1>
+<ul class="tabs">
+	<li><a href="#top_currencies" onclick="pbtools.apreload(images_cache['top_currencies']);"><span>przegląd</span></a></li>
+	
+	
+	<li><a href="#ris_currencies" onclick="pbtools.apreload(images_cache['ris_currencies']);"><span>wzrosty</span></a></li>
+	
+	
+	<li><a href="#fal_currencies" onclick="pbtools.apreload(images_cache['fal_currencies']);"><span>spadki</span></a></li>
+	
+	
+</ul>
+</div><!-- /.head -->
+<div class="body">
+
+	
+	<div id="top_currencies" class="box" >
+	<ul class="left">
+		
+		<li	id="_top_currencies_PBWALEUR">
+		<a id="top_currencies_PBWALEUR" href="/instrument/PBWALEUR/euro" onmouseover="bfl('PBWALEUR','/chart_hourly/SmallChart/PBWALEUR/110/90','top_currencies')" class="down hover"
+		target="_blank">
+		<span class="c1"><b>euro</b></span>
+		<span class="number c2">4.17</span>
+		<span class="number c3">-0.03%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_currencies_PBWALGBP">
+		<a id="top_currencies_PBWALGBP" href="/instrument/PBWALGBP/funt" onmouseover="bfl('PBWALGBP','/chart_hourly/SmallChart/PBWALGBP/110/90','top_currencies')" class="down "
+		target="_blank">
+		<span class="c1"><b>funt</b></span>
+		<span class="number c2">4.89</span>
+		<span class="number c3">-0.05%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_currencies_PBWALCHF">
+		<a id="top_currencies_PBWALCHF" href="/instrument/PBWALCHF/frank" onmouseover="bfl('PBWALCHF','/chart_hourly/SmallChart/PBWALCHF/110/90','top_currencies')" class="down "
+		target="_blank">
+		<span class="c1"><b>frank</b></span>
+		<span class="number c2">3.41</span>
+		<span class="number c3">-0.05%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_currencies_PBWALUSD">
+		<a id="top_currencies_PBWALUSD" href="/instrument/PBWALUSD/dolar" onmouseover="bfl('PBWALUSD','/chart_hourly/SmallChart/PBWALUSD/110/90','top_currencies')" class="down "
+		target="_blank">
+		<span class="c1"><b>dolar</b></span>
+		<span class="number c2">3.21</span>
+		<span class="number c3">-0.09%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_currencies_PBWALJPY">
+		<a id="top_currencies_PBWALJPY" href="/instrument/PBWALJPY/jen" onmouseover="bfl('PBWALJPY','/chart_hourly/SmallChart/PBWALJPY/110/90','top_currencies')" class="down "
+		target="_blank">
+		<span class="c1"><b>jen</b></span>
+		<span class="number c2">3.39</span>
+		<span class="number c3">-0.48%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/currencies"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PBWALJPY/jen" id="top_currencies_chart_link" target="_blank"><img id="top_currencies_chart" src="/chart_hourly/SmallChart/PBWALJPY/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="ris_currencies" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_ris_currencies_PBWALCAD">
+		<a id="ris_currencies_PBWALCAD" href="/instrument/PBWALCAD/dolar-kanadyjski" onmouseover="bfl('PBWALCAD','/chart_hourly/SmallChart/PBWALCAD/110/90','ris_currencies')" class="up hover"
+		target="_blank">
+		<span class="c1"><b>dolar kanadyjski</b></span>
+		<span class="number c2">3.12</span>
+		<span class="number c3">+0.16%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_currencies_PBWALHUF">
+		<a id="ris_currencies_PBWALHUF" href="/instrument/PBWALHUF/forint-wegry" onmouseover="bfl('PBWALHUF','/chart_hourly/SmallChart/PBWALHUF/110/90','ris_currencies')" class="up "
+		target="_blank">
+		<span class="c1"><b>forint (Węgry)</b></span>
+		<span class="number c2">1.42</span>
+		<span class="number c3">+0.13%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_currencies_PBWALSEK">
+		<a id="ris_currencies_PBWALSEK" href="/instrument/PBWALSEK/korona-szwedzka" onmouseover="bfl('PBWALSEK','/chart_hourly/SmallChart/PBWALSEK/110/90','ris_currencies')" class="up "
+		target="_blank">
+		<span class="c1"><b>korona szwedzka</b></span>
+		<span class="number c2">0.46</span>
+		<span class="number c3">+0.09%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_currencies_PBWALAUD">
+		<a id="ris_currencies_PBWALAUD" href="/instrument/PBWALAUD/dolar-australijski" onmouseover="bfl('PBWALAUD','/chart_hourly/SmallChart/PBWALAUD/110/90','ris_currencies')" class="up "
+		target="_blank">
+		<span class="c1"><b>dolar australijski</b></span>
+		<span class="number c2">3.25</span>
+		<span class="number c3">+0.05%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_currencies_PBWALDKK">
+		<a id="ris_currencies_PBWALDKK" href="/instrument/PBWALDKK/korona-dunska" onmouseover="bfl('PBWALDKK','/chart_hourly/SmallChart/PBWALDKK/110/90','ris_currencies')" class=" "
+		target="_blank">
+		<span class="c1"><b>korona duńska</b></span>
+		<span class="number c2">0.55</span>
+		<span class="number c3">+0.00%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/currencies"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PBWALDKK/korona-dunska" id="ris_currencies_chart_link" target="_blank"><img id="ris_currencies_chart" src="/chart_hourly/SmallChart/PBWALDKK/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="fal_currencies" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_fal_currencies_PBWALJPY">
+		<a id="fal_currencies_PBWALJPY" href="/instrument/PBWALJPY/jen" onmouseover="bfl('PBWALJPY','/chart_hourly/SmallChart/PBWALJPY/110/90','fal_currencies')" class="down hover"
+		target="_blank">
+		<span class="c1"><b>jen</b></span>
+		<span class="number c2">3.39</span>
+		<span class="number c3">-0.48%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_currencies_PBWALNOK">
+		<a id="fal_currencies_PBWALNOK" href="/instrument/PBWALNOK/korona-norweska" onmouseover="bfl('PBWALNOK','/chart_hourly/SmallChart/PBWALNOK/110/90','fal_currencies')" class="down "
+		target="_blank">
+		<span class="c1"><b>korona norweska</b></span>
+		<span class="number c2">0.54</span>
+		<span class="number c3">-0.18%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_currencies_PBWALUSD">
+		<a id="fal_currencies_PBWALUSD" href="/instrument/PBWALUSD/dolar" onmouseover="bfl('PBWALUSD','/chart_hourly/SmallChart/PBWALUSD/110/90','fal_currencies')" class="down "
+		target="_blank">
+		<span class="c1"><b>dolar</b></span>
+		<span class="number c2">3.21</span>
+		<span class="number c3">-0.09%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_currencies_PBWALCZK">
+		<a id="fal_currencies_PBWALCZK" href="/instrument/PBWALCZK/korona-czeska" onmouseover="bfl('PBWALCZK','/chart_hourly/SmallChart/PBWALCZK/110/90','fal_currencies')" class="down "
+		target="_blank">
+		<span class="c1"><b>korona czeska</b></span>
+		<span class="number c2">0.17</span>
+		<span class="number c3">-0.06%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_currencies_PBWALCHF">
+		<a id="fal_currencies_PBWALCHF" href="/instrument/PBWALCHF/frank" onmouseover="bfl('PBWALCHF','/chart_hourly/SmallChart/PBWALCHF/110/90','fal_currencies')" class="down "
+		target="_blank">
+		<span class="c1"><b>frank</b></span>
+		<span class="number c2">3.41</span>
+		<span class="number c3">-0.05%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/currencies"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PBWALCHF/frank" id="fal_currencies_chart_link" target="_blank"><img id="fal_currencies_chart" src="/chart_hourly/SmallChart/PBWALCHF/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+</div><!-- / .body -->
+</div><!-- / .charter -->
+
+
+
+<div class="charter">
+<div class="head">
+<h1><a href="/commodities">Surowce</a> <small></small></h1>
+<ul class="tabs">
+	<li><a href="#top_commodities" onclick="pbtools.apreload(images_cache['top_commodities']);"><span>przegląd</span></a></li>
+	
+	
+	<li><a href="#ris_commodities" onclick="pbtools.apreload(images_cache['ris_commodities']);"><span>wzrosty</span></a></li>
+	
+	
+	<li><a href="#fal_commodities" onclick="pbtools.apreload(images_cache['fal_commodities']);"><span>spadki</span></a></li>
+	
+	
+</ul>
+</div><!-- /.head -->
+<div class="body">
+
+	
+	<div id="top_commodities" class="box" >
+	<ul class="left">
+		
+		<li	id="_top_commodities_PBST7a86425f">
+		<a id="top_commodities_PBST7a86425f" href="/instrument/PBST7a86425f/pallad" onmouseover="bfl('PBST7a86425f','/chart_daily/SmallChart/PBST7a86425f/110/90','top_commodities')" class="up hover"
+		target="_blank">
+		<span class="c1"><b>pallad</b></span>
+		<span class="number c2">758.47</span>
+		<span class="number c3">+0.55%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_commodities_PBST689c3f94">
+		<a id="top_commodities_PBST689c3f94" href="/instrument/PBST689c3f94/miedz" onmouseover="bfl('PBST689c3f94','/chart_daily/SmallChart/PBST689c3f94/110/90','top_commodities')" class="up "
+		target="_blank">
+		<span class="c1"><b>miedź</b></span>
+		<span class="number c2">7618.00</span>
+		<span class="number c3">+0.50%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_commodities_PBST32deb3c5">
+		<a id="top_commodities_PBST32deb3c5" href="/instrument/PBST32deb3c5/ropa-brent" onmouseover="bfl('PBST32deb3c5','/chart_daily/SmallChart/PBST32deb3c5/110/90','top_commodities')" class="up "
+		target="_blank">
+		<span class="c1"><b>ropa brent</b></span>
+		<span class="number c2">108.16</span>
+		<span class="number c3">+0.01%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_commodities_PBST3f8685a1">
+		<a id="top_commodities_PBST3f8685a1" href="/instrument/PBST3f8685a1/zloto" onmouseover="bfl('PBST3f8685a1','/chart_daily/SmallChart/PBST3f8685a1/110/90','top_commodities')" class="down "
+		target="_blank">
+		<span class="c1"><b>złoto</b></span>
+		<span class="number c2">1607.41</span>
+		<span class="number c3">-0.10%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_top_commodities_PBST22540584">
+		<a id="top_commodities_PBST22540584" href="/instrument/PBST22540584/srebro" onmouseover="bfl('PBST22540584','/chart_daily/SmallChart/PBST22540584/110/90','top_commodities')" class="down "
+		target="_blank">
+		<span class="c1"><b>srebro</b></span>
+		<span class="number c2">28.75</span>
+		<span class="number c3">-0.21%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/commodities"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PBST22540584/srebro" id="top_commodities_chart_link" target="_blank"><img id="top_commodities_chart" src="/chart_daily/SmallChart/PBST22540584/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="ris_commodities" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_ris_commodities_PBST6884123">
+		<a id="ris_commodities_PBST6884123" href="/instrument/PBST6884123/platyna" onmouseover="bfl('PBST6884123','/chart_daily/SmallChart/PBST6884123/110/90','ris_commodities')" class="up hover"
+		target="_blank">
+		<span class="c1"><b>platyna</b></span>
+		<span class="number c2">1580.00</span>
+		<span class="number c3">+0.59%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_commodities_PBST7a86425f">
+		<a id="ris_commodities_PBST7a86425f" href="/instrument/PBST7a86425f/pallad" onmouseover="bfl('PBST7a86425f','/chart_daily/SmallChart/PBST7a86425f/110/90','ris_commodities')" class="up "
+		target="_blank">
+		<span class="c1"><b>pallad</b></span>
+		<span class="number c2">758.47</span>
+		<span class="number c3">+0.55%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_commodities_PBST689c3f94">
+		<a id="ris_commodities_PBST689c3f94" href="/instrument/PBST689c3f94/miedz" onmouseover="bfl('PBST689c3f94','/chart_daily/SmallChart/PBST689c3f94/110/90','ris_commodities')" class="up "
+		target="_blank">
+		<span class="c1"><b>miedź</b></span>
+		<span class="number c2">7618.00</span>
+		<span class="number c3">+0.50%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_commodities_PBSTb7746ee">
+		<a id="ris_commodities_PBSTb7746ee" href="/instrument/PBSTb7746ee/cyna" onmouseover="bfl('PBSTb7746ee','/chart_daily/SmallChart/PBSTb7746ee/110/90','ris_commodities')" class="up "
+		target="_blank">
+		<span class="c1"><b>cyna</b></span>
+		<span class="number c2">22750.00</span>
+		<span class="number c3">+0.24%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_ris_commodities_PBST705700d9">
+		<a id="ris_commodities_PBST705700d9" href="/instrument/PBST705700d9/aluminium" onmouseover="bfl('PBST705700d9','/chart_daily/SmallChart/PBST705700d9/110/90','ris_commodities')" class="up "
+		target="_blank">
+		<span class="c1"><b>aluminium</b></span>
+		<span class="number c2">1938.50</span>
+		<span class="number c3">+0.08%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/commodities"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PBST705700d9/aluminium" id="ris_commodities_chart_link" target="_blank"><img id="ris_commodities_chart" src="/chart_daily/SmallChart/PBST705700d9/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+	
+	<div id="fal_commodities" class="box" style="display: none; ">
+	<ul class="left">
+		
+		<li	id="_fal_commodities_PBST78021077">
+		<a id="fal_commodities_PBST78021077" href="/instrument/PBST78021077/olow" onmouseover="bfl('PBST78021077','/chart_daily/SmallChart/PBST78021077/110/90','fal_commodities')" class="down hover"
+		target="_blank">
+		<span class="c1"><b>ołów</b></span>
+		<span class="number c2">2163.50</span>
+		<span class="number c3">-0.94%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_commodities_PBST223f8159">
+		<a id="fal_commodities_PBST223f8159" href="/instrument/PBST223f8159/cynk" onmouseover="bfl('PBST223f8159','/chart_daily/SmallChart/PBST223f8159/110/90','fal_commodities')" class="down "
+		target="_blank">
+		<span class="c1"><b>cynk</b></span>
+		<span class="number c2">1913.00</span>
+		<span class="number c3">-0.26%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_commodities_PBST22540584">
+		<a id="fal_commodities_PBST22540584" href="/instrument/PBST22540584/srebro" onmouseover="bfl('PBST22540584','/chart_daily/SmallChart/PBST22540584/110/90','fal_commodities')" class="down "
+		target="_blank">
+		<span class="c1"><b>srebro</b></span>
+		<span class="number c2">28.75</span>
+		<span class="number c3">-0.21%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_commodities_PBST3f8685a1">
+		<a id="fal_commodities_PBST3f8685a1" href="/instrument/PBST3f8685a1/zloto" onmouseover="bfl('PBST3f8685a1','/chart_daily/SmallChart/PBST3f8685a1/110/90','fal_commodities')" class="down "
+		target="_blank">
+		<span class="c1"><b>złoto</b></span>
+		<span class="number c2">1607.41</span>
+		<span class="number c3">-0.10%</span>
+		
+		</a></li>
+	
+		
+		<li	id="_fal_commodities_PBSTed239c65">
+		<a id="fal_commodities_PBSTed239c65" href="/instrument/PBSTed239c65/nikiel" onmouseover="bfl('PBSTed239c65','/chart_daily/SmallChart/PBSTed239c65/110/90','fal_commodities')" class="down "
+		target="_blank">
+		<span class="c1"><b>nikiel</b></span>
+		<span class="number c2">16930.00</span>
+		<span class="number c3">-0.09%</span>
+		
+		</a></li>
+	
+	<li class="charter_more"><a href="/commodities"><img src="/img/nurse.gif" alt=""  target="_blank" /> więcej...</a></li>
+	</ul>
+	<div class="right">
+	<a href="/instrument/PBSTed239c65/nikiel" id="fal_commodities_chart_link" target="_blank"><img id="fal_commodities_chart" src="/chart_daily/SmallChart/PBSTed239c65/110/90" alt="wykres" /></a>
+	</div>
+	</div><!-- / #wig -->
+
+</div><!-- / .body -->
+</div><!-- / .charter -->
+
+<div style="width: 300px; margin: 20px auto;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0444287293673271";
+/* Notowania - główna */
+google_ad_slot = "4143574254";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+  $(".tabs").tabs({ fx: { opacity: 'toggle' } });
+});
+// IMAGES CACHE
+images_cache = {}
+images_cache['top_commodities'] = '/chart_daily/SmallChart/PBST7a86425f/110/90,/chart_daily/SmallChart/PBST689c3f94/110/90,/chart_daily/SmallChart/PBST32deb3c5/110/90,/chart_daily/SmallChart/PBST3f8685a1/110/90,/chart_daily/SmallChart/PBST22540584/110/90'.split(',');
+images_cache['top_funds'] = '/chart_daily/SmallChart/CUN15/110/90,/chart_daily/SmallChart/CUN14/110/90,/chart_daily/SmallChart/PIO02/110/90,/chart_daily/SmallChart/ING11/110/90,/chart_daily/SmallChart/MIL04/110/90'.split(',');
+images_cache['tur_gpw'] = '/chart_hourly/SmallChart/PL0000103602/110/90,/chart_hourly/SmallChart/PL0000102646/110/90,/chart_hourly/SmallChart/PL0000104543/110/90,/chart_hourly/SmallChart/PL0000105391/110/90,/chart_hourly/SmallChart/PL0000102836/110/90'.split(',');
+images_cache['fal_funds'] = '/chart_daily/SmallChart/COP08/110/90,/chart_daily/SmallChart/COP16/110/90,/chart_daily/SmallChart/PIO03/110/90,/chart_daily/SmallChart/PIO01/110/90,/chart_daily/SmallChart/UNI04/110/90'.split(',');
+images_cache['top_foreign'] = '/chart_hourly/SmallChart/PBFNIKKEI225INDEX/110/90,/chart_hourly/SmallChart/PBFRTSINDEX/110/90'.split(',');
+images_cache['fal_currencies'] = '/chart_hourly/SmallChart/PBWALJPY/110/90,/chart_hourly/SmallChart/PBWALNOK/110/90,/chart_hourly/SmallChart/PBWALUSD/110/90,/chart_hourly/SmallChart/PBWALCZK/110/90,/chart_hourly/SmallChart/PBWALCHF/110/90'.split(',');
+images_cache['ris_commodities'] = '/chart_daily/SmallChart/PBST6884123/110/90,/chart_daily/SmallChart/PBST7a86425f/110/90,/chart_daily/SmallChart/PBST689c3f94/110/90,/chart_daily/SmallChart/PBSTb7746ee/110/90,/chart_daily/SmallChart/PBST705700d9/110/90'.split(',');
+images_cache['ris_funds'] = '/chart_daily/SmallChart/SKR13/110/90,/chart_daily/SmallChart/PIO10/110/90,/chart_daily/SmallChart/PIO10/110/90,/chart_daily/SmallChart/CUN15/110/90,/chart_daily/SmallChart/PIO35/110/90'.split(',');
+images_cache['fal_foreign'] = '/chart_hourly/SmallChart/PBFALLSHAREIDX/110/90,/chart_hourly/SmallChart/PBFKOSDAQINDEX/110/90,/chart_hourly/SmallChart/PBFNZX50PORTGR/110/90,/chart_hourly/SmallChart/PBFSSECOMPOSITE/110/90,/chart_hourly/SmallChart/PBFKARACHI100INDX/110/90'.split(',');
+images_cache['ris_foreign'] = '/chart_hourly/SmallChart/PBFNIKKEI225INDEX/110/90,/chart_hourly/SmallChart/PBFPSEi/110/90,/chart_hourly/SmallChart/PBFKOSPI200INDEX/110/90,/chart_hourly/SmallChart/PBFKOSPI/110/90,/chart_hourly/SmallChart/PBFRTSINDEX/110/90'.split(',');
+images_cache['ris_gpw'] = '/chart_hourly/SmallChart/PL0000103602/110/90,/chart_hourly/SmallChart/PL0000102646/110/90,/chart_hourly/SmallChart/PL0000104543/110/90,/chart_hourly/SmallChart/PL0000105391/110/90,/chart_hourly/SmallChart/PL0000102836/110/90'.split(',');
+images_cache['fal_commodities'] = '/chart_daily/SmallChart/PBST78021077/110/90,/chart_daily/SmallChart/PBST223f8159/110/90,/chart_daily/SmallChart/PBST22540584/110/90,/chart_daily/SmallChart/PBST3f8685a1/110/90,/chart_daily/SmallChart/PBSTed239c65/110/90'.split(',');
+images_cache['top_currencies'] = '/chart_hourly/SmallChart/PBWALEUR/110/90,/chart_hourly/SmallChart/PBWALGBP/110/90,/chart_hourly/SmallChart/PBWALCHF/110/90,/chart_hourly/SmallChart/PBWALUSD/110/90,/chart_hourly/SmallChart/PBWALJPY/110/90'.split(',');
+images_cache['ris_currencies'] = '/chart_hourly/SmallChart/PBWALCAD/110/90,/chart_hourly/SmallChart/PBWALHUF/110/90,/chart_hourly/SmallChart/PBWALSEK/110/90,/chart_hourly/SmallChart/PBWALAUD/110/90,/chart_hourly/SmallChart/PBWALDKK/110/90'.split(',');
+images_cache['fal_gpw'] = '/chart_hourly/SmallChart/PL0000103602/110/90,/chart_hourly/SmallChart/PL0000102646/110/90,/chart_hourly/SmallChart/PL0000104543/110/90,/chart_hourly/SmallChart/PL0000105391/110/90,/chart_hourly/SmallChart/PL0000102836/110/90'.split(',');
+
+// preloading visible tabs
+pbtools.apreload(images_cache['tur_gpw']);
+pbtools.apreload(images_cache['top_foreign']);
+pbtools.apreload(images_cache['top_funds']);
+pbtools.apreload(images_cache['top_currencies']);
+pbtools.apreload(images_cache['top_commodities']);
+</script>
+
+</div><!-- / #varia -->
+
+</div><!-- / #right -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- (C)2000-2008 Gemius SA - gemiusTraffic / ver 11.1 / trader --> 
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pbpl_gemius_identifier = new String('.Ag1vXxagTo.MGHjr2b6Usbf.s1Y0S8k5OX9a5yDqSL.X7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.pb.pl/js/gemius.js"></script> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1121769-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
